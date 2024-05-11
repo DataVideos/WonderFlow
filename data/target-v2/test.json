@@ -1,0 +1,551 @@
+{
+    "chartType": "bar-chart",
+    "elements": [
+        {
+            "type": "accounting-of-pirates",
+            "id": "chart-0",
+            "clazz": "scene background bg-rect chart accounting-of-pirates",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-1",
+            "clazz": "background shape_0_0 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-2",
+            "clazz": "background shape_0_1 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-3",
+            "clazz": "background shape_0_2 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-4",
+            "clazz": "background shape_0_3 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-5",
+            "clazz": "background shape_0_4 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-6",
+            "clazz": "background shape_0_5 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-7",
+            "clazz": "background shape_1_0 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-8",
+            "clazz": "background shape_1_1 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-9",
+            "clazz": "background shape_1_2 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-10",
+            "clazz": "background shape_1_3 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-11",
+            "clazz": "background shape_1_4 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-12",
+            "clazz": "background shape_1_5 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-13",
+            "clazz": "background shape_2_0 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-14",
+            "clazz": "background shape_2_1 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-15",
+            "clazz": "background shape_2_2 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-16",
+            "clazz": "background shape_2_3 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-17",
+            "clazz": "background shape_2_4 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-18",
+            "clazz": "background shape_2_5 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-19",
+            "clazz": "background shape_3_0 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-20",
+            "clazz": "background shape_3_1 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-21",
+            "clazz": "background shape_3_2 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-22",
+            "clazz": "background shape_3_3 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-23",
+            "clazz": "background shape_3_4 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-24",
+            "clazz": "background shape_3_5 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-25",
+            "clazz": "background shape_4_0 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-26",
+            "clazz": "background shape_4_1 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-27",
+            "clazz": "background shape_4_2 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-28",
+            "clazz": "background shape_4_3 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-29",
+            "clazz": "background shape_4_4 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-30",
+            "clazz": "background shape_4_5 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-31",
+            "clazz": "background shape_5_0 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-32",
+            "clazz": "background shape_5_1 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-33",
+            "clazz": "background shape_5_2 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-34",
+            "clazz": "background shape_5_3 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-35",
+            "clazz": "background shape_5_4 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-36",
+            "clazz": "background shape_5_5 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-37",
+            "clazz": "background shape_6_0 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-38",
+            "clazz": "background shape_6_1 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-39",
+            "clazz": "background shape_6_2 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-40",
+            "clazz": "background shape_6_3 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-41",
+            "clazz": "background shape_6_4 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-42",
+            "clazz": "background shape_6_5 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-43",
+            "clazz": "background shape_7_0 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-44",
+            "clazz": "background shape_7_1 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-45",
+            "clazz": "background shape_7_2 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-46",
+            "clazz": "background shape_7_3 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-47",
+            "clazz": "background shape_7_4 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "chart",
+            "id": "chart-48",
+            "clazz": "background shape_7_5 scene accounting-of-pirates shape chart",
+            "data": null,
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "donut",
+            "id": "donut-0",
+            "clazz": "scene chart accounting-of-pirates chart-background donut",
+            "data": null,
+            "tag": "path",
+            "text": null
+        },
+        {
+            "type": "arc",
+            "id": "arc-0",
+            "clazz": "scene chart accounting-of-pirates mark arc-2 arc",
+            "data": {
+                "name": "BOUNTIES",
+                "value": 0.5
+            },
+            "tag": "path",
+            "text": null
+        },
+        {
+            "type": "arc",
+            "id": "arc-1",
+            "clazz": "scene chart accounting-of-pirates mark arc-1 arc",
+            "data": {
+                "name": "PORT FEES",
+                "value": 0.1
+            },
+            "tag": "path",
+            "text": null
+        },
+        {
+            "type": "arc",
+            "id": "arc-2",
+            "clazz": "scene chart accounting-of-pirates mark arc-0 arc",
+            "data": {
+                "name": "INVESTORS",
+                "value": 0.3
+            },
+            "tag": "path",
+            "text": null
+        },
+        {
+            "type": "label",
+            "id": "label-0",
+            "clazz": "scene chart accounting-of-pirates legend legend-0 label",
+            "data": {
+                "name": "INVESTORS",
+                "value": 0.3
+            },
+            "tag": "text",
+            "text": "INVESTORS"
+        },
+        {
+            "type": "label",
+            "id": "label-1",
+            "clazz": "scene chart accounting-of-pirates legend legend-1 label",
+            "data": {
+                "name": "PORT FEES",
+                "value": 0.1
+            },
+            "tag": "text",
+            "text": "PORT FEES"
+        },
+        {
+            "type": "label",
+            "id": "label-2",
+            "clazz": "scene chart accounting-of-pirates legend legend-2 label",
+            "data": {
+                "name": "BOUNTIES",
+                "value": 0.5
+            },
+            "tag": "text",
+            "text": "BOUNTIES"
+        },
+        {
+            "type": "symbol-shape",
+            "id": "symbol-shape-0",
+            "clazz": "scene chart accounting-of-pirates legend legend-0 symbol symbol-shape",
+            "data": {
+                "name": "INVESTORS",
+                "value": 0.3
+            },
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "symbol-shape",
+            "id": "symbol-shape-1",
+            "clazz": "scene chart accounting-of-pirates legend legend-1 symbol symbol-shape",
+            "data": {
+                "name": "PORT FEES",
+                "value": 0.1
+            },
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "symbol-shape",
+            "id": "symbol-shape-2",
+            "clazz": "scene chart accounting-of-pirates legend legend-2 symbol symbol-shape",
+            "data": {
+                "name": "BOUNTIES",
+                "value": 0.5
+            },
+            "tag": "rect",
+            "text": null
+        },
+        {
+            "type": "symbol-label",
+            "id": "symbol-label-0",
+            "clazz": "scene chart accounting-of-pirates legend legend-0 symbol symbol-label",
+            "data": {
+                "name": "INVESTORS",
+                "value": 0.3
+            },
+            "tag": "text",
+            "text": "30%"
+        },
+        {
+            "type": "symbol-label",
+            "id": "symbol-label-1",
+            "clazz": "scene chart accounting-of-pirates legend legend-1 symbol symbol-label",
+            "data": {
+                "name": "PORT FEES",
+                "value": 0.1
+            },
+            "tag": "text",
+            "text": "10%"
+        },
+        {
+            "type": "symbol-label",
+            "id": "symbol-label-2",
+            "clazz": "scene chart accounting-of-pirates legend legend-2 symbol symbol-label",
+            "data": {
+                "name": "BOUNTIES",
+                "value": 0.5
+            },
+            "tag": "text",
+            "text": "REST"
+        },
+        {
+            "type": "anno-description",
+            "id": "anno-description-0",
+            "clazz": "scene chart accounting-of-pirates foreground annotation annotation-0 description anno-description",
+            "data": null,
+            "tag": "text",
+            "text": "$10,000 BONUS"
+        }
+    ],
+    "layout": {
+        "xAxis": "left",
+        "yAxis": "unknown",
+        "title": "bottom"
+    },
+    "target_type": "vega"
+}

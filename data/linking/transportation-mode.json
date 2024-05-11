@@ -1,0 +1,20 @@
+{
+  "[12, 13]": [
+    "transportation-mode-legend-label-0"
+  ],
+  "[16, 17, 14, 15]": [
+    "transportation-mode-main-title"
+  ],
+  "[20]": [
+    "transportation-mode-bar-3",
+    "transportation-mode-x-label-3"
+  ],
+  "[21]": [
+    "transportation-mode-bar-2",
+    "transportation-mode-x-label-2"
+  ],
+  "[24]": [
+    "transportation-mode-x-label-1",
+    "transportation-mode-bar-1"
+  ]
+}

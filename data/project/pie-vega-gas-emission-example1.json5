@@ -1,0 +1,18 @@
+
+    {
+      projectId: 'pie-vega-gas-emission-example1',
+      scenes: [
+        {
+          charts: [
+            {source: './pie-vega-gas-emission.svg'},
+          ],
+          animation: {
+            sequence: {
+                "sync": [
+                ]
+            }
+          },
+        }
+      ]
+    }
+  

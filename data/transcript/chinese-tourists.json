@@ -1,0 +1,692 @@
+{
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "transcript": "Going places, in 1995, Chinese tourists spent very little abroad nor did Russian travellers. The Japanese had a reputation for big outlets. As did Americans, though German spent twice as much as the British and 3 times more than the French. After 1995, Americans, Germans and French increased spending. So did the British until the financial crisis. Japanese outlays almost half across the two lost decades. Russian spending initially dipped and then grew health, but Chinese spending sword and grew sixfold over the past decade alone. ",
+                    "words": [
+                        {
+                            "startTime": "0s",
+                            "endTime": "0.05s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "Going"
+                        },
+                        {
+                            "startTime": "0.05s",
+                            "endTime": "0.375s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "places"
+                        },
+                        {
+                            "startTime": "0.375s",
+                            "endTime": "1.1s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": ","
+                        },
+                        {
+                            "startTime": "1.1s",
+                            "endTime": "1.125s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "in 1995"
+                        },
+                        {
+                            "startTime": "1.125s",
+                            "endTime": "2.538s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": ","
+                        },
+                        {
+                            "startTime": "2.538s",
+                            "endTime": "2.612s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "Chinese"
+                        },
+                        {
+                            "startTime": "2.612s",
+                            "endTime": "3.075s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "tourists"
+                        },
+                        {
+                            "startTime": "3.075s",
+                            "endTime": "3.675s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "spent"
+                        },
+                        {
+                            "startTime": "3.675s",
+                            "endTime": "3.975s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "very"
+                        },
+                        {
+                            "startTime": "3.975s",
+                            "endTime": "4.263s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "little"
+                        },
+                        {
+                            "startTime": "4.263s",
+                            "endTime": "4.55s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "abroad"
+                        },
+                        {
+                            "startTime": "4.55s",
+                            "endTime": "5.112s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "nor"
+                        },
+                        {
+                            "startTime": "5.112s",
+                            "endTime": "5.338s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "did"
+                        },
+                        {
+                            "startTime": "5.338s",
+                            "endTime": "5.487s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "Russian"
+                        },
+                        {
+                            "startTime": "5.487s",
+                            "endTime": "5.85s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "travellers"
+                        },
+                        {
+                            "startTime": "5.85s",
+                            "endTime": "6.588s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "."
+                        },
+                        {
+                            "startTime": "6.588s",
+                            "endTime": "7.438s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "The"
+                        },
+                        {
+                            "startTime": "7.438s",
+                            "endTime": "7.575s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "Japanese"
+                        },
+                        {
+                            "startTime": "7.575s",
+                            "endTime": "8.313s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "had"
+                        },
+                        {
+                            "startTime": "8.313s",
+                            "endTime": "8.475s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "a"
+                        },
+                        {
+                            "startTime": "8.475s",
+                            "endTime": "8.525s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "reputation"
+                        },
+                        {
+                            "startTime": "8.525s",
+                            "endTime": "9.238s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "for"
+                        },
+                        {
+                            "startTime": "9.238s",
+                            "endTime": "9.4s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "big"
+                        },
+                        {
+                            "startTime": "9.4s",
+                            "endTime": "9.588s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "outlets"
+                        },
+                        {
+                            "startTime": "9.588s",
+                            "endTime": "10.25s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "."
+                        },
+                        {
+                            "startTime": "10.25s",
+                            "endTime": "11.1s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "As"
+                        },
+                        {
+                            "startTime": "11.1s",
+                            "endTime": "11.338s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "did"
+                        },
+                        {
+                            "startTime": "11.338s",
+                            "endTime": "11.512s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "Americans"
+                        },
+                        {
+                            "startTime": "11.512s",
+                            "endTime": "12.363s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": ","
+                        },
+                        {
+                            "startTime": "12.363s",
+                            "endTime": "12.375s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "though"
+                        },
+                        {
+                            "startTime": "12.375s",
+                            "endTime": "12.512s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "German"
+                        },
+                        {
+                            "startTime": "12.512s",
+                            "endTime": "12.887s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "spent"
+                        },
+                        {
+                            "startTime": "12.887s",
+                            "endTime": "13.188s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "twice"
+                        },
+                        {
+                            "startTime": "13.188s",
+                            "endTime": "13.575s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "as"
+                        },
+                        {
+                            "startTime": "13.575s",
+                            "endTime": "13.713s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "much"
+                        },
+                        {
+                            "startTime": "13.713s",
+                            "endTime": "13.95s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "as"
+                        },
+                        {
+                            "startTime": "13.95s",
+                            "endTime": "14.05s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "the"
+                        },
+                        {
+                            "startTime": "14.05s",
+                            "endTime": "14.162s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "British"
+                        },
+                        {
+                            "startTime": "14.162s",
+                            "endTime": "14.675s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "and"
+                        },
+                        {
+                            "startTime": "14.675s",
+                            "endTime": "14.8s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "3"
+                        },
+                        {
+                            "startTime": "14.8s",
+                            "endTime": "15.037s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "times"
+                        },
+                        {
+                            "startTime": "15.037s",
+                            "endTime": "15.45s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "more"
+                        },
+                        {
+                            "startTime": "15.45s",
+                            "endTime": "15.65s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "than"
+                        },
+                        {
+                            "startTime": "15.65s",
+                            "endTime": "15.787s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "the"
+                        },
+                        {
+                            "startTime": "15.787s",
+                            "endTime": "15.875s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "French"
+                        },
+                        {
+                            "startTime": "15.875s",
+                            "endTime": "16.462s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "."
+                        },
+                        {
+                            "startTime": "16.462s",
+                            "endTime": "17.313s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "After 1995"
+                        },
+                        {
+                            "startTime": "17.313s",
+                            "endTime": "18.887s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": ","
+                        },
+                        {
+                            "startTime": "18.887s",
+                            "endTime": "18.913s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "Americans"
+                        },
+                        {
+                            "startTime": "18.913s",
+                            "endTime": "19.762s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": ","
+                        },
+                        {
+                            "startTime": "19.762s",
+                            "endTime": "19.775s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "Germans"
+                        },
+                        {
+                            "startTime": "19.775s",
+                            "endTime": "20.387s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "and"
+                        },
+                        {
+                            "startTime": "20.387s",
+                            "endTime": "20.538s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "French"
+                        },
+                        {
+                            "startTime": "20.538s",
+                            "endTime": "20.988s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "increased"
+                        },
+                        {
+                            "startTime": "20.988s",
+                            "endTime": "21.475s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "spending"
+                        },
+                        {
+                            "startTime": "21.475s",
+                            "endTime": "22.075s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "."
+                        },
+                        {
+                            "startTime": "22.075s",
+                            "endTime": "22.925s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "So"
+                        },
+                        {
+                            "startTime": "22.925s",
+                            "endTime": "23.163s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "did"
+                        },
+                        {
+                            "startTime": "23.163s",
+                            "endTime": "23.313s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "the"
+                        },
+                        {
+                            "startTime": "23.313s",
+                            "endTime": "23.413s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "British"
+                        },
+                        {
+                            "startTime": "23.413s",
+                            "endTime": "23.863s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "until"
+                        },
+                        {
+                            "startTime": "23.863s",
+                            "endTime": "24.137s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "the"
+                        },
+                        {
+                            "startTime": "24.137s",
+                            "endTime": "24.225s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "financial"
+                        },
+                        {
+                            "startTime": "24.225s",
+                            "endTime": "24.75s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "crisis"
+                        },
+                        {
+                            "startTime": "24.75s",
+                            "endTime": "25.488s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "."
+                        },
+                        {
+                            "startTime": "25.488s",
+                            "endTime": "26.337s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "Japanese"
+                        },
+                        {
+                            "startTime": "26.337s",
+                            "endTime": "26.887s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "outlays"
+                        },
+                        {
+                            "startTime": "26.887s",
+                            "endTime": "27.387s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "almost"
+                        },
+                        {
+                            "startTime": "27.387s",
+                            "endTime": "27.738s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "half"
+                        },
+                        {
+                            "startTime": "27.738s",
+                            "endTime": "28.113s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "across"
+                        },
+                        {
+                            "startTime": "28.113s",
+                            "endTime": "28.475s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "the"
+                        },
+                        {
+                            "startTime": "28.475s",
+                            "endTime": "28.575s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "two"
+                        },
+                        {
+                            "startTime": "28.575s",
+                            "endTime": "28.8s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "lost"
+                        },
+                        {
+                            "startTime": "28.8s",
+                            "endTime": "29.137s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "decades"
+                        },
+                        {
+                            "startTime": "29.137s",
+                            "endTime": "29.813s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "."
+                        },
+                        {
+                            "startTime": "29.813s",
+                            "endTime": "30.663s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "Russian"
+                        },
+                        {
+                            "startTime": "30.663s",
+                            "endTime": "31.1s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "spending"
+                        },
+                        {
+                            "startTime": "31.1s",
+                            "endTime": "31.613s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "initially"
+                        },
+                        {
+                            "startTime": "31.613s",
+                            "endTime": "32.125s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "dipped"
+                        },
+                        {
+                            "startTime": "32.125s",
+                            "endTime": "32.587s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "and"
+                        },
+                        {
+                            "startTime": "32.587s",
+                            "endTime": "32.712s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "then"
+                        },
+                        {
+                            "startTime": "32.712s",
+                            "endTime": "32.913s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "grew"
+                        },
+                        {
+                            "startTime": "32.913s",
+                            "endTime": "33.1s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "health"
+                        },
+                        {
+                            "startTime": "33.1s",
+                            "endTime": "33.663s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": ","
+                        },
+                        {
+                            "startTime": "33.663s",
+                            "endTime": "33.775s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "but"
+                        },
+                        {
+                            "startTime": "33.775s",
+                            "endTime": "33.95s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "Chinese"
+                        },
+                        {
+                            "startTime": "33.95s",
+                            "endTime": "34.388s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "spending"
+                        },
+                        {
+                            "startTime": "34.388s",
+                            "endTime": "34.788s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "sword"
+                        },
+                        {
+                            "startTime": "34.788s",
+                            "endTime": "35.3s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "and"
+                        },
+                        {
+                            "startTime": "35.3s",
+                            "endTime": "35.438s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "grew"
+                        },
+                        {
+                            "startTime": "35.438s",
+                            "endTime": "35.663s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "sixfold"
+                        },
+                        {
+                            "startTime": "35.663s",
+                            "endTime": "36.275s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "over"
+                        },
+                        {
+                            "startTime": "36.275s",
+                            "endTime": "36.45s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "the"
+                        },
+                        {
+                            "startTime": "36.45s",
+                            "endTime": "36.538s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "past"
+                        },
+                        {
+                            "startTime": "36.538s",
+                            "endTime": "36.95s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "decade"
+                        },
+                        {
+                            "startTime": "36.95s",
+                            "endTime": "37.288s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "alone"
+                        },
+                        {
+                            "startTime": "37.288s",
+                            "endTime": "37.8s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

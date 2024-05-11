@@ -1,0 +1,18 @@
+
+    {
+      projectId: 'pie-vega-mine-production-example1',
+      scenes: [
+        {
+          charts: [
+            {source: './pie-vega-mine-production.svg'},
+          ],
+          animation: {
+            sequence: {
+                "sync": [
+                ]
+            }
+          },
+        }
+      ]
+    }
+  

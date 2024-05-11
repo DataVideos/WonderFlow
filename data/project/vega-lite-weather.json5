@@ -1,0 +1,26 @@
+{
+  projectId: 'vega-lite-weather',
+  scenes: [
+    {
+      charts: [
+        {source: './vega-lite-weather.svg'},
+      ],
+      animation: {
+          target: '.vega-lite-weather',
+          sequence: {
+              sync: [
+                {
+                  use: 'Bar chart',
+                  settings: {
+                    barDirection: 'left',
+                  },
+                  timing: {
+                    duration: 5.5,
+                  },
+                },
+              ]
+          }
+      }
+    },
+  ]
+}

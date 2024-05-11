@@ -1,0 +1,26 @@
+{
+  projectId: 'vega-lite-monthly-profit-and-loss',
+  scenes: [
+    {
+      charts: [
+        {source: './vega-lite-monthly-profit-and-loss.svg'},
+      ],
+      animation: {
+          target: '.vega-lite-monthly-profit-and-loss',
+          sequence: {
+              sync: [
+                {
+                  use: 'Bar chart',
+                  settings: {
+                    barDirection: 'left',
+                  },
+                  timing: {
+                    duration: 5.5,
+                  },
+                },
+              ]
+          }
+      }
+    },
+  ]
+}

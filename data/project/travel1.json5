@@ -1,0 +1,63 @@
+{
+    projectId: 'travel',
+    scenes: [
+      {
+        charts: [
+          {source: './travel.svg'},
+        ],
+        animation: {
+            target: '.travel',
+  
+      "sequence": {
+        "sync": [
+            {
+                "use": "Bar-grow",
+                "timing": {
+                    "start": 0,
+                    "duration": 3.64,
+                    "offset": 0
+                },
+                "target": "#scene-28",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Line-wipe",
+                "timing": {
+                    "start": 3.636,
+                    "duration": 3.82,
+                    "offset": 0
+                },
+                "target": "#scene-30, #scene-31, #scene-32, #scene-33, #scene-34, #scene-35, #scene-36, #scene-37, #scene-38, #scene-39, #scene-40, #scene-41, #scene-42, #scene-43, #scene-44, #scene-45, #scene-46, #scene-47, #scene-48, #scene-49, #scene-50, #scene-51, #scene-52, #scene-53, #scene-54, #scene-55, #scene-56, #scene-57, #scene-58, #scene-59, #scene-60, #scene-61, #scene-62, #scene-63, #scene-64, #scene-65, #scene-66, #scene-67, #scene-68, #scene-69, #scene-70, #scene-71",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Fade-in",
+                "timing": {
+                    "start": 12.425,
+                    "duration": 0.92
+                },
+                "target": "#scene-29",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Fade-in",
+                "timing": {
+                    "start": 17.587,
+                    "duration": 1.81,
+                    "offset": 0
+                },
+                "target": "#scene-8, #scene-9, #scene-10, #scene-11, #scene-12, #scene-13, #scene-14, #scene-15, #scene-16, #scene-17, #scene-18, #scene-19, #scene-20, #scene-21, #scene-22, #scene-23, #scene-24, #scene-25, #scene-26, #scene-27",
+                "ani_type": "Enter",
+                "settings": {}
+            }
+        ]
+    }
+  
+  
+        }
+      }
+    ]
+  }

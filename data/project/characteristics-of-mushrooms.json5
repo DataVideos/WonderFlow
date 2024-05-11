@@ -1,0 +1,26 @@
+{
+  projectId: 'characteristics-of-mushrooms',
+  scenes: [
+    {
+      charts: [
+        {source: './characteristics-of-mushrooms.svg'},
+      ],
+      animation: {
+          target: '.characteristics-of-mushrooms',
+          sequence: {
+              sync: [
+                {
+                  use: 'Bar chart',
+                  settings: {
+                    barDirection: 'left',
+                  },
+                  timing: {
+                    duration: 5.5,
+                  },
+                },
+              ]
+          }
+      }
+    },
+  ]
+}

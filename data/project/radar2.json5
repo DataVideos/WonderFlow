@@ -1,0 +1,163 @@
+{
+    projectId: 'radar2',
+    scenes: [
+      {
+        charts: [
+          {source: './radar2.svg'},
+        ],
+        animation: {
+            target: '.radar2',
+  
+      "sequence":{
+        "sync": [
+            {
+                "use": "Axes float in",
+                "timing": {
+                    "start": 0,
+                    "duration": 2.18,
+                    "offset": 0
+                },
+                "target": "#scene-0, #scene-1, #scene-2, #scene-3, #scene-4, #scene-7, #scene-10, #scene-11, #scene-12, #scene-13, #scene-14, #scene-15, #scene-16, #scene-17, #scene-18, #scene-19, #scene-20, #scene-21, #scene-22, #scene-23, #scene-24, #scene-25, #scene-26, #scene-77, #scene-78, #scene-79, #scene-93, #scene-94, #scene-95, #scene-96, #scene-97, #scene-98, #scene-99, #scene-100, #scene-101, #scene-102, #scene-103, #scene-104, #scene-105, #scene-106, #scene-107, #scene-108, #scene-109, #scene-110, #scene-5, #scene-6, #scene-8, #scene-9, #scene-76",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Fade-in",
+                "timing": {
+                    "start": 4.789,
+                    "duration": 0.29,
+                    "offset": 0
+                },
+                "target": "#scene-87, #scene-88, #scene-89, #scene-90, #scene-123",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Pie-wheel",
+                "timing": {
+                    "start": 4.789,
+                    "offset": 0.061,
+                    "duration": 0.45
+                },
+                "target": "#scene-52, #scene-53, #scene-54, #scene-55, #scene-56, #scene-57, #scene-58, #scene-59, #scene-60, #scene-61, #scene-62, #scene-63",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Highlight",
+                "timing": {
+                    "start": 8.961,
+                    "offset": 0.009,
+                    "duration": 24.27
+                },
+                "target": "#scene-0, #scene-1, #scene-2, #scene-3, #scene-4, #scene-5, #scene-6, #scene-7, #scene-8, #scene-9, #scene-10, #scene-11, #scene-12, #scene-16, #scene-17, #scene-54, #scene-58, #scene-76, #scene-77, #scene-78, #scene-79, #scene-87, #scene-88, #scene-89, #scene-90, #scene-93, #scene-94, #scene-95, #scene-96, #scene-97, #scene-98, #scene-99, #scene-100, #scene-101, #scene-102, #scene-103, #scene-104, #scene-105, #scene-106, #scene-107, #scene-108, #scene-109, #scene-110",
+                "ani_type": "Emphasis",
+                "settings": {}
+            },
+            {
+                "use": "Pie-wheel",
+                "timing": {
+                    "start": 33.26,
+                    "duration": 0.98
+                },
+                "target": "#scene-40, #scene-41, #scene-42, #scene-43, #scene-44, #scene-45, #scene-46, #scene-47, #scene-48, #scene-49, #scene-50, #scene-51, #scene-64, #scene-65, #scene-66, #scene-67, #scene-68, #scene-69, #scene-70, #scene-71, #scene-72, #scene-73, #scene-74, #scene-75",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Fade-in",
+                "timing": {
+                    "start": 33.26,
+                    "duration": 1
+                },
+                "target": "#scene-80, #scene-81, #scene-82, #scene-83, #scene-84, #scene-85, #scene-86, #scene-91, #scene-92, #scene-122, #scene-124",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Fade-in",
+                "timing": {
+                    "start": 46.455,
+                    "duration": 0.33,
+                    "offset": 0
+                },
+                "target": "#scene-111, #scene-112, #scene-113, #scene-114, #scene-115, #scene-116, #scene-117, #scene-118, #scene-119, #scene-120, #scene-121, #scene-125",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Pie-wheel",
+                "timing": {
+                    "start": 46,
+                    "offset": 0.66,
+                    "duration": 1.34
+                },
+                "target": "#scene-27, #scene-28, #scene-29, #scene-30, #scene-31, #scene-32, #scene-33, #scene-34, #scene-35, #scene-36, #scene-37, #scene-38, #scene-39",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Highlight",
+                "timing": {
+                    "start": 54.267,
+                    "duration": 7.79,
+                    "offset": 0
+                },
+                "target": "#scene-27, #scene-28, #scene-29, #scene-30, #scene-31, #scene-32, #scene-33, #scene-34, #scene-35, #scene-36, #scene-37, #scene-38, #scene-39, #scene-76, #scene-77, #scene-78, #scene-79, #scene-93, #scene-94, #scene-95, #scene-96, #scene-97, #scene-98, #scene-99, #scene-100, #scene-101, #scene-102, #scene-103, #scene-104, #scene-105, #scene-106, #scene-107, #scene-108, #scene-109, #scene-110, #scene-111, #scene-112, #scene-113, #scene-114, #scene-115, #scene-116, #scene-117, #scene-118, #scene-119, #scene-120, #scene-121, #scene-0, #scene-1, #scene-2, #scene-3, #scene-4, #scene-5, #scene-6, #scene-7, #scene-8, #scene-9, #scene-10, #scene-11, #scene-12, #scene-13, #scene-14, #scene-15, #scene-16, #scene-17, #scene-18, #scene-19, #scene-20, #scene-21, #scene-22, #scene-23, #scene-24, #scene-25, #scene-26",
+                "ani_type": "Emphasis",
+                "settings": {}
+            },
+            {
+                "use": "Change-color",
+                "timing": {
+                    "start": 64.52,
+                    "duration": 3,
+                    "offset": 0
+                },
+                "target": "#scene-18, #scene-19, #scene-20, #scene-21, #scene-22, #scene-23, #scene-24, #scene-25, #scene-26",
+                "ani_type": "Emphasis",
+                "settings": {
+                    "fill": "#DC143C"
+                }
+            },
+            {
+                "use": "Change-color",
+                "timing": {
+                    "start": 71.024,
+                    "duration": 0.38
+                },
+                "target": "#scene-18",
+                "ani_type": "Emphasis",
+                "settings": {
+                    "fill": "#a39f9e"
+                }
+            },
+            {
+                "use": "Highlight",
+                "timing": {
+                    "start": 80.75,
+                    "duration": 8
+                },
+                "target": "#scene-0, #scene-1, #scene-2, #scene-3, #scene-4, #scene-5, #scene-6, #scene-7, #scene-8, #scene-9, #scene-10, #scene-11, #scene-12, #scene-13, #scene-14, #scene-15, #scene-16, #scene-17, #scene-18, #scene-19, #scene-20, #scene-21, #scene-22, #scene-23, #scene-24, #scene-25, #scene-26, #scene-64, #scene-67, #scene-68, #scene-72, #scene-73, #scene-74, #scene-75, #scene-76, #scene-77, #scene-78, #scene-79, #scene-80, #scene-81, #scene-82, #scene-83, #scene-84, #scene-85, #scene-86, #scene-93, #scene-94, #scene-95, #scene-96, #scene-97, #scene-98, #scene-99, #scene-100, #scene-101, #scene-102, #scene-103, #scene-104, #scene-105, #scene-106, #scene-107, #scene-108, #scene-109, #scene-110",
+                "ani_type": "Emphasis",
+                "settings": {}
+            },
+            {
+                "use": "Highlight",
+                "timing": {
+                    "start": 87.976,
+                    "offset": 0.054,
+                    "duration": 7.67
+                },
+                "target": "#scene-22, #scene-67, #scene-76, #scene-77, #scene-78, #scene-79, #scene-80, #scene-81, #scene-82, #scene-83, #scene-84, #scene-85, #scene-86, #scene-93, #scene-94, #scene-95, #scene-96, #scene-97, #scene-98, #scene-99, #scene-100, #scene-101, #scene-102, #scene-103, #scene-104, #scene-105, #scene-106, #scene-107, #scene-108, #scene-109, #scene-110, #scene-0, #scene-1, #scene-2, #scene-3, #scene-4, #scene-7, #scene-10, #scene-11, #scene-12, #scene-5, #scene-6, #scene-8, #scene-9",
+                "ani_type": "Emphasis",
+                "settings": {}
+            }
+        ]
+    }
+  
+  
+        }
+      }
+    ]
+  }

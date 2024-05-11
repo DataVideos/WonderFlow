@@ -1,0 +1,331 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks"
+    width="1492" height="658" viewBox="0 0 746 329">
+    <rect width="746" height="329" fill="white" />
+    <g fill="none" stroke-miterlimit="10" transform="translate(73,107)">
+        <g class="mark-group role-frame root" role="graphics-object" aria-roledescription="group mark container">
+            <g transform="translate(0,0)">
+                <path class="background" aria-hidden="true" d="M0,0h600v200h-600Z" stroke="0" />
+                <g>
+                    <g class="mark-group role-axis" aria-hidden="true">
+                        <g transform="translate(0.5,0.5)">
+                            <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none" />
+                            <g>
+                                <g class="mark-rule role-axis-grid" pointer-events="none">
+                                    <line transform="translate(0,200)" x2="600" y2="0" stroke="#ddd" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,167)" x2="600" y2="0" stroke="#ddd" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,133)" x2="600" y2="0" stroke="#ddd" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,100)" x2="600" y2="0" stroke="#ddd" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,67)" x2="600" y2="0" stroke="#ddd" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,33)" x2="600" y2="0" stroke="#ddd" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,0)" x2="600" y2="0" stroke="#ddd" stroke-width="1"
+                                        opacity="1" />
+                                </g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                    </g>
+                    <g class="mark-group role-axis" role="graphics-symbol" aria-roledescription="axis"
+                        aria-label="X-axis for a discrete scale with 12 values: Jan, Feb, Mar, Apr, May, ending with Dec">
+                        <g transform="translate(0.5,200.5)">
+                            <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none" />
+                            <g>
+                                <g class="mark-rule role-axis-tick" pointer-events="none">
+                                    <line transform="translate(25,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(75,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(125,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(175,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(225,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(275,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(325,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(375,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(425,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(475,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(525,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(575,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                </g>
+                                <g class="mark-text role-axis-label" pointer-events="none"><text text-anchor="middle"
+                                        transform="translate(25,15)" font-family="sans-serif" font-size="10px"
+                                        fill="#000" opacity="1">Jan</text><text text-anchor="middle"
+                                        transform="translate(75,15)" font-family="sans-serif" font-size="10px"
+                                        fill="#000" opacity="1">Feb</text><text text-anchor="middle"
+                                        transform="translate(125,15)" font-family="sans-serif" font-size="10px"
+                                        fill="#000" opacity="1">Mar</text><text text-anchor="middle"
+                                        transform="translate(175,15)" font-family="sans-serif" font-size="10px"
+                                        fill="#000" opacity="1">Apr</text><text text-anchor="middle"
+                                        transform="translate(225,15)" font-family="sans-serif" font-size="10px"
+                                        fill="#000" opacity="1">May</text><text text-anchor="middle"
+                                        transform="translate(275,15)" font-family="sans-serif" font-size="10px"
+                                        fill="#000" opacity="1">Jun</text><text text-anchor="middle"
+                                        transform="translate(325,15)" font-family="sans-serif" font-size="10px"
+                                        fill="#000" opacity="1">Jul</text><text text-anchor="middle"
+                                        transform="translate(375,15)" font-family="sans-serif" font-size="10px"
+                                        fill="#000" opacity="1">Aug</text><text text-anchor="middle"
+                                        transform="translate(425,15)" font-family="sans-serif" font-size="10px"
+                                        fill="#000" opacity="1">Sep</text><text text-anchor="middle"
+                                        transform="translate(475,15)" font-family="sans-serif" font-size="10px"
+                                        fill="#000" opacity="1">Oct</text><text text-anchor="middle"
+                                        transform="translate(525,15)" font-family="sans-serif" font-size="10px"
+                                        fill="#000" opacity="1">Nov</text><text text-anchor="middle"
+                                        transform="translate(575,15)" font-family="sans-serif" font-size="10px"
+                                        fill="#000" opacity="1">Dec</text></g>
+                                <g class="mark-rule role-axis-domain" pointer-events="none">
+                                    <line transform="translate(0,0)" x2="600" y2="0" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                </g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                    </g>
+                    <g class="mark-group role-axis" role="graphics-symbol" aria-roledescription="axis"
+                        aria-label="Y-axis for a linear scale with values from 0% to 120%">
+                        <g transform="translate(0.5,0.5)">
+                            <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none" />
+                            <g>
+                                <g class="mark-text role-axis-label" pointer-events="none"><text text-anchor="end"
+                                        transform="translate(-2,203)" font-family="sans-serif" font-size="10px"
+                                        fill="#000" opacity="1">0%</text><text text-anchor="end"
+                                        transform="translate(-2,169.66666666666666)" font-family="sans-serif"
+                                        font-size="10px" fill="#000" opacity="1">20%</text><text text-anchor="end"
+                                        transform="translate(-2,136.33333333333331)" font-family="sans-serif"
+                                        font-size="10px" fill="#000" opacity="1">40%</text><text text-anchor="end"
+                                        transform="translate(-2,103)" font-family="sans-serif" font-size="10px"
+                                        fill="#000" opacity="1">60%</text><text text-anchor="end"
+                                        transform="translate(-2,69.66666666666666)" font-family="sans-serif"
+                                        font-size="10px" fill="#000" opacity="1">80%</text><text text-anchor="end"
+                                        transform="translate(-2,36.33333333333333)" font-family="sans-serif"
+                                        font-size="10px" fill="#000" opacity="1">100%</text><text text-anchor="end"
+                                        transform="translate(-2,3)" font-family="sans-serif" font-size="10px"
+                                        fill="#000" opacity="1">120%</text></g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                    </g>
+                    <g class="mark-group role-scope layer_0_layer_0_pathgroup" role="graphics-object"
+                        aria-roledescription="group mark container">
+                        <g transform="translate(0,0)">
+                            <path class="background" aria-hidden="true" d="M0,0h600v200h-600Z" />
+                            <g>
+                                <g class="mark-line role-mark layer_0_layer_0_marks" role="graphics-object"
+                                    aria-roledescription="line mark container">
+                                    <path aria-label="x-none: Jan; legend-none: 2020"
+                                        role="graphics-symbol" aria-roledescription="line mark"
+                                        d="M25,26.667L75,25L125,128.333L175,188.333L225,185L275,166.667L325,156.667L375,151.667L425,146.667L475,140L525,138.333L575,136.667"
+                                        stroke="#CF0000" stroke-width="3" />
+                                </g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" display="none" />
+                        </g>
+                        <g transform="translate(0,0)">
+                            <path class="background" aria-hidden="true" d="M0,0h600v200h-600Z" />
+                            <g>
+                                <g class="mark-line role-mark layer_0_layer_0_marks" role="graphics-object"
+                                    aria-roledescription="line mark container">
+                                    <path aria-label="x-none: Jan; legend-none: 2021"
+                                        role="graphics-symbol" aria-roledescription="line mark"
+                                        d="M25,135L75,130L125,113.333L175,103.333L225,90L275,76.667L325,70L375,73.333L425,75L475,66.667L525,60L575,60"
+                                        stroke="#0765E6" stroke-width="3" />
+                                </g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" display="none" />
+                        </g>
+                    </g>
+                    <g class="mark-symbol role-mark layer_0_layer_1_marks" role="graphics-object"
+                        aria-roledescription="symbol mark container">
+                        <path aria-label="x-none: Jan; percentage: 104.000000%; legend-none: 2020"
+                            role="graphics-symbol" aria-roledescription="point"
+                            transform="translate(25,26.66666666666666)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#CF0000"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="x-none: Feb; percentage: 105.000000%; legend-none: 2020"
+                            role="graphics-symbol" aria-roledescription="point"
+                            transform="translate(75,24.99999999999998)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#CF0000"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="x-none: Mar; percentage: 43.000000%; legend-none: 2020" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(125,128.33333333333331)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#CF0000"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="x-none: Apr; percentage: 7.000000%; legend-none: 2020" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(175,188.33333333333334)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#CF0000"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="x-none: May; percentage: 9.000000%; legend-none: 2020" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(225,185)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#CF0000"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="x-none: Jun; percentage: 20.000000%; legend-none: 2020" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(275,166.66666666666666)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#CF0000"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="x-none: Jul; percentage: 26.000000%; legend-none: 2020" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(325,156.66666666666666)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#CF0000"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="x-none: Aug; percentage: 29.000000%; legend-none: 2020" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(375,151.66666666666666)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#CF0000"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="x-none: Sep; percentage: 32.000000%; legend-none: 2020" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(425,146.66666666666669)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#CF0000"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="x-none: Oct; percentage: 36.000000%; legend-none: 2020" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(475,140)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#CF0000"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="x-none: Nov; percentage: 37.000000%; legend-none: 2020" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(525,138.33333333333334)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#CF0000"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="x-none: Dec; percentage: 38.000000%; legend-none: 2020" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(575,136.66666666666666)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#CF0000"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="x-none: Jan; percentage: 39.000000%; legend-none: 2021" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(25,135)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#0765E6"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="x-none: Feb; percentage: 42.000000%; legend-none: 2021" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(75,130)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#0765E6"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="x-none: Mar; percentage: 52.000000%; legend-none: 2021" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(125,113.33333333333333)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#0765E6"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="x-none: Apr; percentage: 58.000000%; legend-none: 2021" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(175,103.33333333333331)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#0765E6"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="x-none: May; percentage: 66.000000%; legend-none: 2021" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(225,89.99999999999999)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#0765E6"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="x-none: Jun; percentage: 74.000000%; legend-none: 2021" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(275,76.66666666666666)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#0765E6"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="x-none: Jul; percentage: 78.000000%; legend-none: 2021" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(325,70)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#0765E6"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="x-none: Aug; percentage: 76.000000%; legend-none: 2021" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(375,73.33333333333331)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#0765E6"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="x-none: Sep; percentage: 75.000000%; legend-none: 2021" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(425,75)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#0765E6"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="x-none: Oct; percentage: 80.000000%; legend-none: 2021" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(475,66.66666666666666)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#0765E6"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="x-none: Nov; percentage: 84.000000%; legend-none: 2021" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(525,60.00000000000001)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#0765E6"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="x-none: Dec; percentage: 84.000000%; legend-none: 2021" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(575,60.00000000000001)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#0765E6"
+                            stroke-width="2" opacity="1" />
+                    </g>
+                    <g class="mark-group role-legend" role="graphics-symbol" aria-roledescription="legend"
+                        aria-label="Symbol legend for fill color and stroke color with 2 values: 2020, 2021">
+                        <g transform="translate(230,-40)">
+                            <path class="background" aria-hidden="true" d="M0,0h109v14h-109Z" pointer-events="none" />
+                            <g>
+                                <g class="mark-group role-legend-entry">
+                                    <g transform="translate(0,0)">
+                                        <path class="background" aria-hidden="true" d="M0,0h0v0h0Z"
+                                            pointer-events="none" />
+                                        <g>
+                                            <g class="mark-group role-scope" role="graphics-object"
+                                                aria-roledescription="group mark container">
+                                                <g transform="translate(0,0)">
+                                                    <path class="background" aria-hidden="true"
+                                                        d="M0,0h48.1484375v14h-48.1484375Z" pointer-events="none"
+                                                        opacity="1" />
+                                                    <g>
+                                                        <g class="mark-symbol role-legend-symbol" pointer-events="none">
+                                                            <path transform="translate(8,8)" d="M-7.071,0L7.071,0"
+                                                                fill="#CF0000" stroke="#CF0000" stroke-width="1.5"
+                                                                opacity="1" />
+                                                        </g>
+                                                        <g class="mark-text role-legend-label" pointer-events="none">
+                                                            <text text-anchor="start" transform="translate(20,12)"
+                                                                font-family="sans-serif" font-size="12px" fill="#000"
+                                                                opacity="1">2020</text></g>
+                                                    </g>
+                                                    <path class="foreground" aria-hidden="true" d=""
+                                                        pointer-events="none" display="none" />
+                                                </g>
+                                                <g transform="translate(60,0)">
+                                                    <path class="background" aria-hidden="true"
+                                                        d="M0,0h48.1484375v14h-48.1484375Z" pointer-events="none"
+                                                        opacity="1" />
+                                                    <g>
+                                                        <g class="mark-symbol role-legend-symbol" pointer-events="none">
+                                                            <path transform="translate(8,8)" d="M-7.071,0L7.071,0"
+                                                                fill="#0765E6" stroke="#0765E6" stroke-width="1.5"
+                                                                opacity="1" />
+                                                        </g>
+                                                        <g class="mark-text role-legend-label" pointer-events="none">
+                                                            <text text-anchor="start" transform="translate(20,12)"
+                                                                font-family="sans-serif" font-size="12px" fill="#000"
+                                                                opacity="1">2021</text></g>
+                                                    </g>
+                                                    <path class="foreground" aria-hidden="true" d=""
+                                                        pointer-events="none" display="none" />
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <path class="foreground" aria-hidden="true" d="" pointer-events="none"
+                                            display="none" />
+                                    </g>
+                                </g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                    </g>
+                    <g class="mark-group role-title">
+                        <g transform="translate(300,-102)">
+                            <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none" />
+                            <g>
+                                <g class="mark-text role-title-text" role="graphics-symbol" aria-roledescription="title"
+                                    aria-label="Title text 'Average Daily Number of Travelers passing through TSA Checkpoints at U.S. airports as A Share of 2019 Traffic'"
+                                    pointer-events="none"><text text-anchor="middle" transform="translate(0,20)"
+                                        font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000"
+                                        opacity="1">
+                                        <tspan>Average Daily Number of Travelers passing through</tspan>
+                                        <tspan x="0" dy="27">TSA Checkpoints at U.S. airports as A Share of 2019 Traffic
+                                        </tspan>
+                                    </text></g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                    </g>
+                </g>
+                <path class="foreground" aria-hidden="true" d="" display="none" />
+            </g>
+        </g>
+    </g>
+</svg>

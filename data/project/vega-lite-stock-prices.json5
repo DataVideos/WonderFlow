@@ -1,0 +1,151 @@
+{
+  projectId: 'vega-lite-stock-prices',
+  scenes: [
+    {
+      charts: [
+        {source: './vega-lite-stock-prices.svg'},
+      ],
+      animation: {
+          target: '.vega-lite-stock-prices',
+
+    "sequence": {
+        "sync": [
+            {
+                "use": "Fade-in",
+                "timing": {
+                    "start": 3.575,
+                    "duration": 0.02,
+                    "offset": 0
+                },
+                "target": "#chart-1",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Lines by legend",
+                "timing": {
+                    "start": 6.713,
+                    "offset": -2.613,
+                    "duration": 0.49
+                },
+                "target": "#line-4, #point-40, #point-41, #point-42, #point-43, #point-44, #point-45, #point-46, #point-47, #point-48, #point-49, #point-50, #legend-symbol-0, #legend-label-0",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Lines by legend",
+                "timing": {
+                    "start": 7.662,
+                    "offset": -3.012,
+                    "duration": 0.59
+                },
+                "target": "#line-1, #point-11, #point-12, #point-13, #point-14, #point-15, #point-16, #point-17, #point-18, #point-19, #point-20, #point-21, #legend-symbol-1, #legend-label-1",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Lines by legend",
+                "timing": {
+                    "start": 7.662,
+                    "offset": -0.842,
+                    "duration": 0.44
+                },
+                "target": "#line-0, #point-0, #point-1, #point-2, #point-3, #point-4, #point-5, #point-6, #point-7, #point-8, #point-9, #point-10, #legend-symbol-4, #legend-label-4",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Highlight",
+                "timing": {
+                    "start": 7.688,
+                    "duration": 8.67
+                },
+                "target": "#line-4",
+                "ani_type": "Emphasis",
+                "settings": {}
+            },
+            {
+                "use": "Lines by legend",
+                "timing": {
+                    "start": 9.2,
+                    "offset": -3.16,
+                    "duration": 0.41
+                },
+                "target": "#line-2, #point-22, #point-23, #point-24, #point-25, #point-26, #point-27, #point-28, #point-29, #point-30, #point-31, #point-32, #legend-symbol-3, #legend-label-3",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Lines by legend",
+                "timing": {
+                    "start": 9.975,
+                    "offset": -4.575,
+                    "duration": 0.57
+                },
+                "target": "#line-3, #point-33, #point-34, #point-35, #point-36, #point-37, #point-38, #point-39, #legend-symbol-2, #legend-label-2",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Circle",
+                "timing": {
+                    "start": 12.775,
+                    "offset": 0.135,
+                    "duration": 3.29
+                },
+                "target": "#point-50",
+                "ani_type": "Emphasis",
+                "settings": {}
+            },
+            {
+                "use": "Highlight",
+                "timing": {
+                    "start": 13.8,
+                    "offset": 16.16,
+                    "duration": 4.85
+                },
+                "target": "#line-3",
+                "ani_type": "Emphasis",
+                "settings": {}
+            },
+            {
+                "use": "Highlight",
+                "timing": {
+                    "start": 16,
+                    "offset": 0.26,
+                    "duration": 9.03
+                },
+                "target": "#line-1, #line-2",
+                "ani_type": "Emphasis",
+                "settings": {}
+            },
+            {
+                "use": "Circle",
+                "timing": {
+                    "start": 21.875,
+                    "offset": -0.695,
+                    "duration": 4.03
+                },
+                "target": "#point-21",
+                "ani_type": "Emphasis",
+                "settings": {}
+            },
+            {
+                "use": "Highlight",
+                "timing": {
+                    "start": 26.65,
+                    "offset": -1.4,
+                    "duration": 4.68
+                },
+                "target": "#line-0",
+                "ani_type": "Emphasis",
+                "settings": {}
+            }
+        ]
+    }
+
+
+      }
+    },
+  ]
+}

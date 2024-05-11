@@ -1,0 +1,375 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks"
+    width="1310" height="576" viewBox="0 0 655 288">
+    <rect width="655" height="288" fill="white" />
+    <g fill="none" stroke-miterlimit="10" transform="translate(45,40)">
+        <g class="mark-group role-frame root" role="graphics-object" aria-roledescription="group mark container">
+            <g transform="translate(0,0)">
+                <path class="background" aria-hidden="true" d="M0,0h600v200h-600Z" />
+                <g>
+                    <g class="mark-group role-axis" aria-hidden="true">
+                        <g transform="translate(0.5,0.5)">
+                            <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none" />
+                            <g>
+                                <g class="mark-rule role-axis-grid" pointer-events="none">
+                                    <line transform="translate(0,200)" x2="600" y2="0" stroke="#ddd" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,164)" x2="600" y2="0" stroke="#ddd" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,127)" x2="600" y2="0" stroke="#ddd" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,91)" x2="600" y2="0" stroke="#ddd" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,55)" x2="600" y2="0" stroke="#ddd" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,18)" x2="600" y2="0" stroke="#ddd" stroke-width="1"
+                                        opacity="1" />
+                                </g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                    </g>
+                    <g class="mark-group role-axis" role="graphics-symbol" aria-roledescription="axis"
+                        aria-label="X-axis for a time scale with values from January 21 to January 23">
+                        <g transform="translate(0.5,200.5)">
+                            <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none" />
+                            <g>
+                                <g class="mark-rule role-axis-tick" pointer-events="none">
+                                    <line transform="translate(0,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(25,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(48,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(74,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(99,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(124,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(149,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(174,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(200,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(224,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(250,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(275,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(300,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(325,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(348,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(374,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(399,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(424,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(449,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(474,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(500,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(524,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(550,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(575,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(600,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                </g>
+                                <g class="mark-text role-axis-label" pointer-events="none"><text text-anchor="start"
+                                        transform="translate(0,7) rotate(90) translate(0,3)" font-family="sans-serif"
+                                        font-size="10px" fill="#000" opacity="1">Jan 21</text><text text-anchor="start"
+                                        transform="translate(25.47945205479452,7) rotate(90) translate(0,3)"
+                                        font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Feb
+                                        21</text><text text-anchor="start"
+                                        transform="translate(48.49315068493151,7) rotate(90) translate(0,3)"
+                                        font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Mar
+                                        21</text><text text-anchor="start"
+                                        transform="translate(73.97260273972603,7) rotate(90) translate(0,3)"
+                                        font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Apr
+                                        21</text><text text-anchor="start"
+                                        transform="translate(98.63013698630137,7) rotate(90) translate(0,3)"
+                                        font-family="sans-serif" font-size="10px" fill="#000" opacity="1">May
+                                        21</text><text text-anchor="start"
+                                        transform="translate(124.1095890410959,7) rotate(90) translate(0,3)"
+                                        font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Jun
+                                        21</text><text text-anchor="start"
+                                        transform="translate(148.76712328767124,7) rotate(90) translate(0,3)"
+                                        font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Jul
+                                        21</text><text text-anchor="start"
+                                        transform="translate(174.24657534246575,7) rotate(90) translate(0,3)"
+                                        font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Aug
+                                        21</text><text text-anchor="start"
+                                        transform="translate(199.72602739726028,7) rotate(90) translate(0,3)"
+                                        font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Sep
+                                        21</text><text text-anchor="start"
+                                        transform="translate(224.38356164383563,7) rotate(90) translate(0,3)"
+                                        font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Oct
+                                        21</text><text text-anchor="start"
+                                        transform="translate(249.86301369863014,7) rotate(90) translate(0,3)"
+                                        font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Nov
+                                        21</text><text text-anchor="start"
+                                        transform="translate(274.52054794520546,7) rotate(90) translate(0,3)"
+                                        font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Dec
+                                        21</text><text text-anchor="start"
+                                        transform="translate(300,7) rotate(90) translate(0,3)" font-family="sans-serif"
+                                        font-size="10px" fill="#000" opacity="1">Jan 22</text><text text-anchor="start"
+                                        transform="translate(325.47945205479454,7) rotate(90) translate(0,3)"
+                                        font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Feb
+                                        22</text><text text-anchor="start"
+                                        transform="translate(348.4931506849315,7) rotate(90) translate(0,3)"
+                                        font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Mar
+                                        22</text><text text-anchor="start"
+                                        transform="translate(373.9726027397261,7) rotate(90) translate(0,3)"
+                                        font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Apr
+                                        22</text><text text-anchor="start"
+                                        transform="translate(398.63013698630135,7) rotate(90) translate(0,3)"
+                                        font-family="sans-serif" font-size="10px" fill="#000" opacity="1">May
+                                        22</text><text text-anchor="start"
+                                        transform="translate(424.1095890410959,7) rotate(90) translate(0,3)"
+                                        font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Jun
+                                        22</text><text text-anchor="start"
+                                        transform="translate(448.76712328767127,7) rotate(90) translate(0,3)"
+                                        font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Jul
+                                        22</text><text text-anchor="start"
+                                        transform="translate(474.24657534246575,7) rotate(90) translate(0,3)"
+                                        font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Aug
+                                        22</text><text text-anchor="start"
+                                        transform="translate(499.7260273972603,7) rotate(90) translate(0,3)"
+                                        font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Sep
+                                        22</text><text text-anchor="start"
+                                        transform="translate(524.3835616438356,7) rotate(90) translate(0,3)"
+                                        font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Oct
+                                        22</text><text text-anchor="start"
+                                        transform="translate(549.8630136986301,7) rotate(90) translate(0,3)"
+                                        font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Nov
+                                        22</text><text text-anchor="start"
+                                        transform="translate(574.5205479452055,7) rotate(90) translate(0,3)"
+                                        font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Dec
+                                        22</text><text text-anchor="start"
+                                        transform="translate(600,7) rotate(90) translate(0,3)" font-family="sans-serif"
+                                        font-size="10px" fill="#000" opacity="1">Jan 23</text></g>
+                                <g class="mark-rule role-axis-domain" pointer-events="none">
+                                    <line transform="translate(0,0)" x2="600" y2="0" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                </g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                    </g>
+                    <g class="mark-group role-axis" role="graphics-symbol" aria-roledescription="axis"
+                        aria-label="Y-axis for a linear scale with values from 0 to 110,000">
+                        <g transform="translate(0.5,0.5)">
+                            <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none" />
+                            <g>
+                                <g class="mark-text role-axis-label" pointer-events="none"><text text-anchor="end"
+                                        transform="translate(-2,203)" font-family="sans-serif" font-size="10px"
+                                        fill="#000" opacity="1">0</text><text text-anchor="end"
+                                        transform="translate(-2,166.63636363636363)" font-family="sans-serif"
+                                        font-size="10px" fill="#000" opacity="1">20,000</text><text text-anchor="end"
+                                        transform="translate(-2,130.27272727272725)" font-family="sans-serif"
+                                        font-size="10px" fill="#000" opacity="1">40,000</text><text text-anchor="end"
+                                        transform="translate(-2,93.90909090909092)" font-family="sans-serif"
+                                        font-size="10px" fill="#000" opacity="1">60,000</text><text text-anchor="end"
+                                        transform="translate(-2,57.54545454545454)" font-family="sans-serif"
+                                        font-size="10px" fill="#000" opacity="1">80,000</text><text text-anchor="end"
+                                        transform="translate(-2,21.181818181818187)" font-family="sans-serif"
+                                        font-size="10px" fill="#000" opacity="1">100,000</text></g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                    </g>
+                    <g class="mark-group role-scope layer_0_layer_0_pathgroup" role="graphics-object"
+                        aria-roledescription="group mark container">
+                        <g transform="translate(0,0)">
+                            <path class="background" aria-hidden="true" d="M0,0h600v200h-600Z" />
+                            <g>
+                                <g class="mark-line role-mark layer_0_layer_0_marks" role="graphics-object"
+                                    aria-roledescription="line mark container">
+                                    <path
+                                        role="graphics-symbol" aria-roledescription="line mark"
+                                        d="M0,200L25.479,199L48.493,186L73.973,77L98.63,128L124.11,166L148.767,141L174.247,144L199.726,164L224.384,153L249.863,100L274.521,20L300,12L325.479,108L348.493,156L373.973,164L398.63,172L424.11,185L448.767,179L474.247,108L499.726,85L524.384,120L549.863,139L574.521,116L600,46"
+                                        stroke="#5F52C5" stroke-width="3" />
+                                </g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" display="none" />
+                        </g>
+                    </g>
+                    <g class="mark-symbol role-mark layer_0_layer_1_marks" role="graphics-object"
+                        aria-roledescription="symbol mark container">
+                        <path aria-label="x-none: Jan 21; US Covid-19 Deaths by Month: 0; type: undefined"
+                            role="graphics-symbol" aria-roledescription="point" transform="translate(0,200)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="white"
+                            stroke="black" stroke-width="2" opacity="1" />
+                        <path
+                            aria-label="x-none: Feb 21; US Covid-19 Deaths by Month: 550; type: undefined"
+                            role="graphics-symbol" aria-roledescription="point"
+                            transform="translate(25.47945205479452,199)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="white"
+                            stroke="black" stroke-width="2" opacity="1" />
+                        <path
+                            aria-label="x-none: Mar 21; US Covid-19 Deaths by Month: 7700; type: undefined"
+                            role="graphics-symbol" aria-roledescription="point"
+                            transform="translate(48.49315068493151,186)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="white"
+                            stroke="black" stroke-width="2" opacity="1" />
+                        <path
+                            aria-label="x-none: Apr 21; US Covid-19 Deaths by Month: 67650; type: undefined"
+                            role="graphics-symbol" aria-roledescription="point"
+                            transform="translate(73.97260273972603,77)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="white"
+                            stroke="black" stroke-width="2" opacity="1" />
+                        <path
+                            aria-label="x-none: May 21; US Covid-19 Deaths by Month: 39600; type: undefined"
+                            role="graphics-symbol" aria-roledescription="point"
+                            transform="translate(98.63013698630137,128)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="white"
+                            stroke="black" stroke-width="2" opacity="1" />
+                        <path
+                            aria-label="x-none: Jun 21; US Covid-19 Deaths by Month: 18700; type: undefined"
+                            role="graphics-symbol" aria-roledescription="point"
+                            transform="translate(124.1095890410959,166)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="white"
+                            stroke="black" stroke-width="2" opacity="1" />
+                        <path
+                            aria-label="x-none: Jul 21; US Covid-19 Deaths by Month: 32450; type: undefined"
+                            role="graphics-symbol" aria-roledescription="point"
+                            transform="translate(148.76712328767124,141)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="white"
+                            stroke="black" stroke-width="2" opacity="1" />
+                        <path
+                            aria-label="x-none: Aug 21; US Covid-19 Deaths by Month: 30800; type: undefined"
+                            role="graphics-symbol" aria-roledescription="point"
+                            transform="translate(174.24657534246575,144)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="white"
+                            stroke="black" stroke-width="2" opacity="1" />
+                        <path
+                            aria-label="x-none: Sep 21; US Covid-19 Deaths by Month: 19800; type: undefined"
+                            role="graphics-symbol" aria-roledescription="point"
+                            transform="translate(199.72602739726028,164)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="white"
+                            stroke="black" stroke-width="2" opacity="1" />
+                        <path
+                            aria-label="x-none: Oct 21; US Covid-19 Deaths by Month: 25850; type: undefined"
+                            role="graphics-symbol" aria-roledescription="point"
+                            transform="translate(224.38356164383563,153)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="white"
+                            stroke="black" stroke-width="2" opacity="1" />
+                        <path
+                            aria-label="x-none: Nov 21; US Covid-19 Deaths by Month: 55000; type: undefined"
+                            role="graphics-symbol" aria-roledescription="point"
+                            transform="translate(249.86301369863014,100)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="white"
+                            stroke="black" stroke-width="2" opacity="1" />
+                        <path
+                            aria-label="x-none: Dec 21; US Covid-19 Deaths by Month: 99000; type: undefined"
+                            role="graphics-symbol" aria-roledescription="point"
+                            transform="translate(274.52054794520546,19.999999999999996)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="white"
+                            stroke="black" stroke-width="2" opacity="1" />
+                        <path
+                            aria-label="x-none: Jan 22; US Covid-19 Deaths by Month: 103400; type: undefined"
+                            role="graphics-symbol" aria-roledescription="point"
+                            transform="translate(300,12.00000000000001)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="white"
+                            stroke="black" stroke-width="2" opacity="1" />
+                        <path
+                            aria-label="x-none: Feb 22; US Covid-19 Deaths by Month: 50600; type: undefined"
+                            role="graphics-symbol" aria-roledescription="point"
+                            transform="translate(325.47945205479454,108)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="white"
+                            stroke="black" stroke-width="2" opacity="1" />
+                        <path
+                            aria-label="x-none: Mar 22; US Covid-19 Deaths by Month: 24200; type: undefined"
+                            role="graphics-symbol" aria-roledescription="point"
+                            transform="translate(348.4931506849315,156)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="white"
+                            stroke="black" stroke-width="2" opacity="1" />
+                        <path
+                            aria-label="x-none: Apr 22; US Covid-19 Deaths by Month: 19800; type: undefined"
+                            role="graphics-symbol" aria-roledescription="point"
+                            transform="translate(373.9726027397261,164)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="white"
+                            stroke="black" stroke-width="2" opacity="1" />
+                        <path
+                            aria-label="x-none: May 22; US Covid-19 Deaths by Month: 15400; type: undefined"
+                            role="graphics-symbol" aria-roledescription="point"
+                            transform="translate(398.63013698630135,172)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="white"
+                            stroke="black" stroke-width="2" opacity="1" />
+                        <path
+                            aria-label="x-none: Jun 22; US Covid-19 Deaths by Month: 8250; type: undefined"
+                            role="graphics-symbol" aria-roledescription="point"
+                            transform="translate(424.1095890410959,185)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="white"
+                            stroke="black" stroke-width="2" opacity="1" />
+                        <path
+                            aria-label="x-none: Jul 22; US Covid-19 Deaths by Month: 11550; type: undefined"
+                            role="graphics-symbol" aria-roledescription="point"
+                            transform="translate(448.76712328767127,179)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="white"
+                            stroke="black" stroke-width="2" opacity="1" />
+                        <path
+                            aria-label="x-none: Aug 22; US Covid-19 Deaths by Month: 50600; type: undefined"
+                            role="graphics-symbol" aria-roledescription="point"
+                            transform="translate(474.24657534246575,108)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="white"
+                            stroke="black" stroke-width="2" opacity="1" />
+                        <path
+                            aria-label="x-none: Sep 22; US Covid-19 Deaths by Month: 63250; type: undefined"
+                            role="graphics-symbol" aria-roledescription="point"
+                            transform="translate(499.7260273972603,85.00000000000001)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="white"
+                            stroke="black" stroke-width="2" opacity="1" />
+                        <path
+                            aria-label="x-none: Oct 22; US Covid-19 Deaths by Month: 44000; type: undefined"
+                            role="graphics-symbol" aria-roledescription="point"
+                            transform="translate(524.3835616438356,120)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="white"
+                            stroke="black" stroke-width="2" opacity="1" />
+                        <path
+                            aria-label="x-none: Nov 22; US Covid-19 Deaths by Month: 33550; type: undefined"
+                            role="graphics-symbol" aria-roledescription="point"
+                            transform="translate(549.8630136986301,139)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="white"
+                            stroke="black" stroke-width="2" opacity="1" />
+                        <path
+                            aria-label="x-none: Dec 22; US Covid-19 Deaths by Month: 46200; type: undefined"
+                            role="graphics-symbol" aria-roledescription="point"
+                            transform="translate(574.5205479452055,116.00000000000001)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="white"
+                            stroke="black" stroke-width="2" opacity="1" />
+                        <path
+                            aria-label="x-none: Jan 23; US Covid-19 Deaths by Month: 84700; type: undefined"
+                            role="graphics-symbol" aria-roledescription="point" transform="translate(600,46)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="white"
+                            stroke="black" stroke-width="2" opacity="1" />
+                    </g>
+                    <g class="mark-group role-title">
+                        <g transform="translate(-40,-35)">
+                            <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none" />
+                            <g>
+                                <g class="mark-text role-title-text" role="graphics-symbol" aria-roledescription="title"
+                                    aria-label="Title text 'US Covid-19 Deaths by Month'" pointer-events="none"><text
+                                        text-anchor="start" transform="translate(0,20)" font-family="sans-serif"
+                                        font-size="25px" font-weight="bold" fill="#000" opacity="1">US Covid-19 Deaths
+                                        by Month</text></g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                    </g>
+                </g>
+                <path class="foreground" aria-hidden="true" d="" display="none" />
+            </g>
+        </g>
+    </g>
+</svg>

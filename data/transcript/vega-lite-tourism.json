@@ -1,0 +1,1280 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "How do people feel about the future of the tourism sector over the next year? This pie chart shows the percentage of respondents who expressed different levels of optimism or uncertainty. \nWe can see that the majority of respondents, 50%, are somewhat optimistic, meaning they expect some improvement but also some challenges. This is the largest sector of the pie chart, indicating a moderate outlook for the tourism industry. \nHowever, only 15% of respondents are strongly optimistic, meaning they expect a significant recovery and growth. This is the smallest sector of the pie chart, suggesting a low level of confidence in the tourism recovery. \nThe other two states, undecided and not optimistic, are fairly evenly distributed, with each around 16% to 18%. This shows that many are still uncertain or pessimistic about tourism prospects. \nIn summary, this pie chart reveals that most respondents are somewhat optimistic, but not very confident, about the future of the tourism sector over the next year.",
+          "words": [
+            {
+              "startTime": "0s",
+              "endTime": "0.05s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "How"
+            },
+            {
+              "startTime": "0.05s",
+              "endTime": "0.263s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "do"
+            },
+            {
+              "startTime": "0.263s",
+              "endTime": "0.388s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "people"
+            },
+            {
+              "startTime": "0.388s",
+              "endTime": "0.713s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "feel"
+            },
+            {
+              "startTime": "0.713s",
+              "endTime": "1s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "about"
+            },
+            {
+              "startTime": "1s",
+              "endTime": "1.238s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "the"
+            },
+            {
+              "startTime": "1.238s",
+              "endTime": "1.325s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "future"
+            },
+            {
+              "startTime": "1.325s",
+              "endTime": "1.7s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "of"
+            },
+            {
+              "startTime": "1.7s",
+              "endTime": "1.775s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "the"
+            },
+            {
+              "startTime": "1.775s",
+              "endTime": "1.875s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "tourism"
+            },
+            {
+              "startTime": "1.875s",
+              "endTime": "2.35s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "sector"
+            },
+            {
+              "startTime": "2.35s",
+              "endTime": "2.95s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "over"
+            },
+            {
+              "startTime": "2.95s",
+              "endTime": "3.125s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "the"
+            },
+            {
+              "startTime": "3.125s",
+              "endTime": "3.212s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "next"
+            },
+            {
+              "startTime": "3.212s",
+              "endTime": "3.55s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "year"
+            },
+            {
+              "startTime": "3.55s",
+              "endTime": "3.913s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "?"
+            },
+            {
+              "startTime": "3.913s",
+              "endTime": "4.763s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "This"
+            },
+            {
+              "startTime": "4.763s",
+              "endTime": "5.013s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "pie"
+            },
+            {
+              "startTime": "5.013s",
+              "endTime": "5.213s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "chart"
+            },
+            {
+              "startTime": "5.213s",
+              "endTime": "5.588s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "shows"
+            },
+            {
+              "startTime": "5.588s",
+              "endTime": "5.862s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "the"
+            },
+            {
+              "startTime": "5.862s",
+              "endTime": "5.963s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "percentage"
+            },
+            {
+              "startTime": "5.963s",
+              "endTime": "6.5s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "of"
+            },
+            {
+              "startTime": "6.5s",
+              "endTime": "6.575s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "respondents"
+            },
+            {
+              "startTime": "6.575s",
+              "endTime": "7.362s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "who"
+            },
+            {
+              "startTime": "7.362s",
+              "endTime": "7.475s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "expressed"
+            },
+            {
+              "startTime": "7.475s",
+              "endTime": "7.963s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "different"
+            },
+            {
+              "startTime": "7.963s",
+              "endTime": "8.287s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "levels"
+            },
+            {
+              "startTime": "8.287s",
+              "endTime": "8.637s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "of"
+            },
+            {
+              "startTime": "8.637s",
+              "endTime": "8.738s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "optimism"
+            },
+            {
+              "startTime": "8.738s",
+              "endTime": "9.5s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "or"
+            },
+            {
+              "startTime": "9.5s",
+              "endTime": "9.625s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "uncertainty"
+            },
+            {
+              "startTime": "9.625s",
+              "endTime": "10.387s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "."
+            },
+            {
+              "startTime": "10.387s",
+              "endTime": "11.238s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "We"
+            },
+            {
+              "startTime": "11.238s",
+              "endTime": "11.425s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "can"
+            },
+            {
+              "startTime": "11.425s",
+              "endTime": "11.6s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "see"
+            },
+            {
+              "startTime": "11.6s",
+              "endTime": "11.787s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "that"
+            },
+            {
+              "startTime": "11.787s",
+              "endTime": "11.925s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "the"
+            },
+            {
+              "startTime": "11.925s",
+              "endTime": "12.012s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "majority"
+            },
+            {
+              "startTime": "12.012s",
+              "endTime": "12.512s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "of"
+            },
+            {
+              "startTime": "12.512s",
+              "endTime": "12.6s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "respondents"
+            },
+            {
+              "startTime": "12.6s",
+              "endTime": "13.488s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": ","
+            },
+            {
+              "startTime": "13.488s",
+              "endTime": "13.5s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "50%"
+            },
+            {
+              "startTime": "13.5s",
+              "endTime": "14.488s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": ","
+            },
+            {
+              "startTime": "14.488s",
+              "endTime": "14.6s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "are"
+            },
+            {
+              "startTime": "14.6s",
+              "endTime": "14.725s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "somewhat"
+            },
+            {
+              "startTime": "14.725s",
+              "endTime": "15.063s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "optimistic"
+            },
+            {
+              "startTime": "15.063s",
+              "endTime": "15.95s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": ","
+            },
+            {
+              "startTime": "15.95s",
+              "endTime": "16.087s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "meaning"
+            },
+            {
+              "startTime": "16.087s",
+              "endTime": "16.438s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "they"
+            },
+            {
+              "startTime": "16.438s",
+              "endTime": "16.563s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "expect"
+            },
+            {
+              "startTime": "16.563s",
+              "endTime": "17.038s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "some"
+            },
+            {
+              "startTime": "17.038s",
+              "endTime": "17.238s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "improvement"
+            },
+            {
+              "startTime": "17.238s",
+              "endTime": "17.962s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "but"
+            },
+            {
+              "startTime": "17.962s",
+              "endTime": "18.137s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "also"
+            },
+            {
+              "startTime": "18.137s",
+              "endTime": "18.462s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "some"
+            },
+            {
+              "startTime": "18.462s",
+              "endTime": "18.688s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "challenges"
+            },
+            {
+              "startTime": "18.688s",
+              "endTime": "19.512s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "."
+            },
+            {
+              "startTime": "19.512s",
+              "endTime": "20.363s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "This"
+            },
+            {
+              "startTime": "20.363s",
+              "endTime": "20.637s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "is"
+            },
+            {
+              "startTime": "20.637s",
+              "endTime": "20.75s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "the"
+            },
+            {
+              "startTime": "20.75s",
+              "endTime": "20.875s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "largest"
+            },
+            {
+              "startTime": "20.875s",
+              "endTime": "21.35s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "sector"
+            },
+            {
+              "startTime": "21.35s",
+              "endTime": "21.725s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "of"
+            },
+            {
+              "startTime": "21.725s",
+              "endTime": "21.813s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "the"
+            },
+            {
+              "startTime": "21.813s",
+              "endTime": "21.9s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "pie"
+            },
+            {
+              "startTime": "21.9s",
+              "endTime": "22.137s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "chart"
+            },
+            {
+              "startTime": "22.137s",
+              "endTime": "22.663s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": ","
+            },
+            {
+              "startTime": "22.663s",
+              "endTime": "22.762s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "indicating"
+            },
+            {
+              "startTime": "22.762s",
+              "endTime": "23.325s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "a"
+            },
+            {
+              "startTime": "23.325s",
+              "endTime": "23.375s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "moderate"
+            },
+            {
+              "startTime": "23.375s",
+              "endTime": "23.813s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "outlook"
+            },
+            {
+              "startTime": "23.813s",
+              "endTime": "24.337s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "for"
+            },
+            {
+              "startTime": "24.337s",
+              "endTime": "24.475s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "the"
+            },
+            {
+              "startTime": "24.475s",
+              "endTime": "24.587s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "tourism"
+            },
+            {
+              "startTime": "24.587s",
+              "endTime": "25.025s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "industry"
+            },
+            {
+              "startTime": "25.025s",
+              "endTime": "25.688s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "."
+            },
+            {
+              "startTime": "25.688s",
+              "endTime": "26.538s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "However"
+            },
+            {
+              "startTime": "26.538s",
+              "endTime": "27.25s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": ","
+            },
+            {
+              "startTime": "27.25s",
+              "endTime": "27.288s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "only"
+            },
+            {
+              "startTime": "27.288s",
+              "endTime": "27.525s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "15%"
+            },
+            {
+              "startTime": "27.525s",
+              "endTime": "28.413s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "of"
+            },
+            {
+              "startTime": "28.413s",
+              "endTime": "28.5s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "respondents"
+            },
+            {
+              "startTime": "28.5s",
+              "endTime": "29.325s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "are"
+            },
+            {
+              "startTime": "29.325s",
+              "endTime": "29.45s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "strongly"
+            },
+            {
+              "startTime": "29.45s",
+              "endTime": "29.925s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "optimistic"
+            },
+            {
+              "startTime": "29.925s",
+              "endTime": "30.837s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": ","
+            },
+            {
+              "startTime": "30.837s",
+              "endTime": "31.025s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "meaning"
+            },
+            {
+              "startTime": "31.025s",
+              "endTime": "31.363s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "they"
+            },
+            {
+              "startTime": "31.363s",
+              "endTime": "31.488s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "expect"
+            },
+            {
+              "startTime": "31.488s",
+              "endTime": "31.95s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "a"
+            },
+            {
+              "startTime": "31.95s",
+              "endTime": "32.013s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "significant"
+            },
+            {
+              "startTime": "32.013s",
+              "endTime": "32.663s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "recovery"
+            },
+            {
+              "startTime": "32.663s",
+              "endTime": "33.35s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "and"
+            },
+            {
+              "startTime": "33.35s",
+              "endTime": "33.5s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "growth"
+            },
+            {
+              "startTime": "33.5s",
+              "endTime": "34.063s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "."
+            },
+            {
+              "startTime": "34.063s",
+              "endTime": "34.913s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "This"
+            },
+            {
+              "startTime": "34.913s",
+              "endTime": "35.175s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "is"
+            },
+            {
+              "startTime": "35.175s",
+              "endTime": "35.288s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "the"
+            },
+            {
+              "startTime": "35.288s",
+              "endTime": "35.4s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "smallest"
+            },
+            {
+              "startTime": "35.4s",
+              "endTime": "35.913s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "sector"
+            },
+            {
+              "startTime": "35.913s",
+              "endTime": "36.288s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "of"
+            },
+            {
+              "startTime": "36.288s",
+              "endTime": "36.375s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "the"
+            },
+            {
+              "startTime": "36.375s",
+              "endTime": "36.462s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "pie"
+            },
+            {
+              "startTime": "36.462s",
+              "endTime": "36.7s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "chart"
+            },
+            {
+              "startTime": "36.7s",
+              "endTime": "37.225s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": ","
+            },
+            {
+              "startTime": "37.225s",
+              "endTime": "37.325s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "suggesting"
+            },
+            {
+              "startTime": "37.325s",
+              "endTime": "37.888s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "a"
+            },
+            {
+              "startTime": "37.888s",
+              "endTime": "37.95s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "low"
+            },
+            {
+              "startTime": "37.95s",
+              "endTime": "38.175s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "level"
+            },
+            {
+              "startTime": "38.175s",
+              "endTime": "38.5s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "of"
+            },
+            {
+              "startTime": "38.5s",
+              "endTime": "38.587s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "confidence"
+            },
+            {
+              "startTime": "38.587s",
+              "endTime": "39.275s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "in"
+            },
+            {
+              "startTime": "39.275s",
+              "endTime": "39.388s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "the"
+            },
+            {
+              "startTime": "39.388s",
+              "endTime": "39.475s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "tourism"
+            },
+            {
+              "startTime": "39.475s",
+              "endTime": "39.913s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "recovery"
+            },
+            {
+              "startTime": "39.913s",
+              "endTime": "40.575s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "."
+            },
+            {
+              "startTime": "40.575s",
+              "endTime": "41.425s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "The"
+            },
+            {
+              "startTime": "41.425s",
+              "endTime": "41.587s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "other"
+            },
+            {
+              "startTime": "41.587s",
+              "endTime": "41.837s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "two"
+            },
+            {
+              "startTime": "41.837s",
+              "endTime": "42.013s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "states"
+            },
+            {
+              "startTime": "42.013s",
+              "endTime": "42.587s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": ","
+            },
+            {
+              "startTime": "42.587s",
+              "endTime": "42.6s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "undecided"
+            },
+            {
+              "startTime": "42.6s",
+              "endTime": "43.313s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "and"
+            },
+            {
+              "startTime": "43.313s",
+              "endTime": "43.462s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "not"
+            },
+            {
+              "startTime": "43.462s",
+              "endTime": "43.688s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "optimistic"
+            },
+            {
+              "startTime": "43.688s",
+              "endTime": "44.563s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": ","
+            },
+            {
+              "startTime": "44.563s",
+              "endTime": "44.688s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "are"
+            },
+            {
+              "startTime": "44.688s",
+              "endTime": "44.813s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "fairly"
+            },
+            {
+              "startTime": "44.813s",
+              "endTime": "45.237s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "evenly"
+            },
+            {
+              "startTime": "45.237s",
+              "endTime": "45.65s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "distributed"
+            },
+            {
+              "startTime": "45.65s",
+              "endTime": "46.425s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": ","
+            },
+            {
+              "startTime": "46.425s",
+              "endTime": "46.525s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "with"
+            },
+            {
+              "startTime": "46.525s",
+              "endTime": "46.688s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "each"
+            },
+            {
+              "startTime": "46.688s",
+              "endTime": "46.888s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "around"
+            },
+            {
+              "startTime": "46.888s",
+              "endTime": "47.237s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "16% to 18%"
+            },
+            {
+              "startTime": "47.237s",
+              "endTime": "49.45s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "."
+            },
+            {
+              "startTime": "49.45s",
+              "endTime": "50.3s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "This"
+            },
+            {
+              "startTime": "50.3s",
+              "endTime": "50.55s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "shows"
+            },
+            {
+              "startTime": "50.55s",
+              "endTime": "51.038s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "that"
+            },
+            {
+              "startTime": "51.038s",
+              "endTime": "51.188s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "many"
+            },
+            {
+              "startTime": "51.188s",
+              "endTime": "51.487s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "are"
+            },
+            {
+              "startTime": "51.487s",
+              "endTime": "51.612s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "still"
+            },
+            {
+              "startTime": "51.612s",
+              "endTime": "51.9s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "uncertain"
+            },
+            {
+              "startTime": "51.9s",
+              "endTime": "52.55s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "or"
+            },
+            {
+              "startTime": "52.55s",
+              "endTime": "52.675s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "pessimistic"
+            },
+            {
+              "startTime": "52.675s",
+              "endTime": "53.5s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "about"
+            },
+            {
+              "startTime": "53.5s",
+              "endTime": "53.775s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "tourism"
+            },
+            {
+              "startTime": "53.775s",
+              "endTime": "54.188s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "prospects"
+            },
+            {
+              "startTime": "54.188s",
+              "endTime": "55.013s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "."
+            },
+            {
+              "startTime": "55.013s",
+              "endTime": "55.862s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "In"
+            },
+            {
+              "startTime": "55.862s",
+              "endTime": "56.05s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "summary"
+            },
+            {
+              "startTime": "56.05s",
+              "endTime": "56.675s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": ","
+            },
+            {
+              "startTime": "56.675s",
+              "endTime": "56.75s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "this"
+            },
+            {
+              "startTime": "56.75s",
+              "endTime": "56.938s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "pie"
+            },
+            {
+              "startTime": "56.938s",
+              "endTime": "57.138s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "chart"
+            },
+            {
+              "startTime": "57.138s",
+              "endTime": "57.45s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "reveals"
+            },
+            {
+              "startTime": "57.45s",
+              "endTime": "57.925s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "that"
+            },
+            {
+              "startTime": "57.925s",
+              "endTime": "58.075s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "most"
+            },
+            {
+              "startTime": "58.075s",
+              "endTime": "58.362s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "respondents"
+            },
+            {
+              "startTime": "58.362s",
+              "endTime": "59.112s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "are"
+            },
+            {
+              "startTime": "59.112s",
+              "endTime": "59.25s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "somewhat"
+            },
+            {
+              "startTime": "59.25s",
+              "endTime": "59.612s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "optimistic"
+            },
+            {
+              "startTime": "59.612s",
+              "endTime": "60.5s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": ","
+            },
+            {
+              "startTime": "60.5s",
+              "endTime": "60.575s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "but"
+            },
+            {
+              "startTime": "60.575s",
+              "endTime": "60.75s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "not"
+            },
+            {
+              "startTime": "60.75s",
+              "endTime": "60.975s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "very"
+            },
+            {
+              "startTime": "60.975s",
+              "endTime": "61.225s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "confident"
+            },
+            {
+              "startTime": "61.225s",
+              "endTime": "61.95s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": ","
+            },
+            {
+              "startTime": "61.95s",
+              "endTime": "62.087s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "about"
+            },
+            {
+              "startTime": "62.087s",
+              "endTime": "62.325s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "the"
+            },
+            {
+              "startTime": "62.325s",
+              "endTime": "62.425s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "future"
+            },
+            {
+              "startTime": "62.425s",
+              "endTime": "62.8s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "of"
+            },
+            {
+              "startTime": "62.8s",
+              "endTime": "62.888s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "the"
+            },
+            {
+              "startTime": "62.888s",
+              "endTime": "62.987s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "tourism"
+            },
+            {
+              "startTime": "62.987s",
+              "endTime": "63.45s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "sector"
+            },
+            {
+              "startTime": "63.45s",
+              "endTime": "64.063s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "over"
+            },
+            {
+              "startTime": "64.063s",
+              "endTime": "64.25s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "the"
+            },
+            {
+              "startTime": "64.25s",
+              "endTime": "64.35s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "next"
+            },
+            {
+              "startTime": "64.35s",
+              "endTime": "64.688s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "year"
+            },
+            {
+              "startTime": "64.688s",
+              "endTime": "65.063s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

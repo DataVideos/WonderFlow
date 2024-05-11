@@ -1,0 +1,56 @@
+{
+  "d1": "A bar chart titled 'Trip Planning Timeline by Country'",
+  "d2": "The x-axis represents the countries, and the y-axis represents the average trip planning timeline. The color section is the trip planning timeline legend, from less than 2 weeks to 3+ months.",
+  "insight1": {
+    "insightType": "proportion",
+    "insightSentence": "The majority of trips were planned within 1-2 months, while the minority of trips were planned within 2 weeks.",
+    "subInsights": [
+      {
+        "type": "majority",
+        "data": [
+          "France,31.4,1-2 months",
+          "Germany,30.3,1-2 months",
+          "Spain,32.1,1-2 months",
+          "UK,33.1,1-2 months"
+        ],
+        "phrases": "The majority of trips were planned within 1-2 months,"
+      },
+      {
+        "type": "minority",
+        "data": [
+          "France,20.4,Less than 2 weeks",
+          "Germany,15.7,Less than 2 weeks",
+          "Spain,18.8,Less than 2 weeks",
+          "UK,11.8,Less than 2 weeks"
+        ],
+        "phrases": "while the minority of trips were planned within 2 weeks."
+      }
+    ]
+  },
+  "insight2": {
+    "insightType": "rank",
+    "insightSentence": "The UK had the longest trip planning timeline at 37.4 days, followed by Germany and Spain at 37.3 and 32.1 days respectively.",
+    "subInsights": [
+      {
+        "type": "rank1",
+        "data": [
+          "UK, 37.4, 3+ months"
+        ],
+        "phrases": "The UK had the longest trip planning timeline at 37.4 days,"
+      },
+      {
+        "type": "rank2",
+        "data": [
+          "Germany, 37.3, 3+ months",
+          "Spain,32.1,1-2 months"
+        ],
+        "phrases": "followed by Germany and Spain at 37.3 and 32.1 days respectively."
+      }
+    ]
+  },
+  "insight3": {
+    "insightType": "",
+    "insightSentence": "",
+    "subInsights": []
+  }
+}

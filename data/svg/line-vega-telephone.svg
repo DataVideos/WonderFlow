@@ -1,0 +1,358 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks"
+  width="1138" height="634" viewBox="0 0 569 317">
+  <rect width="569" height="317" fill="white" />
+  <g fill="none" stroke-miterlimit="10" transform="translate(45,87)">
+    <g class="mark-group role-frame root" role="graphics-object" aria-roledescription="group mark container">
+      <g transform="translate(0,0)">
+        <path class="background" aria-hidden="true" d="M0,0h400v200h-400Z" stroke="0" />
+        <g>
+          <g class="mark-group role-axis" aria-hidden="true">
+            <g transform="translate(0.5,0.5)">
+              <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none" />
+              <g>
+                <g class="mark-rule role-axis-grid" pointer-events="none">
+                  <line transform="translate(0,200)" x2="400" y2="0" stroke="#ddd" stroke-width="1" opacity="1" />
+                  <line transform="translate(0,175)" x2="400" y2="0" stroke="#ddd" stroke-width="1" opacity="1" />
+                  <line transform="translate(0,150)" x2="400" y2="0" stroke="#ddd" stroke-width="1" opacity="1" />
+                  <line transform="translate(0,125)" x2="400" y2="0" stroke="#ddd" stroke-width="1" opacity="1" />
+                  <line transform="translate(0,100)" x2="400" y2="0" stroke="#ddd" stroke-width="1" opacity="1" />
+                  <line transform="translate(0,75)" x2="400" y2="0" stroke="#ddd" stroke-width="1" opacity="1" />
+                  <line transform="translate(0,50)" x2="400" y2="0" stroke="#ddd" stroke-width="1" opacity="1" />
+                  <line transform="translate(0,25)" x2="400" y2="0" stroke="#ddd" stroke-width="1" opacity="1" />
+                </g>
+              </g>
+              <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+            </g>
+          </g>
+          <g class="mark-group role-axis" role="graphics-symbol" aria-roledescription="axis"
+            aria-label="Y-axis for a linear scale with values from 10% to 90%">
+            <g transform="translate(0.5,0.5)">
+              <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none" />
+              <g>
+                <g class="mark-text role-axis-label" pointer-events="none"><text text-anchor="end"
+                    transform="translate(-2,203)" font-family="sans-serif" font-size="10px" fill="#000"
+                    opacity="1">10%</text><text text-anchor="end" transform="translate(-2,178)" font-family="sans-serif"
+                    font-size="10px" fill="#000" opacity="1">20%</text><text text-anchor="end"
+                    transform="translate(-2,153)" font-family="sans-serif" font-size="10px" fill="#000"
+                    opacity="1">30%</text><text text-anchor="end" transform="translate(-2,128)" font-family="sans-serif"
+                    font-size="10px" fill="#000" opacity="1">40%</text><text text-anchor="end"
+                    transform="translate(-2,103)" font-family="sans-serif" font-size="10px" fill="#000"
+                    opacity="1">50%</text><text text-anchor="end" transform="translate(-2,78)" font-family="sans-serif"
+                    font-size="10px" fill="#000" opacity="1">60%</text><text text-anchor="end"
+                    transform="translate(-2,53.00000000000002)" font-family="sans-serif" font-size="10px" fill="#000"
+                    opacity="1">70%</text><text text-anchor="end" transform="translate(-2,28)" font-family="sans-serif"
+                    font-size="10px" fill="#000" opacity="1">80%</text></g>
+              </g>
+              <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+            </g>
+          </g>
+          <g class="mark-rect role-mark layer_0_marks" role="graphics-object"
+            aria-roledescription="rect mark container">
+            <path role="graphics-symbol" aria-roledescription="rect mark"
+              d="M0,25h30.76923076923077v175h-30.76923076923077Z" fill="#BDD0E7" opacity="0.08" />
+            <path role="graphics-symbol" aria-roledescription="rect mark"
+              d="M30.76923076923077,200h30.76923076923077v25h-30.76923076923077Z" fill="#BDD0E7" opacity="0.08" />
+            <path role="graphics-symbol" aria-roledescription="rect mark"
+              d="M61.53846153846154,25h30.76923076923077v175h-30.76923076923077Z" fill="#BDD0E7" opacity="0.08" />
+            <path role="graphics-symbol" aria-roledescription="rect mark"
+              d="M92.3076923076923,200h30.76923076923077v25h-30.76923076923077Z" fill="#BDD0E7" opacity="0.08" />
+            <path role="graphics-symbol" aria-roledescription="rect mark"
+              d="M123.07692307692308,25h30.76923076923077v175h-30.76923076923077Z" fill="#BDD0E7" opacity="0.08" />
+            <path role="graphics-symbol" aria-roledescription="rect mark"
+              d="M153.84615384615384,200h30.76923076923077v25h-30.76923076923077Z" fill="#BDD0E7" opacity="0.08" />
+            <path role="graphics-symbol" aria-roledescription="rect mark"
+              d="M184.6153846153846,25h30.76923076923077v175h-30.76923076923077Z" fill="#BDD0E7" opacity="0.08" />
+            <path role="graphics-symbol" aria-roledescription="rect mark"
+              d="M215.3846153846154,200h30.76923076923077v25h-30.76923076923077Z" fill="#BDD0E7" opacity="0.08" />
+            <path role="graphics-symbol" aria-roledescription="rect mark"
+              d="M246.15384615384616,25h30.76923076923077v175h-30.76923076923077Z" fill="#BDD0E7" opacity="0.08" />
+            <path role="graphics-symbol" aria-roledescription="rect mark"
+              d="M276.9230769230769,200h30.76923076923077v25h-30.76923076923077Z" fill="#BDD0E7" opacity="0.08" />
+            <path role="graphics-symbol" aria-roledescription="rect mark"
+              d="M307.6923076923077,25h30.76923076923077v175h-30.76923076923077Z" fill="#BDD0E7" opacity="0.08" />
+            <path role="graphics-symbol" aria-roledescription="rect mark"
+              d="M338.46153846153845,200h30.76923076923077v25h-30.76923076923077Z" fill="#BDD0E7" opacity="0.08" />
+            <path role="graphics-symbol" aria-roledescription="rect mark"
+              d="M369.2307692307692,25h30.76923076923077v175h-30.76923076923077Z" fill="#BDD0E7" opacity="0.08" />
+            <path role="graphics-symbol" aria-roledescription="rect mark"
+              d="M0,25h30.76923076923077v175h-30.76923076923077Z" fill="#BDD0E7" opacity="0.08" />
+            <path role="graphics-symbol" aria-roledescription="rect mark"
+              d="M30.76923076923077,200h30.76923076923077v25h-30.76923076923077Z" fill="#BDD0E7" opacity="0.08" />
+            <path role="graphics-symbol" aria-roledescription="rect mark"
+              d="M61.53846153846154,25h30.76923076923077v175h-30.76923076923077Z" fill="#BDD0E7" opacity="0.08" />
+            <path role="graphics-symbol" aria-roledescription="rect mark"
+              d="M92.3076923076923,200h30.76923076923077v25h-30.76923076923077Z" fill="#BDD0E7" opacity="0.08" />
+            <path role="graphics-symbol" aria-roledescription="rect mark"
+              d="M123.07692307692308,25h30.76923076923077v175h-30.76923076923077Z" fill="#BDD0E7" opacity="0.08" />
+            <path role="graphics-symbol" aria-roledescription="rect mark"
+              d="M153.84615384615384,200h30.76923076923077v25h-30.76923076923077Z" fill="#BDD0E7" opacity="0.08" />
+            <path role="graphics-symbol" aria-roledescription="rect mark"
+              d="M184.6153846153846,25h30.76923076923077v175h-30.76923076923077Z" fill="#BDD0E7" opacity="0.08" />
+            <path role="graphics-symbol" aria-roledescription="rect mark"
+              d="M215.3846153846154,200h30.76923076923077v25h-30.76923076923077Z" fill="#BDD0E7" opacity="0.08" />
+            <path role="graphics-symbol" aria-roledescription="rect mark"
+              d="M246.15384615384616,25h30.76923076923077v175h-30.76923076923077Z" fill="#BDD0E7" opacity="0.08" />
+            <path role="graphics-symbol" aria-roledescription="rect mark"
+              d="M276.9230769230769,200h30.76923076923077v25h-30.76923076923077Z" fill="#BDD0E7" opacity="0.08" />
+            <path role="graphics-symbol" aria-roledescription="rect mark"
+              d="M307.6923076923077,25h30.76923076923077v175h-30.76923076923077Z" fill="#BDD0E7" opacity="0.08" />
+            <path role="graphics-symbol" aria-roledescription="rect mark"
+              d="M338.46153846153845,200h30.76923076923077v25h-30.76923076923077Z" fill="#BDD0E7" opacity="0.08" />
+            <path role="graphics-symbol" aria-roledescription="rect mark"
+              d="M369.2307692307692,25h30.76923076923077v175h-30.76923076923077Z" fill="#BDD0E7" opacity="0.08" />
+          </g>
+          <g class="mark-group role-scope layer_1_layer_0_pathgroup" role="graphics-object"
+            aria-roledescription="group mark container">
+            <g transform="translate(0,0)">
+              <path class="background" aria-hidden="true" d="M0,0h400v200h-400Z" />
+              <g>
+                <g class="mark-line role-mark layer_1_layer_0_marks" role="graphics-object"
+                  aria-roledescription="line mark container">
+                  <path aria-label="x-none: 2009; legend-none: Cell phone only"
+                    role="graphics-symbol" aria-roledescription="line mark"
+                    d="M15.385,166L46.154,154.625L76.923,143L107.692,132.5L138.462,124.5L169.231,113.25L200,105.375L230.769,99.875L261.538,92L292.308,85L323.077,74.375L353.846,64.625L384.615,54.125"
+                    stroke="#093A7E" stroke-width="5" />
+                </g>
+              </g>
+              <path class="foreground" aria-hidden="true" d="" display="none" />
+            </g>
+            <g transform="translate(0,0)">
+              <path class="background" aria-hidden="true" d="M0,0h400v200h-400Z" />
+              <g>
+                <g class="mark-line role-mark layer_1_layer_0_marks" role="graphics-object"
+                  aria-roledescription="line mark container">
+                  <path aria-label="x-none: 2009; legend-none: Landline phone"
+                    role="graphics-symbol" aria-roledescription="line mark"
+                    d="M15.385,40L46.154,51.375L76.923,62.75L107.692,73.375L138.462,82.125L169.231,94.625L200,103L230.769,108.375L261.538,117L292.308,123.25L323.077,128.375L353.846,137.125L384.615,147.75"
+                    stroke="#01BFAF" stroke-width="5" />
+                </g>
+              </g>
+              <path class="foreground" aria-hidden="true" d="" display="none" />
+            </g>
+          </g>
+          <g class="mark-symbol role-mark layer_1_layer_1_marks" role="graphics-object"
+            aria-roledescription="symbol mark container">
+            <path aria-label="x-none: 2009; percentage: 23.600000%; legend-none: Cell phone only" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(15.384615384615385,166)"
+              d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#093A7E" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 2010; percentage: 28.150000%; legend-none: Cell phone only" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(46.15384615384615,154.625)"
+              d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#093A7E" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 2011; percentage: 32.800000%; legend-none: Cell phone only" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(76.92307692307692,143.00000000000003)"
+              d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#093A7E" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 2012; percentage: 37.000000%; legend-none: Cell phone only" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(107.6923076923077,132.5)"
+              d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#093A7E" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 2013; percentage: 40.200000%; legend-none: Cell phone only" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(138.46153846153845,124.49999999999999)"
+              d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#093A7E" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 2014; percentage: 44.700000%; legend-none: Cell phone only" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(169.23076923076923,113.25)"
+              d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#093A7E" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 2015; percentage: 47.850000%; legend-none: Cell phone only" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(200,105.375)"
+              d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#093A7E" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 2016; percentage: 50.050000%; legend-none: Cell phone only" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(230.76923076923077,99.87500000000003)"
+              d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#093A7E" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 2017; percentage: 53.200000%; legend-none: Cell phone only" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(261.53846153846155,92)"
+              d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#093A7E" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 2018; percentage: 56.000000%; legend-none: Cell phone only" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(292.30769230769226,84.99999999999999)"
+              d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#093A7E" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 2019; percentage: 60.250000%; legend-none: Cell phone only" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(323.07692307692304,74.37499999999999)"
+              d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#093A7E" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 2020; percentage: 64.150000%; legend-none: Cell phone only" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(353.8461538461538,64.62499999999997)"
+              d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#093A7E" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 2021; percentage: 68.350000%; legend-none: Cell phone only" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(384.6153846153846,54.125)"
+              d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#093A7E" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 2009; percentage: 74.000000%; legend-none: Landline phone" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(15.384615384615385,40.000000000000014)"
+              d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#01BFAF" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 2010; percentage: 69.450000%; legend-none: Landline phone" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(46.15384615384615,51.37499999999999)"
+              d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#01BFAF" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 2011; percentage: 64.900000%; legend-none: Landline phone" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(76.92307692307692,62.74999999999999)"
+              d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#01BFAF" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 2012; percentage: 60.650000%; legend-none: Landline phone" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(107.6923076923077,73.37499999999999)"
+              d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#01BFAF" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 2013; percentage: 57.150000%; legend-none: Landline phone" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(138.46153846153845,82.125)"
+              d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#01BFAF" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 2014; percentage: 52.150000%; legend-none: Landline phone" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(169.23076923076923,94.625)"
+              d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#01BFAF" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 2015; percentage: 48.800000%; legend-none: Landline phone" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(200,103)"
+              d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#01BFAF" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 2016; percentage: 46.650000%; legend-none: Landline phone" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(230.76923076923077,108.37500000000003)"
+              d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#01BFAF" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 2017; percentage: 43.200000%; legend-none: Landline phone" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(261.53846153846155,117)"
+              d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#01BFAF" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 2018; percentage: 40.700000%; legend-none: Landline phone" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(292.30769230769226,123.25)"
+              d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#01BFAF" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 2019; percentage: 38.650000%; legend-none: Landline phone" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(323.07692307692304,128.375)"
+              d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#01BFAF" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 2020; percentage: 35.150000%; legend-none: Landline phone" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(353.8461538461538,137.12500000000003)"
+              d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#01BFAF" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 2021; percentage: 30.900000%; legend-none: Landline phone" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(384.6153846153846,147.75)"
+              d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#01BFAF" stroke-width="2"
+              opacity="1" />
+          </g>
+          <g class="mark-group role-legend" role="graphics-symbol" aria-roledescription="legend"
+            aria-label="Symbol legend for fill color and stroke color with 2 values: Cell phone only, Landline phone">
+            <g transform="translate(160,-10)">
+              <path class="background" aria-hidden="true" d="M0,0h230v14h-230Z" pointer-events="none" />
+              <g>
+                <g class="mark-group role-legend-entry">
+                  <g transform="translate(0,0)">
+                    <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none" />
+                    <g>
+                      <g class="mark-group role-scope" role="graphics-object"
+                        aria-roledescription="group mark container">
+                        <g transform="translate(0,0)">
+                          <path class="background" aria-hidden="true" d="M0,0h109.77734375v14h-109.77734375Z"
+                            pointer-events="none" opacity="1" />
+                          <g>
+                            <g class="mark-symbol role-legend-symbol" pointer-events="none">
+                              <path transform="translate(8,8)" d="M-7.071,0L7.071,0" fill="#093A7E" stroke="#093A7E"
+                                stroke-width="1.5" opacity="1" />
+                            </g>
+                            <g class="mark-text role-legend-label" pointer-events="none"><text text-anchor="start"
+                                transform="translate(20,12)" font-family="sans-serif" font-size="12px" fill="#000"
+                                opacity="1">Cell phone only</text></g>
+                          </g>
+                          <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                        <g transform="translate(121,0)">
+                          <path class="background" aria-hidden="true" d="M0,0h108.88671875v14h-108.88671875Z"
+                            pointer-events="none" opacity="1" />
+                          <g>
+                            <g class="mark-symbol role-legend-symbol" pointer-events="none">
+                              <path transform="translate(8,8)" d="M-7.071,0L7.071,0" fill="#01BFAF" stroke="#01BFAF"
+                                stroke-width="1.5" opacity="1" />
+                            </g>
+                            <g class="mark-text role-legend-label" pointer-events="none"><text text-anchor="start"
+                                transform="translate(20,12)" font-family="sans-serif" font-size="12px" fill="#000"
+                                opacity="1">Landline phone</text></g>
+                          </g>
+                          <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                      </g>
+                    </g>
+                    <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                  </g>
+                </g>
+              </g>
+              <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+            </g>
+          </g>
+          <g class="mark-group role-title">
+            <g transform="translate(-40,-82)">
+              <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none" />
+              <g>
+                <g class="mark-text role-title-text" role="graphics-symbol" aria-roledescription="title"
+                  aria-label="Title text 'U.S. Adults Living in Households  with/without A Working Landline Telephone'"
+                  pointer-events="none"><text text-anchor="start" transform="translate(0,20)" font-family="sans-serif"
+                    font-size="25px" font-weight="bold" fill="#27486b" opacity="1">
+                    <tspan>U.S. Adults Living in Households</tspan>
+                    <tspan x="0" dy="27">with/without A Working Landline Telephone</tspan>
+                  </text></g>
+              </g>
+              <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+            </g>
+          </g>
+          <g class="mark-group role-axis" role="graphics-symbol" aria-roledescription="axis"
+            aria-label="X-axis for a discrete scale with 13 values: 2009, 2010, 2011, 2012, 2013, ending with 2021">
+            <g transform="translate(0.5,200.5)">
+              <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none" />
+              <g>
+                <g class="mark-rule role-axis-tick" pointer-events="none">
+                  <line transform="translate(15,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1" />
+                  <line transform="translate(46,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1" />
+                  <line transform="translate(76,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1" />
+                  <line transform="translate(107,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1" />
+                  <line transform="translate(138,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1" />
+                  <line transform="translate(169,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1" />
+                  <line transform="translate(200,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1" />
+                  <line transform="translate(230,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1" />
+                  <line transform="translate(261,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1" />
+                  <line transform="translate(292,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1" />
+                  <line transform="translate(323,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1" />
+                  <line transform="translate(353,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1" />
+                  <line transform="translate(384,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1" />
+                </g>
+                <g class="mark-text role-axis-label" pointer-events="none"><text text-anchor="middle"
+                    transform="translate(14.884615384615385,15)" font-family="sans-serif" font-size="10px" fill="#000"
+                    opacity="1">2009</text><text text-anchor="middle" transform="translate(45.65384615384615,15)"
+                    font-family="sans-serif" font-size="10px" fill="#000" opacity="1">2010</text><text
+                    text-anchor="middle" transform="translate(76.42307692307692,15)" font-family="sans-serif"
+                    font-size="10px" fill="#000" opacity="1">2011</text><text text-anchor="middle"
+                    transform="translate(107.1923076923077,15)" font-family="sans-serif" font-size="10px" fill="#000"
+                    opacity="1">2012</text><text text-anchor="middle" transform="translate(137.96153846153845,15)"
+                    font-family="sans-serif" font-size="10px" fill="#000" opacity="1">2013</text><text
+                    text-anchor="middle" transform="translate(168.73076923076923,15)" font-family="sans-serif"
+                    font-size="10px" fill="#000" opacity="1">2014</text><text text-anchor="middle"
+                    transform="translate(199.5,15)" font-family="sans-serif" font-size="10px" fill="#000"
+                    opacity="1">2015</text><text text-anchor="middle" transform="translate(230.26923076923077,15)"
+                    font-family="sans-serif" font-size="10px" fill="#000" opacity="1">2016</text><text
+                    text-anchor="middle" transform="translate(261.03846153846155,15)" font-family="sans-serif"
+                    font-size="10px" fill="#000" opacity="1">2017</text><text text-anchor="middle"
+                    transform="translate(291.80769230769226,15)" font-family="sans-serif" font-size="10px" fill="#000"
+                    opacity="1">2018</text><text text-anchor="middle" transform="translate(322.57692307692304,15)"
+                    font-family="sans-serif" font-size="10px" fill="#000" opacity="1">2019</text><text
+                    text-anchor="middle" transform="translate(353.3461538461538,15)" font-family="sans-serif"
+                    font-size="10px" fill="#000" opacity="1">2020</text><text text-anchor="middle"
+                    transform="translate(384.1153846153846,15)" font-family="sans-serif" font-size="10px" fill="#000"
+                    opacity="1">2021</text></g>
+                <g class="mark-rule role-axis-domain" pointer-events="none">
+                  <line transform="translate(0,0)" x2="400" y2="0" stroke="#888" stroke-width="1" opacity="1" />
+                </g>
+              </g>
+              <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+            </g>
+          </g>
+        </g>
+        <path class="foreground" aria-hidden="true" d="" display="none" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,150 @@
+
+    {
+      projectId: 'pie-vega-covid-19-patient-example1',
+      scenes: [
+        {
+          charts: [
+            {source: './pie-vega-covid-19-patient.svg'},
+          ],
+          animation: {
+            sequence: {
+              "sync": [
+                  {
+                      "use": "Dynamic-number",
+                      "timing": {
+                          "start": 0.405,
+                          "offset": 2.485,
+                          "duration": 1.89
+                      },
+                      "target": "#sector-label-3",
+                      "ani_type": "Emphasis",
+                      "settings": {}
+                  },
+                  {
+                      "use": "Pie-wheel",
+                      "timing": {
+                          "start": 1.952,
+                          "duration": 0.17,
+                          "offset": 0
+                      },
+                      "target": "#sector-3",
+                      "ani_type": "Enter",
+                      "settings": {}
+                  },
+                  {
+                      "use": "Fade-in",
+                      "timing": {
+                          "start": 2.875,
+                          "duration": 1.98,
+                          "offset": 0
+                      },
+                      "target": "#sector-label-3",
+                      "ani_type": "Enter",
+                      "settings": {}
+                  },
+                  {
+                      "use": "Pie-wheel",
+                      "timing": {
+                          "start": 12.009,
+                          "offset": 1.601,
+                          "duration": 0.81
+                      },
+                      "target": "#sector-0",
+                      "ani_type": "Enter",
+                      "settings": {}
+                  },
+                  {
+                      "use": "Fade-in",
+                      "timing": {
+                          "start": 14.48,
+                          "duration": 1.76,
+                          "offset": 0
+                      },
+                      "target": "#sector-label-0",
+                      "ani_type": "Enter",
+                      "settings": {}
+                  },
+                  {
+                      "use": "Dynamic-number",
+                      "timing": {
+                          "start": 14.48,
+                          "duration": 1.76,
+                          "offset": 0
+                      },
+                      "target": "#sector-label-0",
+                      "ani_type": "Emphasis",
+                      "settings": {}
+                  },
+                  {
+                      "use": "Pie-wheel",
+                      "timing": {
+                          "start": 24.868,
+                          "duration": 0.16,
+                          "offset": 0
+                      },
+                      "target": "#sector-2",
+                      "ani_type": "Enter",
+                      "settings": {}
+                  },
+                  {
+                      "use": "Dynamic-number",
+                      "timing": {
+                          "start": 25.028,
+                          "duration": 1.62,
+                          "offset": 0
+                      },
+                      "target": "#sector-label-2",
+                      "ani_type": "Emphasis",
+                      "settings": {}
+                  },
+                  {
+                      "use": "Fade-in",
+                      "timing": {
+                          "start": 25.028,
+                          "duration": 1.62,
+                          "offset": 0
+                      },
+                      "target": "#sector-label-2",
+                      "ani_type": "Enter",
+                      "settings": {}
+                  },
+                  {
+                      "use": "Pie-wheel",
+                      "timing": {
+                          "start": 27.963,
+                          "duration": 0.19,
+                          "offset": 0
+                      },
+                      "target": "#sector-1",
+                      "ani_type": "Enter",
+                      "settings": {}
+                  },
+                  {
+                      "use": "Fade-in",
+                      "timing": {
+                          "start": 28.153,
+                          "duration": 1.82,
+                          "offset": 0
+                      },
+                      "target": "#sector-label-1",
+                      "ani_type": "Enter",
+                      "settings": {}
+                  },
+                  {
+                      "use": "Dynamic-number",
+                      "timing": {
+                          "start": 28.153,
+                          "duration": 1.82,
+                          "offset": 0
+                      },
+                      "target": "#sector-label-1",
+                      "ani_type": "Emphasis",
+                      "settings": {}
+                  }
+              ]
+          }
+          },
+        }
+      ]
+    }
+  

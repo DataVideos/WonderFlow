@@ -1,0 +1,16 @@
+{
+  projectId: 'line-annual-box-office-earnings-example1',
+  scenes: [
+    {
+      charts: [
+        {source: './line-annual-box-office-earnings.svg'},
+      ],
+      animation: {
+        sequence: {
+            "sync": [
+            ]
+        }
+      },
+    }
+  ]
+}

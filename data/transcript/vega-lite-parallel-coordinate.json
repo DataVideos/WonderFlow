@@ -1,0 +1,656 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "This parallel coordinates plot presents a multivariate analysis of the classic Iris dataset, displaying four distinct axes corresponding to the features: sepal length, sepal width, petal length, and petal width. Each axis represents a different dimension of the data, scaled to accommodate the range of values for that given feature. This plot allows us to discern the relative differences and similarities among the three Iris species across all four measured features. The plot is color-coded with blue, magenta, and orange lines, each representing one of the Iris species. The blue lines denote Iris setosa, the magenta lines represent Iris virginica, and the orange lines correspond to Iris versicolor.",
+          "confidence": 1.0,
+          "words": [
+            {
+              "startTime": "0.000s",
+              "endTime": "0.305s",
+              "word": "This",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "0.305s",
+              "endTime": "0.979s",
+              "word": "parallel",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "0.979s",
+              "endTime": "1.887s",
+              "word": "coordinates",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "1.887s",
+              "endTime": "2.242s",
+              "word": "plot",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "2.242s",
+              "endTime": "2.828s",
+              "word": "presents",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "2.828s",
+              "endTime": "2.888s",
+              "word": "a",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "2.888s",
+              "endTime": "3.892s",
+              "word": "multivariate",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "3.892s",
+              "endTime": "4.706s",
+              "word": "analysis",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "4.706s",
+              "endTime": "4.807s",
+              "word": "of",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "4.807s",
+              "endTime": "4.942s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "4.942s",
+              "endTime": "5.548s",
+              "word": "classic",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "5.548s",
+              "endTime": "5.998s",
+              "word": "Iris",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "5.998s",
+              "endTime": "7.130s",
+              "word": "dataset,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "7.130s",
+              "endTime": "7.701s",
+              "word": "displaying",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "7.701s",
+              "endTime": "8.067s",
+              "word": "four",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "8.067s",
+              "endTime": "8.643s",
+              "word": "distinct",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "8.643s",
+              "endTime": "9.284s",
+              "word": "axes",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "9.284s",
+              "endTime": "10.184s",
+              "word": "corresponding",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "10.184s",
+              "endTime": "10.334s",
+              "word": "to",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "10.334s",
+              "endTime": "10.444s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "10.444s",
+              "endTime": "11.535s",
+              "word": "features:",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "11.535s",
+              "endTime": "12.030s",
+              "word": "sepal",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "12.030s",
+              "endTime": "12.738s",
+              "word": "length,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "12.738s",
+              "endTime": "13.245s",
+              "word": "sepal",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "13.245s",
+              "endTime": "13.980s",
+              "word": "width,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "13.980s",
+              "endTime": "14.345s",
+              "word": "petal",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "14.345s",
+              "endTime": "14.905s",
+              "word": "length,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "14.905s",
+              "endTime": "15.080s",
+              "word": "and",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "15.080s",
+              "endTime": "15.465s",
+              "word": "petal",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "15.465s",
+              "endTime": "16.708s",
+              "word": "width.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "16.708s",
+              "endTime": "17.008s",
+              "word": "Each",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "17.008s",
+              "endTime": "17.627s",
+              "word": "axis",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "17.627s",
+              "endTime": "18.271s",
+              "word": "represents",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "18.271s",
+              "endTime": "18.396s",
+              "word": "a",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "18.396s",
+              "endTime": "18.887s",
+              "word": "different",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "18.887s",
+              "endTime": "19.422s",
+              "word": "dimension",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "19.422s",
+              "endTime": "19.542s",
+              "word": "of",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "19.542s",
+              "endTime": "19.690s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "19.690s",
+              "endTime": "20.537s",
+              "word": "data,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "20.537s",
+              "endTime": "20.946s",
+              "word": "scaled",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "20.946s",
+              "endTime": "21.091s",
+              "word": "to",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "21.091s",
+              "endTime": "21.851s",
+              "word": "accommodate",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "21.851s",
+              "endTime": "21.916s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "21.916s",
+              "endTime": "22.332s",
+              "word": "range",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "22.332s",
+              "endTime": "22.437s",
+              "word": "of",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "22.437s",
+              "endTime": "23.097s",
+              "word": "values",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "23.097s",
+              "endTime": "23.253s",
+              "word": "for",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "23.253s",
+              "endTime": "23.418s",
+              "word": "that",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "23.418s",
+              "endTime": "23.798s",
+              "word": "given",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "23.798s",
+              "endTime": "25.343s",
+              "word": "feature.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "25.343s",
+              "endTime": "25.618s",
+              "word": "This",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "25.618s",
+              "endTime": "26.043s",
+              "word": "plot",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "26.043s",
+              "endTime": "26.473s",
+              "word": "allows",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "26.473s",
+              "endTime": "26.638s",
+              "word": "us",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "26.638s",
+              "endTime": "26.808s",
+              "word": "to",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "26.808s",
+              "endTime": "27.323s",
+              "word": "discern",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "27.323s",
+              "endTime": "27.388s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "27.388s",
+              "endTime": "27.993s",
+              "word": "relative",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "27.993s",
+              "endTime": "28.862s",
+              "word": "differences",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "28.862s",
+              "endTime": "28.990s",
+              "word": "and",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "28.990s",
+              "endTime": "30.039s",
+              "word": "similarities",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "30.039s",
+              "endTime": "30.347s",
+              "word": "among",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "30.347s",
+              "endTime": "30.437s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "30.437s",
+              "endTime": "30.859s",
+              "word": "three",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "30.859s",
+              "endTime": "31.301s",
+              "word": "Iris",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "31.301s",
+              "endTime": "31.968s",
+              "word": "species",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "31.968s",
+              "endTime": "32.438s",
+              "word": "across",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "32.438s",
+              "endTime": "32.677s",
+              "word": "all",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "32.677s",
+              "endTime": "33.042s",
+              "word": "four",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "33.042s",
+              "endTime": "33.516s",
+              "word": "measured",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "33.516s",
+              "endTime": "35.150s",
+              "word": "features.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "35.150s",
+              "endTime": "35.280s",
+              "word": "The",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "35.280s",
+              "endTime": "35.680s",
+              "word": "plot",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "35.680s",
+              "endTime": "35.865s",
+              "word": "is",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "35.865s",
+              "endTime": "36.721s",
+              "word": "color-coded",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "36.721s",
+              "endTime": "36.906s",
+              "word": "with",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "36.906s",
+              "endTime": "37.683s",
+              "word": "blue,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "37.683s",
+              "endTime": "38.515s",
+              "word": "magenta,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "38.515s",
+              "endTime": "38.695s",
+              "word": "and",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "38.695s",
+              "endTime": "39.162s",
+              "word": "orange",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "39.162s",
+              "endTime": "39.929s",
+              "word": "lines,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "39.929s",
+              "endTime": "40.199s",
+              "word": "each",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "40.199s",
+              "endTime": "40.939s",
+              "word": "representing",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "40.939s",
+              "endTime": "41.095s",
+              "word": "one",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "41.095s",
+              "endTime": "41.220s",
+              "word": "of",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "41.220s",
+              "endTime": "41.380s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "41.380s",
+              "endTime": "41.771s",
+              "word": "Iris",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "41.771s",
+              "endTime": "43.478s",
+              "word": "species.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "43.478s",
+              "endTime": "43.603s",
+              "word": "The",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "43.603s",
+              "endTime": "43.948s",
+              "word": "blue",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "43.948s",
+              "endTime": "44.378s",
+              "word": "lines",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "44.378s",
+              "endTime": "44.780s",
+              "word": "denote",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "44.780s",
+              "endTime": "45.245s",
+              "word": "Iris",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "45.245s",
+              "endTime": "46.359s",
+              "word": "setosa,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "46.359s",
+              "endTime": "46.429s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "46.429s",
+              "endTime": "46.987s",
+              "word": "magenta",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "46.987s",
+              "endTime": "47.499s",
+              "word": "lines",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "47.499s",
+              "endTime": "48.110s",
+              "word": "represent",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "48.110s",
+              "endTime": "48.596s",
+              "word": "Iris",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "48.596s",
+              "endTime": "49.648s",
+              "word": "virginica,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "49.648s",
+              "endTime": "49.763s",
+              "word": "and",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "49.763s",
+              "endTime": "49.883s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "49.883s",
+              "endTime": "50.333s",
+              "word": "orange",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "50.333s",
+              "endTime": "50.772s",
+              "word": "lines",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "50.772s",
+              "endTime": "51.528s",
+              "word": "correspond",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "51.528s",
+              "endTime": "51.653s",
+              "word": "to",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "51.653s",
+              "endTime": "52.109s",
+              "word": "Iris",
+              "speakerTag": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

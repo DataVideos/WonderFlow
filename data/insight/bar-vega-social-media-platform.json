@@ -1,0 +1,43 @@
+{
+  "insight1": {
+    "insightType": "Extreme",
+    "insightSentence": "The highest usage of social media platforms is Youtube among 25-29 years old, while the lowest usage is Snapchat among 65+ years old.",
+    "subInsights": [
+      {
+        "type": "maximum",
+        "data": [
+          "Youtube,0.93,25-29 years"
+        ],
+        "phrases": "Youtube among 25-29 years old"
+      },
+      {
+        "type": "minimum",
+        "data": [
+          "Snapchat,0.03,65+years"
+        ],
+        "phrases": "lowest usage is Snapchat among 65+ years old"
+      }
+    ]
+  },
+  "insight3": {
+    "insightType": "Proportion",
+    "insightSentence": "",
+    "subInsights": []
+  },
+  "insight2": {
+    "insightType": "Difference",
+    "insightSentence": "The usage of Youtube among 18-24 years old is more than twice as much as the usage of Youtube among 65+ years old.",
+    "subInsights": [
+      {
+        "type": "difference",
+        "data": [
+          "Youtube,0.9,18-24 years",
+          "Youtube,0.38,65+years"
+        ],
+        "phrases": "usage of Youtube among 18-24 years old is more than twice as much as the usage of Youtube among 65+ years old"
+      }
+    ]
+  },
+  "d1": "The title of the chart is Use of Social Media Platforms by Age Group in the US.",
+  "d2": "The x-axis shows the different social media platforms and the y-axis shows the percentage of users in each age group."
+}

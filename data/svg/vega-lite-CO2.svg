@@ -1,0 +1,191 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="1252" height="822" viewBox="0 0 626 411">
+    <rect width="626" height="411" fill="white"/>
+    <g fill="none" stroke-miterlimit="10" transform="translate(41,38)">
+        <g class="mark-group role-frame root" role="graphics-object" aria-roledescription="group mark container">
+            <g transform="translate(0,0)">
+                <path class="background" aria-hidden="true" d="M0.5,0.5h400v300h-400Z" stroke="#ddd"/>
+                <g>
+                    <g class="mark-group role-axis" aria-hidden="true">
+                        <g transform="translate(0.5,0.5)">
+                            <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/>
+                            <g>
+                                <g class="mark-rule role-axis-grid" pointer-events="none">
+                                    <line transform="translate(0,300)" x2="400" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                                    <line transform="translate(0,267)" x2="400" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                                    <line transform="translate(0,233)" x2="400" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                                    <line transform="translate(0,200)" x2="400" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                                    <line transform="translate(0,167)" x2="400" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                                    <line transform="translate(0,133)" x2="400" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                                    <line transform="translate(0,100)" x2="400" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                                    <line transform="translate(0,67)" x2="400" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                                    <line transform="translate(0,33)" x2="400" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                                    <line transform="translate(0,0)" x2="400" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                                </g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                        </g>
+                    </g>
+                    <g class="mark-group role-axis" role="graphics-symbol" aria-roledescription="axis" aria-label="X-axis for a discrete scale with 4 values: High, Upper-middle, Lower-middle, Low">
+                        <g transform="translate(0.5,300.5)">
+                            <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/>
+                            <g>
+                                <g class="mark-rule role-axis-tick" pointer-events="none">
+                                    <line transform="translate(57,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                    <line transform="translate(152,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                    <line transform="translate(247,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                    <line transform="translate(342,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                </g>
+                                <g class="mark-text role-axis-label" pointer-events="none">
+                                    <text text-anchor="end" transform="translate(56.64285714285713,7) rotate(270) translate(0,3)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">High</text>
+                                    <text text-anchor="end" transform="translate(151.88095238095238,7) rotate(270) translate(0,3)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Upper-middle</text>
+                                    <text text-anchor="end" transform="translate(247.11904761904762,7) rotate(270) translate(0,3)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Lower-middle</text>
+                                    <text text-anchor="end" transform="translate(342.35714285714283,7) rotate(270) translate(0,3)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Low</text>
+                                </g>
+                                <g class="mark-rule role-axis-domain" pointer-events="none">
+                                    <line transform="translate(0,0)" x2="400" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                                </g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                        </g>
+                    </g>
+                    <g class="mark-group role-axis" role="graphics-symbol" aria-roledescription="axis" aria-label="Y-axis titled 'percentage' for a linear scale with values from 0.0 to 0.9">
+                        <g transform="translate(0.5,0.5)">
+                            <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/>
+                            <g>
+                                <g class="mark-rule role-axis-tick" pointer-events="none">
+                                    <line transform="translate(0,300)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                                    <line transform="translate(0,267)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                                    <line transform="translate(0,233)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                                    <line transform="translate(0,200)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                                    <line transform="translate(0,167)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                                    <line transform="translate(0,133)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                                    <line transform="translate(0,100)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                                    <line transform="translate(0,67)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                                    <line transform="translate(0,33)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                                    <line transform="translate(0,0)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                                </g>
+                                <g class="mark-text role-axis-label" pointer-events="none">
+                                    <text text-anchor="end" transform="translate(-7,303)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">0.0</text>
+                                    <text text-anchor="end" transform="translate(-7,269.66666666666663)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">0.1</text>
+                                    <text text-anchor="end" transform="translate(-7,236.33333333333334)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">0.2</text>
+                                    <text text-anchor="end" transform="translate(-7,203.00000000000003)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">0.3</text>
+                                    <text text-anchor="end" transform="translate(-7,169.66666666666669)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">0.4</text>
+                                    <text text-anchor="end" transform="translate(-7,136.33333333333331)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">0.5</text>
+                                    <text text-anchor="end" transform="translate(-7,103.00000000000001)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">0.6</text>
+                                    <text text-anchor="end" transform="translate(-7,69.6666666666667)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">0.7</text>
+                                    <text text-anchor="end" transform="translate(-7,36.333333333333314)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">0.8</text>
+                                    <text text-anchor="end" transform="translate(-7,3)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">0.9</text>
+                                </g>
+                                <g class="mark-rule role-axis-domain" pointer-events="none">
+                                    <line transform="translate(0,300)" x2="0" y2="-300" stroke="#888" stroke-width="1" opacity="1"/>
+                                </g>
+                                <g class="mark-text role-axis-title" pointer-events="none">
+                                    <text text-anchor="middle" transform="translate(-24.9013671875,150) rotate(-90) translate(0,-2)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">percentage</text>
+                                </g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                        </g>
+                    </g>
+                    <g class="mark-rect role-mark layer_0_marks" role="graphics-object" aria-roledescription="rect mark container">
+                        <path aria-label="income group: High; percentage: 0.62; type: CO2 Emissions by income group" role="graphics-symbol" aria-roledescription="bar" d="M19.047619047619037,93.33333333333333h38.095238095238095v206.66666666666669h-38.095238095238095Z" fill="#1f77b4"/>
+                        <path aria-label="income group: Upper-middle; percentage: 0.28; type: CO2 Emissions by income group" role="graphics-symbol" aria-roledescription="bar" d="M114.28571428571428,206.66666666666666h38.095238095238095v93.33333333333334h-38.095238095238095Z" fill="#1f77b4"/>
+                        <path aria-label="income group: Lower-middle; percentage: 0.09; type: CO2 Emissions by income group" role="graphics-symbol" aria-roledescription="bar" d="M209.52380952380952,270h38.095238095238095v30h-38.095238095238095Z" fill="#1f77b4"/>
+                        <path aria-label="income group: Low; percentage: 0.01; type: CO2 Emissions by income group" role="graphics-symbol" aria-roledescription="bar" d="M304.76190476190476,296.6666666666667h38.095238095238095v3.3333333333333144h-38.095238095238095Z" fill="#1f77b4"/>
+                        <path aria-label="income group: High; percentage: 0.16; type: Population by income group" role="graphics-symbol" aria-roledescription="bar" d="M57.14285714285713,246.66666666666666h38.095238095238095v53.33333333333334h-38.095238095238095Z" fill="#2ca02c"/>
+                        <path aria-label="income group: Upper-middle; percentage: 0.35; type: Population by income group" role="graphics-symbol" aria-roledescription="bar" d="M152.38095238095238,183.33333333333334h38.095238095238095v116.66666666666666h-38.095238095238095Z" fill="#2ca02c"/>
+                        <path aria-label="income group: Lower-middle; percentage: 0.4; type: Population by income group" role="graphics-symbol" aria-roledescription="bar" d="M247.61904761904762,166.66666666666669h38.095238095238095v133.33333333333331h-38.095238095238095Z" fill="#2ca02c"/>
+                        <path aria-label="income group: Low; percentage: 0.9; type: Population by income group" role="graphics-symbol" aria-roledescription="bar" d="M342.85714285714283,0h38.095238095238095v300h-38.095238095238095Z" fill="#2ca02c"/>
+                    </g>
+                    <g class="mark-text role-mark layer_1_marks" role="graphics-object" aria-roledescription="text mark container">
+                        <text aria-label="income group: High; percentage: 0.62; type: CO2 Emissions by income group" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" transform="translate(38.09523809523809,86.33333333333333)" font-family="sans-serif" font-size="11px" fill="black">62%</text>
+                        <text aria-label="income group: Upper-middle; percentage: 0.28; type: CO2 Emissions by income group" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" transform="translate(133.33333333333331,199.66666666666666)" font-family="sans-serif" font-size="11px" fill="black">28%</text>
+                        <text aria-label="income group: Lower-middle; percentage: 0.09; type: CO2 Emissions by income group" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" transform="translate(228.57142857142856,263)" font-family="sans-serif" font-size="11px" fill="black">9%</text>
+                        <text aria-label="income group: Low; percentage: 0.01; type: CO2 Emissions by income group" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" transform="translate(323.8095238095238,289.6666666666667)" font-family="sans-serif" font-size="11px" fill="black">1%</text>
+                        <text aria-label="income group: High; percentage: 0.16; type: Population by income group" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" transform="translate(76.19047619047618,239.66666666666666)" font-family="sans-serif" font-size="11px" fill="black">16%</text>
+                        <text aria-label="income group: Upper-middle; percentage: 0.35; type: Population by income group" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" transform="translate(171.42857142857142,176.33333333333334)" font-family="sans-serif" font-size="11px" fill="black">35%</text>
+                        <text aria-label="income group: Lower-middle; percentage: 0.4; type: Population by income group" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" transform="translate(266.66666666666663,159.66666666666669)" font-family="sans-serif" font-size="11px" fill="black">40%</text>
+                        <text aria-label="income group: Low; percentage: 0.9; type: Population by income group" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" transform="translate(361.9047619047619,-7)" font-family="sans-serif" font-size="11px" fill="black">90%</text>
+                    </g>
+                    <g class="mark-rule role-mark layer_2_marks" role="graphics-symbol" aria-roledescription="rule mark container">
+                        <line transform="translate(400,216.66666666666666)" x2="-400" y2="0" stroke="red" stroke-dasharray="5,5"/>
+                        <line transform="translate(400,216.66666666666666)" x2="-400" y2="0" stroke="red" stroke-dasharray="5,5"/>
+                        <line transform="translate(400,216.66666666666666)" x2="-400" y2="0" stroke="red" stroke-dasharray="5,5"/>
+                        <line transform="translate(400,216.66666666666666)" x2="-400" y2="0" stroke="red" stroke-dasharray="5,5"/>
+                        <line transform="translate(400,216.66666666666666)" x2="-400" y2="0" stroke="red" stroke-dasharray="5,5"/>
+                        <line transform="translate(400,216.66666666666666)" x2="-400" y2="0" stroke="red" stroke-dasharray="5,5"/>
+                        <line transform="translate(400,216.66666666666666)" x2="-400" y2="0" stroke="red" stroke-dasharray="5,5"/>
+                        <line transform="translate(400,216.66666666666666)" x2="-400" y2="0" stroke="red" stroke-dasharray="5,5"/>
+                    </g>
+                    <g class="mark-text role-mark layer_3_marks" role="graphics-object" aria-roledescription="text mark container">
+                        <text text-anchor="start" transform="translate(405,214.66666666666666)" font-family="sans-serif" font-size="11px" fill="red">Average CO2 Emissions</text>
+                        <text text-anchor="start" transform="translate(405,214.66666666666666)" font-family="sans-serif" font-size="11px" fill="red">Average CO2 Emissions</text>
+                        <text text-anchor="start" transform="translate(405,214.66666666666666)" font-family="sans-serif" font-size="11px" fill="red">Average CO2 Emissions</text>
+                        <text text-anchor="start" transform="translate(405,214.66666666666666)" font-family="sans-serif" font-size="11px" fill="red">Average CO2 Emissions</text>
+                        <text text-anchor="start" transform="translate(405,214.66666666666666)" font-family="sans-serif" font-size="11px" fill="red">Average CO2 Emissions</text>
+                        <text text-anchor="start" transform="translate(405,214.66666666666666)" font-family="sans-serif" font-size="11px" fill="red">Average CO2 Emissions</text>
+                        <text text-anchor="start" transform="translate(405,214.66666666666666)" font-family="sans-serif" font-size="11px" fill="red">Average CO2 Emissions</text>
+                        <text text-anchor="start" transform="translate(405,214.66666666666666)" font-family="sans-serif" font-size="11px" fill="red">Average CO2 Emissions</text>
+                    </g>
+                    <g class="mark-group role-legend" role="graphics-symbol" aria-roledescription="legend" aria-label="Symbol legend titled 'Type' for fill color with 2 values: CO2 Emissions by income group, Population by income group">
+                        <g transform="translate(418,0)">
+                            <path class="background" aria-hidden="true" d="M0,0h162v40h-162Z" pointer-events="none"/>
+                            <g>
+                                <g class="mark-group role-legend-entry">
+                                    <g transform="translate(0,16)">
+                                        <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/>
+                                        <g>
+                                            <g class="mark-group role-scope" role="graphics-object" aria-roledescription="group mark container">
+                                                <g transform="translate(0,0)">
+                                                    <path class="background" aria-hidden="true" d="M0,0h161.615234375v11h-161.615234375Z" pointer-events="none" opacity="1"/>
+                                                    <g>
+                                                        <g class="mark-symbol role-legend-symbol" pointer-events="none">
+                                                            <path transform="translate(6,6)" d="M-5,-5h10v10h-10Z" fill="#1f77b4" stroke-width="1.5" opacity="1"/>
+                                                        </g>
+                                                        <g class="mark-text role-legend-label" pointer-events="none">
+                                                            <text text-anchor="start" transform="translate(16,9)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">CO2 Emissions by income group</text>
+                                                        </g>
+                                                    </g>
+                                                    <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                                                </g>
+                                                <g transform="translate(0,13)">
+                                                    <path class="background" aria-hidden="true" d="M0,0h161.615234375v11h-161.615234375Z" pointer-events="none" opacity="1"/>
+                                                    <g>
+                                                        <g class="mark-symbol role-legend-symbol" pointer-events="none">
+                                                            <path transform="translate(6,6)" d="M-5,-5h10v10h-10Z" fill="#2ca02c" stroke-width="1.5" opacity="1"/>
+                                                        </g>
+                                                        <g class="mark-text role-legend-label" pointer-events="none">
+                                                            <text text-anchor="start" transform="translate(16,9)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Population by income group</text>
+                                                        </g>
+                                                    </g>
+                                                    <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                                    </g>
+                                </g>
+                                <g class="mark-text role-legend-title" pointer-events="none">
+                                    <text text-anchor="start" transform="translate(0,9)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Type</text>
+                                </g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                        </g>
+                    </g>
+                    <g class="mark-group role-title">
+                        <g transform="translate(200,-33)">
+                            <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/>
+                            <g>
+                                <g class="mark-text role-title-text" role="graphics-symbol" aria-roledescription="title" aria-label="Title text 'Inequalities in CO2 Emissions by Income Group from Air Travel'" pointer-events="none">
+                                    <text text-anchor="middle" transform="translate(0,10)" font-family="sans-serif" font-size="13px" font-weight="bold" fill="#000" opacity="1">Inequalities in CO2 Emissions by Income Group from Air Travel</text>
+                                </g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                        </g>
+                    </g>
+                </g>
+                <path class="foreground" aria-hidden="true" d="" display="none"/>
+            </g>
+        </g>
+    </g>
+</svg>

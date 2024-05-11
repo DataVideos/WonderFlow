@@ -1,0 +1,42 @@
+{
+  "d1":"The title of the chart is US Covid-19 Deaths by Month which shows the monthly death toll for the US due to Covid-19.",
+  "d2":"The x-axis displays the period from 2021 to 2023, while the y-axis shows the number of Covid-19 deaths in each month.",
+  "insight3" : {
+      "insightType": "difference",
+      "insightSentence" : "There is a difference between Apr 2021 and Sep 2022 with 63,250 deaths in Sep 2022.",
+      "subInsights": [
+          {
+              "type": "difference",
+              "data": ["Apr 21,67650", "Sep 22,63250"],
+              "phrases": "There is a difference between Apr 2021 and Sep 2022 with 63,250 deaths in Sep 2022."
+          }
+      ]
+  },
+  "insight1": {
+      "insightType": "trend",
+      "insightSentence" : "The US Covid-19 Deaths by Month chart shows a fluctuating increase in deaths from Jan 2021 to Sep 2022.",
+      "subInsights": [
+          {
+              "type": "fluctuate_increase",
+              "data": ["Jan 21, 0", "Feb 21, 550", "Mar 21, 7700", "Apr 21, 67650", "May 21, 39600", "Jun 21, 18700", "Jul 21, 32450", "Aug 21, 30800", "Sep 21, 19800", "Oct 21, 25850", "Nov 21, 55000", "Dec 21, 99000", "Jan 22, 103400", "Feb 22, 50600", "Mar 22, 24200", "Apr 22, 19800", "May 22, 15400", "Jun 22, 8250", "Jul 22, 11550", "Aug 22, 50600", "Sep 22, 63250", "Oct 22, 44000", "Nov 22, 33550", "Dec 22, 46200", "Jan 23, 84700"],
+              "phrases": "The US Covid-19 Deaths by Month chart shows a fluctuating increase in deaths from Jan 2021 to Sep 2022."
+          }
+      ]
+  },
+  "insight2": {
+      "insightType": "value",
+      "insightSentence" : "Apr 2021 having the highest number of 67,650 deaths in 2021, followed by Jan 2022 with 103,400 deaths in 2022.",
+      "subInsights": [
+          {
+              "type": "value",
+              "data": ["Apr 21,67650"],
+              "phrases": "Apr 2021 having the highest number of 67,650 deaths in 2021"
+          },
+           {
+              "type": "value",
+              "data": ["Jan 22,103400"],
+              "phrases": "followed by Jan 2022 with 103,400 deaths in 2022."
+          }
+      ]
+  }
+}

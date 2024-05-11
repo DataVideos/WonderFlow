@@ -1,0 +1,18 @@
+
+      {
+        projectId: 'line-vega-telephone-example1',
+        scenes: [
+          {
+            charts: [
+              {source: './line-vega-telephone.svg'},
+            ],
+            animation: {
+              sequence: {
+                  "sync": [
+                  ]
+              }
+            },
+          }
+        ]
+      }
+    

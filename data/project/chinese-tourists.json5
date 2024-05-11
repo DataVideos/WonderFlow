@@ -1,0 +1,172 @@
+{
+  projectId: 'chinese-tourists',
+  scenes: [
+    {
+      charts: [
+        {source: './chinese-tourists.svg'},
+      ],
+      animation: {
+          target: '.chinese-tourists',
+    "sequence": {
+        "sync": [
+            {
+                "use": "Scatter with legend",
+                "timing": {
+                    "start": 2.538,
+                    "duration": 0.54,
+                    "offset": 0
+                },
+                "target": "#scene-43, #scene-50, #scene-51",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Scatter with legend",
+                "timing": {
+                    "start": 5.338,
+                    "duration": 0.51,
+                    "offset": 0
+                },
+                "target": "#scene-44, #scene-52, #scene-53",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Scatter with legend",
+                "timing": {
+                    "start": 6.588,
+                    "duration": 0.99,
+                    "offset": 0
+                },
+                "target": "#scene-45, #scene-54, #scene-55",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Scatter with legend",
+                "timing": {
+                    "start": 11.338,
+                    "duration": 0.17,
+                    "offset": 0
+                },
+                "target": "#scene-46, #scene-56, #scene-57",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Scatter with legend",
+                "timing": {
+                    "start": 12.375,
+                    "duration": 0.14,
+                    "offset": 0
+                },
+                "target": "#scene-47, #scene-58, #scene-59",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Scatter with legend",
+                "timing": {
+                    "start": 13.95,
+                    "duration": 0.21,
+                    "offset": 0
+                },
+                "target": "#scene-48, #scene-60, #scene-61",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Scatter with legend",
+                "timing": {
+                    "start": 15.65,
+                    "duration": 0.22,
+                    "offset": 0
+                },
+                "target": "#scene-49, #scene-62, #scene-63",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Line-wipe",
+                "timing": {
+                    "start": 18.887,
+                    "duration": 0.03,
+                    "offset": 0
+                },
+                "target": "#mark-3",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Line-wipe",
+                "timing": {
+                    "start": 19.762,
+                    "duration": 0.01,
+                    "offset": 0
+                },
+                "target": "#mark-4",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Line-wipe",
+                "timing": {
+                    "start": 20.387,
+                    "duration": 0.15,
+                    "offset": 0
+                },
+                "target": "#mark-6",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Line-wipe",
+                "timing": {
+                    "start": 23.163,
+                    "duration": 0.25,
+                    "offset": 0
+                },
+                "target": "#mark-5",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Line-wipe",
+                "timing": {
+                    "start": 25.488,
+                    "duration": 0.85,
+                    "offset": 0
+                },
+                "target": "#mark-2",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Line-wipe",
+                "timing": {
+                    "start": 29.813,
+                    "duration": 0.85,
+                    "offset": 0
+                },
+                "target": "#mark-1",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Line-wipe",
+                "timing": {
+                    "start": 33.775,
+                    "duration": 0.18,
+                    "offset": 0
+                },
+                "target": "#mark-0",
+                "ani_type": "Enter",
+                "settings": {}
+            }
+        ]
+    }
+
+      }
+    },
+  ]
+}

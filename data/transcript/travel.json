@@ -1,0 +1,344 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "Despite the increasing number of flights taking place, fatal accidents involving aircraft are rare. The number of fatal incidents per year is down to single figures. And in 2017, which saw over 33 million passenger flights, it was zero! This is credited to GPS revolutionizing air traffic control, rigorous pilot training, and improved aircraft robustness. .",
+          "confidence": 1.0,
+          "words": [
+            {
+              "startTime": "0.000s",
+              "endTime": "0.585s",
+              "word": "Despite",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "0.585s",
+              "endTime": "0.736s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "0.736s",
+              "endTime": "1.405s",
+              "word": "increasing",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "1.405s",
+              "endTime": "1.822s",
+              "word": "number",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "1.822s",
+              "endTime": "1.887s",
+              "word": "of",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "1.887s",
+              "endTime": "2.419s",
+              "word": "flights",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "2.419s",
+              "endTime": "2.849s",
+              "word": "taking",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "2.849s",
+              "endTime": "3.636s",
+              "word": "place,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "3.636s",
+              "endTime": "4.046s",
+              "word": "fatal",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "4.046s",
+              "endTime": "4.727s",
+              "word": "accidents",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "4.727s",
+              "endTime": "5.259s",
+              "word": "involving",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "5.259s",
+              "endTime": "5.949s",
+              "word": "aircraft",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "5.949s",
+              "endTime": "6.094s",
+              "word": "are",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "6.094s",
+              "endTime": "7.452s",
+              "word": "rare.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "7.452s",
+              "endTime": "7.552s",
+              "word": "The",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "7.552s",
+              "endTime": "8.012s",
+              "word": "number",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "8.012s",
+              "endTime": "8.074s",
+              "word": "of",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "8.074s",
+              "endTime": "8.594s",
+              "word": "fatal",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "8.594s",
+              "endTime": "9.230s",
+              "word": "incidents",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "9.230s",
+              "endTime": "9.400s",
+              "word": "per",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "9.400s",
+              "endTime": "9.852s",
+              "word": "year",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "9.852s",
+              "endTime": "9.987s",
+              "word": "is",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "9.987s",
+              "endTime": "10.262s",
+              "word": "down",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "10.262s",
+              "endTime": "10.347s",
+              "word": "to",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "10.347s",
+              "endTime": "10.782s",
+              "word": "single",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "10.782s",
+              "endTime": "12.425s",
+              "word": "figures.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "12.425s",
+              "endTime": "12.545s",
+              "word": "And",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "12.545s",
+              "endTime": "12.710s",
+              "word": "in",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "12.710s",
+              "endTime": "14.228s",
+              "word": "2017,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "14.228s",
+              "endTime": "14.428s",
+              "word": "which",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "14.428s",
+              "endTime": "14.698s",
+              "word": "saw",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "14.698s",
+              "endTime": "15.003s",
+              "word": "over",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "15.003s",
+              "endTime": "15.743s",
+              "word": "33",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "15.743s",
+              "endTime": "16.246s",
+              "word": "million",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "16.246s",
+              "endTime": "16.929s",
+              "word": "passenger",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "16.929s",
+              "endTime": "17.587s",
+              "word": "flights,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "17.587s",
+              "endTime": "17.677s",
+              "word": "it",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "17.677s",
+              "endTime": "17.877s",
+              "word": "was",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "17.877s",
+              "endTime": "19.399s",
+              "word": "zero!",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "19.399s",
+              "endTime": "19.679s",
+              "word": "This",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "19.679s",
+              "endTime": "19.839s",
+              "word": "is",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "19.839s",
+              "endTime": "20.449s",
+              "word": "credited",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "20.449s",
+              "endTime": "20.617s",
+              "word": "to",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "20.617s",
+              "endTime": "21.538s",
+              "word": "GPS",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "21.538s",
+              "endTime": "22.656s",
+              "word": "revolutionizing",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "22.656s",
+              "endTime": "22.901s",
+              "word": "air",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "22.901s",
+              "endTime": "23.516s",
+              "word": "traffic",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "23.516s",
+              "endTime": "24.391s",
+              "word": "control,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "24.391s",
+              "endTime": "24.887s",
+              "word": "rigorous",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "24.887s",
+              "endTime": "25.444s",
+              "word": "pilot",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "25.444s",
+              "endTime": "26.044s",
+              "word": "training,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "26.044s",
+              "endTime": "26.194s",
+              "word": "and",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "26.194s",
+              "endTime": "26.808s",
+              "word": "improved",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "26.808s",
+              "endTime": "27.480s",
+              "word": "aircraft",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "27.480s",
+              "endTime": "28.408s",
+              "word": "robustness.",
+              "speakerTag": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

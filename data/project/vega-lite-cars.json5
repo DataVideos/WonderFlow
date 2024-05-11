@@ -1,0 +1,26 @@
+{
+  projectId: 'vega-lite-cars',
+  scenes: [
+    {
+      charts: [
+        {source: './vega-lite-cars.svg'},
+      ],
+      animation: {
+          target: '.vega-lite-cars',
+          sequence: {
+              sync: [
+                {
+                  use: 'Bar chart',
+                  settings: {
+                    barDirection: 'left',
+                  },
+                  timing: {
+                    duration: 5.5,
+                  },
+                },
+              ]
+          }
+      }
+    },
+  ]
+}

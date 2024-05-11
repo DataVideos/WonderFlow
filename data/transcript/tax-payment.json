@@ -1,0 +1,1217 @@
+{
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "transcript": "The first ten people represent everyone in America from the poorest 10% to the very richest 10%. Most Americans pay multiple income taxes. If adding up all the income taxes, the data shows that poor people pay a very small part of their income to the government. And rich people pay more. This phenomenon is called progressive taxation. However, if we consider another special group, the 400 billionaires, who are the richest Americas. They don’t make most of their money through typical income. So their income actually gets taxed at relatively lower rates. Furthermore, there are many other kinds of taxes in America, such as property taxes, estate taxes, payroll taxes, and consumption taxes. When we put these taxes together, we see that America’s tax system as a whole is not very progressive. Instead, it’s mostly flat. And the 400 billionaires are paying a smaller portion than everyone else.",
+                    "words": [
+                        {
+                            "startTime": "0s",
+                            "endTime": "0.05s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "The"
+                        },
+                        {
+                            "startTime": "0.05s",
+                            "endTime": "0.225s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "first"
+                        },
+                        {
+                            "startTime": "0.225s",
+                            "endTime": "0.575s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "ten"
+                        },
+                        {
+                            "startTime": "0.575s",
+                            "endTime": "0.787s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "people"
+                        },
+                        {
+                            "startTime": "0.787s",
+                            "endTime": "1.163s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "represent"
+                        },
+                        {
+                            "startTime": "1.163s",
+                            "endTime": "1.775s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "everyone"
+                        },
+                        {
+                            "startTime": "1.775s",
+                            "endTime": "2.2s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "in"
+                        },
+                        {
+                            "startTime": "2.2s",
+                            "endTime": "2.313s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "America"
+                        },
+                        {
+                            "startTime": "2.313s",
+                            "endTime": "2.875s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "from"
+                        },
+                        {
+                            "startTime": "2.875s",
+                            "endTime": "3.063s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "the"
+                        },
+                        {
+                            "startTime": "3.063s",
+                            "endTime": "3.175s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "poorest"
+                        },
+                        {
+                            "startTime": "3.175s",
+                            "endTime": "3.688s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "10%"
+                        },
+                        {
+                            "startTime": "3.688s",
+                            "endTime": "4.55s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "to"
+                        },
+                        {
+                            "startTime": "4.55s",
+                            "endTime": "4.65s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "the"
+                        },
+                        {
+                            "startTime": "4.65s",
+                            "endTime": "4.75s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "very"
+                        },
+                        {
+                            "startTime": "4.75s",
+                            "endTime": "5.063s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "richest"
+                        },
+                        {
+                            "startTime": "5.063s",
+                            "endTime": "5.65s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "10%"
+                        },
+                        {
+                            "startTime": "5.65s",
+                            "endTime": "6.5s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "."
+                        },
+                        {
+                            "startTime": "6.5s",
+                            "endTime": "7.35s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "Most"
+                        },
+                        {
+                            "startTime": "7.35s",
+                            "endTime": "7.7s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "Americans"
+                        },
+                        {
+                            "startTime": "7.7s",
+                            "endTime": "8.387s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "pay"
+                        },
+                        {
+                            "startTime": "8.387s",
+                            "endTime": "8.563s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "multiple"
+                        },
+                        {
+                            "startTime": "8.563s",
+                            "endTime": "9.037s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "income"
+                        },
+                        {
+                            "startTime": "9.037s",
+                            "endTime": "9.425s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "taxes"
+                        },
+                        {
+                            "startTime": "9.425s",
+                            "endTime": "10.2s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "."
+                        },
+                        {
+                            "startTime": "10.2s",
+                            "endTime": "11.05s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "If"
+                        },
+                        {
+                            "startTime": "11.05s",
+                            "endTime": "11.25s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "adding"
+                        },
+                        {
+                            "startTime": "11.25s",
+                            "endTime": "11.6s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "up"
+                        },
+                        {
+                            "startTime": "11.6s",
+                            "endTime": "11.725s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "all"
+                        },
+                        {
+                            "startTime": "11.725s",
+                            "endTime": "11.875s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "the"
+                        },
+                        {
+                            "startTime": "11.875s",
+                            "endTime": "11.988s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "income"
+                        },
+                        {
+                            "startTime": "11.988s",
+                            "endTime": "12.375s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "taxes"
+                        },
+                        {
+                            "startTime": "12.375s",
+                            "endTime": "13.15s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": ","
+                        },
+                        {
+                            "startTime": "13.15s",
+                            "endTime": "13.238s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "the"
+                        },
+                        {
+                            "startTime": "13.238s",
+                            "endTime": "13.363s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "data"
+                        },
+                        {
+                            "startTime": "13.363s",
+                            "endTime": "13.662s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "shows"
+                        },
+                        {
+                            "startTime": "13.662s",
+                            "endTime": "14.025s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "that"
+                        },
+                        {
+                            "startTime": "14.025s",
+                            "endTime": "14.213s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "poor"
+                        },
+                        {
+                            "startTime": "14.213s",
+                            "endTime": "14.488s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "people"
+                        },
+                        {
+                            "startTime": "14.488s",
+                            "endTime": "14.825s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "pay"
+                        },
+                        {
+                            "startTime": "14.825s",
+                            "endTime": "15.05s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "a"
+                        },
+                        {
+                            "startTime": "15.05s",
+                            "endTime": "15.113s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "very"
+                        },
+                        {
+                            "startTime": "15.113s",
+                            "endTime": "15.425s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "small"
+                        },
+                        {
+                            "startTime": "15.425s",
+                            "endTime": "15.762s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "part"
+                        },
+                        {
+                            "startTime": "15.762s",
+                            "endTime": "16.012s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "of"
+                        },
+                        {
+                            "startTime": "16.012s",
+                            "endTime": "16.087s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "their"
+                        },
+                        {
+                            "startTime": "16.087s",
+                            "endTime": "16.238s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "income"
+                        },
+                        {
+                            "startTime": "16.238s",
+                            "endTime": "16.8s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "to"
+                        },
+                        {
+                            "startTime": "16.8s",
+                            "endTime": "16.9s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "the"
+                        },
+                        {
+                            "startTime": "16.9s",
+                            "endTime": "17.012s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "government"
+                        },
+                        {
+                            "startTime": "17.012s",
+                            "endTime": "17.663s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "."
+                        },
+                        {
+                            "startTime": "17.663s",
+                            "endTime": "18.512s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "And"
+                        },
+                        {
+                            "startTime": "18.512s",
+                            "endTime": "18.7s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "rich"
+                        },
+                        {
+                            "startTime": "18.7s",
+                            "endTime": "18.975s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "people"
+                        },
+                        {
+                            "startTime": "18.975s",
+                            "endTime": "19.275s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "pay"
+                        },
+                        {
+                            "startTime": "19.275s",
+                            "endTime": "19.475s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "more"
+                        },
+                        {
+                            "startTime": "19.475s",
+                            "endTime": "19.938s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "."
+                        },
+                        {
+                            "startTime": "19.938s",
+                            "endTime": "20.788s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "This"
+                        },
+                        {
+                            "startTime": "20.788s",
+                            "endTime": "21.038s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "phenomenon"
+                        },
+                        {
+                            "startTime": "21.038s",
+                            "endTime": "21.725s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "is"
+                        },
+                        {
+                            "startTime": "21.725s",
+                            "endTime": "21.875s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "called"
+                        },
+                        {
+                            "startTime": "21.875s",
+                            "endTime": "22.113s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "progressive"
+                        },
+                        {
+                            "startTime": "22.113s",
+                            "endTime": "22.637s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "taxation"
+                        },
+                        {
+                            "startTime": "22.637s",
+                            "endTime": "23.45s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "."
+                        },
+                        {
+                            "startTime": "23.45s",
+                            "endTime": "24.3s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "However"
+                        },
+                        {
+                            "startTime": "24.3s",
+                            "endTime": "24.975s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": ","
+                        },
+                        {
+                            "startTime": "24.975s",
+                            "endTime": "25s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "if"
+                        },
+                        {
+                            "startTime": "25s",
+                            "endTime": "25.125s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "we"
+                        },
+                        {
+                            "startTime": "25.125s",
+                            "endTime": "25.25s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "consider"
+                        },
+                        {
+                            "startTime": "25.25s",
+                            "endTime": "25.7s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "another"
+                        },
+                        {
+                            "startTime": "25.7s",
+                            "endTime": "26.1s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "special"
+                        },
+                        {
+                            "startTime": "26.1s",
+                            "endTime": "26.512s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "group"
+                        },
+                        {
+                            "startTime": "26.512s",
+                            "endTime": "27.012s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": ","
+                        },
+                        {
+                            "startTime": "27.012s",
+                            "endTime": "27.1s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "the"
+                        },
+                        {
+                            "startTime": "27.1s",
+                            "endTime": "27.212s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "400"
+                        },
+                        {
+                            "startTime": "27.212s",
+                            "endTime": "27.813s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "billionaires"
+                        },
+                        {
+                            "startTime": "27.813s",
+                            "endTime": "28.637s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": ","
+                        },
+                        {
+                            "startTime": "28.637s",
+                            "endTime": "28.75s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "who"
+                        },
+                        {
+                            "startTime": "28.75s",
+                            "endTime": "28.863s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "are"
+                        },
+                        {
+                            "startTime": "28.863s",
+                            "endTime": "28.962s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "the"
+                        },
+                        {
+                            "startTime": "28.962s",
+                            "endTime": "29.075s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "richest"
+                        },
+                        {
+                            "startTime": "29.075s",
+                            "endTime": "29.475s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "Americas"
+                        },
+                        {
+                            "startTime": "29.475s",
+                            "endTime": "30.3s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "."
+                        },
+                        {
+                            "startTime": "30.3s",
+                            "endTime": "31.15s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "They"
+                        },
+                        {
+                            "startTime": "31.15s",
+                            "endTime": "31.313s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "don’t"
+                        },
+                        {
+                            "startTime": "31.313s",
+                            "endTime": "31.525s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "make"
+                        },
+                        {
+                            "startTime": "31.525s",
+                            "endTime": "31.725s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "most"
+                        },
+                        {
+                            "startTime": "31.725s",
+                            "endTime": "32.038s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "of"
+                        },
+                        {
+                            "startTime": "32.038s",
+                            "endTime": "32.112s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "their"
+                        },
+                        {
+                            "startTime": "32.112s",
+                            "endTime": "32.25s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "money"
+                        },
+                        {
+                            "startTime": "32.25s",
+                            "endTime": "32.775s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "through"
+                        },
+                        {
+                            "startTime": "32.775s",
+                            "endTime": "32.95s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "typical"
+                        },
+                        {
+                            "startTime": "32.95s",
+                            "endTime": "33.388s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "income"
+                        },
+                        {
+                            "startTime": "33.388s",
+                            "endTime": "33.938s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "."
+                        },
+                        {
+                            "startTime": "33.938s",
+                            "endTime": "34.788s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "So"
+                        },
+                        {
+                            "startTime": "34.788s",
+                            "endTime": "35s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "their"
+                        },
+                        {
+                            "startTime": "35s",
+                            "endTime": "35.163s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "income"
+                        },
+                        {
+                            "startTime": "35.163s",
+                            "endTime": "35.563s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "actually"
+                        },
+                        {
+                            "startTime": "35.563s",
+                            "endTime": "36.013s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "gets"
+                        },
+                        {
+                            "startTime": "36.013s",
+                            "endTime": "36.275s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "taxed"
+                        },
+                        {
+                            "startTime": "36.275s",
+                            "endTime": "36.837s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "at"
+                        },
+                        {
+                            "startTime": "36.837s",
+                            "endTime": "36.962s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "relatively"
+                        },
+                        {
+                            "startTime": "36.962s",
+                            "endTime": "37.513s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "lower"
+                        },
+                        {
+                            "startTime": "37.513s",
+                            "endTime": "37.825s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "rates"
+                        },
+                        {
+                            "startTime": "37.825s",
+                            "endTime": "38.362s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "."
+                        },
+                        {
+                            "startTime": "38.362s",
+                            "endTime": "39.212s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "Furthermore"
+                        },
+                        {
+                            "startTime": "39.212s",
+                            "endTime": "40.038s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": ","
+                        },
+                        {
+                            "startTime": "40.038s",
+                            "endTime": "40.112s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "there"
+                        },
+                        {
+                            "startTime": "40.112s",
+                            "endTime": "40.275s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "are"
+                        },
+                        {
+                            "startTime": "40.275s",
+                            "endTime": "40.375s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "many"
+                        },
+                        {
+                            "startTime": "40.375s",
+                            "endTime": "40.7s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "other"
+                        },
+                        {
+                            "startTime": "40.7s",
+                            "endTime": "40.938s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "kinds"
+                        },
+                        {
+                            "startTime": "40.938s",
+                            "endTime": "41.25s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "of"
+                        },
+                        {
+                            "startTime": "41.25s",
+                            "endTime": "41.337s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "taxes"
+                        },
+                        {
+                            "startTime": "41.337s",
+                            "endTime": "41.962s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "in"
+                        },
+                        {
+                            "startTime": "41.962s",
+                            "endTime": "42.1s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "America"
+                        },
+                        {
+                            "startTime": "42.1s",
+                            "endTime": "42.813s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": ","
+                        },
+                        {
+                            "startTime": "42.813s",
+                            "endTime": "42.9s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "such"
+                        },
+                        {
+                            "startTime": "42.9s",
+                            "endTime": "43.138s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "as"
+                        },
+                        {
+                            "startTime": "43.138s",
+                            "endTime": "43.237s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "property"
+                        },
+                        {
+                            "startTime": "43.237s",
+                            "endTime": "43.663s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "taxes"
+                        },
+                        {
+                            "startTime": "43.663s",
+                            "endTime": "44.438s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": ","
+                        },
+                        {
+                            "startTime": "44.438s",
+                            "endTime": "44.462s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "estate"
+                        },
+                        {
+                            "startTime": "44.462s",
+                            "endTime": "44.837s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "taxes"
+                        },
+                        {
+                            "startTime": "44.837s",
+                            "endTime": "45.612s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": ","
+                        },
+                        {
+                            "startTime": "45.612s",
+                            "endTime": "45.625s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "payroll"
+                        },
+                        {
+                            "startTime": "45.625s",
+                            "endTime": "46.013s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "taxes"
+                        },
+                        {
+                            "startTime": "46.013s",
+                            "endTime": "46.775s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": ","
+                        },
+                        {
+                            "startTime": "46.775s",
+                            "endTime": "46.875s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "and"
+                        },
+                        {
+                            "startTime": "46.875s",
+                            "endTime": "47.025s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "consumption"
+                        },
+                        {
+                            "startTime": "47.025s",
+                            "endTime": "47.612s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "taxes"
+                        },
+                        {
+                            "startTime": "47.612s",
+                            "endTime": "48.375s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "."
+                        },
+                        {
+                            "startTime": "48.375s",
+                            "endTime": "49.225s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "When"
+                        },
+                        {
+                            "startTime": "49.225s",
+                            "endTime": "49.4s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "we"
+                        },
+                        {
+                            "startTime": "49.4s",
+                            "endTime": "49.5s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "put"
+                        },
+                        {
+                            "startTime": "49.5s",
+                            "endTime": "49.7s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "these"
+                        },
+                        {
+                            "startTime": "49.7s",
+                            "endTime": "49.913s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "taxes"
+                        },
+                        {
+                            "startTime": "49.913s",
+                            "endTime": "50.35s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "together"
+                        },
+                        {
+                            "startTime": "50.35s",
+                            "endTime": "50.987s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": ","
+                        },
+                        {
+                            "startTime": "50.987s",
+                            "endTime": "51.125s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "we"
+                        },
+                        {
+                            "startTime": "51.125s",
+                            "endTime": "51.263s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "see"
+                        },
+                        {
+                            "startTime": "51.263s",
+                            "endTime": "51.462s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "that"
+                        },
+                        {
+                            "startTime": "51.462s",
+                            "endTime": "51.612s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "America’s"
+                        },
+                        {
+                            "startTime": "51.612s",
+                            "endTime": "52.163s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "tax"
+                        },
+                        {
+                            "startTime": "52.163s",
+                            "endTime": "52.513s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "system"
+                        },
+                        {
+                            "startTime": "52.513s",
+                            "endTime": "53.05s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "as"
+                        },
+                        {
+                            "startTime": "53.05s",
+                            "endTime": "53.175s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "a"
+                        },
+                        {
+                            "startTime": "53.175s",
+                            "endTime": "53.237s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "whole"
+                        },
+                        {
+                            "startTime": "53.237s",
+                            "endTime": "53.75s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "is"
+                        },
+                        {
+                            "startTime": "53.75s",
+                            "endTime": "53.913s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "not"
+                        },
+                        {
+                            "startTime": "53.913s",
+                            "endTime": "54.138s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "very"
+                        },
+                        {
+                            "startTime": "54.138s",
+                            "endTime": "54.388s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "progressive"
+                        },
+                        {
+                            "startTime": "54.388s",
+                            "endTime": "55.212s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "."
+                        },
+                        {
+                            "startTime": "55.212s",
+                            "endTime": "56.063s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "Instead"
+                        },
+                        {
+                            "startTime": "56.063s",
+                            "endTime": "56.775s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": ","
+                        },
+                        {
+                            "startTime": "56.775s",
+                            "endTime": "56.85s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "it’s"
+                        },
+                        {
+                            "startTime": "56.85s",
+                            "endTime": "57.013s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "mostly"
+                        },
+                        {
+                            "startTime": "57.013s",
+                            "endTime": "57.438s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "flat"
+                        },
+                        {
+                            "startTime": "57.438s",
+                            "endTime": "58.038s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "."
+                        },
+                        {
+                            "startTime": "58.038s",
+                            "endTime": "58.888s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "And"
+                        },
+                        {
+                            "startTime": "58.888s",
+                            "endTime": "59.063s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "the"
+                        },
+                        {
+                            "startTime": "59.063s",
+                            "endTime": "59.163s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "400"
+                        },
+                        {
+                            "startTime": "59.163s",
+                            "endTime": "59.725s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "billionaires"
+                        },
+                        {
+                            "startTime": "59.725s",
+                            "endTime": "60.438s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "are"
+                        },
+                        {
+                            "startTime": "60.438s",
+                            "endTime": "60.575s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "paying"
+                        },
+                        {
+                            "startTime": "60.575s",
+                            "endTime": "60.875s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "a"
+                        },
+                        {
+                            "startTime": "60.875s",
+                            "endTime": "60.938s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "smaller"
+                        },
+                        {
+                            "startTime": "60.938s",
+                            "endTime": "61.362s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "portion"
+                        },
+                        {
+                            "startTime": "61.362s",
+                            "endTime": "61.975s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "than"
+                        },
+                        {
+                            "startTime": "61.975s",
+                            "endTime": "62.175s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "everyone"
+                        },
+                        {
+                            "startTime": "62.175s",
+                            "endTime": "62.563s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "else"
+                        },
+                        {
+                            "startTime": "62.563s",
+                            "endTime": "63.025s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

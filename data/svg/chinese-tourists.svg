@@ -1,0 +1,200 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="svg-container" id="ChineseTourists-container" width="800" height="500" viewBox="0 0 800 500" version="1.1" style="width: 800px; height: 500px;">
+    <g class="container" id="ChineseTourists-top-grp">
+        <g id="ChineseTourists-background">
+            <rect id="ChineseTourists-background-rect" class="scene chart ChineseTourists background rect bg-rect" width="800" height="510" fill="rgb(248, 252, 254)"></rect>
+        </g>
+        <text id="chart-0" class="main-title title chart scene" x="64" y="60" font-size="22" font-weight="bold" fill="#262626">Going places</text>
+        <g id="ChineseTourists-x-axis" transform="translate(64,425)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle">
+            <path class="x-axis axis chart scene" stroke="currentColor" d="M0.5,0.5H640.5" id="chart-1"></path>
+            <g class="tick" opacity="1" transform="translate(18.429319371727694,0)">
+                <line stroke="currentColor" y2="2" class="x-axis axis chart scene" id="chart-2"></line>
+                <text fill="currentColor" y="5" dy="0.71em" class="x-axis axis chart scene" id="chart-3" font-size="13">1995</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(51.93717277486906,0)">
+                <line stroke="currentColor" y2="2" class="x-axis axis chart scene" id="chart-4"></line>
+                <!-- <text fill="currentColor" y="5" dy="0.71em" class="x-axis axis chart scene" id="chart-5">1996</text> -->
+            </g>
+            <g class="tick" opacity="1" transform="translate(85.44502617801042,0)">
+                <line stroke="currentColor" y2="2" class="x-axis axis chart scene" id="chart-6"></line>
+                <!-- <text fill="currentColor" y="5" dy="0.71em" class="x-axis axis chart scene" id="chart-7">1997</text> -->
+            </g>
+            <g class="tick" opacity="1" transform="translate(118.95287958115179,0)">
+                <line stroke="currentColor" y2="2" class="x-axis axis chart scene" id="chart-8"></line>
+                <!-- <text fill="currentColor" y="5" dy="0.71em" class="x-axis axis chart scene" id="chart-9">1998</text> -->
+            </g>
+            <g class="tick" opacity="1" transform="translate(152.46073298429317,0)">
+                <line stroke="currentColor" y2="2" class="x-axis axis chart scene" id="chart-10"></line>
+                <!-- <text fill="currentColor" y="5" dy="0.71em" class="x-axis axis chart scene" id="chart-11">1999</text> -->
+            </g>
+            <g class="tick" opacity="1" transform="translate(185.96858638743456,0)">
+                <line stroke="currentColor" y2="2" class="x-axis axis chart scene" id="chart-12"></line>
+                <text fill="currentColor" y="5" dy="0.71em" class="x-axis axis chart scene" id="chart-13" font-size="13">2000</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(219.4764397905759,0)">
+                <line stroke="currentColor" y2="2" class="x-axis axis chart scene" id="chart-14"></line>
+                <!-- <text fill="currentColor" y="5" dy="0.71em" class="x-axis axis chart scene" id="chart-15">2001</text> -->
+            </g>
+            <g class="tick" opacity="1" transform="translate(252.98429319371726,0)">
+                <line stroke="currentColor" y2="2" class="x-axis axis chart scene" id="chart-16"></line>
+                <!-- <text fill="currentColor" y="5" dy="0.71em" class="x-axis axis chart scene" id="chart-17">2002</text> -->
+            </g>
+            <g class="tick" opacity="1" transform="translate(286.4921465968586,0)">
+                <line stroke="currentColor" y2="2" class="x-axis axis chart scene" id="chart-18"></line>
+                <!-- <text fill="currentColor" y="5" dy="0.71em" class="x-axis axis chart scene" id="chart-19">2003</text> -->
+            </g>
+            <g class="tick" opacity="1" transform="translate(320,0)">
+                <line stroke="currentColor" y2="2" class="x-axis axis chart scene" id="chart-20"></line>
+                <!-- <text fill="currentColor" y="5" dy="0.71em" class="x-axis axis chart scene" id="chart-21">2004</text> -->
+            </g>
+            <g class="tick" opacity="1" transform="translate(353.5078534031414,0)">
+                <line stroke="currentColor" y2="2" class="x-axis axis chart scene" id="chart-22"></line>
+                <text fill="currentColor" y="5" dy="0.71em" class="x-axis axis chart scene" id="chart-23" font-size="13">2005</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(387.0157068062827,0)">
+                <line stroke="currentColor" y2="2" class="x-axis axis chart scene" id="chart-24"></line>
+                <!-- <text fill="currentColor" y="5" dy="0.71em" class="x-axis axis chart scene" id="chart-25">2006</text> -->
+            </g>
+            <g class="tick" opacity="1" transform="translate(420.5235602094241,0)">
+                <line stroke="currentColor" y2="2" class="x-axis axis chart scene" id="chart-26"></line>
+                <!-- <text fill="currentColor" y="5" dy="0.71em" class="x-axis axis chart scene" id="chart-27">2007</text> -->
+            </g>
+            <g class="tick" opacity="1" transform="translate(454.0314136125655,0)">
+                <line stroke="currentColor" y2="2" class="x-axis axis chart scene" id="chart-28"></line>
+                <!-- <text fill="currentColor" y="5" dy="0.71em" class="x-axis axis chart scene" id="chart-29">2008</text> -->
+            </g>
+            <g class="tick" opacity="1" transform="translate(487.5392670157068,0)">
+                <line stroke="currentColor" y2="2" class="x-axis axis chart scene" id="chart-30"></line>
+                <!-- <text fill="currentColor" y="5" dy="0.71em" class="x-axis axis chart scene" id="chart-31">2009</text> -->
+            </g>
+            <g class="tick" opacity="1" transform="translate(521.0471204188482,0)">
+                <line stroke="currentColor" y2="2" class="x-axis axis chart scene" id="chart-32"></line>
+                <text fill="currentColor" y="5" dy="0.71em" class="x-axis axis chart scene" id="chart-33" font-size="13">2010</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(554.5549738219896,0)">
+                <line stroke="currentColor" y2="2" class="x-axis axis chart scene" id="chart-34"></line>
+                <!-- <text fill="currentColor" y="5" dy="0.71em" class="x-axis axis chart scene" id="chart-35">2011</text> -->
+            </g>
+            <g class="tick" opacity="1" transform="translate(588.062827225131,0)">
+                <line stroke="currentColor" y2="2" class="x-axis axis chart scene" id="chart-36"></line>
+                <!-- <text fill="currentColor" y="5" dy="0.71em" class="x-axis axis chart scene" id="chart-37">2012</text> -->
+            </g>
+            <g class="tick" opacity="1" transform="translate(621.5706806282723,0)">
+                <line stroke="currentColor" y2="2" class="x-axis axis chart scene" id="chart-38"></line>
+                <!-- <text fill="currentColor" y="5" dy="0.71em" class="x-axis axis chart scene" id="chart-39">2013</text> -->
+            </g>
+        </g>
+        <g id="ChineseTourists-y-axis" transform="translate(704,150)" fill="none" font-size="10" font-family="sans-serif" text-anchor="start">
+            <path class="y-label label y-axis axis chart scene" stroke="currentColor" d="M0.5,0.5V275.5" id="chart-40" opacity="0"></path>
+            <g class="tick" opacity="1" transform="translate(0,275.5)">
+                <text fill="#262626" x="5" dy="0.32em" class="y-label label y-axis axis chart scene" id="chart-41" font-size="13">0</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(0,236.6350146038127)">
+                <text fill="#262626" x="5" dy="0.32em" class="y-label label y-axis axis chart scene" id="chart-42" font-size="13">20</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(0,197.77002920762538)">
+                <text fill="#262626" x="5" dy="0.32em" class="y-label label y-axis axis chart scene" id="chart-43" font-size="13">40</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(0,158.9050438114381)">
+                <text fill="#262626" x="5" dy="0.32em" class="y-label label y-axis axis chart scene" id="chart-44" font-size="13">60</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(0,120.04005841525077)">
+                <text fill="#262626" x="5" dy="0.32em" class="y-label label y-axis axis chart scene" id="chart-45" font-size="13">80</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(0,81.17507301906346)">
+                <text fill="#262626" x="5" dy="0.32em" class="y-label label y-axis axis chart scene" id="chart-46" font-size="13">100</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(0,42.31008762287616)">
+                <text fill="#262626" x="5" dy="0.32em" class="y-label label y-axis axis chart scene" id="chart-47" font-size="13">120</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(0,3.4451022266888587)">
+                <text fill="#262626" x="5" dy="0.32em" class="y-label label y-axis axis chart scene" id="chart-48" font-size="13">140</text>
+            </g>
+        </g>
+        <g id="ChineseTourists-y-tick-group" class="group tick-group">
+            <path id="chart-49" class="y-tick tick y-axis axis chart scene" d="M64,153L704,153" stroke="gray" stroke-width="1" opacity="0.2"></path>
+            <path id="chart-50" class="y-tick tick y-axis axis chart scene" d="M64,191.8649853961873L704,191.8649853961873" stroke="gray" stroke-width="1" opacity="0.2"></path>
+            <path id="chart-51" class="y-tick tick y-axis axis chart scene" d="M64,230.72997079237462L704,230.72997079237462" stroke="gray" stroke-width="1" opacity="0.2"></path>
+            <path id="chart-52" class="y-tick tick y-axis axis chart scene" d="M64,269.5949561885619L704,269.5949561885619" stroke="gray" stroke-width="1" opacity="0.2"></path>
+            <path id="chart-53" class="y-tick tick y-axis axis chart scene" d="M64,308.45994158474923L704,308.45994158474923" stroke="gray" stroke-width="1" opacity="0.2"></path>
+            <path id="chart-54" class="y-tick tick y-axis axis chart scene" d="M64,347.32492698093654L704,347.32492698093654" stroke="gray" stroke-width="1" opacity="0.2"></path>
+            <path id="chart-55" class="y-tick tick y-axis axis chart scene" d="M64,386.18991237712385L704,386.18991237712385" stroke="gray" stroke-width="1" opacity="0.2"></path>
+            <path id="chart-56" class="y-tick tick y-axis axis chart scene" d="M64,425.05489777331115L704,425.05489777331115" stroke="gray" stroke-width="1" opacity="0.2"></path>
+        </g>
+        <!-- <text id="chart-57" class="x-title title x-axis axis chart scene" x="384" y="425" dy="40" font-size="20" fill="#262626" text-anchor="middle">Year</text> -->
+        <text id="chart-58" class="sub-title title chart scene" x="64" y="150" dy="-60" font-size="20" fill="#262626">Spending on outbound tourism, $bn</text>
+        <g class="grp content">
+            <g transform="translate(78.84210526315789,150)" class="grp line-group">
+                <path id="chart-59" class="unknown-type chinese-tourists chart index-0 series-0 line mark" d="M3.3507853403140757,266.7373041047706L36.858638743455444,266.1484995760183L70.36649214659681,258.476551458811L103.87434554973818,256.73928661160136L137.38219895287955,253.2589271693728L170.89005235602093,249.09065748563174L204.39790575916228,247.89361593542915L237.90575916230364,243.72340300241828L271.413612565445,243.84777095568606L304.9214659685864,236.1583335950504L338.4293193717278,231.97646116642065L371.9371727748691,225.4277111271631L405.4450261780105,216.9221090732075L438.9528795811519,204.02282042021295L472.4607329842932,189.49897537765773L505.9685863874346,169.6137055996985L539.476439790576,133.81322430200058L572.9842931937173,76.71278775792217L606.4921465968587,27.499999999999993" stroke="#8a3d27" stroke-width="4" fill="none" opacity="0.7"></path>
+                <g id="ChineseTourists-line-0-mark-group-0" class="mark line-mark group series-0 index-0">
+                    <circle id="chart-60" class="point mark chart scene" cx="3.3507853403140757" cy="266.7373041047706" r="6" stroke="#ffffff" stroke-width="2" fill="#8a3d27" text-anchor="middle"></circle>
+                </g>
+            </g>
+            <g transform="translate(78.84210526315789,150)" class="grp line-group">
+                <path id="chart-61" class="unknown-type chinese-tourists chart index-1 series-1 line mark" d="M3.3507853403140757,251.31762114883327L36.858638743455444,254.93400803994848L70.36649214659681,254.9359512892183L103.87434554973818,256.611032159794L137.38219895287955,262.05795986306964L170.89005235602093,257.324204641814L204.39790575916228,256.70236487547504L237.90575916230364,253.0898644828994L271.413612565445,248.47659071637196L304.9214659685864,244.31220753117051L338.4293193717278,240.76772086303822L371.9371727748691,240.20417857479353L405.4450261780105,235.46070710718885L438.9528795811519,229.5590590747778L472.4607329842932,233.12103498633837L505.9685863874346,223.65741104236676L539.476439790576,211.06321252473225L572.9842931937173,191.5257843660689L606.4921465968587,171.72601755598126" stroke="#8cc8ce" stroke-width="4" fill="none" opacity="0.7"></path>
+                <g id="ChineseTourists-line-1-mark-group-0" class="mark line-mark group series-1 index-0">
+                    <circle id="chart-62" class="point mark chart scene" cx="3.3507853403140757" cy="251.31762114883327" r="6" stroke="#ffffff" stroke-width="2" fill="#8cc8ce" text-anchor="middle"></circle>
+                </g>
+            </g>
+            <g transform="translate(78.84210526315789,150)" class="grp line-group">
+                <path id="chart-63" class="unknown-type chinese-tourists chart index-2 series-2 line mark" d="M3.3507853403140757,203.02204704626112L36.858638743455444,202.28749882227316L70.36649214659681,210.4491457554725L103.87434554973818,217.7557630099557L137.38219895287955,211.31000518199806L170.89005235602093,213.1094540058415L204.39790575916228,222.90731682422035L237.90575916230364,222.4817452341321L271.413612565445,217.4856513614522L304.9214659685864,200.0935703966584L338.4293193717278,221.2963631795484L371.9371727748691,222.4778587355925L405.4450261780105,223.11718774535976L438.9528795811519,220.08183238591752L472.4607329842932,226.01845890518513L505.9685863874346,220.70755865079613L539.476439790576,221.2963631795484L572.9842931937173,220.65509092051127L606.4921465968587,230.2450260670205" stroke="#129893" stroke-width="4" fill="none" opacity="0.7"></path>
+                <g id="ChineseTourists-line-2-mark-group-0" class="mark line-mark group series-2 index-0">
+                    <circle id="chart-64" class="point mark chart scene" cx="3.3507853403140757" cy="203.02204704626112" r="6" stroke="#ffffff" stroke-width="2" fill="#129893" text-anchor="middle"></circle>
+                </g>
+            </g>
+            <g transform="translate(78.84210526315789,150)" class="grp line-group">
+                <path id="chart-65" class="unknown-type chinese-tourists chart index-3 series-3 line mark" d="M3.3507853403140757,187.77725652460666L36.858638743455444,182.03495493231998L70.36649214659681,173.28256022109858L103.87434554973818,165.32495446122923L137.38219895287955,159.9227214911592L170.89005235602093,146.93210012248358L204.39790575916228,156.51814877045317L237.90575916230364,159.18623001790144L271.413612565445,162.29931534813605L304.9214659685864,145.4144224427625L338.4293193717278,138.70632596338055L371.9371727748691,133.17583854150308L405.4450261780105,124.63720124996075L438.9528795811519,119.14169231493986L472.4607329842932,131.0382643447128L505.9685863874346,129.93644200873086L539.476439790576,123.55092490813729L572.9842931937173,113.39356097484377L606.4921465968587,108.07294447410571" stroke="#14ade4" stroke-width="4" fill="none" opacity="0.7"></path>
+                <g id="ChineseTourists-line-3-mark-group-0" class="mark line-mark group series-3 index-0">
+                    <circle id="chart-66" class="point mark chart scene" cx="3.3507853403140757" cy="187.77725652460666" r="6" stroke="#ffffff" stroke-width="2" fill="#14ade4" text-anchor="middle"></circle>
+                </g>
+            </g>
+            <g transform="translate(78.84210526315789,150)" class="grp line-group">
+                <path id="chart-67" class="unknown-type chinese-tourists chart index-4 series-4 line mark" d="M3.3507853403140757,158.17379714833078L36.858638743455444,159.97518922144403L70.36649214659681,170.41043780032032L103.87434554973818,168.37196931629032L137.38219895287955,166.4170605508621L170.89005235602093,172.88030762224804L204.39790575916228,173.9704704626111L237.90575916230364,173.09017854338745L271.413612565445,146.96902185860995L304.9214659685864,135.59518388241574L338.4293193717278,130.99162636223738L371.9371727748691,131.7475503281932L405.4450261780105,114.31271787946359L438.9528795811519,98.47912282905688L472.4607329842932,117.79307732169217L505.9685863874346,122.98155287208316L539.476439790576,107.47248044973463L572.9842931937173,116.57854652806131L606.4921465968587,110.44176533400334" stroke="#8cd5fa" stroke-width="4" fill="none" opacity="0.7"></path>
+                <g id="ChineseTourists-line-4-mark-group-0" class="mark line-mark group series-4 index-0">
+                    <circle id="chart-68" class="point mark chart scene" cx="3.3507853403140757" cy="158.17379714833078" r="6" stroke="#ffffff" stroke-width="2" fill="#8cd5fa" text-anchor="middle"></circle>
+                </g>
+            </g>
+            <g transform="translate(78.84210526315789,150)" class="grp line-group">
+                <path id="chart-69" class="unknown-type chinese-tourists chart index-5 series-5 line mark" d="M3.3507853403140757,225.47629235890832L36.858638743455444,223.1638257278352L70.36649214659681,219.66986354071796L103.87434554973818,209.6426973085016L137.38219895287955,203.05119578530827L170.89005235602093,200.0333296692943L204.39790575916228,201.37611491473254L237.90575916230364,193.35632517822933L271.413612565445,181.16826575798498L304.9214659685864,165.43766291887817L338.4293193717278,158.85393439276405L371.9371727748691,149.96939873119564L405.4450261780105,136.59207075782797L438.9528795811519,143.0572610784837L472.4607329842932,177.51884362928297L505.9685863874346,177.03303131183063L539.476439790576,175.8223870167394L572.9842931937173,174.68558619390095L606.4921465968587,172.27790034860712" stroke="#7da7bc" stroke-width="4" fill="none" opacity="0.7"></path>
+                <g id="ChineseTourists-line-5-mark-group-0" class="mark line-mark group series-5 index-0">
+                    <circle id="chart-70" class="point mark chart scene" cx="3.3507853403140757" cy="225.47629235890832" r="6" stroke="#ffffff" stroke-width="2" fill="#7da7bc" text-anchor="middle"></circle>
+                </g>
+            </g>
+            <g transform="translate(78.84210526315789,150)" class="grp line-group">
+                <path id="chart-71" class="unknown-type chinese-tourists chart index-6 series-6 line mark" d="M3.3507853403140757,241.3623551395999L36.858638743455444,240.8065858484344L70.36649214659681,239.5998280518828L103.87434554973818,239.59788480261295L137.38219895287955,236.77045711504036L170.89005235602093,230.14980685279986L204.39790575916228,230.7386113815521L237.90575916230364,228.4747259822242L271.413612565445,221.16616547847116L304.9214659685864,216.65005417543418L338.4293193717278,212.47789799315348L371.9371727748691,210.5074432335668L405.4450261780105,200.98940831004052L438.9528795811519,194.7379754090638L472.4607329842932,200.02749992148486L505.9685863874346,201.10017351841964L539.476439790576,187.73061854213123L572.9842931937173,199.32598693508368L606.4921465968587,193.13868126001066" stroke="#bdbcbe" stroke-width="4" fill="none" opacity="0.7"></path>
+                <g id="ChineseTourists-line-6-mark-group-0" class="mark line-mark group series-6 index-0">
+                    <circle id="chart-72" class="point mark chart scene" cx="3.3507853403140757" cy="241.3623551395999" r="6" stroke="#ffffff" stroke-width="2" fill="#bdbcbe" text-anchor="middle"></circle>
+                </g>
+            </g>
+        </g>
+        <g id="ChineseTourists-legend-group-group" class="group legend-group-group" transform="translate(64,120)">
+            <g id="ChineseTourists-legend-group-0" class="legend-group group series-0 index-0">
+                <rect id="chart-73" class="legend-symbol legend chart scene" fill="#8a3d27" x="0" y="0" width="20" height="10"></rect>
+                <text id="chart-74" class="legend-label legend chart scene" x="22" y="0" dy="10" font-size="15" fill="#262626">China</text>
+            </g>
+            <g id="ChineseTourists-legend-group-1" class="legend-group group series-1 index-1">
+                <rect id="chart-75" class="legend-symbol legend chart scene" fill="#8cc8ce" x="90" y="0" width="20" height="10"></rect>
+                <text id="chart-76" class="legend-label legend chart scene" x="112" y="0" dy="10" font-size="15" fill="#262626">Russia</text>
+            </g>
+            <g id="ChineseTourists-legend-group-2" class="legend-group group series-2 index-2">
+                <rect id="chart-77" class="legend-symbol legend chart scene" fill="#129893" x="180" y="0" width="20" height="10"></rect>
+                <text id="chart-78" class="legend-label legend chart scene" x="202" y="0" dy="10" font-size="15" fill="#262626">Japan</text>
+            </g>
+            <g id="ChineseTourists-legend-group-3" class="legend-group group series-3 index-3">
+                <rect id="chart-79" class="legend-symbol legend chart scene" fill="#14ade4" x="270" y="0" width="20" height="10"></rect>
+                <text id="chart-80" class="legend-label legend chart scene" x="292" y="0" dy="10" font-size="15" fill="#262626">U.S.</text>
+            </g>
+            <g id="ChineseTourists-legend-group-4" class="legend-group group series-4 index-4">
+                <rect id="chart-81" class="legend-symbol legend chart scene" fill="#8cd5fa" x="360" y="0" width="20" height="10"></rect>
+                <text id="chart-82" class="legend-label legend chart scene" x="382" y="0" dy="10" font-size="15" fill="#262626">Germany</text>
+            </g>
+            <g id="ChineseTourists-legend-group-5" class="legend-group group series-5 index-5">
+                <rect id="chart-83" class="legend-symbol legend chart scene" fill="#7da7bc" x="450" y="0" width="20" height="10"></rect>
+                <text id="chart-84" class="legend-label legend chart scene" x="472" y="0" dy="10" font-size="15" fill="#262626">Britain</text>
+            </g>
+            <g id="ChineseTourists-legend-group-6" class="legend-group group series-6 index-6">
+                <rect id="chart-85" class="legend-symbol legend chart scene" fill="#bdbcbe" x="540" y="0" width="20" height="10"></rect>
+                <text id="chart-86" class="legend-label legend chart scene" x="562" y="0" dy="10" font-size="15" fill="#262626">France</text>
+            </g>
+        </g>
+    </g>
+</svg>

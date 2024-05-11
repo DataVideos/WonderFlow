@@ -1,0 +1,18 @@
+
+    {
+      projectId: 'bar-vega-war-deaths-example1',
+      scenes: [
+        {
+          charts: [
+            {source: './bar-vega-war-deaths.svg'},
+          ],
+          animation: {
+            sequence: {
+                "sync": [
+                ]
+            }
+          },
+        }
+      ]
+    }
+  

@@ -1,0 +1,18 @@
+
+    {
+      projectId: 'bar-vega-co2-emission-example1',
+      scenes: [
+        {
+          charts: [
+            {source: './bar-vega-co2-emission.svg'},
+          ],
+          animation: {
+            sequence: {
+                "sync": [
+                ]
+            }
+          },
+        }
+      ]
+    }
+  

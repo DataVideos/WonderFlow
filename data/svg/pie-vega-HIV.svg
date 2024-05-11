@@ -1,0 +1,343 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks"
+  width="810" height="522" viewBox="0 0 405 261">
+  <rect width="405" height="261" fill="#F4F8FB" />
+  <g fill="none" stroke-miterlimit="10" transform="translate(96,47)">
+    <g class="mark-group role-frame root" role="graphics-object" aria-roledescription="group mark container">
+      <g transform="translate(0,0)">
+        <path class="background" aria-hidden="true" d="M0,0h20v200h-20Z" />
+        <g>
+          <g class="mark-arc role-mark layer_0_marks" role="graphics-object" aria-roledescription="arc mark container">
+            <path
+              aria-label="Countries with the Highest Estimated Share of Worldwide New HIV Infections in 2021: 14; legend-none: South Africa"
+              role="graphics-symbol" aria-roledescription="arc mark" transform="translate(10,100)"
+              d="M61.686,-50.94A80,80,0,0,0,0,-80L0,-50A50,50,0,0,1,38.554,-31.837Z" fill="#D00000" />
+            <path
+              aria-label="Countries with the Highest Estimated Share of Worldwide New HIV Infections in 2021: 6.5; legend-none: Mozambique"
+              role="graphics-symbol" aria-roledescription="arc mark" transform="translate(10,100)"
+              d="M76.852,-22.22A80,80,0,0,0,61.686,-50.94L38.554,-31.837A50,50,0,0,1,48.033,-13.888Z" fill="#11897D" />
+            <path
+              aria-label="Countries with the Highest Estimated Share of Worldwide New HIV Infections in 2021: 4.9; legend-none: Nigeria"
+              role="graphics-symbol" aria-roledescription="arc mark" transform="translate(10,100)"
+              d="M79.971,2.138A80,80,0,0,0,76.852,-22.22L48.033,-13.888A50,50,0,0,1,49.982,1.336Z" fill="#9CEC19" />
+            <path
+              aria-label="Countries with the Highest Estimated Share of Worldwide New HIV Infections in 2021: 4.2; legend-none: India"
+              role="graphics-symbol" aria-roledescription="arc mark" transform="translate(10,100)"
+              d="M76.639,22.944A80,80,0,0,0,79.971,2.138L49.982,1.336A50,50,0,0,1,47.899,14.34Z" fill="#FF6D24" />
+            <path
+              aria-label="Countries with the Highest Estimated Share of Worldwide New HIV Infections in 2021: 3.9; legend-none: Russia"
+              role="graphics-symbol" aria-roledescription="arc mark" transform="translate(10,100)"
+              d="M68.773,40.868A80,80,0,0,0,76.639,22.944L47.899,14.34A50,50,0,0,1,42.983,25.543Z" fill="#0A3B7E" />
+            <path
+              aria-label="Countries with the Highest Estimated Share of Worldwide New HIV Infections in 2021: 3.6; legend-none: Tanzania"
+              role="graphics-symbol" aria-roledescription="arc mark" transform="translate(10,100)"
+              d="M57.843,55.264A80,80,0,0,0,68.773,40.868L42.983,25.543A50,50,0,0,1,36.152,34.54Z" fill="#67AFF9" />
+            <path
+              aria-label="Countries with the Highest Estimated Share of Worldwide New HIV Infections in 2021: 3.6; legend-none: Uganda"
+              role="graphics-symbol" aria-roledescription="arc mark" transform="translate(10,100)"
+              d="M43.961,66.839A80,80,0,0,0,57.843,55.264L36.152,34.54A50,50,0,0,1,27.475,41.774Z" fill="#011327" />
+            <path
+              aria-label="Countries with the Highest Estimated Share of Worldwide New HIV Infections in 2021: 3.3; legend-none: Brazil"
+              role="graphics-symbol" aria-roledescription="arc mark" transform="translate(10,100)"
+              d="M29.244,74.463A80,80,0,0,0,43.961,66.839L27.475,41.774A50,50,0,0,1,18.278,46.54Z" fill="#FFD600" />
+            <path
+              aria-label="Countries with the Highest Estimated Share of Worldwide New HIV Infections in 2021: 2.5; legend-none: Zambia"
+              role="graphics-symbol" aria-roledescription="arc mark" transform="translate(10,100)"
+              d="M17.223,78.124A80,80,0,0,0,29.244,74.463L18.278,46.54A50,50,0,0,1,10.764,48.828Z" fill="#5D9204" />
+            <path
+              aria-label="Countries with the Highest Estimated Share of Worldwide New HIV Infections in 2021: 2.3; legend-none: Kenya"
+              role="graphics-symbol" aria-roledescription="arc mark" transform="translate(10,100)"
+              d="M5.781,79.791A80,80,0,0,0,17.223,78.124L10.764,48.828A50,50,0,0,1,3.613,49.869Z" fill="#9F0A10" />
+            <path
+              aria-label="Countries with the Highest Estimated Share of Worldwide New HIV Infections in 2021: 51.1; legend-none: Rest of the World"
+              role="graphics-symbol" aria-roledescription="arc mark" transform="translate(10,100)"
+              d="M0,-80A80,80,0,1,0,5.781,79.791L3.613,49.869A50,50,0,1,1,0,-50Z" fill="#F5D3D4" />
+          </g>
+          <g class="mark-text role-mark layer_1_marks" role="graphics-object"
+            aria-roledescription="text mark container"><text
+              aria-label="Countries with the Highest Estimated Share of Worldwide New HIV Infections in 2021: 14; percentage: 14%"
+              role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle"
+              transform="translate(48.35598511351918,21.582444116938177)" font-family="sans-serif" font-size="10px"
+              font-weight="bold" fill="#3B4F65">14%</text><text
+              aria-label="Countries with the Highest Estimated Share of Worldwide New HIV Infections in 2021: 6.5; percentage: 7%"
+              role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle"
+              transform="translate(89.58455047078999,60.972635981276674)" font-family="sans-serif" font-size="10px"
+              font-weight="bold" fill="#3B4F65">7%</text><text
+              aria-label="Countries with the Highest Estimated Share of Worldwide New HIV Infections in 2021: 4.9; percentage: 5%"
+              role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle"
+              transform="translate(99.27103917329892,91.5683962227809)" font-family="sans-serif" font-size="10px"
+              font-weight="bold" fill="#3B4F65">5%</text><text
+              aria-label="Countries with the Highest Estimated Share of Worldwide New HIV Infections in 2021: 4.2; percentage: 4%"
+              role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle"
+              transform="translate(98.86746641111101,117.23282873044064)" font-family="sans-serif" font-size="10px"
+              font-weight="bold" fill="#3B4F65">4%</text><text
+              aria-label="Countries with the Highest Estimated Share of Worldwide New HIV Infections in 2021: 3.9; percentage: 4%"
+              role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle"
+              transform="translate(92.41361456501524,139.16622919698858)" font-family="sans-serif" font-size="10px"
+              font-weight="bold" fill="#3B4F65">4%</text><text
+              aria-label="Countries with the Highest Estimated Share of Worldwide New HIV Infections in 2021: 3.6; percentage: 4%"
+              role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle"
+              transform="translate(81.68084735544362,157.42293746579278)" font-family="sans-serif" font-size="10px"
+              font-weight="bold" fill="#3B4F65">4%</text><text
+              aria-label="Countries with the Highest Estimated Share of Worldwide New HIV Infections in 2021: 3.6; percentage: 4%"
+              role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle"
+              transform="translate(67.63378840057234,172.12558451541696)" font-family="sans-serif" font-size="10px"
+              font-weight="bold" fill="#3B4F65">4%</text><text
+              aria-label="Countries with the Highest Estimated Share of Worldwide New HIV Infections in 2021: 3.3; percentage: 3%"
+              role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle"
+              transform="translate(51.40039036587499,182.91250013329056)" font-family="sans-serif" font-size="10px"
+              font-weight="bold" fill="#3B4F65">3%</text><text
+              aria-label="Countries with the Highest Estimated Share of Worldwide New HIV Infections in 2021: 2.5; percentage: 3%"
+              role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle"
+              transform="translate(36.218706694799266,189.0963380130194)" font-family="sans-serif" font-size="10px"
+              font-weight="bold" fill="#3B4F65">3%</text><text
+              aria-label="Countries with the Highest Estimated Share of Worldwide New HIV Infections in 2021: 2.3; percentage: 2%"
+              role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle"
+              transform="translate(22.97385379611626,192.05997483537146)" font-family="sans-serif" font-size="10px"
+              font-weight="bold" fill="#3B4F65">2%</text><text
+              aria-label="Countries with the Highest Estimated Share of Worldwide New HIV Infections in 2021: 51.1; percentage: 51%"
+              role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle"
+              transform="translate(-79.94115228157828,106.25409376969178)" font-family="sans-serif" font-size="10px"
+              font-weight="bold" fill="#3B4F65">51%</text></g>
+          <g class="mark-symbol role-mark layer_2_marks" role="graphics-object"
+            aria-roledescription="symbol mark container">
+            <path
+              transform="translate(240,110)" d="M-98.425,-98.425L19.195,-98.425L19.195,98.426L-98.425,98.426Z"
+              fill="#ECF1F7" stroke-width="2" />
+          </g>
+          <g class="mark-symbol role-mark layer_3_marks" role="graphics-object"
+            aria-roledescription="symbol mark container">
+            <path
+              transform="translate(-20,73)"
+              d="M56.254,45.022L39.184,25.599L49.456,13.912C49.866,13.446,49.922,12.766,49.594,12.239L42.391,0.664C42.146,0.27,41.693,0,41.196,0L16.048,0C15.552,0,15.098,0.269,14.852,0.664L7.65,12.239C7.322,12.766,7.378,13.446,7.788,13.912L18.059,25.599L0.99,45.022C0.191,45.931,0.84,47.359,2.048,47.359L9.326,47.359L9.326,55.834C9.326,57.14,10.943,57.729,11.791,56.763L28.622,37.615L45.452,56.763C46.307,57.736,47.918,57.132,47.918,55.834L47.918,47.359L55.196,47.359C56.406,47.359,57.051,45.929,56.254,45.022ZM38.084,2.816C37.135,3.895,29.567,12.506,28.622,13.581C27.659,12.487,20.243,4.049,19.16,2.816L38.084,2.816ZM16.242,3.762C17.434,5.118,25.643,14.458,26.747,15.714C22.895,20.097,21.22,22.003,19.934,23.466L10.594,12.839L16.242,3.762ZM10.734,44.543L5.159,44.543L41.002,3.762L46.65,12.839C41.782,18.377,17.089,46.471,12.142,52.099L12.142,45.951C12.142,45.173,11.511,44.543,10.734,44.543ZM46.51,44.543C45.732,44.543,45.102,45.173,45.102,45.951L45.102,52.099L30.497,35.482C35.954,29.273,34.524,30.9,37.31,27.732L52.084,44.543L46.51,44.543L46.51,44.543Z"
+              fill="#F5D3D4" stroke="#9F0A10" stroke-width="2" />
+          </g>
+          <g class="mark-group role-legend" role="graphics-symbol" aria-roledescription="legend"
+            aria-label="Symbol legend for fill color and stroke color with 11 values: South Africa, Mozambique, Nigeria, India, Russia, ending with Rest of the World">
+            <g transform="translate(150,20)">
+              <path class="background" aria-hidden="true" d="M0,0h100v185h-100Z" pointer-events="none" />
+              <g>
+                <g class="mark-group role-legend-entry">
+                  <g transform="translate(0,0)">
+                    <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none" />
+                    <g>
+                      <g class="mark-group role-scope" role="graphics-object"
+                        aria-roledescription="group mark container">
+                        <g transform="translate(0,0)">
+                          <path class="background" aria-hidden="true" d="M0,0h99.466796875v15h-99.466796875Z"
+                            pointer-events="none" opacity="1" />
+                          <g>
+                            <g class="mark-symbol role-legend-symbol" clip-path="url(#clip1)" pointer-events="none">
+                              <path transform="translate(6,7.5)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#D00000"
+                                stroke="#D00000" stroke-width="1.5" />
+                            </g>
+                            <g class="mark-text role-legend-label" pointer-events="none"><text text-anchor="start"
+                                transform="translate(16,10.5)" font-family="sans-serif" font-size="10px" fill="#000"
+                                opacity="1">South Africa</text></g>
+                          </g>
+                          <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                        <g transform="translate(0,17)">
+                          <path class="background" aria-hidden="true" d="M0,0h99.466796875v15h-99.466796875Z"
+                            pointer-events="none" opacity="1" />
+                          <g>
+                            <g class="mark-symbol role-legend-symbol" clip-path="url(#clip2)" pointer-events="none">
+                              <path transform="translate(6,7.5)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#11897D"
+                                stroke="#11897D" stroke-width="1.5" />
+                            </g>
+                            <g class="mark-text role-legend-label" pointer-events="none"><text text-anchor="start"
+                                transform="translate(16,10.5)" font-family="sans-serif" font-size="10px" fill="#000"
+                                opacity="1">Mozambique</text></g>
+                          </g>
+                          <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                        <g transform="translate(0,34)">
+                          <path class="background" aria-hidden="true" d="M0,0h99.466796875v15h-99.466796875Z"
+                            pointer-events="none" opacity="1" />
+                          <g>
+                            <g class="mark-symbol role-legend-symbol" clip-path="url(#clip3)" pointer-events="none">
+                              <path transform="translate(6,7.5)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#9CEC19"
+                                stroke="#9CEC19" stroke-width="1.5" />
+                            </g>
+                            <g class="mark-text role-legend-label" pointer-events="none"><text text-anchor="start"
+                                transform="translate(16,10.5)" font-family="sans-serif" font-size="10px" fill="#000"
+                                opacity="1">Nigeria</text></g>
+                          </g>
+                          <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                        <g transform="translate(0,51)">
+                          <path class="background" aria-hidden="true" d="M0,0h99.466796875v15h-99.466796875Z"
+                            pointer-events="none" opacity="1" />
+                          <g>
+                            <g class="mark-symbol role-legend-symbol" clip-path="url(#clip4)" pointer-events="none">
+                              <path transform="translate(6,7.5)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#FF6D24"
+                                stroke="#FF6D24" stroke-width="1.5" />
+                            </g>
+                            <g class="mark-text role-legend-label" pointer-events="none"><text text-anchor="start"
+                                transform="translate(16,10.5)" font-family="sans-serif" font-size="10px" fill="#000"
+                                opacity="1">India</text></g>
+                          </g>
+                          <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                        <g transform="translate(0,68)">
+                          <path class="background" aria-hidden="true" d="M0,0h99.466796875v15h-99.466796875Z"
+                            pointer-events="none" opacity="1" />
+                          <g>
+                            <g class="mark-symbol role-legend-symbol" clip-path="url(#clip5)" pointer-events="none">
+                              <path transform="translate(6,7.5)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#0A3B7E"
+                                stroke="#0A3B7E" stroke-width="1.5" />
+                            </g>
+                            <g class="mark-text role-legend-label" pointer-events="none"><text text-anchor="start"
+                                transform="translate(16,10.5)" font-family="sans-serif" font-size="10px" fill="#000"
+                                opacity="1">Russia</text></g>
+                          </g>
+                          <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                        <g transform="translate(0,85)">
+                          <path class="background" aria-hidden="true" d="M0,0h99.466796875v15h-99.466796875Z"
+                            pointer-events="none" opacity="1" />
+                          <g>
+                            <g class="mark-symbol role-legend-symbol" clip-path="url(#clip6)" pointer-events="none">
+                              <path transform="translate(6,7.5)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#67AFF9"
+                                stroke="#67AFF9" stroke-width="1.5" />
+                            </g>
+                            <g class="mark-text role-legend-label" pointer-events="none"><text text-anchor="start"
+                                transform="translate(16,10.5)" font-family="sans-serif" font-size="10px" fill="#000"
+                                opacity="1">Tanzania</text></g>
+                          </g>
+                          <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                        <g transform="translate(0,102)">
+                          <path class="background" aria-hidden="true" d="M0,0h99.466796875v15h-99.466796875Z"
+                            pointer-events="none" opacity="1" />
+                          <g>
+                            <g class="mark-symbol role-legend-symbol" clip-path="url(#clip7)" pointer-events="none">
+                              <path transform="translate(6,7.5)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#011327"
+                                stroke="#011327" stroke-width="1.5" />
+                            </g>
+                            <g class="mark-text role-legend-label" pointer-events="none"><text text-anchor="start"
+                                transform="translate(16,10.5)" font-family="sans-serif" font-size="10px" fill="#000"
+                                opacity="1">Uganda</text></g>
+                          </g>
+                          <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                        <g transform="translate(0,119)">
+                          <path class="background" aria-hidden="true" d="M0,0h99.466796875v15h-99.466796875Z"
+                            pointer-events="none" opacity="1" />
+                          <g>
+                            <g class="mark-symbol role-legend-symbol" clip-path="url(#clip8)" pointer-events="none">
+                              <path transform="translate(6,7.5)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#FFD600"
+                                stroke="#FFD600" stroke-width="1.5" />
+                            </g>
+                            <g class="mark-text role-legend-label" pointer-events="none"><text text-anchor="start"
+                                transform="translate(16,10.5)" font-family="sans-serif" font-size="10px" fill="#000"
+                                opacity="1">Brazil</text></g>
+                          </g>
+                          <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                        <g transform="translate(0,136)">
+                          <path class="background" aria-hidden="true" d="M0,0h99.466796875v15h-99.466796875Z"
+                            pointer-events="none" opacity="1" />
+                          <g>
+                            <g class="mark-symbol role-legend-symbol" clip-path="url(#clip9)" pointer-events="none">
+                              <path transform="translate(6,7.5)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#5D9204"
+                                stroke="#5D9204" stroke-width="1.5" />
+                            </g>
+                            <g class="mark-text role-legend-label" pointer-events="none"><text text-anchor="start"
+                                transform="translate(16,10.5)" font-family="sans-serif" font-size="10px" fill="#000"
+                                opacity="1">Zambia</text></g>
+                          </g>
+                          <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                        <g transform="translate(0,153)">
+                          <path class="background" aria-hidden="true" d="M0,0h99.466796875v15h-99.466796875Z"
+                            pointer-events="none" opacity="1" />
+                          <g>
+                            <g class="mark-symbol role-legend-symbol" clip-path="url(#clip10)" pointer-events="none">
+                              <path transform="translate(6,7.5)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#9F0A10"
+                                stroke="#9F0A10" stroke-width="1.5" />
+                            </g>
+                            <g class="mark-text role-legend-label" pointer-events="none"><text text-anchor="start"
+                                transform="translate(16,10.5)" font-family="sans-serif" font-size="10px" fill="#000"
+                                opacity="1">Kenya</text></g>
+                          </g>
+                          <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                        <g transform="translate(0,170)">
+                          <path class="background" aria-hidden="true" d="M0,0h99.466796875v15h-99.466796875Z"
+                            pointer-events="none" opacity="1" />
+                          <g>
+                            <g class="mark-symbol role-legend-symbol" clip-path="url(#clip11)" pointer-events="none">
+                              <path transform="translate(6,7.5)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#F5D3D4"
+                                stroke="#F5D3D4" stroke-width="1.5" />
+                            </g>
+                            <g class="mark-text role-legend-label" pointer-events="none"><text text-anchor="start"
+                                transform="translate(16,10.5)" font-family="sans-serif" font-size="10px" fill="#000"
+                                opacity="1">Rest of the World</text></g>
+                          </g>
+                          <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                      </g>
+                    </g>
+                    <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                  </g>
+                </g>
+              </g>
+              <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+            </g>
+          </g>
+          <g class="mark-group role-title">
+            <g transform="translate(-90.76390618782828,-42)">
+              <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none" />
+              <g>
+                <g class="mark-text role-title-text" role="graphics-symbol" aria-roledescription="title"
+                  aria-label="Title text 'Countries with the Highest Estimated Share of Worldwide New HIV Infections in 2021'"
+                  pointer-events="none"><text text-anchor="start" transform="translate(0,14)" font-family="sans-serif"
+                    font-size="18px" font-weight="bold" fill="#2a2a2a" opacity="1">
+                    <tspan>Countries with the Highest Estimated Share</tspan>
+                    <tspan x="0" dy="20">of Worldwide New HIV Infections in 2021</tspan>
+                  </text></g>
+              </g>
+              <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+            </g>
+          </g>
+        </g>
+        <path class="foreground" aria-hidden="true" d="" display="none" />
+      </g>
+    </g>
+  </g>
+  <defs>
+    <clipPath id="clip1">
+      <rect x="0" y="0" width="99.466796875" height="15" />
+    </clipPath>
+    <clipPath id="clip2">
+      <rect x="0" y="0" width="99.466796875" height="15" />
+    </clipPath>
+    <clipPath id="clip3">
+      <rect x="0" y="0" width="99.466796875" height="15" />
+    </clipPath>
+    <clipPath id="clip4">
+      <rect x="0" y="0" width="99.466796875" height="15" />
+    </clipPath>
+    <clipPath id="clip5">
+      <rect x="0" y="0" width="99.466796875" height="15" />
+    </clipPath>
+    <clipPath id="clip6">
+      <rect x="0" y="0" width="99.466796875" height="15" />
+    </clipPath>
+    <clipPath id="clip7">
+      <rect x="0" y="0" width="99.466796875" height="15" />
+    </clipPath>
+    <clipPath id="clip8">
+      <rect x="0" y="0" width="99.466796875" height="15" />
+    </clipPath>
+    <clipPath id="clip9">
+      <rect x="0" y="0" width="99.466796875" height="15" />
+    </clipPath>
+    <clipPath id="clip10">
+      <rect x="0" y="0" width="99.466796875" height="15" />
+    </clipPath>
+    <clipPath id="clip11">
+      <rect x="0" y="0" width="99.466796875" height="15" />
+    </clipPath>
+  </defs>
+</svg>

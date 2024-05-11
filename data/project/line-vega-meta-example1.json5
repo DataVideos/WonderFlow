@@ -1,0 +1,18 @@
+
+      {
+        projectId: 'line-vega-meta-example1',
+        scenes: [
+          {
+            charts: [
+              {source: './line-vega-meta.svg'},
+            ],
+            animation: {
+              sequence: {
+                  "sync": [
+                  ]
+              }
+            },
+          }
+        ]
+      }
+    

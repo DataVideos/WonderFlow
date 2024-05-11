@@ -1,0 +1,18 @@
+
+    {
+      projectId: 'bar-vega-crime-example1',
+      scenes: [
+        {
+          charts: [
+            {source: './bar-vega-crime.svg'},
+          ],
+          animation: {
+            sequence: {
+                "sync": [
+                ]
+            }
+          },
+        }
+      ]
+    }
+  

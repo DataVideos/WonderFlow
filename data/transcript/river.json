@@ -1,0 +1,272 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "The Thames was biologically dead. An open sewer. No oxygen, no life. In the 1960s, the clean-up began. Better sewage management. Industry regulations. Pesticide bans. The fish slowly returned, along with dolphins, porpoises and seals. Now it's an important marine habitat. It\u2019s breathing again. ",
+          "confidence": 1.0,
+          "words": [
+            {
+              "startTime": "0.000s",
+              "endTime": "0.160s",
+              "word": "The",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "0.160s",
+              "endTime": "0.598s",
+              "word": "Thames",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "0.598s",
+              "endTime": "0.783s",
+              "word": "was",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "0.783s",
+              "endTime": "1.867s",
+              "word": "biologically",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "1.867s",
+              "endTime": "2.781s",
+              "word": "dead.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "2.781s",
+              "endTime": "2.896s",
+              "word": "An",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "2.896s",
+              "endTime": "3.311s",
+              "word": "open",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "3.311s",
+              "endTime": "4.261s",
+              "word": "sewer.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "4.261s",
+              "endTime": "4.516s",
+              "word": "No",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "4.516s",
+              "endTime": "5.387s",
+              "word": "oxygen,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "5.387s",
+              "endTime": "5.604s",
+              "word": "no",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "5.604s",
+              "endTime": "6.667s",
+              "word": "life.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "6.667s",
+              "endTime": "6.797s",
+              "word": "In",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "6.797s",
+              "endTime": "6.857s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "6.857s",
+              "endTime": "8.339s",
+              "word": "1960s,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "8.339s",
+              "endTime": "8.470s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "8.470s",
+              "endTime": "8.980s",
+              "word": "clean-up",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "8.980s",
+              "endTime": "10.107s",
+              "word": "began.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "10.107s",
+              "endTime": "10.477s",
+              "word": "Better",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "10.477s",
+              "endTime": "11.020s",
+              "word": "sewage",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "11.020s",
+              "endTime": "12.037s",
+              "word": "management.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "12.037s",
+              "endTime": "12.660s",
+              "word": "Industry",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "12.660s",
+              "endTime": "14.073s",
+              "word": "regulations.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "14.073s",
+              "endTime": "14.857s",
+              "word": "Pesticide",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "14.857s",
+              "endTime": "15.862s",
+              "word": "bans.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "15.862s",
+              "endTime": "15.972s",
+              "word": "The",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "15.972s",
+              "endTime": "16.347s",
+              "word": "fish",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "16.347s",
+              "endTime": "16.878s",
+              "word": "slowly",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "16.878s",
+              "endTime": "17.768s",
+              "word": "returned,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "17.768s",
+              "endTime": "18.093s",
+              "word": "along",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "18.093s",
+              "endTime": "18.263s",
+              "word": "with",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "18.263s",
+              "endTime": "19.176s",
+              "word": "dolphins,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "19.176s",
+              "endTime": "19.921s",
+              "word": "porpoises",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "19.921s",
+              "endTime": "20.049s",
+              "word": "and",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "20.049s",
+              "endTime": "21.666s",
+              "word": "seals.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "21.666s",
+              "endTime": "21.946s",
+              "word": "Now",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "21.946s",
+              "endTime": "22.131s",
+              "word": "it's",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "22.131s",
+              "endTime": "22.231s",
+              "word": "an",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "22.231s",
+              "endTime": "22.885s",
+              "word": "important",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "22.885s",
+              "endTime": "23.320s",
+              "word": "marine",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "23.320s",
+              "endTime": "24.590s",
+              "word": "habitat.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "24.590s",
+              "endTime": "24.795s",
+              "word": "It\u2019s",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "24.795s",
+              "endTime": "25.295s",
+              "word": "breathing",
+              "speakerTag": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

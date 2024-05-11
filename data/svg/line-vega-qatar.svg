@@ -1,0 +1,324 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks"
+  width="1700" height="624" viewBox="0 0 850 312">
+  <rect width="850" height="312" fill="#F7EEDB" />
+  <g fill="none" stroke-miterlimit="10" transform="translate(45,34)">
+    <g class="mark-group role-frame root" role="graphics-object" aria-roledescription="group mark container">
+      <g transform="translate(0,0)">
+        <!-- <path class="background" aria-hidden="true" d="M0.5,0.5h800v200h-800Z" stroke="#ddd" /> -->
+        <g>
+          <g class="mark-group role-axis" aria-hidden="true">
+            <g transform="translate(0.5,0.5)">
+              <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none" />
+              <g>
+                <g class="mark-rule role-axis-grid" pointer-events="none">
+                  <line transform="translate(0,200)" x2="800" y2="0" stroke="#ddd" stroke-width="1"
+                    stroke-dasharray="6,4" opacity="1" />
+                  <line transform="translate(0,164)" x2="800" y2="0" stroke="#ddd" stroke-width="1"
+                    stroke-dasharray="6,4" opacity="1" />
+                  <line transform="translate(0,129)" x2="800" y2="0" stroke="#ddd" stroke-width="1"
+                    stroke-dasharray="6,4" opacity="1" />
+                  <line transform="translate(0,93)" x2="800" y2="0" stroke="#ddd" stroke-width="1"
+                    stroke-dasharray="6,4" opacity="1" />
+                  <line transform="translate(0,57)" x2="800" y2="0" stroke="#ddd" stroke-width="1"
+                    stroke-dasharray="6,4" opacity="1" />
+                  <line transform="translate(0,21)" x2="800" y2="0" stroke="#ddd" stroke-width="1"
+                    stroke-dasharray="6,4" opacity="1" />
+                </g>
+              </g>
+              <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+            </g>
+          </g>
+          <g class="mark-group role-axis" role="graphics-symbol" aria-roledescription="axis"
+            aria-label="X-axis for a discrete scale with 12 values: 1962, 1967, 1972, 1977, 1982, ending with 2017">
+            <g transform="translate(0.5,200.5)">
+              <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none" />
+              <g>
+                <g class="mark-rule role-axis-tick" pointer-events="none">
+                  <line transform="translate(33,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1" />
+                  <line transform="translate(100,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1" />
+                  <line transform="translate(167,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1" />
+                  <line transform="translate(233,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1" />
+                  <line transform="translate(300,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1" />
+                  <line transform="translate(367,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1" />
+                  <line transform="translate(433,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1" />
+                  <line transform="translate(500,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1" />
+                  <line transform="translate(567,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1" />
+                  <line transform="translate(633,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1" />
+                  <line transform="translate(700,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1" />
+                  <line transform="translate(767,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1" />
+                </g>
+                <g class="mark-text role-axis-label" pointer-events="none"><text text-anchor="middle"
+                    transform="translate(33.333333333333314,19)" font-family="sans-serif" font-size="15px"
+                    font-weight="bold" fill="#000" opacity="1">1962</text><text text-anchor="middle"
+                    transform="translate(99.99999999999999,19)" font-family="sans-serif" font-size="15px"
+                    font-weight="bold" fill="#000" opacity="1">1967</text><text text-anchor="middle"
+                    transform="translate(166.66666666666666,19)" font-family="sans-serif" font-size="15px"
+                    font-weight="bold" fill="#000" opacity="1">1972</text><text text-anchor="middle"
+                    transform="translate(233.33333333333331,19)" font-family="sans-serif" font-size="15px"
+                    font-weight="bold" fill="#000" opacity="1">1977</text><text text-anchor="middle"
+                    transform="translate(300,19)" font-family="sans-serif" font-size="15px" font-weight="bold"
+                    fill="#000" opacity="1">1982</text><text text-anchor="middle"
+                    transform="translate(366.6666666666667,19)" font-family="sans-serif" font-size="15px"
+                    font-weight="bold" fill="#000" opacity="1">1987</text><text text-anchor="middle"
+                    transform="translate(433.3333333333333,19)" font-family="sans-serif" font-size="15px"
+                    font-weight="bold" fill="#000" opacity="1">1992</text><text text-anchor="middle"
+                    transform="translate(500,19)" font-family="sans-serif" font-size="15px" font-weight="bold"
+                    fill="#000" opacity="1">1997</text><text text-anchor="middle"
+                    transform="translate(566.6666666666667,19)" font-family="sans-serif" font-size="15px"
+                    font-weight="bold" fill="#000" opacity="1">2002</text><text text-anchor="middle"
+                    transform="translate(633.3333333333333,19)" font-family="sans-serif" font-size="15px"
+                    font-weight="bold" fill="#000" opacity="1">2007</text><text text-anchor="middle"
+                    transform="translate(700,19)" font-family="sans-serif" font-size="15px" font-weight="bold"
+                    fill="#000" opacity="1">2012</text><text text-anchor="middle"
+                    transform="translate(766.6666666666667,19)" font-family="sans-serif" font-size="15px"
+                    font-weight="bold" fill="#000" opacity="1">2017</text></g>
+                <g class="mark-rule role-axis-domain" pointer-events="none">
+                  <line transform="translate(0,0)" x2="800" y2="0" stroke="#888" stroke-width="1" opacity="1" />
+                </g>
+              </g>
+              <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+            </g>
+          </g>
+          <g class="mark-group role-axis" role="graphics-symbol" aria-roledescription="axis"
+            aria-label="Y-axis for a linear scale with values from 0.0 to 2.8">
+            <g transform="translate(0.5,0.5)">
+              <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none" />
+              <g>
+                <g class="mark-rule role-axis-tick" pointer-events="none">
+                  <line transform="translate(0,200)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1" />
+                  <line transform="translate(0,164)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1" />
+                  <line transform="translate(0,129)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1" />
+                  <line transform="translate(0,93)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1" />
+                  <line transform="translate(0,57)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1" />
+                  <line transform="translate(0,21)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1" />
+                </g>
+                <g class="mark-text role-axis-label" pointer-events="none"><text text-anchor="end"
+                    transform="translate(-7,205)" font-family="sans-serif" font-size="15px" font-weight="bold"
+                    fill="#000" opacity="1">0.0</text><text text-anchor="end"
+                    transform="translate(-7,169.28571428571428)" font-family="sans-serif" font-size="15px"
+                    font-weight="bold" fill="#000" opacity="1">0.5</text><text text-anchor="end"
+                    transform="translate(-7,133.57142857142856)" font-family="sans-serif" font-size="15px"
+                    font-weight="bold" fill="#000" opacity="1">1.0</text><text text-anchor="end"
+                    transform="translate(-7,97.85714285714286)" font-family="sans-serif" font-size="15px"
+                    font-weight="bold" fill="#000" opacity="1">1.5</text><text text-anchor="end"
+                    transform="translate(-7,62.14285714285714)" font-family="sans-serif" font-size="15px"
+                    font-weight="bold" fill="#000" opacity="1">2.0</text><text text-anchor="end"
+                    transform="translate(-7,26.42857142857142)" font-family="sans-serif" font-size="15px"
+                    font-weight="bold" fill="#000" opacity="1">2.5</text></g>
+                <g class="mark-rule role-axis-domain" pointer-events="none">
+                  <line transform="translate(0,200)" x2="0" y2="-200" stroke="#888" stroke-width="1" opacity="1" />
+                </g>
+              </g>
+              <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+            </g>
+          </g>
+          <g class="mark-group role-scope layer_0_layer_0_pathgroup" role="graphics-object"
+            aria-roledescription="group mark container">
+            <g transform="translate(0,0)">
+              <path class="background" aria-hidden="true" d="M0,0h800v200h-800Z" />
+              <g>
+                <g class="mark-line role-mark layer_0_layer_0_marks" role="graphics-object"
+                  aria-roledescription="line mark container">
+                  <path aria-label="x-none: 1962; legend-none: migrant workers"
+                    role="graphics-symbol" aria-roledescription="line mark"
+                    d="M33.333,198.857L100,198.5L166.667,197.571L233.333,198L300,192.714L366.667,195.857L433.333,199.286L500,197.857L566.667,184.714L633.333,134.643L700,156.786L766.667,185.714"
+                    stroke="#094ACD" stroke-width="2" />
+                </g>
+              </g>
+              <path class="foreground" aria-hidden="true" d="" display="none" />
+            </g>
+            <g transform="translate(0,0)">
+              <path class="background" aria-hidden="true" d="M0,0h800v200h-800Z" />
+              <g>
+                <g class="mark-line role-mark layer_0_layer_0_marks" role="graphics-object"
+                  aria-roledescription="line mark container">
+                  <path aria-label="x-none: 1962; legend-none: total population"
+                    role="graphics-symbol" aria-roledescription="line mark"
+                    d="M33.333,196L100,193.857L166.667,190.643L233.333,187L300,180.214L366.667,169.857L433.333,164.643L500,161.786L566.667,154.214L633.333,113L700,43.143L766.667,5.357"
+                    stroke="#F27584" stroke-width="2" />
+                </g>
+              </g>
+              <path class="foreground" aria-hidden="true" d="" display="none" />
+            </g>
+          </g>
+          <g class="mark-symbol role-mark layer_0_layer_1_marks" role="graphics-object"
+            aria-roledescription="symbol mark container">
+            <path aria-label="x-none: 1962; population of qatar: 0.016; legend-none: migrant workers"
+              role="graphics-symbol" aria-roledescription="point"
+              transform="translate(33.333333333333314,198.85714285714286)"
+              d="M1.118,0A1.118,1.118,0,1,1,-1.118,0A1.118,1.118,0,1,1,1.118,0" fill="#094ACD" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 1967; population of qatar: 0.021; legend-none: migrant workers"
+              role="graphics-symbol" aria-roledescription="point" transform="translate(99.99999999999999,198.5)"
+              d="M1.118,0A1.118,1.118,0,1,1,-1.118,0A1.118,1.118,0,1,1,1.118,0" fill="#094ACD" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 1972; population of qatar: 0.034; legend-none: migrant workers"
+              role="graphics-symbol" aria-roledescription="point"
+              transform="translate(166.66666666666666,197.57142857142858)"
+              d="M1.118,0A1.118,1.118,0,1,1,-1.118,0A1.118,1.118,0,1,1,1.118,0" fill="#094ACD" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 1977; population of qatar: 0.028; legend-none: migrant workers"
+              role="graphics-symbol" aria-roledescription="point" transform="translate(233.33333333333331,198)"
+              d="M1.118,0A1.118,1.118,0,1,1,-1.118,0A1.118,1.118,0,1,1,1.118,0" fill="#094ACD" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 1982; population of qatar: 0.102; legend-none: migrant workers"
+              role="graphics-symbol" aria-roledescription="point" transform="translate(300,192.7142857142857)"
+              d="M1.118,0A1.118,1.118,0,1,1,-1.118,0A1.118,1.118,0,1,1,1.118,0" fill="#094ACD" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 1987; population of qatar: 0.058; legend-none: migrant workers"
+              role="graphics-symbol" aria-roledescription="point"
+              transform="translate(366.6666666666667,195.85714285714286)"
+              d="M1.118,0A1.118,1.118,0,1,1,-1.118,0A1.118,1.118,0,1,1,1.118,0" fill="#094ACD" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 1992; population of qatar: 0.01; legend-none: migrant workers"
+              role="graphics-symbol" aria-roledescription="point"
+              transform="translate(433.3333333333333,199.28571428571428)"
+              d="M1.118,0A1.118,1.118,0,1,1,-1.118,0A1.118,1.118,0,1,1,1.118,0" fill="#094ACD" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 1997; population of qatar: 0.03; legend-none: migrant workers"
+              role="graphics-symbol" aria-roledescription="point" transform="translate(500,197.85714285714286)"
+              d="M1.118,0A1.118,1.118,0,1,1,-1.118,0A1.118,1.118,0,1,1,1.118,0" fill="#094ACD" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 2002; population of qatar: 0.214; legend-none: migrant workers"
+              role="graphics-symbol" aria-roledescription="point"
+              transform="translate(566.6666666666667,184.71428571428572)"
+              d="M1.118,0A1.118,1.118,0,1,1,-1.118,0A1.118,1.118,0,1,1,1.118,0" fill="#094ACD" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 2007; population of qatar: 0.915; legend-none: migrant workers"
+              role="graphics-symbol" aria-roledescription="point"
+              transform="translate(633.3333333333333,134.64285714285714)"
+              d="M1.118,0A1.118,1.118,0,1,1,-1.118,0A1.118,1.118,0,1,1,1.118,0" fill="#094ACD" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 2012; population of qatar: 0.605; legend-none: migrant workers"
+              role="graphics-symbol" aria-roledescription="point" transform="translate(700,156.78571428571428)"
+              d="M1.118,0A1.118,1.118,0,1,1,-1.118,0A1.118,1.118,0,1,1,1.118,0" fill="#094ACD" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 2017; population of qatar: 0.2; legend-none: migrant workers"
+              role="graphics-symbol" aria-roledescription="point"
+              transform="translate(766.6666666666667,185.71428571428572)"
+              d="M1.118,0A1.118,1.118,0,1,1,-1.118,0A1.118,1.118,0,1,1,1.118,0" fill="#094ACD" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 1962; population of qatar: 0.056; legend-none: total population"
+              role="graphics-symbol" aria-roledescription="point" transform="translate(33.333333333333314,196)"
+              d="M1.118,0A1.118,1.118,0,1,1,-1.118,0A1.118,1.118,0,1,1,1.118,0" fill="#F27584" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 1967; population of qatar: 0.086; legend-none: total population"
+              role="graphics-symbol" aria-roledescription="point"
+              transform="translate(99.99999999999999,193.85714285714286)"
+              d="M1.118,0A1.118,1.118,0,1,1,-1.118,0A1.118,1.118,0,1,1,1.118,0" fill="#F27584" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 1972; population of qatar: 0.131; legend-none: total population"
+              role="graphics-symbol" aria-roledescription="point"
+              transform="translate(166.66666666666666,190.64285714285714)"
+              d="M1.118,0A1.118,1.118,0,1,1,-1.118,0A1.118,1.118,0,1,1,1.118,0" fill="#F27584" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 1977; population of qatar: 0.182; legend-none: total population"
+              role="graphics-symbol" aria-roledescription="point" transform="translate(233.33333333333331,187)"
+              d="M1.118,0A1.118,1.118,0,1,1,-1.118,0A1.118,1.118,0,1,1,1.118,0" fill="#F27584" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 1982; population of qatar: 0.277; legend-none: total population"
+              role="graphics-symbol" aria-roledescription="point" transform="translate(300,180.2142857142857)"
+              d="M1.118,0A1.118,1.118,0,1,1,-1.118,0A1.118,1.118,0,1,1,1.118,0" fill="#F27584" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 1987; population of qatar: 0.422; legend-none: total population"
+              role="graphics-symbol" aria-roledescription="point"
+              transform="translate(366.6666666666667,169.85714285714286)"
+              d="M1.118,0A1.118,1.118,0,1,1,-1.118,0A1.118,1.118,0,1,1,1.118,0" fill="#F27584" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 1992; population of qatar: 0.495; legend-none: total population"
+              role="graphics-symbol" aria-roledescription="point"
+              transform="translate(433.3333333333333,164.64285714285714)"
+              d="M1.118,0A1.118,1.118,0,1,1,-1.118,0A1.118,1.118,0,1,1,1.118,0" fill="#F27584" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 1997; population of qatar: 0.535; legend-none: total population"
+              role="graphics-symbol" aria-roledescription="point" transform="translate(500,161.78571428571428)"
+              d="M1.118,0A1.118,1.118,0,1,1,-1.118,0A1.118,1.118,0,1,1,1.118,0" fill="#F27584" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 2002; population of qatar: 0.641; legend-none: total population"
+              role="graphics-symbol" aria-roledescription="point"
+              transform="translate(566.6666666666667,154.2142857142857)"
+              d="M1.118,0A1.118,1.118,0,1,1,-1.118,0A1.118,1.118,0,1,1,1.118,0" fill="#F27584" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 2007; population of qatar: 1.218; legend-none: total population"
+              role="graphics-symbol" aria-roledescription="point"
+              transform="translate(633.3333333333333,112.99999999999999)"
+              d="M1.118,0A1.118,1.118,0,1,1,-1.118,0A1.118,1.118,0,1,1,1.118,0" fill="#F27584" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 2012; population of qatar: 2.196; legend-none: total population"
+              role="graphics-symbol" aria-roledescription="point" transform="translate(700,43.142857142857125)"
+              d="M1.118,0A1.118,1.118,0,1,1,-1.118,0A1.118,1.118,0,1,1,1.118,0" fill="#F27584" stroke-width="2"
+              opacity="1" />
+            <path aria-label="x-none: 2017; population of qatar: 2.725; legend-none: total population"
+              role="graphics-symbol" aria-roledescription="point"
+              transform="translate(766.6666666666667,5.357142857142838)"
+              d="M1.118,0A1.118,1.118,0,1,1,-1.118,0A1.118,1.118,0,1,1,1.118,0" fill="#F27584" stroke-width="2"
+              opacity="1" />
+          </g>
+          <g class="mark-group role-legend" role="graphics-symbol" aria-roledescription="legend"
+            aria-label="Symbol legend for fill color and stroke color with 2 values: migrant workers, total population">
+            <g transform="translate(300,240)">
+              <path class="background" aria-hidden="true"
+                d="M5,0L245,0C247.75957512247,0,250,2.24042487753,250,5L250,28C250,30.75957512247,247.75957512247,33,245,33L5,33C2.24042487753,33,0,30.75957512247,0,28L0,5C0,2.24042487753,2.24042487753,0,5,0Z"
+                pointer-events="none" />
+              <g>
+                <g class="mark-group role-legend-entry">
+                  <g transform="translate(10,10)">
+                    <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none" />
+                    <g>
+                      <g class="mark-group role-scope" role="graphics-object"
+                        aria-roledescription="group mark container">
+                        <g transform="translate(0,0.25)">
+                          <path class="background" aria-hidden="true" d="M0,0h109.703125v12.5h-109.703125Z"
+                            pointer-events="none" opacity="1" />
+                          <g>
+                            <g class="mark-symbol role-legend-symbol" pointer-events="none">
+                              <path transform="translate(6,6)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#094ACD"
+                                stroke="#094ACD" stroke-width="1.5" opacity="1" />
+                            </g>
+                            <g class="mark-text role-legend-label" pointer-events="none"><text text-anchor="start"
+                                transform="translate(16,10)" font-family="sans-serif" font-size="12px" fill="#000"
+                                opacity="1">migrant workers</text></g>
+                          </g>
+                          <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                        <g transform="translate(121,0.25)">
+                          <path class="background" aria-hidden="true" d="M0,0h108.712890625v12.5h-108.712890625Z"
+                            pointer-events="none" opacity="1" />
+                          <g>
+                            <g class="mark-symbol role-legend-symbol" pointer-events="none">
+                              <path transform="translate(6,6)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#F27584"
+                                stroke="#F27584" stroke-width="1.5" opacity="1" />
+                            </g>
+                            <g class="mark-text role-legend-label" pointer-events="none"><text text-anchor="start"
+                                transform="translate(16,10)" font-family="sans-serif" font-size="12px" fill="#000"
+                                opacity="1">total population</text></g>
+                          </g>
+                          <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                      </g>
+                    </g>
+                    <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                  </g>
+                </g>
+              </g>
+              <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+            </g>
+          </g>
+          <g class="mark-group role-title">
+            <g transform="translate(400,-29)">
+              <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none" />
+              <g>
+                <g class="mark-text role-title-text" role="graphics-symbol" aria-roledescription="title"
+                  aria-label="Title text 'Population of Qatar'" pointer-events="none"><text text-anchor="middle"
+                    transform="translate(0,20)" font-family="sans-serif" font-size="25px" font-weight="bold" fill="#000"
+                    opacity="1">Population of Qatar</text></g>
+              </g>
+              <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+            </g>
+          </g>
+        </g>
+        <path class="foreground" aria-hidden="true" d="" display="none" />
+      </g>
+    </g>
+  </g>
+</svg>

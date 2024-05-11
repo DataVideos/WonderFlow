@@ -1,0 +1,42 @@
+{
+    "d1": "The title of this chart is Annual box office earnings in North America (in billion).",
+    "d2": "The x-axis represents the year, the y-axis the earnings, and the legend distinguishes the adjusted and the unadjusted values.",
+    "insight1" : {
+        "insightType": "difference",
+        "insightSentence" : "The chart shows that the difference between unadjusted and adjusted ticket prices is evident, with the latter typically resulting in a higher box office earnings number.",
+        "subInsights": [
+            {
+                "type": "difference",
+                "data": ["2022,7.48,Unadjusted", "2021,4.52,Unadjusted", "2020,1.99,Unadjusted", "2019,11.26,Unadjusted", "2018,11.95,Unadjusted", "2017,10.99,Unadjusted", "2016,11.27,Unadjusted", "2015,11.16,Unadjusted", "2014,10.27,Unadjusted", "2013,10.89,Unadjusted", "2012,10.99,Unadjusted", "2011,10.19,Unadjusted", "2010,10.48,Unadjusted", "2009,10.64,Unadjusted", "2008,9.75,Unadjusted", "2007,9.77,Unadjusted", "2006,9.16,Unadjusted", "2005,8.8,Unadjusted", "2004,9.29,Unadjusted", "2003,9.19,Unadjusted", "2002,9.16,Unadjusted", "2001,8.3,Unadjusted", "2000,7.53,Unadjusted", "1999,7.34,Unadjusted", "1998,6.77,Unadjusted", "1997,6.23,Unadjusted", "1996,5.77,Unadjusted", "1995,5.31,Unadjusted", "2022,7.48,Adjusted to 2022 ticket prices", "2021,4.52,Adjusted to 2022 ticket prices", "2020,1.99,Adjusted to 2022 ticket prices", "2019,11.27,Adjusted to 2022 ticket prices", "2018,12.02,Adjusted to 2022 ticket prices", "2017,11.24,Adjusted to 2022 ticket prices", "2016,11.94,Adjusted to 2022 ticket prices", "2015,12.14,Adjusted to 2022 ticket prices", "2014,11.53,Adjusted to 2022 ticket prices", "2013,12.28,Adjusted to 2022 ticket prices", "2012,12.66,Adjusted to 2022 ticket prices", "2011,11.78,Adjusted to 2022 ticket prices", "2010,12.19,Adjusted to 2022 ticket prices", "2009,13.01,Adjusted to 2022 ticket prices", "2008,12.45,Adjusted to 2022 ticket prices", "2007,13.02,Adjusted to 2022 ticket prices", "2006,12.83,Adjusted to 2022 ticket prices", "2005,12.59,Adjusted to 2022 ticket prices", "2004,13.72,Adjusted to 2022 ticket prices", "2003,13.98,Adjusted to 2022 ticket prices", "2002,14.45,Adjusted to 2022 ticket prices", "2001,13.44,Adjusted to 2022 ticket prices", "2000,12.81,Adjusted to 2022 ticket prices", "1999,13.25,Adjusted to 2022 ticket prices", "1998,13.24,Adjusted to 2022 ticket prices", "1997,12.45,Adjusted to 2022 ticket prices", "1996,11.97,Adjusted to 2022 ticket prices", "1995,11.2,Adjusted to 2022 ticket prices"],
+                "phrases": "The chart shows that the difference between unadjusted and adjusted ticket prices is evident, with the latter typically resulting in a higher box office earnings number."
+            }
+        ]
+    },
+    "insight2": {
+        "insightType": "trend",
+        "insightSentence" : "Unadjusted annual box office earnings in North America are increasing over time, while the adjusted earnings are fluctuating.",
+        "subInsights": [
+            {
+                "type": "increase",
+                "data": ["2022,7.48,Unadjusted", "2021,4.52,Unadjusted", "2020,1.99,Unadjusted", "2019,11.26,Unadjusted", "2018,11.95,Unadjusted", "2017,10.99,Unadjusted", "2016,11.27,Unadjusted", "2015,11.16,Unadjusted", "2014,10.27,Unadjusted", "2013,10.89,Unadjusted", "2012,10.99,Unadjusted", "2011,10.19,Unadjusted", "2010,10.48,Unadjusted", "2009,10.64,Unadjusted", "2008,9.75,Unadjusted", "2007,9.77,Unadjusted", "2006,9.16,Unadjusted", "2005,8.8,Unadjusted", "2004,9.29,Unadjusted", "2003,9.19,Unadjusted", "2002,9.16,Unadjusted", "2001,8.3,Unadjusted", "2000,7.53,Unadjusted", "1999,7.34,Unadjusted", "1998,6.77,Unadjusted", "1997,6.23,Unadjusted", "1996,5.77,Unadjusted", "1995,5.31,Unadjusted"],
+                "phrases": "Unadjusted annual box office earnings in North America are increasing over time"
+            },
+            {
+                "type": "fluctuate",
+                "data": ["2022,7.48,Adjusted to 2022 ticket prices", "2021,4.52,Adjusted to 2022 ticket prices", "2020,1.99,Adjusted to 2022 ticket prices", "2019,11.27,Adjusted to 2022 ticket prices", "2018,12.02,Adjusted to 2022 ticket prices", "2017,11.24,Adjusted to 2022 ticket prices", "2016,11.94,Adjusted to 2022 ticket prices", "2015,12.14,Adjusted to 2022 ticket prices", "2014,11.53,Adjusted to 2022 ticket prices", "2013,12.28,Adjusted to 2022 ticket prices", "2012,12.66,Adjusted to 2022 ticket prices", "2011,11.78,Adjusted to 2022 ticket prices", "2010,12.19,Adjusted to 2022 ticket prices", "2009,13.01,Adjusted to 2022 ticket prices", "2008,12.45,Adjusted to 2022 ticket prices", "2007,13.02,Adjusted to 2022 ticket prices", "2006,12.83,Adjusted to 2022 ticket prices", "2005,12.59,Adjusted to 2022 ticket prices", "2004,13.72,Adjusted to 2022 ticket prices", "2003,13.98,Adjusted to 2022 ticket prices", "2002,14.45,Adjusted to 2022 ticket prices", "2001,13.44,Adjusted to 2022 ticket prices", "2000,12.81,Adjusted to 2022 ticket prices", "1999,13.25,Adjusted to 2022 ticket prices", "1998,13.24,Adjusted to 2022 ticket prices", "1997,12.45,Adjusted to 2022 ticket prices", "1996,11.97,Adjusted to 2022 ticket prices", "1995,11.2,Adjusted to 2022 ticket prices"],
+                "phrases": "while the adjusted earnings are fluctuating"
+            }
+        ]
+    },
+    "insight3": {
+        "insightType": "value",
+        "insightSentence" : "Moreover, the box office earnings in 2020 were significantly lower than the previous years due to the COVID-19 pandemic, regardless of whether they are adjusted to 2022 ticket prices or not.",
+        "subInsights": [
+            {
+                "type": "value",
+                "data": ["2020, 1.99, Unadjusted"],
+                "phrases": "Moreover, the box office earnings in 2020 were significantly lower than the previous years due to the COVID-19 pandemic, regardless of whether they are adjusted to 2022 ticket prices or not."
+            }
+        ]
+    }
+}

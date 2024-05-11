@@ -1,0 +1,102 @@
+{
+  projectId: 'vega-lite-GDP-comparison',
+  scenes: [
+    {
+      charts: [
+        {source: './vega-lite-GDP-comparison.svg'},
+      ],
+      animation: {
+          target: '.vega-lite-GDP-comparison',
+          sequence: {
+            "sync": [
+                {
+                    "use": "Bar chart",
+                    "timing": {
+                        "duration": 2.88
+                    }
+                },
+                {
+                    "use": "Line-wipe",
+                    "timing": {
+                        "start": 2.867,
+                        "duration": 4.91,
+                        "offset": 0
+                    },
+                    "target": "#line-0",
+                    "ani_type": "Enter",
+                    "settings": {}
+                },
+                {
+                    "use": "Fade-in",
+                    "timing": {
+                        "start": 7.775,
+                        "duration": 3.84,
+                        "offset": 0
+                    },
+                    "target": "#chart-1",
+                    "ani_type": "Enter",
+                    "settings": {}
+                },
+                {
+                    "use": "Change-color",
+                    "timing": {
+                        "start": 11.618,
+                        "duration": 0.95
+                    },
+                    "target": "#bar-6, #bar-7, #bar-8, #bar-9",
+                    "ani_type": "Emphasis",
+                    "settings": {}
+                },
+                {
+                    "use": "Change-color",
+                    "timing": {
+                        "start": 17.379,
+                        "offset": 0.701,
+                        "duration": 0.85
+                    },
+                    "target": "#bar-6, #bar-7, #bar-8, #bar-9",
+                    "ani_type": "Emphasis",
+                    "settings": {
+                        "fill": "#436d9e"
+                    }
+                },
+                {
+                    "use": "Change-color",
+                    "timing": {
+                        "start": 24.922,
+                        "duration": 0.83
+                    },
+                    "target": "#bar-12",
+                    "ani_type": "Emphasis",
+                    "settings": {}
+                },
+                {
+                    "use": "Change-color",
+                    "timing": {
+                        "start": 27.599,
+                        "offset": 1.051,
+                        "duration": 0.74
+                    },
+                    "target": "#bar-12",
+                    "ani_type": "Emphasis",
+                    "settings": {
+                        "fill": "#436d9e"
+                    }
+                },
+                {
+                    "use": "Shine",
+                    "timing": {
+                        "start": 29.387,
+                        "duration": 5.04,
+                        "offset": 0
+                    },
+                    "target": "#bar-10, #bar-11, #bar-12, #bar-13, #bar-14, #bar-15, #bar-16, #bar-17, #bar-18, #bar-19",
+                    "ani_type": "Emphasis",
+                    "settings": {}
+                }
+            ]
+        }
+      }
+    }
+  ]
+}

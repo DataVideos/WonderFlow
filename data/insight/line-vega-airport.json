@@ -1,0 +1,31 @@
+{
+    "d1": "The title of the chart is Average Daily Number of Travelers passing through TSA Checkpoints at U.S. airports as a share of 2019 traffic.",
+    "d2": "The x-axis displays months (from Jan to Dec) while the y-axis shows the average daily number of travelers passing through TSA checkpoints, and the legend provides the corresponding years (2020 and 2021).",
+    "insight2": {
+        "insightType": "difference",
+        "insightSentence": "This is still a much lower number than the 104 in January 2020. ",
+        "subInsights": [{
+            "type": "difference",
+            "data": ["Jan,104,2020", "Dec,84,2021"],
+            "phrases": "This is still a much lower number than the 104 in January 2020."
+        }]
+    },
+    "insight1": {
+        "insightType": "trend",
+        "insightSentence": "The average daily number of travelers passing through TSA checkpoints at US airports decreased significantly from January 2020 to March 2020, from 104 to 43. This trend continued to decrease until December 2020. However, from January 2021 onwards, the number of travelers increased steadily, reaching 84 in December 2021.",
+        "subInsights": [{
+            "type": "decrease",
+            "data": ["Jan,104,2020", "Feb,105,2020", "Mar,43,2020", "Apr,7,2020", "May,9,2020", "Jun,20,2020", "Jul,26,2020", "Aug,29,2020", "Sep,32,2020", "Oct,36,2020", "Nov,37,2020", "Dec,38,2020"],
+            "phrases": "The average daily number of travelers passing through TSA checkpoints at US airports decreased significantly from January 2020 to March 2020, from 104 to 43. This trend continued to decrease until December 2020."
+        },{
+            "type": "increase",
+            "data": ["Jan,39,2021", "Feb,42,2021", "Mar,52,2021", "Apr,58,2021", "May,66,2021", "Jun,74,2021", "Jul,78,2021", "Aug,76,2021", "Sep,75,2021", "Oct,80,2021", "Nov,84,2021", "Dec,84,2021"],
+            "phrases": "However, from January 2021 onwards, the number of travelers increased steadily, reaching 84 in December 2021."
+        }]
+    },
+    "insight3": {
+        "insightType": "value",
+        "insightSentence": "",
+        "subInsights": []
+    }
+}

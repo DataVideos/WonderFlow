@@ -1,0 +1,680 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "Diverse preferences and experiences shape our digital lives across generations. The youngest age group overwhelmingly adopts YouTube, with significant usage of Instagram and Snapchat. Similarly, the 25-29 age group heavily favors YouTube, Instagram, and Snapchat, although their usage of Facebook is higher than that of the youngest group. For the 30-49 age group, Facebook emerges as the most popular platform, followed by YouTube. Instagram and Snapchat have lower usage compared to younger groups. Among the older group, Facebook dominates with a usage rate of 68%. While YouTube remains relatively popular, Instagram and Snapchat usage diminishes considerably. The oldest group exhibits a strong preference for Facebook, with minimal usage observed across other platforms.",
+          "confidence": 1.0,
+          "words": [
+            {
+              "startTime": "0.000s",
+              "endTime": "0.659s",
+              "word": "Diverse",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "0.659s",
+              "endTime": "1.576s",
+              "word": "preferences",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "1.576s",
+              "endTime": "1.686s",
+              "word": "and",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "1.686s",
+              "endTime": "2.679s",
+              "word": "experiences",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "2.679s",
+              "endTime": "3.061s",
+              "word": "shape",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "3.061s",
+              "endTime": "3.176s",
+              "word": "our",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "3.176s",
+              "endTime": "3.773s",
+              "word": "digital",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "3.773s",
+              "endTime": "4.236s",
+              "word": "lives",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "4.236s",
+              "endTime": "4.681s",
+              "word": "across",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "4.681s",
+              "endTime": "6.145s",
+              "word": "generations.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "6.145s",
+              "endTime": "6.225s",
+              "word": "The",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "6.225s",
+              "endTime": "6.876s",
+              "word": "youngest",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "6.876s",
+              "endTime": "7.221s",
+              "word": "age",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "7.221s",
+              "endTime": "7.624s",
+              "word": "group",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "7.624s",
+              "endTime": "8.655s",
+              "word": "overwhelmingly",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "8.655s",
+              "endTime": "9.185s",
+              "word": "adopts",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "9.185s",
+              "endTime": "9.997s",
+              "word": "YouTube,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "9.997s",
+              "endTime": "10.132s",
+              "word": "with",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "10.132s",
+              "endTime": "10.962s",
+              "word": "significant",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "10.962s",
+              "endTime": "11.462s",
+              "word": "usage",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "11.462s",
+              "endTime": "11.586s",
+              "word": "of",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "11.586s",
+              "endTime": "12.425s",
+              "word": "Instagram",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "12.425s",
+              "endTime": "12.545s",
+              "word": "and",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "12.545s",
+              "endTime": "14.316s",
+              "word": "Snapchat.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "14.316s",
+              "endTime": "15.244s",
+              "word": "Similarly,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "15.244s",
+              "endTime": "15.399s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "15.399s",
+              "endTime": "17.045s",
+              "word": "25-29",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "17.045s",
+              "endTime": "17.386s",
+              "word": "age",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "17.386s",
+              "endTime": "17.771s",
+              "word": "group",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "17.771s",
+              "endTime": "18.288s",
+              "word": "heavily",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "18.288s",
+              "endTime": "18.872s",
+              "word": "favors",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "18.872s",
+              "endTime": "19.748s",
+              "word": "YouTube,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "19.748s",
+              "endTime": "20.715s",
+              "word": "Instagram,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "20.715s",
+              "endTime": "20.825s",
+              "word": "and",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "20.825s",
+              "endTime": "22.165s",
+              "word": "Snapchat,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "22.165s",
+              "endTime": "22.445s",
+              "word": "although",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "22.445s",
+              "endTime": "22.615s",
+              "word": "their",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "22.615s",
+              "endTime": "23.146s",
+              "word": "usage",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "23.146s",
+              "endTime": "23.228s",
+              "word": "of",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "23.228s",
+              "endTime": "23.955s",
+              "word": "Facebook",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "23.955s",
+              "endTime": "24.115s",
+              "word": "is",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "24.115s",
+              "endTime": "24.539s",
+              "word": "higher",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "24.539s",
+              "endTime": "24.729s",
+              "word": "than",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "24.729s",
+              "endTime": "24.904s",
+              "word": "that",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "24.904s",
+              "endTime": "25.024s",
+              "word": "of",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "25.024s",
+              "endTime": "25.109s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "25.109s",
+              "endTime": "25.655s",
+              "word": "youngest",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "25.655s",
+              "endTime": "26.955s",
+              "word": "group.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "26.955s",
+              "endTime": "27.100s",
+              "word": "For",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "27.100s",
+              "endTime": "27.235s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "27.235s",
+              "endTime": "28.508s",
+              "word": "30-49",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "28.508s",
+              "endTime": "28.868s",
+              "word": "age",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "28.868s",
+              "endTime": "29.538s",
+              "word": "group,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "29.538s",
+              "endTime": "30.161s",
+              "word": "Facebook",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "30.161s",
+              "endTime": "30.774s",
+              "word": "emerges",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "30.774s",
+              "endTime": "30.949s",
+              "word": "as",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "30.949s",
+              "endTime": "31.039s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "31.039s",
+              "endTime": "31.326s",
+              "word": "most",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "31.326s",
+              "endTime": "31.957s",
+              "word": "popular",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "31.957s",
+              "endTime": "32.905s",
+              "word": "platform,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "32.905s",
+              "endTime": "33.345s",
+              "word": "followed",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "33.345s",
+              "endTime": "33.539s",
+              "word": "by",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "33.539s",
+              "endTime": "35.116s",
+              "word": "YouTube.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "35.116s",
+              "endTime": "35.976s",
+              "word": "Instagram",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "35.976s",
+              "endTime": "36.116s",
+              "word": "and",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "36.116s",
+              "endTime": "36.990s",
+              "word": "Snapchat",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "36.990s",
+              "endTime": "37.235s",
+              "word": "have",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "37.235s",
+              "endTime": "37.597s",
+              "word": "lower",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "37.597s",
+              "endTime": "38.190s",
+              "word": "usage",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "38.190s",
+              "endTime": "38.650s",
+              "word": "compared",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "38.650s",
+              "endTime": "38.743s",
+              "word": "to",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "38.743s",
+              "endTime": "39.218s",
+              "word": "younger",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "39.218s",
+              "endTime": "40.276s",
+              "word": "groups.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "40.276s",
+              "endTime": "40.666s",
+              "word": "Among",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "40.666s",
+              "endTime": "40.816s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "40.816s",
+              "endTime": "41.231s",
+              "word": "older",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "41.231s",
+              "endTime": "41.884s",
+              "word": "group,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "41.884s",
+              "endTime": "42.576s",
+              "word": "Facebook",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "42.576s",
+              "endTime": "43.337s",
+              "word": "dominates",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "43.337s",
+              "endTime": "43.492s",
+              "word": "with",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "43.492s",
+              "endTime": "43.522s",
+              "word": "a",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "43.522s",
+              "endTime": "44.128s",
+              "word": "usage",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "44.128s",
+              "endTime": "44.393s",
+              "word": "rate",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "44.393s",
+              "endTime": "44.489s",
+              "word": "of",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "44.489s",
+              "endTime": "46.763s",
+              "word": "68%.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "46.763s",
+              "endTime": "46.963s",
+              "word": "While",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "46.963s",
+              "endTime": "47.628s",
+              "word": "YouTube",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "47.628s",
+              "endTime": "48.078s",
+              "word": "remains",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "48.078s",
+              "endTime": "48.763s",
+              "word": "relatively",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "48.763s",
+              "endTime": "49.755s",
+              "word": "popular,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "49.755s",
+              "endTime": "50.542s",
+              "word": "Instagram",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "50.542s",
+              "endTime": "50.677s",
+              "word": "and",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "50.677s",
+              "endTime": "51.473s",
+              "word": "Snapchat",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "51.473s",
+              "endTime": "52.013s",
+              "word": "usage",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "52.013s",
+              "endTime": "52.760s",
+              "word": "diminishes",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "52.760s",
+              "endTime": "54.707s",
+              "word": "considerably.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "54.707s",
+              "endTime": "54.877s",
+              "word": "The",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "54.877s",
+              "endTime": "55.382s",
+              "word": "oldest",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "55.382s",
+              "endTime": "55.747s",
+              "word": "group",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "55.747s",
+              "endTime": "56.341s",
+              "word": "exhibits",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "56.341s",
+              "endTime": "56.406s",
+              "word": "a",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "56.406s",
+              "endTime": "56.949s",
+              "word": "strong",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "56.949s",
+              "endTime": "57.571s",
+              "word": "preference",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "57.571s",
+              "endTime": "57.726s",
+              "word": "for",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "57.726s",
+              "endTime": "58.746s",
+              "word": "Facebook,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "58.746s",
+              "endTime": "58.926s",
+              "word": "with",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "58.926s",
+              "endTime": "59.406s",
+              "word": "minimal",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "59.406s",
+              "endTime": "59.992s",
+              "word": "usage",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "59.992s",
+              "endTime": "60.495s",
+              "word": "observed",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "60.495s",
+              "endTime": "60.909s",
+              "word": "across",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "60.909s",
+              "endTime": "61.164s",
+              "word": "other",
+              "speakerTag": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

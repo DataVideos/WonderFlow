@@ -1,0 +1,22 @@
+{
+    projectId: 'living',
+    scenes: [
+      {
+        charts: [
+          {source: './living.svg'},
+        ],
+        animation: {
+            target: '.living',
+  
+      "sequence": {
+        "sync": [
+  
+        ]
+    }
+
+  
+  
+        }
+      }
+    ]
+  }

@@ -1,0 +1,650 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "On the left is a visualization of overnight stays at Crait National Park. Each concentric ring in the background represents 5,000 nights. The colored rings represent the number of nights spent per month per accommodation type. Each colored ring represents a type of accommodation: lodging, RV, tent, and backcountry. From this, we can see tent camping is the most popular accommodation from October to May. The white part of the visualization indicates average temperatures below freezing (32\u00b0F). The red shape in the circle represents average temperatures above 70\u00b0F. From December to May, some nights average above 70\u00b0F. From June to October, some nights average below freezing.",
+          "confidence": 1.0,
+          "words": [
+            {
+              "startTime": "0.000s",
+              "endTime": "0.190s",
+              "word": "On",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "0.190s",
+              "endTime": "0.230s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "0.230s",
+              "endTime": "0.726s",
+              "word": "left",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "0.726s",
+              "endTime": "0.881s",
+              "word": "is",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "0.881s",
+              "endTime": "0.931s",
+              "word": "a",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "0.931s",
+              "endTime": "2.119s",
+              "word": "visualization",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "2.119s",
+              "endTime": "2.259s",
+              "word": "of",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "2.259s",
+              "endTime": "2.954s",
+              "word": "overnight",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "2.954s",
+              "endTime": "3.400s",
+              "word": "stays",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "3.400s",
+              "endTime": "3.584s",
+              "word": "at",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "3.584s",
+              "endTime": "3.944s",
+              "word": "Crait",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "3.944s",
+              "endTime": "4.471s",
+              "word": "National",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "4.471s",
+              "endTime": "5.904s",
+              "word": "Park.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "5.904s",
+              "endTime": "6.204s",
+              "word": "Each",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "6.204s",
+              "endTime": "7.047s",
+              "word": "concentric",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "7.047s",
+              "endTime": "7.315s",
+              "word": "ring",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "7.315s",
+              "endTime": "7.460s",
+              "word": "in",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "7.460s",
+              "endTime": "7.555s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "7.555s",
+              "endTime": "8.360s",
+              "word": "background",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "8.360s",
+              "endTime": "8.996s",
+              "word": "represents",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "8.996s",
+              "endTime": "9.839s",
+              "word": "5,000",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "9.839s",
+              "endTime": "10.848s",
+              "word": "nights.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "10.848s",
+              "endTime": "10.983s",
+              "word": "The",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "10.983s",
+              "endTime": "11.478s",
+              "word": "colored",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "11.478s",
+              "endTime": "11.958s",
+              "word": "rings",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "11.958s",
+              "endTime": "12.600s",
+              "word": "represent",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "12.600s",
+              "endTime": "12.661s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "12.661s",
+              "endTime": "13.111s",
+              "word": "number",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "13.111s",
+              "endTime": "13.226s",
+              "word": "of",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "13.226s",
+              "endTime": "13.681s",
+              "word": "nights",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "13.681s",
+              "endTime": "14.038s",
+              "word": "spent",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "14.038s",
+              "endTime": "14.228s",
+              "word": "per",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "14.228s",
+              "endTime": "14.586s",
+              "word": "month",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "14.586s",
+              "endTime": "14.816s",
+              "word": "per",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "14.816s",
+              "endTime": "15.672s",
+              "word": "accommodation",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "15.672s",
+              "endTime": "16.978s",
+              "word": "type.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "16.978s",
+              "endTime": "17.293s",
+              "word": "Each",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "17.293s",
+              "endTime": "17.786s",
+              "word": "colored",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "17.786s",
+              "endTime": "18.146s",
+              "word": "ring",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "18.146s",
+              "endTime": "18.803s",
+              "word": "represents",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "18.803s",
+              "endTime": "18.918s",
+              "word": "a",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "18.918s",
+              "endTime": "19.198s",
+              "word": "type",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "19.198s",
+              "endTime": "19.303s",
+              "word": "of",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "19.303s",
+              "endTime": "20.749s",
+              "word": "accommodation:",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "20.749s",
+              "endTime": "21.550s",
+              "word": "lodging,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "21.550s",
+              "endTime": "22.421s",
+              "word": "RV,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "22.421s",
+              "endTime": "22.968s",
+              "word": "tent,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "22.968s",
+              "endTime": "23.123s",
+              "word": "and",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "23.123s",
+              "endTime": "24.942s",
+              "word": "backcountry.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "24.942s",
+              "endTime": "25.177s",
+              "word": "From",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "25.177s",
+              "endTime": "25.762s",
+              "word": "this,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "25.762s",
+              "endTime": "25.912s",
+              "word": "we",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "25.912s",
+              "endTime": "26.072s",
+              "word": "can",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "26.072s",
+              "endTime": "26.324s",
+              "word": "see",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "26.324s",
+              "endTime": "26.762s",
+              "word": "tent",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "26.762s",
+              "endTime": "27.320s",
+              "word": "camping",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "27.320s",
+              "endTime": "27.485s",
+              "word": "is",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "27.485s",
+              "endTime": "27.580s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "27.580s",
+              "endTime": "27.865s",
+              "word": "most",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "27.865s",
+              "endTime": "28.541s",
+              "word": "popular",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "28.541s",
+              "endTime": "29.457s",
+              "word": "accommodation",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "29.457s",
+              "endTime": "29.652s",
+              "word": "from",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "29.652s",
+              "endTime": "30.311s",
+              "word": "October",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "30.311s",
+              "endTime": "30.451s",
+              "word": "to",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "30.451s",
+              "endTime": "31.813s",
+              "word": "May.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "31.813s",
+              "endTime": "31.898s",
+              "word": "The",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "31.898s",
+              "endTime": "32.253s",
+              "word": "white",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "32.253s",
+              "endTime": "32.603s",
+              "word": "part",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "32.603s",
+              "endTime": "32.723s",
+              "word": "of",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "32.723s",
+              "endTime": "32.808s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "32.808s",
+              "endTime": "34.102s",
+              "word": "visualization",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "34.102s",
+              "endTime": "34.778s",
+              "word": "indicates",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "34.778s",
+              "endTime": "35.316s",
+              "word": "average",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "35.316s",
+              "endTime": "36.078s",
+              "word": "temperatures",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "36.078s",
+              "endTime": "36.443s",
+              "word": "below",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "36.443s",
+              "endTime": "37.118s",
+              "word": "freezing",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "37.118s",
+              "endTime": "40.014s",
+              "word": "(32\u00b0F).",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "40.014s",
+              "endTime": "40.099s",
+              "word": "The",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "40.099s",
+              "endTime": "40.494s",
+              "word": "red",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "40.494s",
+              "endTime": "40.921s",
+              "word": "shape",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "40.921s",
+              "endTime": "41.046s",
+              "word": "in",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "41.046s",
+              "endTime": "41.111s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "41.111s",
+              "endTime": "41.711s",
+              "word": "circle",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "41.711s",
+              "endTime": "42.392s",
+              "word": "represents",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "42.392s",
+              "endTime": "42.922s",
+              "word": "average",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "42.922s",
+              "endTime": "43.747s",
+              "word": "temperatures",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "43.747s",
+              "endTime": "44.062s",
+              "word": "above",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "44.062s",
+              "endTime": "46.884s",
+              "word": "70\u00b0F.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "46.884s",
+              "endTime": "47.089s",
+              "word": "From",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "47.089s",
+              "endTime": "47.719s",
+              "word": "December",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "47.719s",
+              "endTime": "47.859s",
+              "word": "to",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "47.859s",
+              "endTime": "48.549s",
+              "word": "May,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "48.549s",
+              "endTime": "48.808s",
+              "word": "some",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "48.808s",
+              "endTime": "49.213s",
+              "word": "nights",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "49.213s",
+              "endTime": "49.677s",
+              "word": "average",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "49.677s",
+              "endTime": "49.994s",
+              "word": "above",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "49.994s",
+              "endTime": "52.818s",
+              "word": "70\u00b0F.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "52.818s",
+              "endTime": "53.048s",
+              "word": "From",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "53.048s",
+              "endTime": "53.443s",
+              "word": "June",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "53.443s",
+              "endTime": "53.563s",
+              "word": "to",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "53.563s",
+              "endTime": "54.558s",
+              "word": "October,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "54.558s",
+              "endTime": "54.783s",
+              "word": "some",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "54.783s",
+              "endTime": "55.168s",
+              "word": "nights",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "55.168s",
+              "endTime": "55.627s",
+              "word": "average",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "55.627s",
+              "endTime": "55.977s",
+              "word": "below",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "55.977s",
+              "endTime": "57.087s",
+              "word": "freezing.",
+              "speakerTag": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

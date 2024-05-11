@@ -1,0 +1,103 @@
+{
+  "description1": "Total Nonfarm Employment in the United States from 2006 to 2021",
+  "description2": "The x-axis shows the year from 2006 to 2021, and the y-axis shows the total nonfarm employment in the United States.",
+  "description3": "The chart shows that the total nonfarm employment in the United States has experienced an extreme drop in 2020, with the number dropping from 62.97 in 2006 to 57.16 in 2020. There is also an outlier in 2020, with the number dropping significantly compared to the other years. The overall trend is that the total nonfarm employment in the United States has been increasing from 2006 to 2021.",
+  "insights": [
+      {
+          "insightType": "Extreme",
+          "insightData": [{"x-none": 2006, "Total Nonfarm Employment in the United States": 62.97, "legend-none": "legend-none"}, {"x-none": 2020, "Total Nonfarm Employment in the United States": 57.16, "legend-none": "legend-none"}],
+          "insightWords": "an extreme drop"
+      },
+      {
+          "insightType": "Outlier",
+          "insightData": [{"x-none": 2020, "Total Nonfarm Employment in the United States": 57.16, "legend-none": "legend-none"}],
+          "insightWords": "an outlier"
+      },
+      {
+          "insightType": "Trend",
+          "insightData": [
+            {
+                "x-none": 2006,
+                "Total Nonfarm Employment in the United States": 62.97,
+                "legend-none": "legend-none"
+            },
+            {
+                "x-none": 2007,
+                "Total Nonfarm Employment in the United States": 62.94,
+                "legend-none": "legend-none"
+            },
+            {
+                "x-none": 2008,
+                "Total Nonfarm Employment in the United States": 62.15,
+                "legend-none": "legend-none"
+            },
+            {
+                "x-none": 2009,
+                "Total Nonfarm Employment in the United States": 59.26,
+                "legend-none": "legend-none"
+            },
+            {
+                "x-none": 2010,
+                "Total Nonfarm Employment in the United States": 58.45,
+                "legend-none": "legend-none"
+            },
+            {
+                "x-none": 2011,
+                "Total Nonfarm Employment in the United States": 58.35,
+                "legend-none": "legend-none"
+            },
+            {
+                "x-none": 2012,
+                "Total Nonfarm Employment in the United States": 58.55,
+                "legend-none": "legend-none"
+            },
+            {
+                "x-none": 2013,
+                "Total Nonfarm Employment in the United States": 58.55,
+                "legend-none": "legend-none"
+            },
+            {
+                "x-none": 2014,
+                "Total Nonfarm Employment in the United States": 58.96,
+                "legend-none": "legend-none"
+            },
+            {
+                "x-none": 2015,
+                "Total Nonfarm Employment in the United States": 59.26,
+                "legend-none": "legend-none"
+            },
+            {
+                "x-none": 2016,
+                "Total Nonfarm Employment in the United States": 59.65,
+                "legend-none": "legend-none"
+            },
+            {
+                "x-none": 2017,
+                "Total Nonfarm Employment in the United States": 60.05,
+                "legend-none": "legend-none"
+            },
+            {
+                "x-none": 2018,
+                "Total Nonfarm Employment in the United States": 60.34,
+                "legend-none": "legend-none"
+            },
+            {
+                "x-none": 2019,
+                "Total Nonfarm Employment in the United States": 60.74,
+                "legend-none": "legend-none"
+            },
+            {
+                "x-none": 2020,
+                "Total Nonfarm Employment in the United States": 57.16,
+                "legend-none": "legend-none"
+            },
+            {
+                "x-none": 2021,
+                "Total Nonfarm Employment in the United States": 58.35,
+                "legend-none": "legend-none"
+            }
+        ],
+          "insightWords": "the overall trend is that the total nonfarm employment in the United States has been increasing"
+      }
+  ]
+}

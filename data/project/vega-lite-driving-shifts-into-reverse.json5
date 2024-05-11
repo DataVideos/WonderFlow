@@ -1,0 +1,26 @@
+{
+  projectId: 'vega-lite-driving-shifts-into-reverse',
+  scenes: [
+    {
+      charts: [
+        {source: './vega-lite-driving-shifts-into-reverse.svg'},
+      ],
+      animation: {
+          target: '.vega-lite-driving-shifts-into-reverse',
+          sequence: {
+              sync: [
+                {
+                  use: 'Bar chart',
+                  settings: {
+                    barDirection: 'left',
+                  },
+                  timing: {
+                    duration: 5.5,
+                  },
+                },
+              ]
+          }
+      }
+    },
+  ]
+}
