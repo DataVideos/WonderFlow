@@ -5,9 +5,9 @@
     </el-header>
 
     <el-main>
-      <el-col :span="12" :offset="6">
+      <div style="width: 1000px; margin-left: auto; margin-right: auto;">
         <el-row style="display: flex; justify-content: center; align-items: center;">
-          <h1 class="title-text">WonderFlow: Easy Creation of Narration-Enriched Data Videos</h1>
+          <h1 class="title-text">WonderFlow: Narration-Centric Design of Animated Data Videos</h1>
         </el-row>
         <el-row style="margin-bottom: 20px;">
           <h4 style="text-align: center;">
@@ -23,10 +23,10 @@
               <span>Dongmei Zhang<sup>1</sup></span>
             </p>
             <p>
-              <span><sup>1</sup>Microsoft Research</span>&nbsp;&nbsp;
+              <span><sup>1</sup>Microsoft</span>&nbsp;&nbsp;
               <span><sup>2</sup>The Hong Kong University of Science and Technology</span>&nbsp;&nbsp;
-              <br>
               <span><sup>3</sup>The Hong Kong Polytechnic University</span>&nbsp;&nbsp;
+              <br>
               <span><sup>4</sup>Newcastle University</span>&nbsp;&nbsp;
               <span><sup>5</sup>Yonsei University</span>&nbsp;&nbsp;
               <span><sup>6</sup>AutoDesk</span>
@@ -45,10 +45,14 @@
               height="100%"></video>
         </el-row>
         <el-row style="margin-bottom: 20px;">
-          <h3 style="text-align: center;">Abstract</h3>
+          <h2>Abstract:</h2>
           <p>Creating an animated data video with audio narration is a time-consuming and complex task that requires expertise. It involves designing complex animations, turning written scripts into audio narrations, and synchronizing visual changes with the narrations. This paper presents WonderFlow, an interactive authoring tool, that facilitates narration-centric design of animated data videos. WonderFlow allows authors to easily specify semantic links between text and the corresponding chart elements. Then it automatically generates audio narration by leveraging text-to-speech techniques and aligns the narration with an animation. WonderFlow provides a structure-aware animation library designed to ease chart animation creation, enabling authors to apply pre-designed animation effects to common visualization components. Additionally, authors can preview and refine their data videos within the same system, without having to switch between different creation tools. A series of evaluation results confirmed that WonderFlow is easy to use and simplifies the creation of data videos with narration-animation interplay.</p>
         </el-row>
-      </el-col>
+        <el-row style="margin-bottom: 20px;">
+          <h2>Resources:</h2>
+          <a href="./data/video/WonderFlow_video.mp4" target="_blank">Paper</a> | <a href="./data/video/WonderFlow_video.mp4" target="_blank">Supp</a>
+        </el-row>
+      </div>
     </el-main>
 
     <el-footer>

@@ -5,9 +5,9 @@
     </el-header>
 
     <el-main>
-      <el-col :span="12" :offset="6">
+      <div style="width: 1000px; margin-left: auto; margin-right: auto;">
         <el-row>
-          <span class="page-text">Gallery</span>
+          <h2>Gallery</h2>
         </el-row>
 
         <el-row>
@@ -28,7 +28,7 @@
                  :key="'empty-block-' + i"></div>
           </div>
         </el-row>
-      </el-col>
+      </div>
     </el-main>
 
     <el-footer>
