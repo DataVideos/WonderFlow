@@ -9,7 +9,7 @@
         <el-row style="display: flex; justify-content: center; align-items: center;">
           <h1 class="title-text">WonderFlow: Narration-Centric Design of Animated Data Videos</h1>
         </el-row>
-        <el-row style="margin-bottom: 20px;">
+        <el-row>
           <h4 style="text-align: center;">
             <p>
               <span>Yun Wang<sup>* 1</sup></span>&nbsp;&nbsp;
@@ -35,7 +35,7 @@
             <p>IEEE Transactions on Visualization and Computer Graphics 2024</p>
           </h4>
         </el-row>
-        <el-row style="margin-bottom: 20px;">
+        <el-row>
           <video
               class="local-video"
               style="box-shadow: 0 0 5px #d7d7d7;"
@@ -44,11 +44,11 @@
               width="100%"
               height="100%"></video>
         </el-row>
-        <el-row style="margin-bottom: 20px;">
+        <el-row>
           <h2>Abstract:</h2>
           <p>Creating an animated data video with audio narration is a time-consuming and complex task that requires expertise. It involves designing complex animations, turning written scripts into audio narrations, and synchronizing visual changes with the narrations. This paper presents WonderFlow, an interactive authoring tool, that facilitates narration-centric design of animated data videos. WonderFlow allows authors to easily specify semantic links between text and the corresponding chart elements. Then it automatically generates audio narration by leveraging text-to-speech techniques and aligns the narration with an animation. WonderFlow provides a structure-aware animation library designed to ease chart animation creation, enabling authors to apply pre-designed animation effects to common visualization components. Additionally, authors can preview and refine their data videos within the same system, without having to switch between different creation tools. A series of evaluation results confirmed that WonderFlow is easy to use and simplifies the creation of data videos with narration-animation interplay.</p>
         </el-row>
-        <el-row style="margin-bottom: 20px;">
+        <el-row>
           <h2>Resources:</h2>
           <a href="./data/video/WonderFlow_video.mp4" target="_blank">Paper</a> | <a href="./data/video/WonderFlow_video.mp4" target="_blank">Supp</a>
         </el-row>
@@ -107,6 +107,6 @@ footer {
 }
 
 .title-text {
-  margin: 10px 0 30px 0;
+  font-size: 1.7rem;
 }
 </style>

@@ -25,7 +25,7 @@
         </el-row>
 
         <el-row style="margin-top: 10px;">
-          <h2 class="title-text">Link to Original Video</h2>
+          <h2 class="title-text">Link to original video</h2>
           <a class="content-text"
              :href="galleryInfo.link">{{ galleryInfo.videoName }}</a>
         </el-row>
@@ -36,7 +36,7 @@
         </el-row>
 
         <el-row>
-          <h2 class="title-text">Creation Process</h2>
+          <h2 class="title-text">Creation process</h2>
           <video
               class="local-video"
               :src="`./data/video/V${projectIndex + 1}_1.mp4`"
@@ -46,7 +46,7 @@
         </el-row>
 
         <el-row>
-          <h2 class="title-text">Final Version</h2>
+          <h2 class="title-text">Final version</h2>
           <video
               class="local-video"
               :src="`./data/video/V${projectIndex + 1}_2.mp4`"
@@ -173,7 +173,7 @@ footer {
 }
 
 .title-text {
-  /*font-size: 1.5rem;*/
+  font-size: 1.3rem;
   margin: 20px 0 10px 0;
 }
 .content-text {
