@@ -1,0 +1,18 @@
+
+      {
+        projectId: 'line-vega-earnings-example1',
+        scenes: [
+          {
+            charts: [
+              {source: './line-vega-earnings.svg'},
+            ],
+            animation: {
+              sequence: {
+                  "sync": [
+                  ]
+              }
+            },
+          }
+        ]
+      }
+    

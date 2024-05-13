@@ -1,0 +1,460 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks"
+    width="1754" height="1136" viewBox="0 0 877 568">
+    <rect width="877" height="568" fill="#f6f6f7" />
+    <g fill="none" stroke-miterlimit="10" transform="translate(108,71)">
+        <g class="mark-group role-frame root" role="graphics-object" aria-roledescription="group mark container">
+            <g transform="translate(0,0)">
+                <path class="background" aria-hidden="true" d="M0.5,0.5h600v400h-600Z" />
+                <g>
+                    <g class="mark-group role-axis" aria-hidden="true">
+                        <g transform="translate(0.5,0.5)">
+                            <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none" />
+                            <g>
+                                <g class="mark-rule role-axis-grid" pointer-events="none">
+                                    <line transform="translate(0,400)" x2="600" y2="0" stroke="#ddd" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,369)" x2="600" y2="0" stroke="#ddd" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,338)" x2="600" y2="0" stroke="#ddd" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,308)" x2="600" y2="0" stroke="#ddd" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,277)" x2="600" y2="0" stroke="#ddd" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,246)" x2="600" y2="0" stroke="#ddd" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,215)" x2="600" y2="0" stroke="#ddd" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,185)" x2="600" y2="0" stroke="#ddd" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,154)" x2="600" y2="0" stroke="#ddd" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,123)" x2="600" y2="0" stroke="#ddd" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,92)" x2="600" y2="0" stroke="#ddd" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,62)" x2="600" y2="0" stroke="#ddd" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,31)" x2="600" y2="0" stroke="#ddd" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,0)" x2="600" y2="0" stroke="#ddd" stroke-width="1"
+                                        opacity="1" />
+                                </g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                    </g>
+                    <g class="mark-group role-axis" role="graphics-symbol" aria-roledescription="axis"
+                        aria-label="X-axis titled 'Year' for a discrete scale with 10 values: 2013, 2014, 2015, 2016, 2017, ending with 2022">
+                        <g transform="translate(0.5,400.5)">
+                            <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none" />
+                            <g>
+                                <g class="mark-rule role-axis-tick" pointer-events="none">
+                                    <line transform="translate(30,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(90,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(150,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(210,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(270,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(330,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(390,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(450,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(510,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(570,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                </g>
+                                <g class="mark-text role-axis-label" pointer-events="none"><text text-anchor="end"
+                                        transform="translate(29.5,7) rotate(270) translate(0,4)"
+                                        font-family="sans-serif" font-size="14px" fill="#000"
+                                        opacity="1">2013</text><text text-anchor="end"
+                                        transform="translate(89.5,7) rotate(270) translate(0,4)"
+                                        font-family="sans-serif" font-size="14px" fill="#000"
+                                        opacity="1">2014</text><text text-anchor="end"
+                                        transform="translate(149.5,7) rotate(270) translate(0,4)"
+                                        font-family="sans-serif" font-size="14px" fill="#000"
+                                        opacity="1">2015</text><text text-anchor="end"
+                                        transform="translate(209.5,7) rotate(270) translate(0,4)"
+                                        font-family="sans-serif" font-size="14px" fill="#000"
+                                        opacity="1">2016</text><text text-anchor="end"
+                                        transform="translate(269.5,7) rotate(270) translate(0,4)"
+                                        font-family="sans-serif" font-size="14px" fill="#000"
+                                        opacity="1">2017</text><text text-anchor="end"
+                                        transform="translate(329.5,7) rotate(270) translate(0,4)"
+                                        font-family="sans-serif" font-size="14px" fill="#000"
+                                        opacity="1">2018</text><text text-anchor="end"
+                                        transform="translate(389.5,7) rotate(270) translate(0,4)"
+                                        font-family="sans-serif" font-size="14px" fill="#000"
+                                        opacity="1">2019</text><text text-anchor="end"
+                                        transform="translate(449.5,7) rotate(270) translate(0,4)"
+                                        font-family="sans-serif" font-size="14px" fill="#000"
+                                        opacity="1">2020</text><text text-anchor="end"
+                                        transform="translate(509.5,7) rotate(270) translate(0,4)"
+                                        font-family="sans-serif" font-size="14px" fill="#000"
+                                        opacity="1">2021</text><text text-anchor="end"
+                                        transform="translate(569.5,7) rotate(270) translate(0,4)"
+                                        font-family="sans-serif" font-size="14px" fill="#000" opacity="1">2022</text>
+                                </g>
+                                <g class="mark-rule role-axis-domain" pointer-events="none">
+                                    <line transform="translate(0,0)" x2="600" y2="0" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                </g>
+                                <g class="mark-text role-axis-title" pointer-events="none"><text text-anchor="middle"
+                                        transform="translate(300,53.13333320617676)" font-family="sans-serif"
+                                        font-size="14px" font-weight="bold" fill="#000" opacity="1">Year</text></g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                    </g>
+                    <g class="mark-group role-axis" role="graphics-symbol" aria-roledescription="axis"
+                        aria-label="Y-axis titled 'GDP (Billions of USD)' for a linear scale with values from 0 to 26,000">
+                        <g transform="translate(0.5,0.5)">
+                            <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none" />
+                            <g>
+                                <g class="mark-rule role-axis-tick" pointer-events="none">
+                                    <line transform="translate(0,400)" x2="-5" y2="0" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,369)" x2="-5" y2="0" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,338)" x2="-5" y2="0" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,308)" x2="-5" y2="0" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,277)" x2="-5" y2="0" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,246)" x2="-5" y2="0" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,215)" x2="-5" y2="0" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,185)" x2="-5" y2="0" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,154)" x2="-5" y2="0" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,123)" x2="-5" y2="0" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,92)" x2="-5" y2="0" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,62)" x2="-5" y2="0" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,31)" x2="-5" y2="0" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,0)" x2="-5" y2="0" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                </g>
+                                <g class="mark-text role-axis-label" pointer-events="none"><text text-anchor="end"
+                                        transform="translate(-7,404)" font-family="sans-serif" font-size="14px"
+                                        fill="#000" opacity="1">0</text><text text-anchor="end"
+                                        transform="translate(-7,373.2307692307692)" font-family="sans-serif"
+                                        font-size="14px" fill="#000" opacity="1">2,000</text><text text-anchor="end"
+                                        transform="translate(-7,342.46153846153845)" font-family="sans-serif"
+                                        font-size="14px" fill="#000" opacity="1">4,000</text><text text-anchor="end"
+                                        transform="translate(-7,311.6923076923077)" font-family="sans-serif"
+                                        font-size="14px" fill="#000" opacity="1">6,000</text><text text-anchor="end"
+                                        transform="translate(-7,280.9230769230769)" font-family="sans-serif"
+                                        font-size="14px" fill="#000" opacity="1">8,000</text><text text-anchor="end"
+                                        transform="translate(-7,250.15384615384616)" font-family="sans-serif"
+                                        font-size="14px" fill="#000" opacity="1">10,000</text><text text-anchor="end"
+                                        transform="translate(-7,219.3846153846154)" font-family="sans-serif"
+                                        font-size="14px" fill="#000" opacity="1">12,000</text><text text-anchor="end"
+                                        transform="translate(-7,188.6153846153846)" font-family="sans-serif"
+                                        font-size="14px" fill="#000" opacity="1">14,000</text><text text-anchor="end"
+                                        transform="translate(-7,157.84615384615384)" font-family="sans-serif"
+                                        font-size="14px" fill="#000" opacity="1">16,000</text><text text-anchor="end"
+                                        transform="translate(-7,127.07692307692308)" font-family="sans-serif"
+                                        font-size="14px" fill="#000" opacity="1">18,000</text><text text-anchor="end"
+                                        transform="translate(-7,96.30769230769229)" font-family="sans-serif"
+                                        font-size="14px" fill="#000" opacity="1">20,000</text><text text-anchor="end"
+                                        transform="translate(-7,65.53846153846155)" font-family="sans-serif"
+                                        font-size="14px" fill="#000" opacity="1">22,000</text><text text-anchor="end"
+                                        transform="translate(-7,34.769230769230745)" font-family="sans-serif"
+                                        font-size="14px" fill="#000" opacity="1">24,000</text><text text-anchor="end"
+                                        transform="translate(-7,4)" font-family="sans-serif" font-size="14px"
+                                        fill="#000" opacity="1">26,000</text></g>
+                                <g class="mark-rule role-axis-domain" pointer-events="none">
+                                    <line transform="translate(0,400)" x2="0" y2="-400" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                </g>
+                                <g class="mark-text role-axis-title" pointer-events="none"><text text-anchor="middle"
+                                        transform="translate(-53.79999923706055,200) rotate(-90) translate(0,-3)"
+                                        font-family="sans-serif" font-size="14px" font-weight="bold" fill="#000"
+                                        opacity="1">GDP (Billions of USD)</text></g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                    </g>
+                    <g class="mark-group role-scope layer_0_layer_0_pathgroup" role="graphics-object"
+                        aria-roledescription="group mark container">
+                        <g transform="translate(0,0)">
+                            <path class="background" aria-hidden="true" d="M0,0h600v400h-600Z" />
+                            <g>
+                                <g class="mark-line role-mark layer_0_layer_0_marks" role="graphics-object"
+                                    aria-roledescription="line mark container">
+                                    <path aria-label="Year: 2013; GDP: 16843.19; Country: United States"
+                                        role="graphics-symbol" aria-roledescription="line mark"
+                                        d="M30,140.874L90,129.99L150,119.907L210,112.383L270,100.349L330,84.107L390,71.062L450,75.993L510,41.306L570,8.62"
+                                        stroke="#e41a1c" stroke-width="3" />
+                                </g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" display="none" />
+                        </g>
+                        <g transform="translate(0,0)">
+                            <path class="background" aria-hidden="true" d="M0,0h600v400h-600Z" />
+                            <g>
+                                <g class="mark-line role-mark layer_0_layer_0_marks" role="graphics-object"
+                                    aria-roledescription="line mark container">
+                                    <path aria-label="Year: 2013; GDP: 9570.47; Country: China" role="graphics-symbol"
+                                        aria-roledescription="line mark"
+                                        d="M30,252.762L90,238.837L150,229.822L210,227.18L270,210.608L330,186.232L390,180.308L450,174.035L510,125.839L570,123.644"
+                                        stroke="#4daf4a" stroke-width="3" />
+                                </g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" display="none" />
+                        </g>
+                        <g transform="translate(0,0)">
+                            <path class="background" aria-hidden="true" d="M0,0h600v400h-600Z" />
+                            <g>
+                                <g class="mark-line role-mark layer_0_layer_0_marks" role="graphics-object"
+                                    aria-roledescription="line mark container">
+                                    <path aria-label="Year: 2013; GDP: 15294.7; Country: European Union"
+                                        role="graphics-symbol" aria-roledescription="line mark"
+                                        d="M30,164.697L90,159.213L150,191.482L210,186.331L270,172.838L330,154.139L390,158.563L450,163.367L510,133.607L570,142.366"
+                                        stroke="#377eb8" stroke-width="3" />
+                                </g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" display="none" />
+                        </g>
+                    </g>
+                    <g class="mark-symbol role-mark layer_0_layer_1_marks" role="graphics-object"
+                        aria-roledescription="symbol mark container">
+                        <path aria-label="Year: 2013; GDP: 16843.19; Country: United States" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(30,140.87400000000002)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#e41a1c"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="Year: 2014; GDP: 17550.68; Country: United States" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(90,129.98953846153847)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#e41a1c"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="Year: 2015; GDP: 18206.02; Country: United States" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(150,119.90738461538459)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#e41a1c"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="Year: 2016; GDP: 18695.11; Country: United States" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(210,112.38292307692306)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#e41a1c"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="Year: 2017; GDP: 19477.34; Country: United States" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(270,100.34861538461537)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#e41a1c"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="Year: 2018; GDP: 20533.06; Country: United States" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(330,84.10676923076923)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#e41a1c"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="Year: 2019; GDP: 21380.98; Country: United States" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(390,71.06184615384615)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#e41a1c"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="Year: 2020; GDP: 21060.47; Country: United States" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(450,75.99276923076923)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#e41a1c"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="Year: 2021; GDP: 23315.08; Country: United States" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(510,41.30646153846151)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#e41a1c"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="Year: 2022; GDP: 25439.7; Country: United States" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(570,8.619999999999983)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#e41a1c"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="Year: 2013; GDP: 9570.47; Country: China" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(30,252.76200000000003)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#4daf4a"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="Year: 2014; GDP: 10475.62; Country: China" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(90,238.8366153846154)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#4daf4a"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="Year: 2015; GDP: 11061.57; Country: China" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(150,229.822)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#4daf4a"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="Year: 2016; GDP: 11233.31; Country: China" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(210,227.17984615384617)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#4daf4a"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="Year: 2017; GDP: 12310.49; Country: China" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(270,210.60784615384617)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#4daf4a"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="Year: 2018; GDP: 13894.91; Country: China" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(330,186.23215384615386)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#4daf4a"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="Year: 2019; GDP: 14279.97; Country: China" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(390,180.30815384615386)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#4daf4a"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="Year: 2020; GDP: 14687.74; Country: China" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(450,174.03476923076923)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#4daf4a"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="Year: 2021; GDP: 17820.46; Country: China" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(510,125.83907692307692)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#4daf4a"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="Year: 2022; GDP: 17963.17; Country: China" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(570,123.6435384615385)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#4daf4a"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="Year: 2013; GDP: 15294.7; Country: European Union" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(30,164.69692307692307)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#377eb8"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="Year: 2014; GDP: 15651.16; Country: European Union" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(90,159.21292307692306)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#377eb8"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="Year: 2015; GDP: 13553.68; Country: European Union" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(150,191.48184615384616)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#377eb8"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="Year: 2016; GDP: 13888.51; Country: European Union" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(210,186.33061538461538)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#377eb8"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="Year: 2017; GDP: 14765.54; Country: European Union" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(270,172.83784615384613)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#377eb8"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="Year: 2018; GDP: 15980.99; Country: European Union" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(330,154.13861538461538)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#377eb8"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="Year: 2019; GDP: 15693.43; Country: European Union" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(390,158.5626153846154)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#377eb8"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="Year: 2020; GDP: 15381.17; Country: European Union" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(450,163.3666153846154)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#377eb8"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="Year: 2021; GDP: 17315.52; Country: European Union" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(510,133.6073846153846)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#377eb8"
+                            stroke-width="2" opacity="1" />
+                        <path aria-label="Year: 2022; GDP: 16746.22; Country: European Union" role="graphics-symbol"
+                            aria-roledescription="point" transform="translate(570,142.36584615384612)"
+                            d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#377eb8"
+                            stroke-width="2" opacity="1" />
+                    </g>
+                    <g class="mark-rule role-mark layer_1_marks" role="graphics-object"
+                        aria-roledescription="rule mark container">
+                        <line aria-label="Year: 2021" role="graphics-symbol" aria-roledescription="rule mark"
+                            transform="translate(510,0)" x2="0" y2="400" stroke="#8c8c8d" stroke-width="3"
+                            stroke-dasharray="8, 8" />
+                    </g>
+                    <g class="mark-group role-legend" role="graphics-symbol" aria-roledescription="legend"
+                        aria-label="Symbol legend titled 'Country' for fill color and stroke color with 3 values: United States, European Union, China">
+                        <g transform="translate(618,0)">
+                            <path class="background" aria-hidden="true" d="M0,0h111v65h-111Z" pointer-events="none" />
+                            <g>
+                                <g class="mark-group role-legend-entry">
+                                    <g transform="translate(0,19)">
+                                        <path class="background" aria-hidden="true" d="M0,0h0v0h0Z"
+                                            pointer-events="none" />
+                                        <g>
+                                            <g class="mark-group role-scope" role="graphics-object"
+                                                aria-roledescription="group mark container">
+                                                <g transform="translate(0,0)">
+                                                    <path class="background" aria-hidden="true"
+                                                        d="M0,0h110.98332977294922v13.5h-110.98332977294922Z"
+                                                        pointer-events="none" opacity="1" />
+                                                    <g>
+                                                        <g class="mark-symbol role-legend-symbol" pointer-events="none">
+                                                            <path transform="translate(6.5,6.5)"
+                                                                d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#e41a1c"
+                                                                stroke="#e41a1c" stroke-width="1.5" opacity="1" />
+                                                        </g>
+                                                        <g class="mark-text role-legend-label" pointer-events="none">
+                                                            <text text-anchor="start" transform="translate(17,10.5)"
+                                                                font-family="sans-serif" font-size="13px" fill="#000"
+                                                                opacity="1">United States</text></g>
+                                                    </g>
+                                                    <path class="foreground" aria-hidden="true" d=""
+                                                        pointer-events="none" display="none" />
+                                                </g>
+                                                <g transform="translate(0,16)">
+                                                    <path class="background" aria-hidden="true"
+                                                        d="M0,0h110.98332977294922v13.5h-110.98332977294922Z"
+                                                        pointer-events="none" opacity="1" />
+                                                    <g>
+                                                        <g class="mark-symbol role-legend-symbol" pointer-events="none">
+                                                            <path transform="translate(6.5,6.5)"
+                                                                d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#377eb8"
+                                                                stroke="#377eb8" stroke-width="1.5" opacity="1" />
+                                                        </g>
+                                                        <g class="mark-text role-legend-label" pointer-events="none">
+                                                            <text text-anchor="start" transform="translate(17,10.5)"
+                                                                font-family="sans-serif" font-size="13px" fill="#000"
+                                                                opacity="1">European Union</text></g>
+                                                    </g>
+                                                    <path class="foreground" aria-hidden="true" d=""
+                                                        pointer-events="none" display="none" />
+                                                </g>
+                                                <g transform="translate(0,32)">
+                                                    <path class="background" aria-hidden="true"
+                                                        d="M0,0h110.98332977294922v13.5h-110.98332977294922Z"
+                                                        pointer-events="none" opacity="1" />
+                                                    <g>
+                                                        <g class="mark-symbol role-legend-symbol" pointer-events="none">
+                                                            <path transform="translate(6.5,6.5)"
+                                                                d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#4daf4a"
+                                                                stroke="#4daf4a" stroke-width="1.5" opacity="1" />
+                                                        </g>
+                                                        <g class="mark-text role-legend-label" pointer-events="none">
+                                                            <text text-anchor="start" transform="translate(17,10.5)"
+                                                                font-family="sans-serif" font-size="13px" fill="#000"
+                                                                opacity="1">China</text></g>
+                                                    </g>
+                                                    <path class="foreground" aria-hidden="true" d=""
+                                                        pointer-events="none" display="none" />
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <path class="foreground" aria-hidden="true" d="" pointer-events="none"
+                                            display="none" />
+                                    </g>
+                                </g>
+                                <g class="mark-text role-legend-title" pointer-events="none"><text text-anchor="start"
+                                        transform="translate(0,11)" font-family="sans-serif" font-size="14px"
+                                        font-weight="bold" fill="#000" opacity="1">Country</text></g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                    </g>
+                    <g class="mark-group role-title">
+                        <g transform="translate(300,-31)">
+                            <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none" />
+                            <g>
+                                <g class="mark-text role-title-text" role="graphics-symbol" aria-roledescription="title"
+                                    aria-label="Title text 'GDP Comparison by Country (2013-2022)'"
+                                    pointer-events="none"><text text-anchor="middle" transform="translate(0,16)"
+                                        font-family="sans-serif" font-size="20px" font-weight="bold" fill="#000"
+                                        opacity="1">GDP Comparison by Country (2013-2022)</text></g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                    </g>
+                </g>
+                <path class="foreground" aria-hidden="true" d="" display="none" />
+            </g>
+        </g>
+    </g>
+</svg>

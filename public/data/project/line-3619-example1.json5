@@ -1,0 +1,19 @@
+{
+  projectId: 'line_3619',
+  scenes: [
+    {
+      charts: [
+        {source: './line_3619.svg'},
+      ],
+      animation: {
+          target: '.line_3619',
+          sequence: {
+              sync: [
+                {
+                },
+              ]
+          }
+      }
+    },
+  ]
+}

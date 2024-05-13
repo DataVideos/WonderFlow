@@ -1,0 +1,94 @@
+{
+    projectId: 'phone',
+    scenes: [
+      {
+        charts: [
+          {source: './phone.svg'},
+        ],
+        animation: {
+            target: '.phone',
+  
+      "sequence": {
+        "sync": [
+            {
+                "use": "Axes float in",
+                "timing": {
+                    "offset": 0.1,
+                    "duration": 6.72
+                },
+                "target": "#scene-11, #scene-12, #scene-13, #scene-15, #scene-16, #scene-18, #scene-19, #scene-20, #scene-22, #scene-23, #scene-24, #scene-25, #scene-27, #scene-28, #scene-29, #scene-30, #scene-32, #scene-33, #scene-34, #scene-36, #scene-37, #scene-38, #scene-40, #scene-41, #scene-42",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Pie with legend",
+                "timing": {
+                    "start": 0,
+                    "duration": 6.82,
+                    "offset": 0
+                },
+                "target": "#scene-0, #scene-1, #scene-2, #scene-3, #scene-4",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Fade-in",
+                "timing": {
+                    "duration": 6.89
+                },
+                "target": "#scene-5, #scene-6, #scene-7, #scene-8, #scene-9, #scene-10, #scene-14, #scene-17, #scene-21, #scene-26, #scene-31, #scene-35, #scene-39",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Fade-in",
+                "timing": {
+                    "offset": 4.15,
+                    "duration": 2.75
+                },
+                "target": "#scene-43, #radarStroke-0, #point-0, #point-1, #point-2, #point-3, #point-4, #point-5, #point-6, #point-7, #scene-44, #radarStroke-1, #point-8, #point-9, #point-10, #point-11, #point-12, #point-13, #point-14, #point-15, #scene-45, #radarStroke-2, #point-16, #point-17, #point-18, #point-19, #point-20, #point-21, #point-22, #point-23, #scene-46, #scene-47, #scene-48, #scene-49, #scene-50, #scene-51",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Hide",
+                "timing": {
+                    "start": 6.815,
+                    "offset": 0.425,
+                    "duration": 10.57
+                },
+                "target": "#point-4, #scene-45, #radarStroke-2, #point-16, #point-17, #point-18, #point-19, #point-20, #point-21, #point-22, #point-23, #scene-50, #scene-51, #scene-44, #radarStroke-1, #point-8, #point-9, #point-10, #point-11, #point-12, #point-13, #point-14, #point-15, #scene-48, #scene-49",
+                "ani_type": "Exit",
+                "settings": {}
+            },
+            {
+                "use": "Hide",
+                "timing": {
+                    "start": 17.638,
+                    "offset": 0.222,
+                    "duration": 10.89
+                },
+                "target": "#scene-43, #radarStroke-0, #point-0, #point-1, #point-2, #point-3, #point-4, #point-5, #point-6, #point-7, #scene-45, #radarStroke-2, #point-16, #point-17, #point-18, #point-19, #point-20, #point-21, #point-22, #point-23, #scene-46, #scene-47, #scene-50, #scene-51",
+                "ani_type": "Exit",
+                "settings": {}
+            },
+            {
+                "use": "Hide",
+                "timing": {
+                    "start": 28.263,
+                    "offset": 0.367,
+                    "duration": 9.91
+                },
+                "target": "#scene-43, #radarStroke-0, #point-0, #point-1, #point-2, #point-3, #point-4, #point-5, #point-6, #point-7, #scene-44, #radarStroke-1, #point-8, #point-9, #point-10, #point-11, #point-12, #point-13, #point-14, #point-15, #scene-46, #scene-47, #scene-48, #scene-49",
+                "ani_type": "Exit",
+                "settings": {}
+            }
+        ]
+    }
+
+  
+  
+        }
+      }
+    ]
+  }

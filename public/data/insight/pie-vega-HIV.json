@@ -1,0 +1,46 @@
+{
+  "d1": "The title of the chart is Countries with the Highest Estimated Share of Worldwide New HIV Infections in 2021.",
+  "d2": "The pie chart shows the estimated share of new HIV infections for each country around the world in 2021.",
+  "insight1": {
+    "insightType": "proportion",
+    "insightSentence": "South Africa represents the largest portion, with Mozambique and Nigeria follows at 7% and 5%, respectively.",
+    "subInsights": [
+      {
+        "type": "majority",
+        "data": [
+          "South Africa,14"
+        ],
+        "phrases":
+          "South Africa represents the largest portion"
+      },
+      {
+        "type": "minority",
+        "data": [
+          "Mozambique,6.5", "Nigeria,4.9"
+        ],
+        "phrases":
+          "with Mozambique and Nigeria follows at 7% and 5%, respectively"
+      }
+    ]
+  },
+  "insight2": {
+    "insightType": "value",
+    "insightSentence": "The rest of the world accounts for 51% of the estimated share.",
+    "subInsights": [
+      {
+        "type": "value",
+        "data": [
+          "Rest of the World,51.1"
+        ],
+        "phrases":
+          "The rest of the world accounts for 51% of the estimated share"
+      }
+    ]
+  },
+  "insight3": {
+    "insightType": "value",
+    "insightSentence": "",
+    "subInsights": [
+    ]
+  }
+}

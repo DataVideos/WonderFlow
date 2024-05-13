@@ -1,0 +1,16 @@
+{
+  projectId: 'line-population-of-qatar-example1',
+  scenes: [
+    {
+      charts: [
+        {source: './line-population-of-qatar.svg'},
+      ],
+      animation: {
+        sequence: {
+            "sync": [
+            ]
+        }
+      },
+    }
+  ]
+}

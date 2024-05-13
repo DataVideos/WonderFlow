@@ -1,0 +1,47 @@
+{
+    "d1": "The title of the chart is 'WHAT MAKES YOU THINK THAT THERE IS MORE CRIME THAN TWO YEARS AGO?'.",
+  "d2": "The x-axis depicts the different options while the y-axis shows the percentage of people who selected each option.",
+    "insight1" : {
+        "insightType": "value",
+        "insightSentence" : "The most popular opinion among respondents was that TV (57%) followed closely by what is read in the newspaper (48%) were two primary influencers that made people think that crime has increased over the past two years.",
+        "subInsights": [
+            {
+                "type": "value1",
+                "data": ["TV, 0.57"],
+                "phrases": "The most popular opinion among respondents was that TV (57%)"
+            },
+            {
+                "type": "value2",
+                "data": ["From what I read in Newspaper, 0.48"],
+                "phrases": "what is read in the newspaper (48%)"
+            }
+        ]
+    },
+    "insight2": {
+        "insightType": "proportion",
+        "insightSentence" : "A minority of respondents reported that Internet (3%), police presence (1%) and other (5%) factors were also potential contributors.",
+        "subInsights": [
+            {
+                "type": "minority",
+                "data": ["Internet, 0.03", "More police on the streets, 0.01"],
+                "phrases": "A minority of respondents reported that Internet (3%), police presence (1%) and other (5%) factors were also potential contributors."
+            }
+        ]
+    },
+    "insight3": {
+        "insightType": "rank",
+        "insightSentence" : "TV and news articles were perceived to be more influential than personal experience (20%) and radio (15%) of deciding whether crime rate is higher than two years ago.",
+        "subInsights": [
+            {
+                "type": "rank3",
+                "data": ["Experience of people I know, 0.24"],
+                "phrases": "personal experience (20%)"
+            },
+            {
+                "type": "rank5",
+                "data": ["Radio, 0.15"],
+                "phrases": "and radio (15%)"
+            }
+        ]
+    }
+}

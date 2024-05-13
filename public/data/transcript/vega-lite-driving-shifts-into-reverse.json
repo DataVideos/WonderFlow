@@ -1,0 +1,446 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "Until recently, Americans have driven more each year than the previous one, with a few brief exceptions. In 1956, Americans of driving age drove about 4,000 miles a year, on average. Fifty years later, that figure had climbed above 10,000. As gas prices soared in 2005, the number of miles driven began to fall, and continued to drop after 2008 even as gasoline became cheaper.",
+          "confidence": 1.0,
+          "words": [
+            {
+              "startTime": "0s",
+              "endTime": "0.05s",
+              "speakerTag": 0,
+              "word": "Until"
+            },
+            {
+              "startTime": "0.05s",
+              "endTime": "0.425s",
+              "speakerTag": 0,
+              "word": "recently"
+            },
+            {
+              "startTime": "0.425s",
+              "endTime": "1.125s",
+              "speakerTag": 0,
+              "word": ","
+            },
+            {
+              "startTime": "1.125s",
+              "endTime": "1.15s",
+              "speakerTag": 0,
+              "word": "Americans"
+            },
+            {
+              "startTime": "1.15s",
+              "endTime": "1.75s",
+              "speakerTag": 0,
+              "word": "have"
+            },
+            {
+              "startTime": "1.75s",
+              "endTime": "1.9s",
+              "speakerTag": 0,
+              "word": "driven"
+            },
+            {
+              "startTime": "1.9s",
+              "endTime": "2.237s",
+              "speakerTag": 0,
+              "word": "more"
+            },
+            {
+              "startTime": "2.237s",
+              "endTime": "2.575s",
+              "speakerTag": 0,
+              "word": "each"
+            },
+            {
+              "startTime": "2.575s",
+              "endTime": "2.8s",
+              "speakerTag": 0,
+              "word": "year"
+            },
+            {
+              "startTime": "2.8s",
+              "endTime": "3.263s",
+              "speakerTag": 0,
+              "word": "than"
+            },
+            {
+              "startTime": "3.263s",
+              "endTime": "3.413s",
+              "speakerTag": 0,
+              "word": "the"
+            },
+            {
+              "startTime": "3.413s",
+              "endTime": "3.5s",
+              "speakerTag": 0,
+              "word": "previous"
+            },
+            {
+              "startTime": "3.5s",
+              "endTime": "3.987s",
+              "speakerTag": 0,
+              "word": "one"
+            },
+            {
+              "startTime": "3.987s",
+              "endTime": "4.438s",
+              "speakerTag": 0,
+              "word": ","
+            },
+            {
+              "startTime": "4.438s",
+              "endTime": "4.537s",
+              "speakerTag": 0,
+              "word": "with"
+            },
+            {
+              "startTime": "4.537s",
+              "endTime": "4.688s",
+              "speakerTag": 0,
+              "word": "a"
+            },
+            {
+              "startTime": "4.688s",
+              "endTime": "4.763s",
+              "speakerTag": 0,
+              "word": "few"
+            },
+            {
+              "startTime": "4.763s",
+              "endTime": "4.987s",
+              "speakerTag": 0,
+              "word": "brief"
+            },
+            {
+              "startTime": "4.987s",
+              "endTime": "5.275s",
+              "speakerTag": 0,
+              "word": "exceptions"
+            },
+            {
+              "startTime": "5.275s",
+              "endTime": "6.2s",
+              "speakerTag": 0,
+              "word": "."
+            },
+            {
+              "startTime": "6.2s",
+              "endTime": "7.05s",
+              "speakerTag": 0,
+              "word": "In 1956"
+            },
+            {
+              "startTime": "7.05s",
+              "endTime": "8.563s",
+              "speakerTag": 0,
+              "word": ","
+            },
+            {
+              "startTime": "8.563s",
+              "endTime": "8.6s",
+              "speakerTag": 0,
+              "word": "Americans"
+            },
+            {
+              "startTime": "8.6s",
+              "endTime": "9.188s",
+              "speakerTag": 0,
+              "word": "of"
+            },
+            {
+              "startTime": "9.188s",
+              "endTime": "9.287s",
+              "speakerTag": 0,
+              "word": "driving"
+            },
+            {
+              "startTime": "9.287s",
+              "endTime": "9.725s",
+              "speakerTag": 0,
+              "word": "age"
+            },
+            {
+              "startTime": "9.725s",
+              "endTime": "10.2s",
+              "speakerTag": 0,
+              "word": "drove"
+            },
+            {
+              "startTime": "10.2s",
+              "endTime": "10.438s",
+              "speakerTag": 0,
+              "word": "about"
+            },
+            {
+              "startTime": "10.438s",
+              "endTime": "10.825s",
+              "speakerTag": 0,
+              "word": "4,000 miles"
+            },
+            {
+              "startTime": "10.825s",
+              "endTime": "11.8s",
+              "speakerTag": 0,
+              "word": "a"
+            },
+            {
+              "startTime": "11.8s",
+              "endTime": "11.85s",
+              "speakerTag": 0,
+              "word": "year"
+            },
+            {
+              "startTime": "11.85s",
+              "endTime": "12.363s",
+              "speakerTag": 0,
+              "word": ","
+            },
+            {
+              "startTime": "12.363s",
+              "endTime": "12.475s",
+              "speakerTag": 0,
+              "word": "on"
+            },
+            {
+              "startTime": "12.475s",
+              "endTime": "12.6s",
+              "speakerTag": 0,
+              "word": "average"
+            },
+            {
+              "startTime": "12.6s",
+              "endTime": "13.188s",
+              "speakerTag": 0,
+              "word": "."
+            },
+            {
+              "startTime": "13.188s",
+              "endTime": "14.037s",
+              "speakerTag": 0,
+              "word": "Fifty"
+            },
+            {
+              "startTime": "14.037s",
+              "endTime": "14.412s",
+              "speakerTag": 0,
+              "word": "years"
+            },
+            {
+              "startTime": "14.412s",
+              "endTime": "14.688s",
+              "speakerTag": 0,
+              "word": "later"
+            },
+            {
+              "startTime": "14.688s",
+              "endTime": "15.188s",
+              "speakerTag": 0,
+              "word": ","
+            },
+            {
+              "startTime": "15.188s",
+              "endTime": "15.262s",
+              "speakerTag": 0,
+              "word": "that"
+            },
+            {
+              "startTime": "15.262s",
+              "endTime": "15.475s",
+              "speakerTag": 0,
+              "word": "figure"
+            },
+            {
+              "startTime": "15.475s",
+              "endTime": "15.787s",
+              "speakerTag": 0,
+              "word": "had"
+            },
+            {
+              "startTime": "15.787s",
+              "endTime": "15.95s",
+              "speakerTag": 0,
+              "word": "climbed"
+            },
+            {
+              "startTime": "15.95s",
+              "endTime": "16.3s",
+              "speakerTag": 0,
+              "word": "above"
+            },
+            {
+              "startTime": "16.3s",
+              "endTime": "16.575s",
+              "speakerTag": 0,
+              "word": "10,000"
+            },
+            {
+              "startTime": "16.575s",
+              "endTime": "17.438s",
+              "speakerTag": 0,
+              "word": "."
+            },
+            {
+              "startTime": "17.438s",
+              "endTime": "18.288s",
+              "speakerTag": 0,
+              "word": "As"
+            },
+            {
+              "startTime": "18.288s",
+              "endTime": "18.512s",
+              "speakerTag": 0,
+              "word": "gas"
+            },
+            {
+              "startTime": "18.512s",
+              "endTime": "18.8s",
+              "speakerTag": 0,
+              "word": "prices"
+            },
+            {
+              "startTime": "18.8s",
+              "endTime": "19.25s",
+              "speakerTag": 0,
+              "word": "soared"
+            },
+            {
+              "startTime": "19.25s",
+              "endTime": "19.538s",
+              "speakerTag": 0,
+              "word": "in 2005"
+            },
+            {
+              "startTime": "19.538s",
+              "endTime": "20.775s",
+              "speakerTag": 0,
+              "word": ","
+            },
+            {
+              "startTime": "20.775s",
+              "endTime": "20.863s",
+              "speakerTag": 0,
+              "word": "the"
+            },
+            {
+              "startTime": "20.863s",
+              "endTime": "20.962s",
+              "speakerTag": 0,
+              "word": "number"
+            },
+            {
+              "startTime": "20.962s",
+              "endTime": "21.275s",
+              "speakerTag": 0,
+              "word": "of"
+            },
+            {
+              "startTime": "21.275s",
+              "endTime": "21.375s",
+              "speakerTag": 0,
+              "word": "miles"
+            },
+            {
+              "startTime": "21.375s",
+              "endTime": "21.962s",
+              "speakerTag": 0,
+              "word": "driven"
+            },
+            {
+              "startTime": "21.962s",
+              "endTime": "22.262s",
+              "speakerTag": 0,
+              "word": "began"
+            },
+            {
+              "startTime": "22.262s",
+              "endTime": "22.625s",
+              "speakerTag": 0,
+              "word": "to"
+            },
+            {
+              "startTime": "22.625s",
+              "endTime": "22.725s",
+              "speakerTag": 0,
+              "word": "fall"
+            },
+            {
+              "startTime": "22.725s",
+              "endTime": "23.3s",
+              "speakerTag": 0,
+              "word": ","
+            },
+            {
+              "startTime": "23.3s",
+              "endTime": "23.438s",
+              "speakerTag": 0,
+              "word": "and"
+            },
+            {
+              "startTime": "23.438s",
+              "endTime": "23.55s",
+              "speakerTag": 0,
+              "word": "continued"
+            },
+            {
+              "startTime": "23.55s",
+              "endTime": "24.063s",
+              "speakerTag": 0,
+              "word": "to"
+            },
+            {
+              "startTime": "24.063s",
+              "endTime": "24.163s",
+              "speakerTag": 0,
+              "word": "drop"
+            },
+            {
+              "startTime": "24.163s",
+              "endTime": "24.512s",
+              "speakerTag": 0,
+              "word": "after 2008"
+            },
+            {
+              "startTime": "24.512s",
+              "endTime": "25.8s",
+              "speakerTag": 0,
+              "word": "even"
+            },
+            {
+              "startTime": "25.8s",
+              "endTime": "26.038s",
+              "speakerTag": 0,
+              "word": "as"
+            },
+            {
+              "startTime": "26.038s",
+              "endTime": "26.175s",
+              "speakerTag": 0,
+              "word": "gasoline"
+            },
+            {
+              "startTime": "26.175s",
+              "endTime": "26.875s",
+              "speakerTag": 0,
+              "word": "became"
+            },
+            {
+              "startTime": "26.875s",
+              "endTime": "27.275s",
+              "speakerTag": 0,
+              "word": "cheaper"
+            },
+            {
+              "startTime": "27.275s",
+              "endTime": "27.837s",
+              "speakerTag": 0,
+              "word": "."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

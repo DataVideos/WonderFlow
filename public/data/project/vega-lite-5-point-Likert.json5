@@ -1,0 +1,132 @@
+{
+  projectId: 'vega-lite-5-point-Likert',
+  scenes: [
+    {
+      charts: [
+        {source: './vega-lite-5-point-Likert.svg'},
+      ],
+      animation: {
+          target: '.vega-lite-5-point-Likert',
+
+    "sequence": {
+        "sync": [
+            {
+                "use": "Axes fade in",
+                "timing": {
+                    "duration": 1.51
+                },
+                "target": "#grid-0, #grid-1, #grid-2, #grid-3, #grid-4, #grid-5, #grid-6, #grid-7, #x-tick-0, #x-tick-1, #x-tick-2, #x-tick-3, #x-tick-4, #x-tick-5, #x-tick-6, #x-tick-7, #x-label-0, #x-label-1, #x-label-2, #x-label-3, #x-label-4, #x-label-5, #x-label-6, #x-label-7, #x-domain-0, #y-label-0, #y-label-1, #y-label-2, #y-label-3, #y-label-4, #y-label-5, #y-label-6, #y-label-7",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Bar with legend",
+                "timing": {
+                    "start": 2.45,
+                    "duration": 1.42
+                },
+                "target": "#bar-4, #bar-14, #bar-19, #bar-24, #bar-29, #bar-39, #legend-symbol-4, #legend-label-4",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Bar with legend",
+                "timing": {
+                    "start": 4.313,
+                    "duration": 0.54
+                },
+                "target": "#bar-3, #bar-8, #bar-13, #bar-18, #bar-23, #bar-28, #bar-33, #legend-symbol-3, #legend-label-3",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Highlight",
+                "timing": {
+                    "start": 8.813,
+                    "duration": 4.88,
+                    "offset": 0
+                },
+                "target": "#bar-39",
+                "ani_type": "Emphasis",
+                "settings": {}
+            },
+            {
+                "use": "Bar with legend",
+                "timing": {
+                    "start": 13.688,
+                    "duration": 3.71,
+                    "offset": 0
+                },
+                "target": "#bar-2, #bar-12, #bar-17, #bar-22, #bar-27, #bar-32, #legend-symbol-2, #legend-label-2",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Highlight",
+                "timing": {
+                    "start": 18.075,
+                    "duration": 5.05
+                },
+                "target": "#bar-12, #bar-32",
+                "ani_type": "Emphasis",
+                "settings": {}
+            },
+            {
+                "use": "Bar with legend",
+                "timing": {
+                    "start": 22.7,
+                    "duration": 2.9,
+                    "offset": 0
+                },
+                "target": "#bar-1, #bar-6, #bar-16, #bar-21, #bar-26, #legend-symbol-1, #legend-label-1",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Highlight",
+                "timing": {
+                    "start": 26.1,
+                    "duration": 4.52
+                },
+                "target": "#bar-6",
+                "ani_type": "Emphasis",
+                "settings": {}
+            },
+            {
+                "use": "Bar with legend",
+                "timing": {
+                    "start": 31.587,
+                    "duration": 3.88,
+                    "offset": 0
+                },
+                "target": "#bar-0, #bar-5, #bar-10, #bar-25, #legend-symbol-0, #legend-label-0",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Highlight",
+                "timing": {
+                    "start": 36.675,
+                    "duration": 2.34
+                },
+                "target": "#bar-0",
+                "ani_type": "Emphasis",
+                "settings": {}
+            },
+            {
+                "use": "Highlight",
+                "timing": {
+                    "start": 39.112,
+                    "duration": 2.88
+                },
+                "target": "#bar-5",
+                "ani_type": "Emphasis",
+                "settings": {}
+            }
+        ]
+    }
+
+      }
+    },
+  ]
+}

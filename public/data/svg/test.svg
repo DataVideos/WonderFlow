@@ -1,0 +1,260 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="640" height="516" viewBox="0 0 320 258">
+    <rect width="320" height="258" fill="white"/>
+    <g fill="none" stroke-miterlimit="10" transform="translate(53,8)">
+        <g class="mark-group role-frame root" role="graphics-object" aria-roledescription="group mark container">
+            <g transform="translate(0,0)">
+                <path class="background" aria-hidden="true" d="M0.5,0.5h140v200h-140Z" stroke="#ddd"/>
+                <g>
+                    <g class="mark-group role-axis" aria-hidden="true">
+                        <g transform="translate(0.5,0.5)">
+                            <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/>
+                            <g>
+                                <g class="mark-rule role-axis-grid" pointer-events="none">
+                                    <line transform="translate(0,200)" x2="140" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                                    <line transform="translate(0,156)" x2="140" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                                    <line transform="translate(0,111)" x2="140" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                                    <line transform="translate(0,67)" x2="140" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                                    <line transform="translate(0,22)" x2="140" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                                </g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                        </g>
+                    </g>
+                    <g class="mark-group role-axis" role="graphics-symbol" aria-roledescription="axis" aria-label="X-axis titled 'Year' for a discrete scale with 7 values: 2017, 2018, 2019, 2020, 2021, 2022, 2023">
+                        <g transform="translate(0.5,200.5)">
+                            <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/>
+                            <g>
+                                <g class="mark-rule role-axis-tick" pointer-events="none">
+                                    <line transform="translate(10,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                    <line transform="translate(30,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                    <line transform="translate(50,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                    <line transform="translate(70,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                    <line transform="translate(90,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                    <line transform="translate(110,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                    <line transform="translate(130,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                </g>
+                                <g class="mark-text role-axis-label" pointer-events="none">
+                                    <text text-anchor="end" transform="translate(10,7) rotate(270) translate(0,3)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">2017</text>
+                                    <text text-anchor="end" transform="translate(30,7) rotate(270) translate(0,3)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">2018</text>
+                                    <text text-anchor="end" transform="translate(50,7) rotate(270) translate(0,3)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">2019</text>
+                                    <text text-anchor="end" transform="translate(70,7) rotate(270) translate(0,3)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">2020</text>
+                                    <text text-anchor="end" transform="translate(90,7) rotate(270) translate(0,3)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">2021</text>
+                                    <text text-anchor="end" transform="translate(110,7) rotate(270) translate(0,3)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">2022</text>
+                                    <text text-anchor="end" transform="translate(130,7) rotate(270) translate(0,3)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">2023</text>
+                                </g>
+                                <g class="mark-rule role-axis-domain" pointer-events="none">
+                                    <line transform="translate(0,0)" x2="140" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                                </g>
+                                <g class="mark-text role-axis-title" pointer-events="none">
+                                    <text text-anchor="middle" transform="translate(70,42.24609375)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Year</text>
+                                </g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                        </g>
+                    </g>
+                    <g class="mark-group role-axis" role="graphics-symbol" aria-roledescription="axis" aria-label="Y-axis titled 'Stock Price' for a linear scale with values from 0 to 4,500">
+                        <g transform="translate(0.5,0.5)">
+                            <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/>
+                            <g>
+                                <g class="mark-rule role-axis-tick" pointer-events="none">
+                                    <line transform="translate(0,200)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                                    <line transform="translate(0,156)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                                    <line transform="translate(0,111)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                                    <line transform="translate(0,67)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                                    <line transform="translate(0,22)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                                </g>
+                                <g class="mark-text role-axis-label" pointer-events="none">
+                                    <text text-anchor="end" transform="translate(-7,203)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">0</text>
+                                    <text text-anchor="end" transform="translate(-7,158.55555555555557)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">1,000</text>
+                                    <text text-anchor="end" transform="translate(-7,114.11111111111111)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">2,000</text>
+                                    <text text-anchor="end" transform="translate(-7,69.66666666666667)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">3,000</text>
+                                    <text text-anchor="end" transform="translate(-7,25.222222222222232)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">4,000</text>
+                                </g>
+                                <g class="mark-rule role-axis-domain" pointer-events="none">
+                                    <line transform="translate(0,200)" x2="0" y2="-200" stroke="#888" stroke-width="1" opacity="1"/>
+                                </g>
+                                <g class="mark-text role-axis-title" pointer-events="none">
+                                    <text text-anchor="middle" transform="translate(-36.0244140625,100) rotate(-90) translate(0,-2)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Stock Price</text>
+                                </g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                        </g>
+                    </g>
+                    <g class="mark-group role-scope layer_0_layer_0_pathgroup" role="graphics-object" aria-roledescription="group mark container">
+                        <g transform="translate(0,0)">
+                            <path class="background" aria-hidden="true" d="M0,0h140v200h-140Z"/>
+                            <g>
+                                <g class="mark-line role-mark layer_0_layer_0_marks" role="graphics-object" aria-roledescription="line mark container">
+                                    <path aria-label="Year: 2017; Stock Price: 1053.4; Company Name: Google" role="graphics-symbol" aria-roledescription="line mark" d="M10,153.182L30,151.28L50,140.472L70,147.741L90,132.57L110,111.111L130,102.222" stroke="#e45756" stroke-width="2"/>
+                                </g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" display="none"/>
+                        </g>
+                        <g transform="translate(0,0)">
+                            <path class="background" aria-hidden="true" d="M0,0h140v200h-140Z"/>
+                            <g>
+                                <g class="mark-line role-mark layer_0_layer_0_marks" role="graphics-object" aria-roledescription="line mark container">
+                                    <path aria-label="Year: 2017; Stock Price: 62.14; Company Name: Microsoft" role="graphics-symbol" aria-roledescription="line mark" d="M10,197.238L30,196.024L50,194.853L70,192.991L90,190.1L110,186.667L130,184.444" stroke="#54a24b" stroke-width="2"/>
+                                </g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" display="none"/>
+                        </g>
+                        <g transform="translate(0,0)">
+                            <path class="background" aria-hidden="true" d="M0,0h140v200h-140Z"/>
+                            <g>
+                                <g class="mark-line role-mark layer_0_layer_0_marks" role="graphics-object" aria-roledescription="line mark container">
+                                    <path aria-label="Year: 2017; Stock Price: 169.23; Company Name: Apple" role="graphics-symbol" aria-roledescription="line mark" d="M10,192.479L30,192.989L50,186.949L70,186.949L90,191.87L110,191.111L130,193.333" stroke="#f58518" stroke-width="2"/>
+                                </g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" display="none"/>
+                        </g>
+                        <g transform="translate(0,0)">
+                            <path class="background" aria-hidden="true" d="M0,0h140v200h-140Z"/>
+                            <g>
+                                <g class="mark-line role-mark layer_0_layer_0_marks" role="graphics-object" aria-roledescription="line mark container">
+                                    <path aria-label="Year: 2017; Stock Price: 1169.47; Company Name: Amazon" role="graphics-symbol" aria-roledescription="line mark" d="M10,148.024L30,133.246L50,117.874L70,62.09L90,56.955L110,22.222L130,0" stroke="#4c78a8" stroke-width="2"/>
+                                </g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" display="none"/>
+                        </g>
+                        <g transform="translate(0,0)">
+                            <path class="background" aria-hidden="true" d="M0,0h140v200h-140Z"/>
+                            <g>
+                                <g class="mark-line role-mark layer_0_layer_0_marks" role="graphics-object" aria-roledescription="line mark container">
+                                    <path aria-label="Year: 2017; Stock Price: 154.45; Company Name: IBM" role="graphics-symbol" aria-roledescription="line mark" d="M10,193.136L30,194.948L50,194.043L70,194.455L90,193.892L110,193.333L130,194.316" stroke="#72b7b2" stroke-width="2"/>
+                                </g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" display="none"/>
+                        </g>
+                    </g>
+                    <g class="mark-symbol role-mark layer_0_layer_1_marks" role="graphics-object" aria-roledescription="symbol mark container">
+                        <path aria-label="Year: 2017; Stock Price: 1053.4; Company Name: Google" role="graphics-symbol" aria-roledescription="point" transform="translate(10,153.1822222222222)" d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#e45756" stroke-width="2" opacity="1"/>
+                        <path aria-label="Year: 2018; Stock Price: 1096.19; Company Name: Google" role="graphics-symbol" aria-roledescription="point" transform="translate(30,151.28044444444444)" d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#e45756" stroke-width="2" opacity="1"/>
+                        <path aria-label="Year: 2019; Stock Price: 1339.39; Company Name: Google" role="graphics-symbol" aria-roledescription="point" transform="translate(50,140.47155555555554)" d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#e45756" stroke-width="2" opacity="1"/>
+                        <path aria-label="Year: 2020; Stock Price: 1175.83; Company Name: Google" role="graphics-symbol" aria-roledescription="point" transform="translate(70,147.7408888888889)" d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#e45756" stroke-width="2" opacity="1"/>
+                        <path aria-label="Year: 2021; Stock Price: 1517.18; Company Name: Google" role="graphics-symbol" aria-roledescription="point" transform="translate(90,132.56977777777777)" d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#e45756" stroke-width="2" opacity="1"/>
+                        <path aria-label="Year: 2022; Stock Price: 2000; Company Name: Google" role="graphics-symbol" aria-roledescription="point" transform="translate(110,111.11111111111111)" d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#e45756" stroke-width="2" opacity="1"/>
+                        <path aria-label="Year: 2023; Stock Price: 2200; Company Name: Google" role="graphics-symbol" aria-roledescription="point" transform="translate(130,102.22222222222221)" d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#e45756" stroke-width="2" opacity="1"/>
+                        <path aria-label="Year: 2017; Stock Price: 62.14; Company Name: Microsoft" role="graphics-symbol" aria-roledescription="point" transform="translate(10,197.23822222222222)" d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#54a24b" stroke-width="2" opacity="1"/>
+                        <path aria-label="Year: 2018; Stock Price: 89.47; Company Name: Microsoft" role="graphics-symbol" aria-roledescription="point" transform="translate(30,196.02355555555556)" d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#54a24b" stroke-width="2" opacity="1"/>
+                        <path aria-label="Year: 2019; Stock Price: 115.8; Company Name: Microsoft" role="graphics-symbol" aria-roledescription="point" transform="translate(50,194.85333333333332)" d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#54a24b" stroke-width="2" opacity="1"/>
+                        <path aria-label="Year: 2020; Stock Price: 157.7; Company Name: Microsoft" role="graphics-symbol" aria-roledescription="point" transform="translate(70,192.9911111111111)" d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#54a24b" stroke-width="2" opacity="1"/>
+                        <path aria-label="Year: 2021; Stock Price: 222.75; Company Name: Microsoft" role="graphics-symbol" aria-roledescription="point" transform="translate(90,190.1)" d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#54a24b" stroke-width="2" opacity="1"/>
+                        <path aria-label="Year: 2022; Stock Price: 300; Company Name: Microsoft" role="graphics-symbol" aria-roledescription="point" transform="translate(110,186.66666666666666)" d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#54a24b" stroke-width="2" opacity="1"/>
+                        <path aria-label="Year: 2023; Stock Price: 350; Company Name: Microsoft" role="graphics-symbol" aria-roledescription="point" transform="translate(130,184.44444444444446)" d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#54a24b" stroke-width="2" opacity="1"/>
+                        <path aria-label="Year: 2017; Stock Price: 169.23; Company Name: Apple" role="graphics-symbol" aria-roledescription="point" transform="translate(10,192.47866666666667)" d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#f58518" stroke-width="2" opacity="1"/>
+                        <path aria-label="Year: 2018; Stock Price: 157.74; Company Name: Apple" role="graphics-symbol" aria-roledescription="point" transform="translate(30,192.98933333333332)" d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#f58518" stroke-width="2" opacity="1"/>
+                        <path aria-label="Year: 2019; Stock Price: 293.65; Company Name: Apple" role="graphics-symbol" aria-roledescription="point" transform="translate(50,186.9488888888889)" d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#f58518" stroke-width="2" opacity="1"/>
+                        <path aria-label="Year: 2020; Stock Price: 293.65; Company Name: Apple" role="graphics-symbol" aria-roledescription="point" transform="translate(70,186.9488888888889)" d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#f58518" stroke-width="2" opacity="1"/>
+                        <path aria-label="Year: 2021; Stock Price: 182.92; Company Name: Apple" role="graphics-symbol" aria-roledescription="point" transform="translate(90,191.87022222222222)" d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#f58518" stroke-width="2" opacity="1"/>
+                        <path aria-label="Year: 2022; Stock Price: 200; Company Name: Apple" role="graphics-symbol" aria-roledescription="point" transform="translate(110,191.11111111111111)" d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#f58518" stroke-width="2" opacity="1"/>
+                        <path aria-label="Year: 2023; Stock Price: 150; Company Name: Apple" role="graphics-symbol" aria-roledescription="point" transform="translate(130,193.33333333333334)" d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#f58518" stroke-width="2" opacity="1"/>
+                        <path aria-label="Year: 2017; Stock Price: 1169.47; Company Name: Amazon" role="graphics-symbol" aria-roledescription="point" transform="translate(10,148.02355555555556)" d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#4c78a8" stroke-width="2" opacity="1"/>
+                        <path aria-label="Year: 2018; Stock Price: 1501.97; Company Name: Amazon" role="graphics-symbol" aria-roledescription="point" transform="translate(30,133.24577777777776)" d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#4c78a8" stroke-width="2" opacity="1"/>
+                        <path aria-label="Year: 2019; Stock Price: 1847.84; Company Name: Amazon" role="graphics-symbol" aria-roledescription="point" transform="translate(50,117.87377777777776)" d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#4c78a8" stroke-width="2" opacity="1"/>
+                        <path aria-label="Year: 2020; Stock Price: 3102.97; Company Name: Amazon" role="graphics-symbol" aria-roledescription="point" transform="translate(70,62.09022222222222)" d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#4c78a8" stroke-width="2" opacity="1"/>
+                        <path aria-label="Year: 2021; Stock Price: 3218.51; Company Name: Amazon" role="graphics-symbol" aria-roledescription="point" transform="translate(90,56.95511111111111)" d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#4c78a8" stroke-width="2" opacity="1"/>
+                        <path aria-label="Year: 2022; Stock Price: 4000; Company Name: Amazon" role="graphics-symbol" aria-roledescription="point" transform="translate(110,22.222222222222232)" d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#4c78a8" stroke-width="2" opacity="1"/>
+                        <path aria-label="Year: 2023; Stock Price: 4500; Company Name: Amazon" role="graphics-symbol" aria-roledescription="point" transform="translate(130,0)" d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#4c78a8" stroke-width="2" opacity="1"/>
+                        <path aria-label="Year: 2017; Stock Price: 154.45; Company Name: IBM" role="graphics-symbol" aria-roledescription="point" transform="translate(10,193.13555555555556)" d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#72b7b2" stroke-width="2" opacity="1"/>
+                        <path aria-label="Year: 2018; Stock Price: 113.67; Company Name: IBM" role="graphics-symbol" aria-roledescription="point" transform="translate(30,194.948)" d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#72b7b2" stroke-width="2" opacity="1"/>
+                        <path aria-label="Year: 2019; Stock Price: 134.04; Company Name: IBM" role="graphics-symbol" aria-roledescription="point" transform="translate(50,194.04266666666666)" d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#72b7b2" stroke-width="2" opacity="1"/>
+                        <path aria-label="Year: 2020; Stock Price: 124.76; Company Name: IBM" role="graphics-symbol" aria-roledescription="point" transform="translate(70,194.4551111111111)" d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#72b7b2" stroke-width="2" opacity="1"/>
+                        <path aria-label="Year: 2021; Stock Price: 137.44; Company Name: IBM" role="graphics-symbol" aria-roledescription="point" transform="translate(90,193.89155555555556)" d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#72b7b2" stroke-width="2" opacity="1"/>
+                        <path aria-label="Year: 2022; Stock Price: 150; Company Name: IBM" role="graphics-symbol" aria-roledescription="point" transform="translate(110,193.33333333333334)" d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#72b7b2" stroke-width="2" opacity="1"/>
+                        <path aria-label="Year: 2023; Stock Price: 127.9; Company Name: IBM" role="graphics-symbol" aria-roledescription="point" transform="translate(130,194.31555555555556)" d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0" fill="#72b7b2" stroke-width="2" opacity="1"/>
+                    </g>
+                    <g class="mark-symbol role-mark layer_1_marks" role="graphics-object" aria-roledescription="symbol mark container">
+                        <path aria-label="Year: 2020; Stock Price: 1175.83" role="graphics-symbol" aria-roledescription="circle" transform="translate(70,147.7408888888889)" d="M7.071,0A7.071,7.071,0,1,1,-7.071,0A7.071,7.071,0,1,1,7.071,0" fill="none" stroke="black" stroke-width="2" opacity="0.7"/>
+                    </g>
+                    <g class="mark-text role-mark layer_2_marks" role="graphics-object" aria-roledescription="text mark container">
+                        <text aria-label="Year: 2020; Stock Price: 1175.83; Annotation: Google's stock price dropped in 2020" role="graphics-symbol" aria-roledescription="text mark" text-anchor="start" transform="translate(80,150.7408888888889)" font-family="sans-serif" font-size="11px" fill="black">Google's stock price dropped in 2020</text>
+                    </g>
+                    <g class="mark-group role-legend" role="graphics-symbol" aria-roledescription="legend" aria-label="Symbol legend titled 'Company Name' for fill color and stroke color with 5 values: Amazon, Apple, Google, IBM, Microsoft">
+                        <g transform="translate(158,0)">
+                            <path class="background" aria-hidden="true" d="M0,0h84v93h-84Z" pointer-events="none"/>
+                            <g>
+                                <g class="mark-group role-legend-entry">
+                                    <g transform="translate(0,16)">
+                                        <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/>
+                                        <g>
+                                            <g class="mark-group role-scope" role="graphics-object" aria-roledescription="group mark container">
+                                                <g transform="translate(0,0)">
+                                                    <path class="background" aria-hidden="true" d="M0,0h56.5615234375v12.5h-56.5615234375Z" pointer-events="none" opacity="1"/>
+                                                    <g>
+                                                        <g class="mark-symbol role-legend-symbol" pointer-events="none">
+                                                            <path transform="translate(6,6)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#4c78a8" stroke="#4c78a8" stroke-width="1.5" opacity="1"/>
+                                                        </g>
+                                                        <g class="mark-text role-legend-label" pointer-events="none">
+                                                            <text text-anchor="start" transform="translate(16,9)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Amazon</text>
+                                                        </g>
+                                                    </g>
+                                                    <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                                                </g>
+                                                <g transform="translate(0,16)">
+                                                    <path class="background" aria-hidden="true" d="M0,0h56.5615234375v12.5h-56.5615234375Z" pointer-events="none" opacity="1"/>
+                                                    <g>
+                                                        <g class="mark-symbol role-legend-symbol" pointer-events="none">
+                                                            <path transform="translate(6,6)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#f58518" stroke="#f58518" stroke-width="1.5" opacity="1"/>
+                                                        </g>
+                                                        <g class="mark-text role-legend-label" pointer-events="none">
+                                                            <text text-anchor="start" transform="translate(16,9)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Apple</text>
+                                                        </g>
+                                                    </g>
+                                                    <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                                                </g>
+                                                <g transform="translate(0,32)">
+                                                    <path class="background" aria-hidden="true" d="M0,0h56.5615234375v12.5h-56.5615234375Z" pointer-events="none" opacity="1"/>
+                                                    <g>
+                                                        <g class="mark-symbol role-legend-symbol" pointer-events="none">
+                                                            <path transform="translate(6,6)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#e45756" stroke="#e45756" stroke-width="1.5" opacity="1"/>
+                                                        </g>
+                                                        <g class="mark-text role-legend-label" pointer-events="none">
+                                                            <text text-anchor="start" transform="translate(16,9)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Google</text>
+                                                        </g>
+                                                    </g>
+                                                    <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                                                </g>
+                                                <g transform="translate(0,48)">
+                                                    <path class="background" aria-hidden="true" d="M0,0h56.5615234375v12.5h-56.5615234375Z" pointer-events="none" opacity="1"/>
+                                                    <g>
+                                                        <g class="mark-symbol role-legend-symbol" pointer-events="none">
+                                                            <path transform="translate(6,6)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#72b7b2" stroke="#72b7b2" stroke-width="1.5" opacity="1"/>
+                                                        </g>
+                                                        <g class="mark-text role-legend-label" pointer-events="none">
+                                                            <text text-anchor="start" transform="translate(16,9)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">IBM</text>
+                                                        </g>
+                                                    </g>
+                                                    <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                                                </g>
+                                                <g transform="translate(0,64)">
+                                                    <path class="background" aria-hidden="true" d="M0,0h56.5615234375v12.5h-56.5615234375Z" pointer-events="none" opacity="1"/>
+                                                    <g>
+                                                        <g class="mark-symbol role-legend-symbol" pointer-events="none">
+                                                            <path transform="translate(6,6)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#54a24b" stroke="#54a24b" stroke-width="1.5" opacity="1"/>
+                                                        </g>
+                                                        <g class="mark-text role-legend-label" pointer-events="none">
+                                                            <text text-anchor="start" transform="translate(16,9)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Microsoft</text>
+                                                        </g>
+                                                    </g>
+                                                    <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                                    </g>
+                                </g>
+                                <g class="mark-text role-legend-title" pointer-events="none">
+                                    <text text-anchor="start" transform="translate(0,9)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Company Name</text>
+                                </g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                        </g>
+                    </g>
+                </g>
+                <path class="foreground" aria-hidden="true" d="" display="none"/>
+            </g>
+        </g>
+    </g>
+</svg>

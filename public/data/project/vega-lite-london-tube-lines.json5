@@ -1,0 +1,26 @@
+{
+  projectId: 'vega-lite-london-tube-lines',
+  scenes: [
+    {
+      charts: [
+        {source: './vega-lite-london-tube-lines.svg'},
+      ],
+      animation: {
+          target: '.vega-lite-london-tube-lines',
+          sequence: {
+              sync: [
+                {
+                  use: 'Bar chart',
+                  settings: {
+                    barDirection: 'left',
+                  },
+                  timing: {
+                    duration: 5.5,
+                  },
+                },
+              ]
+          }
+      }
+    },
+  ]
+}

@@ -1,0 +1,18 @@
+
+      {
+        projectId: 'line-vega-qatar-example1',
+        scenes: [
+          {
+            charts: [
+              {source: './line-vega-qatar.svg'},
+            ],
+            animation: {
+              sequence: {
+                  "sync": [
+                  ]
+              }
+            },
+          }
+        ]
+      }
+    

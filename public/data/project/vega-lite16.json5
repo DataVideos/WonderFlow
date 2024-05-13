@@ -1,0 +1,60 @@
+{
+  projectId: 'vega-lite16',
+  scenes: [
+    {
+      charts: [
+        {source: './vega-lite16.svg'},
+      ],
+      animation: {
+          target: '.vega-lite16',
+
+    "sequence": {
+        "sync": [
+            {
+                "use": "Pie with legend",
+                "timing": {
+                    "start": 7.338,
+                    "duration": 1.32
+                },
+                "target": "#sector-0, #legend-symbol-0, #legend-label-0",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Pie with legend",
+                "timing": {
+                    "start": 8.725,
+                    "duration": 1.35
+                },
+                "target": "#sector-1, #legend-symbol-1, #legend-label-1",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Pie with legend",
+                "timing": {
+                    "start": 14.95,
+                    "duration": 3.24,
+                    "offset": 0
+                },
+                "target": "#sector-2, #legend-symbol-2, #legend-label-2",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Pie with legend",
+                "timing": {
+                    "start": 19.063,
+                    "duration": 1.64
+                },
+                "target": "#sector-3, #legend-symbol-3, #legend-label-3",
+                "ani_type": "Enter",
+                "settings": {}
+            }
+        ]
+    }
+
+      }
+    },
+  ]
+}

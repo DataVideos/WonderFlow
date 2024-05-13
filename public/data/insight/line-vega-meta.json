@@ -1,0 +1,78 @@
+{
+  "d1": "The chart title 'Forecast Total Addressable Metaverse Market, by Scenario'  displays a comparison of predictions among conservative, moderate, and optimistic scenarios.",
+  "d2": "The x-axis displays years from 2023 to 2030, the y-axis displays total addressable metaverse market, and the legend displays the three scenarios: Conservative, Moderate and Optimistic.",
+  "insight1": {
+    "insightType": "difference",
+    "insightSentence": "The forecast total addressable metaverse market shows a clear difference in values between the conservative, moderate, and optimistic scenarios.",
+    "subInsights": [
+      {
+        "type": "difference",
+        "data": [
+          "2023,0.8,Conservative Scenario",
+          "2023,1.2,Moderate Scenario",
+          "2023,1.5,Optimistic Scenario",
+          "2030,5.5,Conservative Scenario",
+          "2030,9.3,Moderate Scenario",
+          "2030,12.8,Optimistic Scenario"
+        ],
+        "phrases": "The forecast total addressable metaverse market shows a clear difference in values between the conservative, moderate, and optimistic scenarios."
+      }
+    ]
+  },
+  "insight2": {
+    "insightType": "trend",
+    "insightSentence": "All three scenarios demonstrate an increasing trend over the years, with the optimistic scenario showing the highest values.",
+    "subInsights": [
+      {
+        "type": "increase",
+        "data": [
+          "2023,0.8,Conservative Scenario",
+          "2024,1.2,Conservative Scenario",
+          "2025,2.1,Conservative Scenario",
+          "2026,3.5,Conservative Scenario",
+          "2027,4.3,Conservative Scenario",
+          "2028,5.3,Conservative Scenario",
+          "2029,5.4,Conservative Scenario",
+          "2030,5.5,Conservative Scenario",
+          "2023,1.2,Moderate Scenario",
+          "2024,2.1,Moderate Scenario",
+          "2025,3.7,Moderate Scenario",
+          "2026,5.8,Moderate Scenario",
+          "2027,7.5,Moderate Scenario",
+          "2028,8.2,Moderate Scenario",
+          "2029,9.1,Moderate Scenario",
+          "2030,9.3,Moderate Scenario",
+          "2023,1.5,Optimistic Scenario",
+          "2024,2.7,Optimistic Scenario",
+          "2025,5.0,Optimistic Scenario",
+          "2026,7.9,Optimistic Scenario",
+          "2027,10.4,Optimistic Scenario",
+          "2028,12.0,Optimistic Scenario",
+          "2029,12.4,Optimistic Scenario",
+          "2030,12.8,Optimistic Scenario"
+        ],
+        "phrases":
+          "All three scenarios demonstrate an increasing trend over the years,"
+      },
+      {
+        "type": "increase",
+        "data": [
+          "2023,1.5,Optimistic Scenario",
+          "2024,2.7,Optimistic Scenario",
+          "2025,5.0,Optimistic Scenario",
+          "2026,7.9,Optimistic Scenario",
+          "2027,10.4,Optimistic Scenario",
+          "2028,12.0,Optimistic Scenario",
+          "2029,12.4,Optimistic Scenario",
+          "2030,12.8,Optimistic Scenario"
+        ],
+        "phrases": "with the optimistic scenario showing the highest values."
+      }
+    ]
+  },
+  "insight3": {
+    "insightType": "distribution",
+    "insightSentence": "",
+    "subInsights": []
+  }
+}

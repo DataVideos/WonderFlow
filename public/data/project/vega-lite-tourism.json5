@@ -1,0 +1,63 @@
+{
+  projectId: 'vega-lite-tourism',
+  scenes: [
+    {
+      charts: [
+        {source: './vega-lite-tourism.svg'},
+      ],
+      animation: {
+          target: '.vega-lite-tourism',
+
+    "sequence": {
+        "sync": [
+            {
+                "use": "Pie with legend",
+                "timing": {
+                    "start": 0,
+                    "duration": 3.91,
+                    "offset": 0
+                },
+                "target": "#sector-0, #sector-1, #sector-2, #sector-3, #annotation-0, #annotation-1, #annotation-2, #annotation-3, #legend-symbol-0, #legend-label-0, #legend-symbol-1, #legend-label-1, #legend-symbol-2, #legend-label-2, #legend-symbol-3, #legend-label-3",
+                "ani_type": "Enter",
+                "settings": {}
+            },
+            {
+                "use": "Highlight",
+                "timing": {
+                    "start": 10.387,
+                    "duration": 15.3,
+                    "offset": 0
+                },
+                "target": "#sector-3",
+                "ani_type": "Emphasis",
+                "settings": {}
+            },
+            {
+                "use": "Highlight",
+                "timing": {
+                    "start": 25.688,
+                    "duration": 14.89,
+                    "offset": 0
+                },
+                "target": "#sector-0",
+                "ani_type": "Emphasis",
+                "settings": {}
+            },
+            {
+                "use": "Highlight",
+                "timing": {
+                    "start": 40.575,
+                    "duration": 14.44,
+                    "offset": 0
+                },
+                "target": "#sector-1, #sector-2",
+                "ani_type": "Emphasis",
+                "settings": {}
+            }
+        ]
+    }
+
+      }
+    },
+  ]
+}

@@ -1,0 +1,37 @@
+{
+    "d1": "The title of the chart indicates the percentage of U.S. Adults living in households with or without a working landline telephone.",
+    "d2": "The x-axis shows the years from 2009 to 2021, the y-axis shows the percentage of U.S. Adults living in households, and the legend shows the two categories of landline phone and cell phone only.",
+    "insight1" : {
+        "insightType": "trend",
+        "insightSentence" : "The data shows that the percentage of U.S. adults living in households with a working landline phone has decreased from 74% in 2009 to 30.9% in 2021.Meanwhile, the percentage of U.S. adults living in households with only a cell phone has increased from 23.6% in 2009 to 68.35% in 2021. ",
+        "subInsights": [
+            {
+                "type": "decrease",
+                "data": ["2009,74.0,Landline phone", "2010,69.45,Landline phone", "2011,64.9,Landline phone", "2012,60.65,Landline phone", "2013,57.15,Landline phone", "2014,52.15,Landline phone", "2015,48.8,Landline phone", "2016,46.65,Landline phone", "2017,43.2,Landline phone", "2018,40.7,Landline phone", "2019,38.65,Landline phone", "2020,35.15,Landline phone", "2021,30.9,Landline phone"],
+                "phrases": "The percentage of U.S. adults living in households with a working landline phone has decreased from 74% in 2009 to 30.9% in 2021."
+            },
+            {
+                "type": "increase",
+                "data": ["2009,23.6,Cell phone only", "2010,28.15,Cell phone only", "2011,32.8,Cell phone only", "2012,37,Cell phone only", "2013,40.2,Cell phone only", "2014,44.7,Cell phone only", "2015,47.85,Cell phone only", "2016,50.05,Cell phone only", "2017,53.2,Cell phone only", "2018,56,Cell phone only", "2019,60.25,Cell phone only", "2020,64.15,Cell phone only", "2021,68.35,Cell phone only"],
+                "phrases": "The percentage of U.S. adults living in households with only a cell phone has increased from 23.6% in 2009 to 68.35% in 2021."
+            }
+        ]
+    },
+    "insight2" : {
+        "insightType": "difference",
+        "insightSentence" : "This suggests that there has been a consistent trend in recent years of people moving away from landline phones and towards cell phones.",
+        "subInsights": [
+            {
+                "type": "difference",
+                "data": ["2021,30.9,Landline phone", "2021,68.35,Cell phone only"],
+                "phrases": "This suggests that there has been a consistent trend in recent years of people moving away from landline phones and towards cell phones."
+            }
+        ]
+    },
+    "insight3" : {
+      "insightType": "distribution",
+        "insightSentence" : "",
+        "subInsights": [
+        ]
+    }
+}

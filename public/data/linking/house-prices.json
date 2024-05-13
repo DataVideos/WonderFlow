@@ -1,0 +1,23 @@
+{
+  "[12, 13, 14]": [
+    "house-prices-title-0"
+  ],
+  "[17, 18]": [
+    "house-prices-annotation-group-0-text-1",
+    "house-prices-line-0",
+    "house-prices-annotation-group-0-text-0",
+    "house-prices-annotation-group-0-arrow"
+  ],
+  "[19, 20]": [
+    "house-prices-annotation-group-0-text-1",
+    "house-prices-line-0",
+    "house-prices-annotation-group-0-text-0",
+    "house-prices-annotation-group-0-arrow"
+  ],
+  "[25, 26]": [
+    "house-prices-annotation-group-1-text-1",
+    "house-prices-annotation-group-1-arrow",
+    "house-prices-annotation-group-1-text-0",
+    "house-prices-line-1"
+  ]
+}

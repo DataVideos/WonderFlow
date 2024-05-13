@@ -1,0 +1,43 @@
+{
+  "d1": "The chart shows the greenhouse gas emissions per kilogram of food product.",
+  "d2": "The x-axis represents the food product and the y-axis represents the emissions.",
+  "insight1": {
+    "insightType": "Extreme",
+    "insightSentence": "Beef (beef herd) has the highest greenhouse gas emissions with 56 from Farm, while Coffee has the lowest with 0 from Animal feed.",
+    "subInsights": [
+      {
+        "type": "maximum",
+        "data": [
+          "Beef (beef herd), 56.22806279, Farm"
+        ],
+        "phrases": "the highest greenhouse gas emissions with 56 from Farm"
+      },
+      {
+        "type": "minimum",
+        "data": [
+          "Coffee, 0, Animal feed"
+        ],
+        "phrases": "Coffee has the lowest with 0 from Animal feed"
+      }
+    ]
+  },
+  "insight3": {
+    "insightType": "Proportion",
+    "insightSentence": "",
+    "subInsights": [
+    ]
+  },
+  "insight2": {
+    "insightType": "outlier",
+    "insightSentence": "Beef (beef herd) is also an outlier from Farm.",
+    "subInsights": [
+      {
+        "type": "outlier",
+        "data": [
+          "Beef (beef herd), 56.22806279, Farm"
+        ],
+        "phrases": "Beef (beef herd) is also an outlier from Farm"
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks"
+  width="1492" height="598" viewBox="0 0 746 299">
+  <rect width="746" height="299" fill="white" />
+  <g fill="none" stroke-miterlimit="10" transform="translate(73,40)">
+    <g class="mark-group role-frame root" role="graphics-object" aria-roledescription="group mark container">
+      <g transform="translate(0,0)">
+        <path class="background" aria-hidden="true" d="M0,0h600v200h-600Z" stroke="0" />
+        <g>
+          <g class="mark-group role-axis" aria-hidden="true">
+            <g transform="translate(0.5,0.5)">
+              <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none" />
+              <g>
+                <g class="mark-rule role-axis-grid" pointer-events="none">
+                  <line transform="translate(0,200)" x2="600" y2="0" stroke="#ddd" stroke-width="1" opacity="1" />
+                  <line transform="translate(0,173)" x2="600" y2="0" stroke="#ddd" stroke-width="1" opacity="1" />
+                  <line transform="translate(0,147)" x2="600" y2="0" stroke="#ddd" stroke-width="1" opacity="1" />
+                  <line transform="translate(0,120)" x2="600" y2="0" stroke="#ddd" stroke-width="1" opacity="1" />
+                  <line transform="translate(0,93)" x2="600" y2="0" stroke="#ddd" stroke-width="1" opacity="1" />
+                  <line transform="translate(0,67)" x2="600" y2="0" stroke="#ddd" stroke-width="1" opacity="1" />
+                  <line transform="translate(0,40)" x2="600" y2="0" stroke="#ddd" stroke-width="1" opacity="1" />
+                  <line transform="translate(0,13)" x2="600" y2="0" stroke="#ddd" stroke-width="1" opacity="1" />
+                </g>
+              </g>
+              <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+            </g>
+          </g>
+          <g class="mark-group role-axis" role="graphics-symbol" aria-roledescription="axis"
+            aria-label="X-axis for a discrete scale with 8 values: 2023, 2024, 2025, 2026, 2027, ending with 2030">
+            <g transform="translate(0.5,200.5)">
+              <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none" />
+              <g>
+                <g class="mark-rule role-axis-tick" pointer-events="none">
+                  <line transform="translate(38,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1" />
+                  <line transform="translate(113,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1" />
+                  <line transform="translate(188,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1" />
+                  <line transform="translate(263,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1" />
+                  <line transform="translate(338,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1" />
+                  <line transform="translate(413,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1" />
+                  <line transform="translate(488,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1" />
+                  <line transform="translate(563,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1" />
+                </g>
+                <g class="mark-text role-axis-label" pointer-events="none"><text text-anchor="middle"
+                    transform="translate(37.5,15)" font-family="sans-serif" font-size="10px" fill="#000"
+                    opacity="1">2023</text><text text-anchor="middle" transform="translate(112.5,15)"
+                    font-family="sans-serif" font-size="10px" fill="#000" opacity="1">2024</text><text
+                    text-anchor="middle" transform="translate(187.5,15)" font-family="sans-serif" font-size="10px"
+                    fill="#000" opacity="1">2025</text><text text-anchor="middle" transform="translate(262.5,15)"
+                    font-family="sans-serif" font-size="10px" fill="#000" opacity="1">2026</text><text
+                    text-anchor="middle" transform="translate(337.5,15)" font-family="sans-serif" font-size="10px"
+                    fill="#000" opacity="1">2027</text><text text-anchor="middle" transform="translate(412.5,15)"
+                    font-family="sans-serif" font-size="10px" fill="#000" opacity="1">2028</text><text
+                    text-anchor="middle" transform="translate(487.5,15)" font-family="sans-serif" font-size="10px"
+                    fill="#000" opacity="1">2029</text><text text-anchor="middle" transform="translate(562.5,15)"
+                    font-family="sans-serif" font-size="10px" fill="#000" opacity="1">2030</text></g>
+                <g class="mark-rule role-axis-domain" pointer-events="none">
+                  <line transform="translate(0,0)" x2="600" y2="0" stroke="#888" stroke-width="1" opacity="1" />
+                </g>
+              </g>
+              <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+            </g>
+          </g>
+          <g class="mark-group role-axis" role="graphics-symbol" aria-roledescription="axis"
+            aria-label="Y-axis titled 'value' for a linear scale with values from 0 to 15">
+            <g transform="translate(0.5,0.5)">
+              <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none" />
+              <g>
+                <g class="mark-text role-axis-label" pointer-events="none"><text text-anchor="end"
+                    transform="translate(-2,203)" font-family="sans-serif" font-size="10px" fill="#000"
+                    opacity="1">0</text><text text-anchor="end" transform="translate(-2,176.33333333333334)"
+                    font-family="sans-serif" font-size="10px" fill="#000" opacity="1">2</text><text text-anchor="end"
+                    transform="translate(-2,149.66666666666669)" font-family="sans-serif" font-size="10px" fill="#000"
+                    opacity="1">4</text><text text-anchor="end" transform="translate(-2,123)" font-family="sans-serif"
+                    font-size="10px" fill="#000" opacity="1">6</text><text text-anchor="end"
+                    transform="translate(-2,96.33333333333333)" font-family="sans-serif" font-size="10px" fill="#000"
+                    opacity="1">8</text><text text-anchor="end" transform="translate(-2,69.66666666666667)"
+                    font-family="sans-serif" font-size="10px" fill="#000" opacity="1">10</text><text text-anchor="end"
+                    transform="translate(-2,42.99999999999999)" font-family="sans-serif" font-size="10px" fill="#000"
+                    opacity="1">12</text><text text-anchor="end" transform="translate(-2,16.33333333333333)"
+                    font-family="sans-serif" font-size="10px" fill="#000" opacity="1">14</text></g>
+                <g class="mark-text role-axis-title" pointer-events="none"><text text-anchor="middle"
+                    transform="translate(-44,100) rotate(-90) translate(0,-2)" font-family="sans-serif" font-size="11px"
+                    font-weight="bold" fill="#000" opacity="1">value</text></g>
+              </g>
+              <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+            </g>
+          </g>
+          <g class="mark-group role-scope layer_0_layer_0_pathgroup" role="graphics-object"
+            aria-roledescription="group mark container">
+            <g transform="translate(0,0)">
+              <path class="background" aria-hidden="true" d="M0,0h600v200h-600Z" />
+              <g>
+                <g class="mark-line role-mark layer_0_layer_0_marks" role="graphics-object"
+                  aria-roledescription="line mark container">
+                  <path aria-label="x-none: 2023; legend-none: Conservative Scenario" role="graphics-symbol"
+                    aria-roledescription="line mark"
+                    d="M37.5,189.333L112.5,184L187.5,172L262.5,153.333L337.5,142.667L412.5,129.333L487.5,128L562.5,126.667"
+                    stroke="#96CAFA" stroke-width="3" />
+                </g>
+              </g>
+              <path class="foreground" aria-hidden="true" d="" display="none" />
+            </g>
+            <g transform="translate(0,0)">
+              <path class="background" aria-hidden="true" d="M0,0h600v200h-600Z" />
+              <g>
+                <g class="mark-line role-mark layer_0_layer_0_marks" role="graphics-object"
+                  aria-roledescription="line mark container">
+                  <path aria-label="x-none: 2023; legend-none: Moderate Scenario" role="graphics-symbol"
+                    aria-roledescription="line mark"
+                    d="M37.5,184L112.5,172L187.5,150.667L262.5,122.667L337.5,100L412.5,90.667L487.5,78.667L562.5,76"
+                    stroke="#0A8DFF" stroke-width="3" />
+                </g>
+              </g>
+              <path class="foreground" aria-hidden="true" d="" display="none" />
+            </g>
+            <g transform="translate(0,0)">
+              <path class="background" aria-hidden="true" d="M0,0h600v200h-600Z" />
+              <g>
+                <g class="mark-line role-mark layer_0_layer_0_marks" role="graphics-object"
+                  aria-roledescription="line mark container">
+                  <path aria-label="x-none: 2023; legend-none: Optimistic Scenario" role="graphics-symbol"
+                    aria-roledescription="line mark"
+                    d="M37.5,180L112.5,164L187.5,133.333L262.5,94.667L337.5,61.333L412.5,40L487.5,34.667L562.5,29.333"
+                    stroke="#0A3B7E" stroke-width="3" />
+                </g>
+              </g>
+              <path class="foreground" aria-hidden="true" d="" display="none" />
+            </g>
+          </g>
+          <g class="mark-symbol role-mark layer_0_layer_1_marks" role="graphics-object"
+            aria-roledescription="symbol mark container">
+            <path aria-label="x-none: 2023; value: 0.8; legend-none: Conservative Scenario" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(37.5,189.33333333333334)"
+              d="M0,-5.164L-4.472,2.582L4.472,2.582Z" fill="#96CAFA" stroke-width="2" opacity="1" />
+            <path aria-label="x-none: 2024; value: 1.2; legend-none: Conservative Scenario" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(112.5,184)" d="M0,-5.164L-4.472,2.582L4.472,2.582Z"
+              fill="#96CAFA" stroke-width="2" opacity="1" />
+            <path aria-label="x-none: 2025; value: 2.1; legend-none: Conservative Scenario" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(187.5,172)" d="M0,-5.164L-4.472,2.582L4.472,2.582Z"
+              fill="#96CAFA" stroke-width="2" opacity="1" />
+            <path aria-label="x-none: 2026; value: 3.5; legend-none: Conservative Scenario" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(262.5,153.33333333333331)"
+              d="M0,-5.164L-4.472,2.582L4.472,2.582Z" fill="#96CAFA" stroke-width="2" opacity="1" />
+            <path aria-label="x-none: 2027; value: 4.3; legend-none: Conservative Scenario" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(337.5,142.66666666666669)"
+              d="M0,-5.164L-4.472,2.582L4.472,2.582Z" fill="#96CAFA" stroke-width="2" opacity="1" />
+            <path aria-label="x-none: 2028; value: 5.3; legend-none: Conservative Scenario" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(412.5,129.33333333333334)"
+              d="M0,-5.164L-4.472,2.582L4.472,2.582Z" fill="#96CAFA" stroke-width="2" opacity="1" />
+            <path aria-label="x-none: 2029; value: 5.4; legend-none: Conservative Scenario" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(487.5,127.99999999999999)"
+              d="M0,-5.164L-4.472,2.582L4.472,2.582Z" fill="#96CAFA" stroke-width="2" opacity="1" />
+            <path aria-label="x-none: 2030; value: 5.5; legend-none: Conservative Scenario" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(562.5,126.66666666666666)"
+              d="M0,-5.164L-4.472,2.582L4.472,2.582Z" fill="#96CAFA" stroke-width="2" opacity="1" />
+            <path aria-label="x-none: 2023; value: 1.2; legend-none: Moderate Scenario" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(37.5,184)" d="M0,-5.164L-4.472,2.582L4.472,2.582Z"
+              fill="#0A8DFF" stroke-width="2" opacity="1" />
+            <path aria-label="x-none: 2024; value: 2.1; legend-none: Moderate Scenario" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(112.5,172)" d="M0,-5.164L-4.472,2.582L4.472,2.582Z"
+              fill="#0A8DFF" stroke-width="2" opacity="1" />
+            <path aria-label="x-none: 2025; value: 3.7; legend-none: Moderate Scenario" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(187.5,150.66666666666666)"
+              d="M0,-5.164L-4.472,2.582L4.472,2.582Z" fill="#0A8DFF" stroke-width="2" opacity="1" />
+            <path aria-label="x-none: 2026; value: 5.8; legend-none: Moderate Scenario" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(262.5,122.66666666666666)"
+              d="M0,-5.164L-4.472,2.582L4.472,2.582Z" fill="#0A8DFF" stroke-width="2" opacity="1" />
+            <path aria-label="x-none: 2027; value: 7.5; legend-none: Moderate Scenario" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(337.5,100)" d="M0,-5.164L-4.472,2.582L4.472,2.582Z"
+              fill="#0A8DFF" stroke-width="2" opacity="1" />
+            <path aria-label="x-none: 2028; value: 8.2; legend-none: Moderate Scenario" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(412.5,90.66666666666667)"
+              d="M0,-5.164L-4.472,2.582L4.472,2.582Z" fill="#0A8DFF" stroke-width="2" opacity="1" />
+            <path aria-label="x-none: 2029; value: 9.1; legend-none: Moderate Scenario" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(487.5,78.66666666666666)"
+              d="M0,-5.164L-4.472,2.582L4.472,2.582Z" fill="#0A8DFF" stroke-width="2" opacity="1" />
+            <path aria-label="x-none: 2030; value: 9.3; legend-none: Moderate Scenario" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(562.5,76)" d="M0,-5.164L-4.472,2.582L4.472,2.582Z"
+              fill="#0A8DFF" stroke-width="2" opacity="1" />
+            <path aria-label="x-none: 2023; value: 1.5; legend-none: Optimistic Scenario" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(37.5,180)" d="M0,-5.164L-4.472,2.582L4.472,2.582Z"
+              fill="#0A3B7E" stroke-width="2" opacity="1" />
+            <path aria-label="x-none: 2024; value: 2.7; legend-none: Optimistic Scenario" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(112.5,164)" d="M0,-5.164L-4.472,2.582L4.472,2.582Z"
+              fill="#0A3B7E" stroke-width="2" opacity="1" />
+            <path aria-label="x-none: 2025; value: 5; legend-none: Optimistic Scenario" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(187.5,133.33333333333334)"
+              d="M0,-5.164L-4.472,2.582L4.472,2.582Z" fill="#0A3B7E" stroke-width="2" opacity="1" />
+            <path aria-label="x-none: 2026; value: 7.9; legend-none: Optimistic Scenario" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(262.5,94.66666666666666)"
+              d="M0,-5.164L-4.472,2.582L4.472,2.582Z" fill="#0A3B7E" stroke-width="2" opacity="1" />
+            <path aria-label="x-none: 2027; value: 10.4; legend-none: Optimistic Scenario" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(337.5,61.33333333333333)"
+              d="M0,-5.164L-4.472,2.582L4.472,2.582Z" fill="#0A3B7E" stroke-width="2" opacity="1" />
+            <path aria-label="x-none: 2028; value: 12; legend-none: Optimistic Scenario" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(412.5,39.99999999999999)"
+              d="M0,-5.164L-4.472,2.582L4.472,2.582Z" fill="#0A3B7E" stroke-width="2" opacity="1" />
+            <path aria-label="x-none: 2029; value: 12.4; legend-none: Optimistic Scenario" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(487.5,34.66666666666667)"
+              d="M0,-5.164L-4.472,2.582L4.472,2.582Z" fill="#0A3B7E" stroke-width="2" opacity="1" />
+            <path aria-label="x-none: 2030; value: 12.8; legend-none: Optimistic Scenario" role="graphics-symbol"
+              aria-roledescription="point" transform="translate(562.5,29.33333333333332)"
+              d="M0,-5.164L-4.472,2.582L4.472,2.582Z" fill="#0A3B7E" stroke-width="2" opacity="1" />
+          </g>
+          <g class="mark-group role-legend" role="graphics-symbol" aria-roledescription="legend"
+            aria-label="Symbol legend for fill color and stroke color with 3 values: Conservative Scenario, Moderate Scenario, Optimistic Scenario">
+            <g transform="translate(80,240)">
+              <path class="background" aria-hidden="true" d="M0,0h430v14h-430Z" pointer-events="none" />
+              <g>
+                <g class="mark-group role-legend-entry">
+                  <g transform="translate(0,0)">
+                    <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none" />
+                    <g>
+                      <g class="mark-group role-scope" role="graphics-object"
+                        aria-roledescription="group mark container">
+                        <g transform="translate(0,0)">
+                          <path class="background" aria-hidden="true" d="M0,0h146.64453125v14h-146.64453125Z"
+                            pointer-events="none" opacity="1" />
+                          <g>
+                            <g class="mark-symbol role-legend-symbol" pointer-events="none">
+                              <path transform="translate(8,8)" d="M-7.071,0L7.071,0" fill="#96CAFA" stroke="#96CAFA"
+                                stroke-width="1.5" opacity="1" />
+                            </g>
+                            <g class="mark-text role-legend-label" pointer-events="none"><text text-anchor="start"
+                                transform="translate(20,12)" font-family="sans-serif" font-size="12px" fill="#000"
+                                opacity="1">Conservative Scenario</text></g>
+                          </g>
+                          <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                        <g transform="translate(158,0)">
+                          <path class="background" aria-hidden="true" d="M0,0h128.966796875v14h-128.966796875Z"
+                            pointer-events="none" opacity="1" />
+                          <g>
+                            <g class="mark-symbol role-legend-symbol" pointer-events="none">
+                              <path transform="translate(8,8)" d="M-7.071,0L7.071,0" fill="#0A8DFF" stroke="#0A8DFF"
+                                stroke-width="1.5" opacity="1" />
+                            </g>
+                            <g class="mark-text role-legend-label" pointer-events="none"><text text-anchor="start"
+                                transform="translate(20,12)" font-family="sans-serif" font-size="12px" fill="#000"
+                                opacity="1">Moderate Scenario</text></g>
+                          </g>
+                          <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                        <g transform="translate(298,0)">
+                          <path class="background" aria-hidden="true" d="M0,0h131.515625v14h-131.515625Z"
+                            pointer-events="none" opacity="1" />
+                          <g>
+                            <g class="mark-symbol role-legend-symbol" pointer-events="none">
+                              <path transform="translate(8,8)" d="M-7.071,0L7.071,0" fill="#0A3B7E" stroke="#0A3B7E"
+                                stroke-width="1.5" opacity="1" />
+                            </g>
+                            <g class="mark-text role-legend-label" pointer-events="none"><text text-anchor="start"
+                                transform="translate(20,12)" font-family="sans-serif" font-size="12px" fill="#000"
+                                opacity="1">Optimistic Scenario</text></g>
+                          </g>
+                          <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                      </g>
+                    </g>
+                    <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                  </g>
+                </g>
+              </g>
+              <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+            </g>
+          </g>
+          <g class="mark-group role-title">
+            <g transform="translate(300,-35)">
+              <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none" />
+              <g>
+                <g class="mark-text role-title-text" role="graphics-symbol" aria-roledescription="title"
+                  aria-label="Title text 'Forecast Total Addressable Metaverse Market, by Scenario'"
+                  pointer-events="none"><text text-anchor="middle" transform="translate(0,20)" font-family="sans-serif"
+                    font-size="25px" font-weight="bold" fill="#000" opacity="1">Forecast Total Addressable Metaverse
+                    Market, by Scenario</text></g>
+              </g>
+              <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+            </g>
+          </g>
+        </g>
+        <path class="foreground" aria-hidden="true" d="" display="none" />
+      </g>
+    </g>
+  </g>
+</svg>

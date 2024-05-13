@@ -1,0 +1,762 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "The chart presents the PM 2.5 values over a 15-day period. The hazardous threshold for PM 2.5 is 300. From the chart, we can see that the PM 2.5 values fluctuated throughout the 15-day period, with the highest value being 394.8 on the 9th day and the lowest value being 37.6 on the 4th day. Overall, the PM 2.5 values remained below the threshold, except for the 9th day when the value exceeded the threshold of 300, indicating a dangerous level of air pollution caused by the dust storm. However, the value then dropped significantly the following day.",
+          "words": [
+            {
+              "startTime": "0s",
+              "endTime": "0.05s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "The"
+            },
+            {
+              "startTime": "0.05s",
+              "endTime": "0.2s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "chart"
+            },
+            {
+              "startTime": "0.2s",
+              "endTime": "0.525s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "presents"
+            },
+            {
+              "startTime": "0.525s",
+              "endTime": "0.938s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "the"
+            },
+            {
+              "startTime": "0.938s",
+              "endTime": "1.05s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "PM"
+            },
+            {
+              "startTime": "1.05s",
+              "endTime": "1.613s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "2.5"
+            },
+            {
+              "startTime": "1.613s",
+              "endTime": "2.4s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "values"
+            },
+            {
+              "startTime": "2.4s",
+              "endTime": "3.038s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "over"
+            },
+            {
+              "startTime": "3.038s",
+              "endTime": "3.25s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "a"
+            },
+            {
+              "startTime": "3.25s",
+              "endTime": "3.3s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "15-day"
+            },
+            {
+              "startTime": "3.3s",
+              "endTime": "3.913s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "period"
+            },
+            {
+              "startTime": "3.913s",
+              "endTime": "4.563s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "."
+            },
+            {
+              "startTime": "4.563s",
+              "endTime": "5.412s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "The"
+            },
+            {
+              "startTime": "5.412s",
+              "endTime": "5.537s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "hazardous"
+            },
+            {
+              "startTime": "5.537s",
+              "endTime": "6.025s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "threshold"
+            },
+            {
+              "startTime": "6.025s",
+              "endTime": "6.5s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "for"
+            },
+            {
+              "startTime": "6.5s",
+              "endTime": "6.662s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "PM"
+            },
+            {
+              "startTime": "6.662s",
+              "endTime": "7.237s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "2.5 is 300"
+            },
+            {
+              "startTime": "7.237s",
+              "endTime": "9.025s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "."
+            },
+            {
+              "startTime": "9.025s",
+              "endTime": "9.875s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "From"
+            },
+            {
+              "startTime": "9.875s",
+              "endTime": "10.1s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "the"
+            },
+            {
+              "startTime": "10.1s",
+              "endTime": "10.2s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "chart"
+            },
+            {
+              "startTime": "10.2s",
+              "endTime": "10.762s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": ","
+            },
+            {
+              "startTime": "10.762s",
+              "endTime": "10.838s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "we"
+            },
+            {
+              "startTime": "10.838s",
+              "endTime": "10.975s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "can"
+            },
+            {
+              "startTime": "10.975s",
+              "endTime": "11.162s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "see"
+            },
+            {
+              "startTime": "11.162s",
+              "endTime": "11.375s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "that"
+            },
+            {
+              "startTime": "11.375s",
+              "endTime": "11.537s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "the"
+            },
+            {
+              "startTime": "11.537s",
+              "endTime": "11.637s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "PM"
+            },
+            {
+              "startTime": "11.637s",
+              "endTime": "12.2s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "2.5"
+            },
+            {
+              "startTime": "12.2s",
+              "endTime": "12.988s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "values"
+            },
+            {
+              "startTime": "12.988s",
+              "endTime": "13.55s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "fluctuated"
+            },
+            {
+              "startTime": "13.55s",
+              "endTime": "14.2s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "throughout"
+            },
+            {
+              "startTime": "14.2s",
+              "endTime": "14.537s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "the"
+            },
+            {
+              "startTime": "14.537s",
+              "endTime": "14.65s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "15-day"
+            },
+            {
+              "startTime": "14.65s",
+              "endTime": "15.262s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "period"
+            },
+            {
+              "startTime": "15.262s",
+              "endTime": "15.912s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": ","
+            },
+            {
+              "startTime": "15.912s",
+              "endTime": "16.025s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "with"
+            },
+            {
+              "startTime": "16.025s",
+              "endTime": "16.163s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "the"
+            },
+            {
+              "startTime": "16.163s",
+              "endTime": "16.25s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "highest"
+            },
+            {
+              "startTime": "16.25s",
+              "endTime": "16.7s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "value"
+            },
+            {
+              "startTime": "16.7s",
+              "endTime": "17.225s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "being"
+            },
+            {
+              "startTime": "17.225s",
+              "endTime": "17.475s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "394.8"
+            },
+            {
+              "startTime": "17.475s",
+              "endTime": "19.325s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "on"
+            },
+            {
+              "startTime": "19.325s",
+              "endTime": "19.45s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "the"
+            },
+            {
+              "startTime": "19.45s",
+              "endTime": "19.538s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "9th"
+            },
+            {
+              "startTime": "19.538s",
+              "endTime": "19.9s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "day"
+            },
+            {
+              "startTime": "19.9s",
+              "endTime": "20.363s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "and"
+            },
+            {
+              "startTime": "20.363s",
+              "endTime": "20.488s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "the"
+            },
+            {
+              "startTime": "20.488s",
+              "endTime": "20.587s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "lowest"
+            },
+            {
+              "startTime": "20.587s",
+              "endTime": "21s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "value"
+            },
+            {
+              "startTime": "21s",
+              "endTime": "21.525s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "being"
+            },
+            {
+              "startTime": "21.525s",
+              "endTime": "21.788s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "37.6"
+            },
+            {
+              "startTime": "21.788s",
+              "endTime": "23.25s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "on"
+            },
+            {
+              "startTime": "23.25s",
+              "endTime": "23.387s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "the"
+            },
+            {
+              "startTime": "23.387s",
+              "endTime": "23.475s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "4th"
+            },
+            {
+              "startTime": "23.475s",
+              "endTime": "23.8s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "day"
+            },
+            {
+              "startTime": "23.8s",
+              "endTime": "24.212s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "."
+            },
+            {
+              "startTime": "24.212s",
+              "endTime": "25.063s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "Overall"
+            },
+            {
+              "startTime": "25.063s",
+              "endTime": "25.813s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": ","
+            },
+            {
+              "startTime": "25.813s",
+              "endTime": "25.837s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "the"
+            },
+            {
+              "startTime": "25.837s",
+              "endTime": "25.95s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "PM"
+            },
+            {
+              "startTime": "25.95s",
+              "endTime": "26.363s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "2.5"
+            },
+            {
+              "startTime": "26.363s",
+              "endTime": "27.163s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "values"
+            },
+            {
+              "startTime": "27.163s",
+              "endTime": "27.775s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "remained"
+            },
+            {
+              "startTime": "27.775s",
+              "endTime": "28.137s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "below"
+            },
+            {
+              "startTime": "28.137s",
+              "endTime": "28.4s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "the"
+            },
+            {
+              "startTime": "28.4s",
+              "endTime": "28.512s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "threshold"
+            },
+            {
+              "startTime": "28.512s",
+              "endTime": "29.225s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": ","
+            },
+            {
+              "startTime": "29.225s",
+              "endTime": "29.363s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "except"
+            },
+            {
+              "startTime": "29.363s",
+              "endTime": "29.738s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "for"
+            },
+            {
+              "startTime": "29.738s",
+              "endTime": "29.875s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "the"
+            },
+            {
+              "startTime": "29.875s",
+              "endTime": "29.975s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "9th"
+            },
+            {
+              "startTime": "29.975s",
+              "endTime": "30.325s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "day"
+            },
+            {
+              "startTime": "30.325s",
+              "endTime": "30.725s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "when"
+            },
+            {
+              "startTime": "30.725s",
+              "endTime": "30.887s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "the"
+            },
+            {
+              "startTime": "30.887s",
+              "endTime": "30.975s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "value"
+            },
+            {
+              "startTime": "30.975s",
+              "endTime": "31.387s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "exceeded"
+            },
+            {
+              "startTime": "31.387s",
+              "endTime": "31.9s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "the"
+            },
+            {
+              "startTime": "31.9s",
+              "endTime": "32s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "threshold"
+            },
+            {
+              "startTime": "32s",
+              "endTime": "32.487s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "of"
+            },
+            {
+              "startTime": "32.487s",
+              "endTime": "32.575s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "300"
+            },
+            {
+              "startTime": "32.575s",
+              "endTime": "33.388s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": ","
+            },
+            {
+              "startTime": "33.388s",
+              "endTime": "33.513s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "indicating"
+            },
+            {
+              "startTime": "33.513s",
+              "endTime": "34.1s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "a"
+            },
+            {
+              "startTime": "34.1s",
+              "endTime": "34.175s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "dangerous"
+            },
+            {
+              "startTime": "34.175s",
+              "endTime": "34.675s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "level"
+            },
+            {
+              "startTime": "34.675s",
+              "endTime": "35.013s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "of"
+            },
+            {
+              "startTime": "35.013s",
+              "endTime": "35.125s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "air"
+            },
+            {
+              "startTime": "35.125s",
+              "endTime": "35.313s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "pollution"
+            },
+            {
+              "startTime": "35.313s",
+              "endTime": "36.05s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "caused"
+            },
+            {
+              "startTime": "36.05s",
+              "endTime": "36.375s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "by"
+            },
+            {
+              "startTime": "36.375s",
+              "endTime": "36.487s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "the"
+            },
+            {
+              "startTime": "36.487s",
+              "endTime": "36.6s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "dust"
+            },
+            {
+              "startTime": "36.6s",
+              "endTime": "36.888s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "storm"
+            },
+            {
+              "startTime": "36.888s",
+              "endTime": "37.413s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "."
+            },
+            {
+              "startTime": "37.413s",
+              "endTime": "38.263s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "However"
+            },
+            {
+              "startTime": "38.263s",
+              "endTime": "38.95s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": ","
+            },
+            {
+              "startTime": "38.95s",
+              "endTime": "38.987s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "the"
+            },
+            {
+              "startTime": "38.987s",
+              "endTime": "39.087s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "value"
+            },
+            {
+              "startTime": "39.087s",
+              "endTime": "39.462s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "then"
+            },
+            {
+              "startTime": "39.462s",
+              "endTime": "39.688s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "dropped"
+            },
+            {
+              "startTime": "39.688s",
+              "endTime": "40s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "significantly"
+            },
+            {
+              "startTime": "40s",
+              "endTime": "40.875s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "the"
+            },
+            {
+              "startTime": "40.875s",
+              "endTime": "40.987s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "following"
+            },
+            {
+              "startTime": "40.987s",
+              "endTime": "41.438s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "day"
+            },
+            {
+              "startTime": "41.438s",
+              "endTime": "41.85s",
+              "selected": false,
+              "speakerTag": 0,
+              "word": "."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

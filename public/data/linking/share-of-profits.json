@@ -1,0 +1,49 @@
+{
+  "[0, 1]": [
+    "share-of-profits-legend-0",
+    "share-of-profits-line-0",
+    "share-of-profits-annotation-path0"
+  ],
+  "[10]": [
+    "share-of-profits-legend-0",
+    "share-of-profits-line-0",
+    "share-of-profits-annotation-path0"
+  ],
+  "[23, 24, 25, 26, 27, 28, 29, 30]": [
+    "share-of-profits-title"
+  ],
+  "[2]": [
+    "share-of-profits-annotation-path2",
+    "share-of-profits-legend-group-2",
+    "share-of-profits-line-2"
+  ],
+  "[35, 36]": [
+    "share-of-profits-title"
+  ],
+  "[40]": [
+    "share-of-profits-x-label-4"
+  ],
+  "[41]": [
+    "share-of-profits-annotation-path2",
+    "share-of-profits-legend-group-2",
+    "share-of-profits-line-2"
+  ],
+  "[46]": [
+    "share-of-profits-x-label-0"
+  ],
+  "[48]": [
+    "share-of-profits-legend-group-1",
+    "share-of-profits-annotation-path1",
+    "share-of-profits-line-1"
+  ],
+  "[4]": [
+    "share-of-profits-legend-group-1",
+    "share-of-profits-annotation-path1",
+    "share-of-profits-line-1"
+  ],
+  "[57]": [
+    "share-of-profits-legend-0",
+    "share-of-profits-line-0",
+    "share-of-profits-annotation-path0"
+  ]
+}

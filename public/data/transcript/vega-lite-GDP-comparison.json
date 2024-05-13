@@ -1,0 +1,422 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "From 2003 to 2008, the European Union witnessed a significant increase in its GDP, with a growth of approximately 65%. However, the global financial crisis of 2008 led to a downturn in the following three years. Despite efforts to recover, the EU's comeback has not been particularly impressive, and there was a noticeable dip in GDP in 2015. This past decade reflects the volatility of the EU economy. .",
+          "confidence": 1.0,
+          "words": [
+            {
+              "startTime": "0.000s",
+              "endTime": "0.220s",
+              "word": "From",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "0.220s",
+              "endTime": "1.327s",
+              "word": "2003",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "1.327s",
+              "endTime": "1.512s",
+              "word": "to",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "1.512s",
+              "endTime": "2.893s",
+              "word": "2008,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "2.893s",
+              "endTime": "2.948s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "2.948s",
+              "endTime": "3.646s",
+              "word": "European",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "3.646s",
+              "endTime": "4.131s",
+              "word": "Union",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "4.131s",
+              "endTime": "4.579s",
+              "word": "witnessed",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "4.579s",
+              "endTime": "4.639s",
+              "word": "a",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "4.639s",
+              "endTime": "5.524s",
+              "word": "significant",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "5.524s",
+              "endTime": "6.139s",
+              "word": "increase",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "6.139s",
+              "endTime": "6.244s",
+              "word": "in",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "6.244s",
+              "endTime": "6.449s",
+              "word": "its",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "6.449s",
+              "endTime": "7.762s",
+              "word": "GDP,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "7.762s",
+              "endTime": "7.898s",
+              "word": "with",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "7.898s",
+              "endTime": "7.988s",
+              "word": "a",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "7.988s",
+              "endTime": "8.372s",
+              "word": "growth",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "8.372s",
+              "endTime": "8.487s",
+              "word": "of",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "8.487s",
+              "endTime": "9.345s",
+              "word": "approximately",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "9.345s",
+              "endTime": "11.737s",
+              "word": "65%.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "11.737s",
+              "endTime": "12.556s",
+              "word": "However,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "12.556s",
+              "endTime": "12.711s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "12.711s",
+              "endTime": "13.173s",
+              "word": "global",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "13.173s",
+              "endTime": "13.899s",
+              "word": "financial",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "13.899s",
+              "endTime": "14.517s",
+              "word": "crisis",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "14.517s",
+              "endTime": "14.627s",
+              "word": "of",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "14.627s",
+              "endTime": "15.742s",
+              "word": "2008",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "15.742s",
+              "endTime": "16.000s",
+              "word": "led",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "16.000s",
+              "endTime": "16.195s",
+              "word": "to",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "16.195s",
+              "endTime": "16.290s",
+              "word": "a",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "16.290s",
+              "endTime": "16.918s",
+              "word": "downturn",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "16.918s",
+              "endTime": "17.058s",
+              "word": "in",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "17.058s",
+              "endTime": "17.122s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "17.122s",
+              "endTime": "17.676s",
+              "word": "following",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "17.676s",
+              "endTime": "17.961s",
+              "word": "three",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "17.961s",
+              "endTime": "19.490s",
+              "word": "years.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "19.490s",
+              "endTime": "19.995s",
+              "word": "Despite",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "19.995s",
+              "endTime": "20.473s",
+              "word": "efforts",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "20.473s",
+              "endTime": "20.573s",
+              "word": "to",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "20.573s",
+              "endTime": "21.568s",
+              "word": "recover,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "21.568s",
+              "endTime": "21.728s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "21.728s",
+              "endTime": "22.180s",
+              "word": "EU's",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "22.180s",
+              "endTime": "22.854s",
+              "word": "comeback",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "22.854s",
+              "endTime": "23.093s",
+              "word": "has",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "23.093s",
+              "endTime": "23.303s",
+              "word": "not",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "23.303s",
+              "endTime": "23.563s",
+              "word": "been",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "23.563s",
+              "endTime": "24.439s",
+              "word": "particularly",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "24.439s",
+              "endTime": "25.552s",
+              "word": "impressive,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "25.552s",
+              "endTime": "25.652s",
+              "word": "and",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "25.652s",
+              "endTime": "25.767s",
+              "word": "there",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "25.767s",
+              "endTime": "25.962s",
+              "word": "was",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "25.962s",
+              "endTime": "26.024s",
+              "word": "a",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "26.024s",
+              "endTime": "26.814s",
+              "word": "noticeable",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "26.814s",
+              "endTime": "27.169s",
+              "word": "dip",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "27.169s",
+              "endTime": "27.340s",
+              "word": "in",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "27.340s",
+              "endTime": "28.199s",
+              "word": "GDP",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "28.199s",
+              "endTime": "28.319s",
+              "word": "in",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "28.319s",
+              "endTime": "30.272s",
+              "word": "2015.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "30.272s",
+              "endTime": "30.537s",
+              "word": "This",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "30.537s",
+              "endTime": "31.036s",
+              "word": "past",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "31.036s",
+              "endTime": "31.607s",
+              "word": "decade",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "31.607s",
+              "endTime": "32.170s",
+              "word": "reflects",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "32.170s",
+              "endTime": "32.240s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "32.240s",
+              "endTime": "33.269s",
+              "word": "volatility",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "33.269s",
+              "endTime": "33.374s",
+              "word": "of",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "33.374s",
+              "endTime": "33.559s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "33.559s",
+              "endTime": "33.924s",
+              "word": "EU",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "33.924s",
+              "endTime": "34.674s",
+              "word": "economy.",
+              "speakerTag": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

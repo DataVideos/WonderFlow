@@ -1,0 +1,199 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks"
+    width="946" height="492" viewBox="0 0 473 246">
+    <rect width="473" height="246" fill="white" />
+    <g fill="none" stroke-miterlimit="10" transform="translate(135,41)">
+        <g class="mark-group role-frame root" role="graphics-object" aria-roledescription="group mark container">
+            <g transform="translate(0,0)">
+                <path class="background" aria-hidden="true" d="M0,0h20v200h-20Z" />
+                <g>
+                    <g class="mark-arc role-mark layer_0_marks" role="graphics-object"
+                        aria-roledescription="arc mark container">
+                        <path
+                            aria-label="The Global Mine Production in 2021 of Leading Countries: 0.61; legend-none: China"
+                            role="graphics-symbol" aria-roledescription="arc mark"
+                            transform="translate(10,100) rotate(-30)"
+                            d="M-83.68,33.131A90,90,0,1,0,43.358,-78.868L28.905,-52.578A60,60,0,1,1,-55.787,22.087Z"
+                            fill="#D00000" />
+                        <path
+                            aria-label="The Global Mine Production in 2021 of Leading Countries: 0.155; legend-none: United States"
+                            role="graphics-symbol" aria-roledescription="arc mark"
+                            transform="translate(10,100) rotate(-30)"
+                            d="M0,-90A90,90,0,0,0,-74.437,-50.588L-49.625,-33.725A60,60,0,0,1,0,-60Z" fill="#0766E6" />
+                        <path
+                            aria-label="The Global Mine Production in 2021 of Leading Countries: 0.094; legend-none: Myanmar"
+                            role="graphics-symbol" aria-roledescription="arc mark"
+                            transform="translate(10,100) rotate(-30)"
+                            d="M-87.954,-19.081A90,90,0,0,0,-83.68,33.131L-55.787,22.087A60,60,0,0,1,-58.636,-12.72Z"
+                            fill="#EAC52E" />
+                        <path
+                            aria-label="The Global Mine Production in 2021 of Leading Countries: 0.08; legend-none: Australia"
+                            role="graphics-symbol" aria-roledescription="arc mark"
+                            transform="translate(10,100) rotate(-30)"
+                            d="M43.358,-78.868A90,90,0,0,0,0,-90L0,-60A60,60,0,0,1,28.905,-52.578Z" fill="#C393FF" />
+                        <path
+                            aria-label="The Global Mine Production in 2021 of Leading Countries: 0.061; legend-none: Others"
+                            role="graphics-symbol" aria-roledescription="arc mark"
+                            transform="translate(10,100) rotate(-30)"
+                            d="M-74.437,-50.588A90,90,0,0,0,-87.954,-19.081L-58.636,-12.72A60,60,0,0,1,-49.625,-33.725Z"
+                            fill="#C7D6DD" />
+                    </g>
+                    <g class="mark-symbol role-mark layer_1_marks" role="graphics-object"
+                        aria-roledescription="symbol mark container">
+                        <path role="graphics-symbol" 
+                            transform="translate(-30,60)"
+                            d="M60,78.4C51.918,78.4,45.035,73.16,42.57,65.9L28.37,65.9C27.905,72.87,22.085,78.4,15,78.4C7.61,78.4,1.6,72.388,1.6,65C1.6,57.613,7.61,51.6,15,51.6C22.085,51.6,27.905,57.13,28.37,64.1L31.575,64.1C31.107,55.365,23.852,48.4,15,48.4C10.502,48.4,6.292,50.17,3.142,53.382L1.858,52.125C3.265,50.688,4.865,49.51,6.6,48.62L6.6,35C6.6,34.503,7.002,34.1,7.5,34.1L11.6,34.1L11.6,25.9L7.5,25.9L7.5,24.1L12.5,24.1C12.998,24.1,13.4,24.503,13.4,25L13.4,34.1L31.798,34.1L36.348,15.9L32.5,15.9C32.002,15.9,31.6,15.498,31.6,15L31.6,10C31.6,9.503,32.003,9.1,32.5,9.1L41.6,9.1L41.6,2.5L43.4,2.5L43.4,9.1L72.5,9.1C72.998,9.1,73.4,9.503,73.4,10L73.4,15C73.4,15.498,72.998,15.9,72.5,15.9L71.02,15.9L73.39,34.875C73.395,34.918,73.4,34.958,73.4,35L73.4,47.403C76.498,50.698,78.4,55.133,78.4,60C78.4,70.148,70.148,78.4,60,78.4ZM60,43.4C50.848,43.4,43.4,50.848,43.4,60C43.4,69.153,50.848,76.6,60,76.6C69.153,76.6,76.6,69.152,76.6,60C76.6,50.848,69.153,43.4,60,43.4ZM15,53.4C8.603,53.4,3.4,58.603,3.4,65C3.4,71.398,8.603,76.6,15,76.6C21.398,76.6,26.6,71.398,26.6,65C26.6,58.603,21.397,53.4,15,53.4ZM33.4,64.1L42.06,64.1C41.758,62.782,41.6,61.41,41.6,60C41.6,52.877,45.665,46.69,51.6,43.632L51.6,35.9L33.4,35.9C33.4,35.9,33.4,64.1,33.4,64.1ZM15,46.6C22.308,46.6,28.633,50.883,31.6,57.068L31.6,35.9L8.4,35.9L8.4,47.813C10.475,47.018,12.705,46.6,15,46.6ZM60,41.6C64.395,41.6,68.433,43.148,71.6,45.728L71.6,35.9L53.4,35.9L53.4,42.825C55.45,42.033,57.675,41.6,60,41.6ZM68.293,34.1L71.478,34.1L69.205,15.9L66.02,15.9L68.293,34.1ZM53.4,34.1L66.477,34.1L64.205,15.9L53.4,15.9L53.4,34.1ZM33.653,34.1L51.6,34.1L51.6,15.9L38.205,15.9L33.653,34.1ZM33.4,14.1L71.6,14.1L71.6,10.9L33.4,10.9L33.4,14.1ZM60,73.4C52.613,73.4,46.6,67.388,46.6,60C46.6,52.613,52.613,46.6,60,46.6C67.388,46.6,73.4,52.613,73.4,60C73.4,67.388,67.387,73.4,60,73.4ZM60,48.4C53.603,48.4,48.4,53.603,48.4,60C48.4,66.398,53.603,71.6,60,71.6C66.398,71.6,71.6,66.398,71.6,60C71.6,53.602,66.398,48.4,60,48.4ZM15,73.4C10.368,73.4,6.6,69.63,6.6,65C6.6,60.37,10.368,56.6,15,56.6C19.633,56.6,23.4,60.367,23.4,65C23.4,69.633,19.633,73.4,15,73.4ZM15,58.4C11.36,58.4,8.4,61.36,8.4,65C8.4,68.64,11.36,71.6,15,71.6C18.64,71.6,21.6,68.64,21.6,65C21.6,61.36,18.64,58.4,15,58.4ZM42.5,40.9L37.5,40.9C37.003,40.9,36.6,40.497,36.6,40C36.6,39.503,37.003,39.1,37.5,39.1L42.5,39.1C42.998,39.1,43.4,39.503,43.4,40C43.4,40.497,42.998,40.9,42.5,40.9ZM27.5,40.9L12.5,40.9C12.003,40.9,11.6,40.497,11.6,40C11.6,39.503,12.003,39.1,12.5,39.1L27.5,39.1C27.998,39.1,28.4,39.503,28.4,40C28.4,40.497,27.998,40.9,27.5,40.9Z"
+                            stroke="gray" stroke-width="2" />
+                    </g>
+                    <g class="mark-group role-legend" role="graphics-symbol" aria-roledescription="legend"
+                        aria-label="Symbol legend for fill color and stroke color with 5 values: China, United States, Myanmar, Australia, Others">
+                        <g transform="translate(130,30)">
+                            <path class="background" aria-hidden="true" d="M0,0h122v133h-122Z" pointer-events="none" />
+                            <g>
+                                <g class="mark-group role-legend-entry">
+                                    <g transform="translate(0,0)">
+                                        <path class="background" aria-hidden="true" d="M0,0h0v0h0Z"
+                                            pointer-events="none" />
+                                        <g>
+                                            <g class="mark-group role-scope" role="graphics-object"
+                                                aria-roledescription="group mark container">
+                                                <g transform="translate(0,0)">
+                                                    <path class="background" aria-hidden="true"
+                                                        d="M0,0h121.734375v25h-121.734375Z" pointer-events="none"
+                                                        opacity="1" />
+                                                    <g>
+                                                        <g class="mark-symbol role-legend-symbol"
+                                                            clip-path="url(#clip149)" pointer-events="none">
+                                                            <path transform="translate(8,12.5)"
+                                                                d="M7.071,0A7.071,7.071,0,1,1,-7.071,0A7.071,7.071,0,1,1,7.071,0"
+                                                                fill="#D00000" stroke="#D00000" stroke-width="1.5" />
+                                                        </g>
+                                                        <g class="mark-text role-legend-label" pointer-events="none">
+                                                            <text text-anchor="start" transform="translate(20,17.5)"
+                                                                font-family="sans-serif" font-size="16px" fill="#000"
+                                                                opacity="1">China</text></g>
+                                                    </g>
+                                                    <path class="foreground" aria-hidden="true" d=""
+                                                        pointer-events="none" display="none" />
+                                                </g>
+                                                <g transform="translate(0,27)">
+                                                    <path class="background" aria-hidden="true"
+                                                        d="M0,0h121.734375v25h-121.734375Z" pointer-events="none"
+                                                        opacity="1" />
+                                                    <g>
+                                                        <g class="mark-symbol role-legend-symbol"
+                                                            clip-path="url(#clip150)" pointer-events="none">
+                                                            <path transform="translate(8,12.5)"
+                                                                d="M7.071,0A7.071,7.071,0,1,1,-7.071,0A7.071,7.071,0,1,1,7.071,0"
+                                                                fill="#0766E6" stroke="#0766E6" stroke-width="1.5" />
+                                                        </g>
+                                                        <g class="mark-text role-legend-label" pointer-events="none">
+                                                            <text text-anchor="start" transform="translate(20,17.5)"
+                                                                font-family="sans-serif" font-size="16px" fill="#000"
+                                                                opacity="1">United States</text></g>
+                                                    </g>
+                                                    <path class="foreground" aria-hidden="true" d=""
+                                                        pointer-events="none" display="none" />
+                                                </g>
+                                                <g transform="translate(0,54)">
+                                                    <path class="background" aria-hidden="true"
+                                                        d="M0,0h121.734375v25h-121.734375Z" pointer-events="none"
+                                                        opacity="1" />
+                                                    <g>
+                                                        <g class="mark-symbol role-legend-symbol"
+                                                            clip-path="url(#clip151)" pointer-events="none">
+                                                            <path transform="translate(8,12.5)"
+                                                                d="M7.071,0A7.071,7.071,0,1,1,-7.071,0A7.071,7.071,0,1,1,7.071,0"
+                                                                fill="#EAC52E" stroke="#EAC52E" stroke-width="1.5" />
+                                                        </g>
+                                                        <g class="mark-text role-legend-label" pointer-events="none">
+                                                            <text text-anchor="start" transform="translate(20,17.5)"
+                                                                font-family="sans-serif" font-size="16px" fill="#000"
+                                                                opacity="1">Myanmar</text></g>
+                                                    </g>
+                                                    <path class="foreground" aria-hidden="true" d=""
+                                                        pointer-events="none" display="none" />
+                                                </g>
+                                                <g transform="translate(0,81)">
+                                                    <path class="background" aria-hidden="true"
+                                                        d="M0,0h121.734375v25h-121.734375Z" pointer-events="none"
+                                                        opacity="1" />
+                                                    <g>
+                                                        <g class="mark-symbol role-legend-symbol"
+                                                            clip-path="url(#clip152)" pointer-events="none">
+                                                            <path transform="translate(8,12.5)"
+                                                                d="M7.071,0A7.071,7.071,0,1,1,-7.071,0A7.071,7.071,0,1,1,7.071,0"
+                                                                fill="#C393FF" stroke="#C393FF" stroke-width="1.5" />
+                                                        </g>
+                                                        <g class="mark-text role-legend-label" pointer-events="none">
+                                                            <text text-anchor="start" transform="translate(20,17.5)"
+                                                                font-family="sans-serif" font-size="16px" fill="#000"
+                                                                opacity="1">Australia</text></g>
+                                                    </g>
+                                                    <path class="foreground" aria-hidden="true" d=""
+                                                        pointer-events="none" display="none" />
+                                                </g>
+                                                <g transform="translate(0,108)">
+                                                    <path class="background" aria-hidden="true"
+                                                        d="M0,0h121.734375v25h-121.734375Z" pointer-events="none"
+                                                        opacity="1" />
+                                                    <g>
+                                                        <g class="mark-symbol role-legend-symbol"
+                                                            clip-path="url(#clip153)" pointer-events="none">
+                                                            <path transform="translate(8,12.5)"
+                                                                d="M7.071,0A7.071,7.071,0,1,1,-7.071,0A7.071,7.071,0,1,1,7.071,0"
+                                                                fill="#C7D6DD" stroke="#C7D6DD" stroke-width="1.5" />
+                                                        </g>
+                                                        <g class="mark-text role-legend-label" pointer-events="none">
+                                                            <text text-anchor="start" transform="translate(20,17.5)"
+                                                                font-family="sans-serif" font-size="16px" fill="#000"
+                                                                opacity="1">Others</text></g>
+                                                    </g>
+                                                    <path class="foreground" aria-hidden="true" d=""
+                                                        pointer-events="none" display="none" />
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <path class="foreground" aria-hidden="true" d="" pointer-events="none"
+                                            display="none" />
+                                    </g>
+                                </g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                    </g>
+                    <g class="mark-group role-title">
+                        <g transform="translate(-80,-36)">
+                            <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none" />
+                            <g>
+                                <g class="mark-text role-title-text" role="graphics-symbol" aria-roledescription="title"
+                                    aria-label="Title text 'The Global Mine Production in 2021 of Leading Countries'"
+                                    pointer-events="none"><text text-anchor="start" transform="translate(-50,13)"
+                                        font-family="sans-serif" font-size="16px" font-weight="bold" fill="#0F2741"
+                                        opacity="1">The Global Mine Production in 2021 of Leading Countries</text></g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                    </g>
+                </g>
+                <path class="foreground" aria-hidden="true" d="" display="none" />
+            </g>
+        </g>
+    </g>
+    <defs>
+        <clipPath id="clip149">
+            <rect x="0" y="0" width="121.734375" height="25" />
+        </clipPath>
+        <clipPath id="clip150">
+            <rect x="0" y="0" width="121.734375" height="25" />
+        </clipPath>
+        <clipPath id="clip151">
+            <rect x="0" y="0" width="121.734375" height="25" />
+        </clipPath>
+        <clipPath id="clip152">
+            <rect x="0" y="0" width="121.734375" height="25" />
+        </clipPath>
+        <clipPath id="clip153">
+            <rect x="0" y="0" width="121.734375" height="25" />
+        </clipPath>
+    </defs>
+</svg>

@@ -1,0 +1,18 @@
+
+      {
+        projectId: 'bar-vega-nuclear-example1',
+        scenes: [
+          {
+            charts: [
+              {source: './bar-vega-nuclear.svg'},
+            ],
+            animation: {
+              sequence: {
+                  "sync": [
+                  ]
+              }
+            },
+          }
+        ]
+      }
+    

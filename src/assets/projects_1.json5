@@ -1,0 +1,68 @@
+[
+  {
+    id: 'australia-fire-example1',
+    label: 'Australia Fire',
+    group: 'Single chart',
+    chartType: "Bar chart",
+  },
+  {
+    id: 'accounting-of-pirates-example1',
+    label: 'Accounting of Pirates',
+    group: 'Single chart',
+    chartType: 'Pie chart'
+  },
+  {
+    id: 'commute-mode-example1',
+    label: 'Commute Mode',
+    group: 'Single chart',
+    chartType: 'Pie chart'
+  },
+  {
+    id: 'house-prices-example1',
+    label: 'House Prices',
+    group: 'Single chart',
+    chartType: 'Line chart'
+  },
+  {
+    id: 'army-military-comparison-example1',
+    label: 'GDP Comparison',
+    group: 'Single chart',
+    chartType: 'Bar chart'
+  },
+  {
+    id: 'sat-score-example1',
+    label: 'SAT Score',
+    group: 'Single chart',
+    chartType: 'Bar chart'
+  },
+  {
+    id: 'scottish-independence-referendum-example1',
+    label: 'Scottish Independence Referendum',
+    group: 'Single chart',
+    chartType: 'Map chart'
+  },
+  {
+    id: 'share-of-profits-example1',
+    label: 'Share of Profits',
+    group: 'Single chart',
+    chartType: 'Line chart'
+  },
+  {
+    id: 'shortage-of-water-example1',
+    label: 'Shortage of Water',
+    group: 'Single chart',
+    chartType: 'Map chart'
+  },
+  {
+    id: 'transportation-mode-example1',
+    label: 'Transportation Mode',
+    group: 'Single chart',
+    chartType: 'Bar chart'
+  },
+  {
+    id: 'wealth-inequality-example1',
+    label: 'Wealth Inequality',
+    group: 'Single chart',
+    chartType: 'Bar chart'
+  }
+]

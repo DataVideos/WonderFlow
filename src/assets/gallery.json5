@@ -1,0 +1,68 @@
+[
+  {
+    id: 'australia-fire-example1',
+    videoName: 'Why does climate change make wildfires worse?',
+    link: 'https://youtu.be/mypEs1SBAUg?t=197',
+    transcript: "In 2019, human-caused and out-of-control fires burned 976200 hectares of the Amazon rainforest. That's the third-highest increase in the rate of deforestation in the Amazon's history. At a 30% jump from the prior year, second only to 1995, which was 95% and 1998 which was 31%."
+  },
+  {
+    id: 'accounting-of-pirates-example1',
+    videoName: 'How Somalia’s Pirates Make Money',
+    link: 'https://youtu.be/dZh0B8AYxac?t=389',
+    transcript: 'First, investors get their guaranteed cut of at least 30%. The port, who looked the other way while they parked the ship, gets 5-10%. And the rest is split between the attackers, with a bonus of around $10,000 for being first to board the ship.'
+  },
+  {
+    id: 'commute-mode-example1',
+    videoName: 'Why American public transit is so bad | 2020 Election',
+    link: 'https://youtu.be/-ZDZtBRTyeI?t=80',
+    transcript: 'The most common American commute is actually from suburb to suburb; routes that public transit in the US usually doesn’t serve. It’s one reason that the overwhelming majority of Americans get to work by driving alone. Most Americans don’t rely on public transit, making it better is rarely a top political priority, which makes things even harder for the people who do rely on neglected transit systems.'
+  },
+  {
+    id: 'house-prices-example1',
+    videoName: 'Why are houses so expensive?',
+    link: 'https://youtu.be/vhAXp0xzMFg?t=189',
+    transcript: 'Here is a line chart.'
+  },
+  {
+    id: 'army-military-comparison-example1',
+    videoName: 'China vs Japan - Who Would Win - Army / Military Comparison',
+    link: 'https://youtu.be/eBV4GmK4kO4?t=33',
+    transcript: "The USA has the world's highest GDP of around 18.5 trillion dollars. It's followed by China with a nominal GDP of 11.8 trillion dollars, and then Japan with a GDP of around 4.8 trillion dollars. The European Union would take second place, but the EU is a combination of 28 states."
+  },
+  {
+    id: 'sat-score-example1',
+    videoName: "The problem with America's college entrance exam",
+    link: 'https://youtu.be/WjVVwMGJ9S8?t=334',
+    transcript: "Here's a chart of the average SAT scores by family income. Students whose families earn less than $20,000 score around 890 -- way below average. And as we move up the income brackets, students score higher and higher. The wealthiest students -- whose parents earn more than $200,000 -- score an average of 1150."
+  },
+  {
+    id: 'scottish-independence-referendum-example1',
+    videoName: 'Scottish independence referendum 2014 explained | Guardian Animations',
+    link: 'https://youtu.be/zIeVmqVB9pQ?t=29',
+    transcript: "Didn't you just call Scotland a country? Isn't Scotland already a country? The definitive answer to that question is: sort of. Technically Scotland is a country within a country known as the United Kingdom. Scotland may have its own church, its own legal system, its own professional soccer league and its own dietary idiosyncrasies, but it’s still part of the UK, which also includes the countries of England, Wales and Northern Ireland."
+  },
+  {
+    id: 'share-of-profits-example1',
+    videoName: 'How American CEOs got so rich',
+    link: 'https://youtu.be/ylLTMYt24lA?t=299',
+    transcript: 'General Motor, Volkswagen and Toyota are three of the biggest motor corporations in the world. In this chart, you can see how much of their profits three companies spend on buybacks. GM has the highest buyback during this period, except 2016. Volkswagen hasn’t done any since 2012, and Toyota’s biggest buyback years are roughly the size of GM’s smallest.'
+  },
+  {
+    id: 'shortage-of-water-example1',
+    videoName: "Dubai's Plan to Outlive Oil",
+    link: 'https://youtu.be/-dsM8zPGqa0?t=159',
+    transcript: 'In the Middle East, the entire 3.2 million square kilometer peninsula lacks a single natural river. The United States, in comparison, has 250,000. 98.8% of Dubai’s water has to be pumped from the Persian Gulf and desalinated.'
+  },
+  {
+    id: 'transportation-mode-example1',
+    videoName: 'Why American public transit is so bad | 2020 Election',
+    link: 'https://youtu.be/-ZDZtBRTyeI?t=243',
+    transcript: 'The people who live in these places are less likely than the national average to drive, and more likely to walk, bike, or take transit.'
+  },
+  {
+    id: 'wealth-inequality-example1',
+    videoName: 'Wealth Inequality in America',
+    link: 'https://youtu.be/QPKKQnijnsM?t=161',
+    transcript: "Here's that idea we asked everyone about something like this curve. This isn't too bad we've got some incentive as the wealthiest folks are now about 10 to 20 times better off than the poorest Americans. But hey even the poor folks aren't actually poor since the poverty line has stayed almost entirely off the chart. We have a super healthy middle class with a smooth transition into wealth, and yes Republicans and Democrats alike chose this curve."
+  }
+]

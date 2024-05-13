@@ -1,0 +1,201 @@
+
+    {
+      projectId: 'bar-vega-social-media-platform-example1',
+      scenes: [
+        {
+          charts: [
+            {source: './bar-vega-social-media-platform.svg'},
+          ],
+          animation: {
+            sequence: {
+              "sync": [
+                  {
+                      "use": "Bar-grow",
+                      "timing": {
+                          "start": 0,
+                          "duration": 4.61,
+                          "offset": 0
+                      },
+                      "target": "#bar-0, #bar-1, #bar-2, #bar-3, #bar-4, #bar-5, #bar-6, #bar-7, #bar-8, #bar-9, #bar-10, #bar-11, #bar-12, #bar-13, #bar-14, #bar-15, #bar-16, #bar-17, #bar-18, #bar-19, #bar-20, #bar-21, #bar-22, #bar-23, #bar-24, #annotation-0, #annotation-1, #annotation-2, #annotation-3, #annotation-4, #annotation-5, #annotation-6, #annotation-7, #annotation-8, #annotation-9, #annotation-10, #annotation-11, #annotation-12, #annotation-13, #annotation-14, #annotation-15, #annotation-16, #annotation-17, #annotation-18, #annotation-19, #annotation-20, #annotation-21, #annotation-22, #annotation-23, #annotation-24",
+                      "ani_type": "Enter",
+                      "settings": {}
+                  },
+                  {
+                      "use": "Hide",
+                      "timing": {
+                          "start": 4.612,
+                          "duration": 7.04,
+                          "offset": 0
+                      },
+                      "target": "#bar-1, #bar-2, #bar-3, #bar-4, #bar-6, #bar-7, #bar-8, #bar-9, #bar-11, #bar-12, #bar-13, #bar-14, #bar-16, #bar-17, #bar-18, #bar-19, #bar-21, #bar-22, #bar-23, #bar-24, #annotation-1, #annotation-2, #annotation-3, #annotation-4, #annotation-6, #annotation-7, #annotation-8, #annotation-9, #annotation-11, #annotation-12, #annotation-13, #annotation-14, #annotation-16, #annotation-17, #annotation-18, #annotation-19, #annotation-21, #annotation-22, #annotation-23, #annotation-24, #legend-symbol-1, #legend-label-1, #legend-symbol-2, #legend-label-2, #legend-symbol-3, #legend-label-3, #legend-symbol-4, #legend-label-4",
+                      "ani_type": "Exit",
+                      "settings": {}
+                  },
+                  {
+                      "use": "Bar-bounce",
+                      "timing": {
+                          "start": 7.487,
+                          "duration": 1.06
+                      },
+                      "target": "#bar-0, #annotation-0",
+                      "ani_type": "Emphasis",
+                      "settings": {}
+                  },
+                  {
+                      "use": "Bar-bounce",
+                      "timing": {
+                          "start": 9.938,
+                          "duration": 0.92,
+                          "offset": 0
+                      },
+                      "target": "#bar-10, #bar-15, #annotation-10, #annotation-15",
+                      "ani_type": "Emphasis",
+                      "settings": {}
+                  },
+                  {
+                      "use": "Hide",
+                      "timing": {
+                          "start": 11.65,
+                          "duration": 10.5,
+                          "offset": 0
+                      },
+                      "target": "#bar-0, #bar-2, #bar-3, #bar-4, #bar-5, #bar-7, #bar-8, #bar-9, #bar-10, #bar-12, #bar-13, #bar-14, #bar-15, #bar-17, #bar-18, #bar-19, #bar-20, #bar-22, #bar-23, #bar-24, #annotation-0, #annotation-2, #annotation-3, #annotation-4, #annotation-5, #annotation-7, #annotation-8, #annotation-9, #annotation-10, #annotation-12, #annotation-13, #annotation-14, #annotation-15, #annotation-17, #annotation-18, #annotation-19, #annotation-20, #annotation-22, #annotation-23, #annotation-24, #legend-symbol-0, #legend-label-0, #legend-symbol-2, #legend-label-2, #legend-symbol-3, #legend-label-3, #legend-symbol-4, #legend-label-4",
+                      "ani_type": "Exit",
+                      "settings": {}
+                  },
+                  {
+                      "use": "Bar-bounce",
+                      "timing": {
+                          "start": 15.775,
+                          "duration": 2.08,
+                          "offset": 0
+                      },
+                      "target": "#bar-1, #bar-11, #bar-16, #annotation-1, #annotation-11, #annotation-16",
+                      "ani_type": "Emphasis",
+                      "settings": {}
+                  },
+                  {
+                      "use": "Bar-bounce",
+                      "timing": {
+                          "start": 19.563,
+                          "offset": 0.047,
+                          "duration": 0.7
+                      },
+                      "target": "#bar-6, #annotation-6",
+                      "ani_type": "Emphasis",
+                      "settings": {}
+                  },
+                  {
+                      "use": "Hide",
+                      "timing": {
+                          "start": 22.15,
+                          "duration": 11.54,
+                          "offset": 0
+                      },
+                      "target": "#bar-0, #bar-1, #bar-3, #bar-4, #bar-5, #bar-6, #bar-8, #bar-9, #bar-10, #bar-11, #bar-13, #bar-14, #bar-15, #bar-16, #bar-18, #bar-19, #bar-20, #bar-21, #bar-23, #bar-24, #annotation-0, #annotation-1, #annotation-3, #annotation-4, #annotation-5, #annotation-6, #annotation-8, #annotation-9, #annotation-10, #annotation-11, #annotation-13, #annotation-14, #annotation-15, #annotation-16, #annotation-18, #annotation-19, #annotation-20, #annotation-21, #annotation-23, #annotation-24, #legend-symbol-0, #legend-label-0, #legend-symbol-1, #legend-label-1, #legend-symbol-3, #legend-label-3, #legend-symbol-4, #legend-label-4",
+                      "ani_type": "Exit",
+                      "settings": {}
+                  },
+                  {
+                      "use": "Bar-bounce",
+                      "timing": {
+                          "start": 25.087,
+                          "duration": 0.44
+                      },
+                      "target": "#bar-7, #annotation-7",
+                      "ani_type": "Emphasis",
+                      "settings": {}
+                  },
+                  {
+                      "use": "Bar-bounce",
+                      "timing": {
+                          "start": 28.337,
+                          "offset": 0.073,
+                          "duration": 0.66
+                      },
+                      "target": "#bar-2, #annotation-2",
+                      "ani_type": "Emphasis",
+                      "settings": {}
+                  },
+                  {
+                      "use": "Bar-bounce",
+                      "timing": {
+                          "start": 29,
+                          "offset": 0.57,
+                          "duration": 0.98
+                      },
+                      "target": "#bar-12, #bar-17, #annotation-12, #annotation-17",
+                      "ani_type": "Emphasis",
+                      "settings": {}
+                  },
+                  {
+                      "use": "Hide",
+                      "timing": {
+                          "start": 33.688,
+                          "duration": 11.97,
+                          "offset": 0
+                      },
+                      "target": "#bar-0, #bar-1, #bar-2, #bar-4, #bar-5, #bar-6, #bar-7, #bar-9, #bar-10, #bar-11, #bar-12, #bar-14, #bar-15, #bar-16, #bar-17, #bar-19, #bar-20, #bar-21, #bar-22, #bar-24, #annotation-0, #annotation-1, #annotation-2, #annotation-4, #annotation-5, #annotation-6, #annotation-7, #annotation-9, #annotation-10, #annotation-11, #annotation-12, #annotation-14, #annotation-15, #annotation-16, #annotation-17, #annotation-19, #annotation-20, #annotation-21, #annotation-22, #annotation-24, #legend-symbol-0, #legend-label-0, #legend-symbol-1, #legend-label-1, #legend-symbol-2, #legend-label-2, #legend-symbol-4, #legend-label-4",
+                      "ani_type": "Exit",
+                      "settings": {}
+                  },
+                  {
+                      "use": "Bar-bounce",
+                      "timing": {
+                          "start": 35.737,
+                          "offset": -0.227,
+                          "duration": 0.71
+                      },
+                      "target": "#bar-8, #annotation-8",
+                      "ani_type": "Emphasis",
+                      "settings": {}
+                  },
+                  {
+                      "use": "Bar-bounce",
+                      "timing": {
+                          "start": 39.95,
+                          "duration": 0.59
+                      },
+                      "target": "#bar-3, #annotation-3",
+                      "ani_type": "Emphasis",
+                      "settings": {}
+                  },
+                  {
+                      "use": "Bar-bounce",
+                      "timing": {
+                          "start": 42.275,
+                          "duration": 0.83,
+                          "offset": 0
+                      },
+                      "target": "#bar-13, #bar-18, #annotation-13, #annotation-18",
+                      "ani_type": "Emphasis",
+                      "settings": {}
+                  },
+                  {
+                      "use": "Hide",
+                      "timing": {
+                          "start": 45.663,
+                          "duration": 6.2,
+                          "offset": 0
+                      },
+                      "target": "#bar-0, #bar-1, #bar-2, #bar-3, #bar-5, #bar-6, #bar-7, #bar-8, #bar-10, #bar-11, #bar-12, #bar-13, #bar-15, #bar-16, #bar-17, #bar-18, #bar-20, #bar-21, #bar-22, #bar-23, #annotation-0, #annotation-1, #annotation-2, #annotation-3, #annotation-5, #annotation-6, #annotation-7, #annotation-8, #annotation-10, #annotation-11, #annotation-12, #annotation-13, #annotation-15, #annotation-16, #annotation-17, #annotation-18, #annotation-20, #annotation-21, #annotation-22, #annotation-23, #legend-symbol-0, #legend-label-0, #legend-symbol-1, #legend-label-1, #legend-symbol-2, #legend-label-2, #legend-symbol-3, #legend-label-3",
+                      "ani_type": "Exit",
+                      "settings": {}
+                  },
+                  {
+                      "use": "Bar-bounce",
+                      "timing": {
+                          "start": 48.712,
+                          "duration": 1
+                      },
+                      "target": "#bar-9, #annotation-9",
+                      "ani_type": "Emphasis",
+                      "settings": {}
+                  }
+              ]
+          }
+          },
+        }
+      ]
+    }
+  

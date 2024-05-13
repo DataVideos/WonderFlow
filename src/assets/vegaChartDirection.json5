@@ -1,0 +1,42 @@
+{
+    "vega-lite1": {
+        "xAxis": "left",
+        "yAxis": "bottom",
+        "title": "top"
+    },
+    "vega-lite2": {
+        "xAxis": "left",
+        "yAxis": "bottom",
+        "title": "top"
+    },
+    "vega-lite3": {
+        "xAxis": "left",
+        "yAxis": "bottom",
+        "title": "top"
+    },
+    "vega-lite4": {
+        "xAxis": "left",
+        "yAxis": "bottom",
+        "title": "top"
+    },
+    "vega-lite5": {
+        "xAxis": "bottom",
+        "yAxis": "left",
+        "title": "bottom"
+    },
+    "vega-lite6": {
+        "xAxis": "bottom",
+        "yAxis": "left",
+        "title": "bottom"
+    },
+    "vega-lite7": {
+        "xAxis": "bottom",
+        "yAxis": "left",
+        "title": "bottom"
+    },
+    "vega-lite8": {
+        "xAxis": "left",
+        "yAxis": "bottom",
+        "title": "bottom"
+    },
+}

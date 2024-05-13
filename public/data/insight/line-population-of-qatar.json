@@ -1,0 +1,47 @@
+{
+    "d1": "The title of the chart is 'Population of Qatar', which depicts the data on migrant workers and total population in Qatar from 1962 to 2017.",
+      "d2": "The x-axis illustrates the years from 1962 to 2017, while the y-axis shows the population in million and the legend classifies the population into migrant workers and total population.",
+    "insight2" : {
+        "insightType": "difference",
+        "insightSentence" : "In 2007, the migrant workers population was 0.88, while the total population was 1.19.",
+        "subInsights": [
+            {
+                "type": "difference",
+                "data": ["2007, 0.88, migrant workers,", "2007, 1.19, total population,"],
+                "phrases": "In 2007, the migrant workers population was 0.88, while the total population was 1.19."
+            }
+        ]
+    },
+    "insight1": {
+        "insightType": "trend",
+        "insightSentence" : "From the data, it can be seen that the migrant workers population in Qatar has been fluctuating and decreasing from 1962 to 2017, while the total population has been steadily increasing.",
+        "subInsights": [
+            {
+                "type": "fluctuate decrease",
+                "data": ["1962, 0.01, migrant workers", "1967, 0.0, migrant workers", "1972, 0.01, migrant workers", "1977, 0.0, migrant workers", "1982, 0.08, migrant workers", "1987, 0.03, migrant workers", "1992, 0.03, migrant workers", "1997, 0.0, migrant workers", "2002, 0.19, migrant workers", "2007, 0.88, migrant workers", "2012, 0.57, migrant workers", "2017, 0.17, migrant workers"],
+                "phrases": "From the data, it can be seen that the migrant workers population in Qatar has been fluctuating and decreasing from 1962 to 2017,"
+            },
+            {
+                "type": "increase",
+                "data": ["1962, 0.03, total population", "1967, 0.06, total population", "1972, 0.1, total population", "1977, 0.15, total population", "1982, 0.25, total population", "1987, 0.39, total population", "1992, 0.46, total population", "1997, 0.5, total population", "2002, 0.61, total population", "2007, 1.19, total population", "2012, 2.16, total population", "2017, 2.39, total population"],
+                "phrases": "while the total population has been steadily increasing."
+            }
+        ]
+    },
+    "insight3":  {
+        "insightType": "value",
+        "insightSentence" : "In 2012, the migrant workers population was 0.57 while the total population was 2.16.",
+        "subInsights": [
+            {
+                "type": "value",
+                "data": ["2012, 0.57, migrant workers,"],
+                "phrases": "In 2012, the migrant workers population was 0.57"
+            },
+            {
+                "type": "value",
+                "data": ["2012, 2.16, total population,"],
+                "phrases": "while the total population was 2.16."
+            }
+        ]
+    }
+  }

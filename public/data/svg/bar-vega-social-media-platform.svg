@@ -1,0 +1,365 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks"
+    width="1600" height="542" viewBox="0 0 800 271">
+    <rect width="800" height="271" fill="white" />
+    <g fill="none" stroke-miterlimit="10" transform="translate(5,44)">
+        <g class="mark-group role-frame root" role="graphics-object" aria-roledescription="group mark container">
+            <g transform="translate(0,0)">
+                <path class="background" aria-hidden="true" d="M0,0h700v200h-700Z" />
+                <g>
+                    <g class="mark-group role-axis" role="graphics-symbol" aria-roledescription="axis"
+                        aria-label="X-axis for a discrete scale with 5 values: Youtube, Facebook, Instagram, Snapchat, Twitter">
+                        <g transform="translate(0.5,205.5)">
+                            <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none" />
+                            <g>
+                                <g class="mark-text role-axis-label" pointer-events="none"><text text-anchor="middle"
+                                        transform="translate(80.2692307692308,14)" font-family="sans-serif"
+                                        font-size="15px" fill="#797884" opacity="1">Youtube</text><text
+                                        text-anchor="middle" transform="translate(214.88461538461542,14)"
+                                        font-family="sans-serif" font-size="15px" fill="#797884"
+                                        opacity="1">Facebook</text><text text-anchor="middle"
+                                        transform="translate(349.50000000000006,14)" font-family="sans-serif"
+                                        font-size="15px" fill="#797884" opacity="1">Instagram</text><text
+                                        text-anchor="middle" transform="translate(484.11538461538464,14)"
+                                        font-family="sans-serif" font-size="15px" fill="#797884"
+                                        opacity="1">Snapchat</text><text text-anchor="middle"
+                                        transform="translate(618.7307692307693,14)" font-family="sans-serif"
+                                        font-size="15px" fill="#797884" opacity="1">Twitter</text></g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                    </g>
+                    <g class="mark-rect role-mark layer_0_marks" role="graphics-object"
+                        aria-roledescription="rect mark container">
+                        <path
+                            aria-label="x-none: Youtube; Use of Social Media Platforms by Age Group in the US: 0.9; legend-none: 18-24 years"
+                            role="graphics-symbol" aria-roledescription="bar"
+                            d="M27.692307692307722,19.999999999999996h20v180h-20Z" fill="#204093" />
+                        <path
+                            aria-label="x-none: Youtube; Use of Social Media Platforms by Age Group in the US: 0.93; legend-none: 25-29 years"
+                            role="graphics-symbol" aria-roledescription="bar"
+                            d="M49.23076923076927,13.99999999999999h20v186h-20Z" fill="#00A88B" />
+                        <path
+                            aria-label="x-none: Youtube; Use of Social Media Platforms by Age Group in the US: 0.87; legend-none: 30-49 years"
+                            role="graphics-symbol" aria-roledescription="bar" d="M70.7692307692308,26h20v174h-20Z"
+                            fill="#B91E6A" />
+                        <path
+                            aria-label="x-none: Youtube; Use of Social Media Platforms by Age Group in the US: 0.7; legend-none: 50-64 years"
+                            role="graphics-symbol" aria-roledescription="bar"
+                            d="M92.30769230769235,60.00000000000001h20v140h-20Z" fill="#FDB813" />
+                        <path
+                            aria-label="x-none: Youtube; Use of Social Media Platforms by Age Group in the US: 0.38; legend-none: 65+years"
+                            role="graphics-symbol" aria-roledescription="bar" d="M113.8461538461539,124h20v76h-20Z"
+                            fill="#B72937" />
+                        <path
+                            aria-label="x-none: Facebook; Use of Social Media Platforms by Age Group in the US: 0.76; legend-none: 18-24 years"
+                            role="graphics-symbol" aria-roledescription="bar" d="M162.30769230769235,48h20v152h-20Z"
+                            fill="#204093" />
+                        <path
+                            aria-label="x-none: Facebook; Use of Social Media Platforms by Age Group in the US: 0.84; legend-none: 25-29 years"
+                            role="graphics-symbol" aria-roledescription="bar"
+                            d="M183.84615384615387,32.00000000000001h20v168h-20Z" fill="#00A88B" />
+                        <path
+                            aria-label="x-none: Facebook; Use of Social Media Platforms by Age Group in the US: 0.79; legend-none: 30-49 years"
+                            role="graphics-symbol" aria-roledescription="bar"
+                            d="M205.38461538461542,41.99999999999999h20v158h-20Z" fill="#B91E6A" />
+                        <path
+                            aria-label="x-none: Facebook; Use of Social Media Platforms by Age Group in the US: 0.68; legend-none: 50-64 years"
+                            role="graphics-symbol" aria-roledescription="bar"
+                            d="M226.92307692307696,63.99999999999999h20v136h-20Z" fill="#FDB813" />
+                        <path
+                            aria-label="x-none: Facebook; Use of Social Media Platforms by Age Group in the US: 0.46; legend-none: 65+years"
+                            role="graphics-symbol" aria-roledescription="bar" d="M248.4615384615385,108h20v92h-20Z"
+                            fill="#B72937" />
+                        <path
+                            aria-label="x-none: Instagram; Use of Social Media Platforms by Age Group in the US: 0.75; legend-none: 18-24 years"
+                            role="graphics-symbol" aria-roledescription="bar" d="M296.92307692307696,50h20v150h-20Z"
+                            fill="#204093" />
+                        <path
+                            aria-label="x-none: Instagram; Use of Social Media Platforms by Age Group in the US: 0.57; legend-none: 25-29 years"
+                            role="graphics-symbol" aria-roledescription="bar"
+                            d="M318.4615384615385,86.00000000000001h20v113.99999999999999h-20Z" fill="#00A88B" />
+                        <path
+                            aria-label="x-none: Instagram; Use of Social Media Platforms by Age Group in the US: 0.47; legend-none: 30-49 years"
+                            role="graphics-symbol" aria-roledescription="bar" d="M340,106h20v94h-20Z" fill="#B91E6A" />
+                        <path
+                            aria-label="x-none: Instagram; Use of Social Media Platforms by Age Group in the US: 0.23; legend-none: 50-64 years"
+                            role="graphics-symbol" aria-roledescription="bar" d="M361.53846153846155,154h20v46h-20Z"
+                            fill="#FDB813" />
+                        <path
+                            aria-label="x-none: Instagram; Use of Social Media Platforms by Age Group in the US: 0.08; legend-none: 65+years"
+                            role="graphics-symbol" aria-roledescription="bar" d="M383.0769230769231,184h20v16h-20Z"
+                            fill="#B72937" />
+                        <path
+                            aria-label="x-none: Snapchat; Use of Social Media Platforms by Age Group in the US: 0.73; legend-none: 18-24 years"
+                            role="graphics-symbol" aria-roledescription="bar" d="M431.53846153846155,54h20v146h-20Z"
+                            fill="#204093" />
+                        <path
+                            aria-label="x-none: Snapchat; Use of Social Media Platforms by Age Group in the US: 0.47; legend-none: 25-29 years"
+                            role="graphics-symbol" aria-roledescription="bar" d="M453.0769230769231,106h20v94h-20Z"
+                            fill="#00A88B" />
+                        <path
+                            aria-label="x-none: Snapchat; Use of Social Media Platforms by Age Group in the US: 0.25; legend-none: 30-49 years"
+                            role="graphics-symbol" aria-roledescription="bar" d="M474.61538461538464,150h20v50h-20Z"
+                            fill="#B91E6A" />
+                        <path
+                            aria-label="x-none: Snapchat; Use of Social Media Platforms by Age Group in the US: 0.09; legend-none: 50-64 years"
+                            role="graphics-symbol" aria-roledescription="bar" d="M496.1538461538462,182h20v18h-20Z"
+                            fill="#FDB813" />
+                        <path
+                            aria-label="x-none: Snapchat; Use of Social Media Platforms by Age Group in the US: 0.03; legend-none: 65+years"
+                            role="graphics-symbol" aria-roledescription="bar" d="M517.6923076923077,194h20v6h-20Z"
+                            fill="#B72937" />
+                        <path
+                            aria-label="x-none: Twitter; Use of Social Media Platforms by Age Group in the US: 0.44; legend-none: 18-24 years"
+                            role="graphics-symbol" aria-roledescription="bar"
+                            d="M566.1538461538462,112.00000000000001h20v87.99999999999999h-20Z" fill="#204093" />
+                        <path
+                            aria-label="x-none: Twitter; Use of Social Media Platforms by Age Group in the US: 0.31; legend-none: 25-29 years"
+                            role="graphics-symbol" aria-roledescription="bar" d="M587.6923076923077,138h20v62h-20Z"
+                            fill="#00A88B" />
+                        <path
+                            aria-label="x-none: Twitter; Use of Social Media Platforms by Age Group in the US: 0.26; legend-none: 30-49 years"
+                            role="graphics-symbol" aria-roledescription="bar" d="M609.2307692307693,148h20v52h-20Z"
+                            fill="#B91E6A" />
+                        <path
+                            aria-label="x-none: Twitter; Use of Social Media Platforms by Age Group in the US: 0.17; legend-none: 50-64 years"
+                            role="graphics-symbol" aria-roledescription="bar" d="M630.7692307692308,166h20v34h-20Z"
+                            fill="#FDB813" />
+                        <path
+                            aria-label="x-none: Twitter; Use of Social Media Platforms by Age Group in the US: 0.07; legend-none: 65+years"
+                            role="graphics-symbol" aria-roledescription="bar" d="M652.3076923076924,186h20v14h-20Z"
+                            fill="#B72937" />
+                    </g>
+                    <g class="mark-text role-mark layer_1_marks" role="graphics-object"
+                        aria-roledescription="text mark container"><text
+                            aria-label="x-none: Youtube; Use of Social Media Platforms by Age Group in the US: 0.9; legend-none: 18-24 years"
+                            role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle"
+                            transform="translate(37.69230769230772,15.999999999999996)" font-family="sans-serif"
+                            font-size="10px" fill="#204093">90%</text><text
+                            aria-label="x-none: Youtube; Use of Social Media Platforms by Age Group in the US: 0.93; legend-none: 25-29 years"
+                            role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle"
+                            transform="translate(59.23076923076927,9.99999999999999)" font-family="sans-serif"
+                            font-size="10px" fill="#00A88B">93%</text><text
+                            aria-label="x-none: Youtube; Use of Social Media Platforms by Age Group in the US: 0.87; legend-none: 30-49 years"
+                            role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle"
+                            transform="translate(80.7692307692308,22)" font-family="sans-serif" font-size="10px"
+                            fill="#B91E6A">87%</text><text
+                            aria-label="x-none: Youtube; Use of Social Media Platforms by Age Group in the US: 0.7; legend-none: 50-64 years"
+                            role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle"
+                            transform="translate(102.30769230769235,56.00000000000001)" font-family="sans-serif"
+                            font-size="10px" fill="#FDB813">70%</text><text
+                            aria-label="x-none: Youtube; Use of Social Media Platforms by Age Group in the US: 0.38; legend-none: 65+years"
+                            role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle"
+                            transform="translate(123.8461538461539,120)" font-family="sans-serif" font-size="10px"
+                            fill="#B72937">38%</text><text
+                            aria-label="x-none: Facebook; Use of Social Media Platforms by Age Group in the US: 0.76; legend-none: 18-24 years"
+                            role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle"
+                            transform="translate(172.30769230769235,44)" font-family="sans-serif" font-size="10px"
+                            fill="#204093">76%</text><text
+                            aria-label="x-none: Facebook; Use of Social Media Platforms by Age Group in the US: 0.84; legend-none: 25-29 years"
+                            role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle"
+                            transform="translate(193.84615384615387,28.000000000000007)" font-family="sans-serif"
+                            font-size="10px" fill="#00A88B">84%</text><text
+                            aria-label="x-none: Facebook; Use of Social Media Platforms by Age Group in the US: 0.79; legend-none: 30-49 years"
+                            role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle"
+                            transform="translate(215.38461538461542,37.99999999999999)" font-family="sans-serif"
+                            font-size="10px" fill="#B91E6A">79%</text><text
+                            aria-label="x-none: Facebook; Use of Social Media Platforms by Age Group in the US: 0.68; legend-none: 50-64 years"
+                            role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle"
+                            transform="translate(236.92307692307696,60)" font-family="sans-serif" font-size="10px"
+                            fill="#FDB813">68%</text><text
+                            aria-label="x-none: Facebook; Use of Social Media Platforms by Age Group in the US: 0.46; legend-none: 65+years"
+                            role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle"
+                            transform="translate(258.4615384615385,104)" font-family="sans-serif" font-size="10px"
+                            fill="#B72937">46%</text><text
+                            aria-label="x-none: Instagram; Use of Social Media Platforms by Age Group in the US: 0.75; legend-none: 18-24 years"
+                            role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle"
+                            transform="translate(306.92307692307696,46)" font-family="sans-serif" font-size="10px"
+                            fill="#204093">75%</text><text
+                            aria-label="x-none: Instagram; Use of Social Media Platforms by Age Group in the US: 0.57; legend-none: 25-29 years"
+                            role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle"
+                            transform="translate(328.4615384615385,82.00000000000001)" font-family="sans-serif"
+                            font-size="10px" fill="#00A88B">57%</text><text
+                            aria-label="x-none: Instagram; Use of Social Media Platforms by Age Group in the US: 0.47; legend-none: 30-49 years"
+                            role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle"
+                            transform="translate(350,102)" font-family="sans-serif" font-size="10px"
+                            fill="#B91E6A">47%</text><text
+                            aria-label="x-none: Instagram; Use of Social Media Platforms by Age Group in the US: 0.23; legend-none: 50-64 years"
+                            role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle"
+                            transform="translate(371.53846153846155,150)" font-family="sans-serif" font-size="10px"
+                            fill="#FDB813">23%</text><text
+                            aria-label="x-none: Instagram; Use of Social Media Platforms by Age Group in the US: 0.08; legend-none: 65+years"
+                            role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle"
+                            transform="translate(393.0769230769231,180)" font-family="sans-serif" font-size="10px"
+                            fill="#B72937">8%</text><text
+                            aria-label="x-none: Snapchat; Use of Social Media Platforms by Age Group in the US: 0.73; legend-none: 18-24 years"
+                            role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle"
+                            transform="translate(441.53846153846155,50)" font-family="sans-serif" font-size="10px"
+                            fill="#204093">73%</text><text
+                            aria-label="x-none: Snapchat; Use of Social Media Platforms by Age Group in the US: 0.47; legend-none: 25-29 years"
+                            role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle"
+                            transform="translate(463.0769230769231,102)" font-family="sans-serif" font-size="10px"
+                            fill="#00A88B">47%</text><text
+                            aria-label="x-none: Snapchat; Use of Social Media Platforms by Age Group in the US: 0.25; legend-none: 30-49 years"
+                            role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle"
+                            transform="translate(484.61538461538464,146)" font-family="sans-serif" font-size="10px"
+                            fill="#B91E6A">25%</text><text
+                            aria-label="x-none: Snapchat; Use of Social Media Platforms by Age Group in the US: 0.09; legend-none: 50-64 years"
+                            role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle"
+                            transform="translate(506.1538461538462,178)" font-family="sans-serif" font-size="10px"
+                            fill="#FDB813">9%</text><text
+                            aria-label="x-none: Snapchat; Use of Social Media Platforms by Age Group in the US: 0.03; legend-none: 65+years"
+                            role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle"
+                            transform="translate(527.6923076923077,190)" font-family="sans-serif" font-size="10px"
+                            fill="#B72937">3%</text><text
+                            aria-label="x-none: Twitter; Use of Social Media Platforms by Age Group in the US: 0.44; legend-none: 18-24 years"
+                            role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle"
+                            transform="translate(576.1538461538462,108.00000000000001)" font-family="sans-serif"
+                            font-size="10px" fill="#204093">44%</text><text
+                            aria-label="x-none: Twitter; Use of Social Media Platforms by Age Group in the US: 0.31; legend-none: 25-29 years"
+                            role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle"
+                            transform="translate(597.6923076923077,134)" font-family="sans-serif" font-size="10px"
+                            fill="#00A88B">31%</text><text
+                            aria-label="x-none: Twitter; Use of Social Media Platforms by Age Group in the US: 0.26; legend-none: 30-49 years"
+                            role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle"
+                            transform="translate(619.2307692307693,144)" font-family="sans-serif" font-size="10px"
+                            fill="#B91E6A">26%</text><text
+                            aria-label="x-none: Twitter; Use of Social Media Platforms by Age Group in the US: 0.17; legend-none: 50-64 years"
+                            role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle"
+                            transform="translate(640.7692307692308,162)" font-family="sans-serif" font-size="10px"
+                            fill="#FDB813">17%</text><text
+                            aria-label="x-none: Twitter; Use of Social Media Platforms by Age Group in the US: 0.07; legend-none: 65+years"
+                            role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle"
+                            transform="translate(662.3076923076924,182)" font-family="sans-serif" font-size="10px"
+                            fill="#B72937">7%</text></g>
+                    <g class="mark-group role-legend" role="graphics-symbol" aria-roledescription="legend"
+                        aria-label="Symbol legend for fill color with 5 values: 18-24 years, 25-29 years, 30-49 years, 50-64 years, 65+years">
+                        <g transform="translate(718,0)">
+                            <path class="background" aria-hidden="true" d="M0,0h72v63h-72Z" pointer-events="none" />
+                            <g>
+                                <g class="mark-group role-legend-entry">
+                                    <g transform="translate(0,0)">
+                                        <path class="background" aria-hidden="true" d="M0,0h0v0h0Z"
+                                            pointer-events="none" />
+                                        <g>
+                                            <g class="mark-group role-scope" role="graphics-object"
+                                                aria-roledescription="group mark container">
+                                                <g transform="translate(0,0)">
+                                                    <path class="background" aria-hidden="true"
+                                                        d="M0,0h71.703125v11h-71.703125Z" pointer-events="none"
+                                                        opacity="1" />
+                                                    <g>
+                                                        <g class="mark-symbol role-legend-symbol" pointer-events="none">
+                                                            <path transform="translate(6,6)"
+                                                                d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#204093"
+                                                                stroke-width="1.5" opacity="1" />
+                                                        </g>
+                                                        <g class="mark-text role-legend-label" pointer-events="none">
+                                                            <text text-anchor="start" transform="translate(16,9)"
+                                                                font-family="sans-serif" font-size="10px" fill="#000"
+                                                                opacity="1">18-24 years</text></g>
+                                                    </g>
+                                                    <path class="foreground" aria-hidden="true" d=""
+                                                        pointer-events="none" display="none" />
+                                                </g>
+                                                <g transform="translate(0,13)">
+                                                    <path class="background" aria-hidden="true"
+                                                        d="M0,0h71.703125v11h-71.703125Z" pointer-events="none"
+                                                        opacity="1" />
+                                                    <g>
+                                                        <g class="mark-symbol role-legend-symbol" pointer-events="none">
+                                                            <path transform="translate(6,6)"
+                                                                d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#00A88B"
+                                                                stroke-width="1.5" opacity="1" />
+                                                        </g>
+                                                        <g class="mark-text role-legend-label" pointer-events="none">
+                                                            <text text-anchor="start" transform="translate(16,9)"
+                                                                font-family="sans-serif" font-size="10px" fill="#000"
+                                                                opacity="1">25-29 years</text></g>
+                                                    </g>
+                                                    <path class="foreground" aria-hidden="true" d=""
+                                                        pointer-events="none" display="none" />
+                                                </g>
+                                                <g transform="translate(0,26)">
+                                                    <path class="background" aria-hidden="true"
+                                                        d="M0,0h71.703125v11h-71.703125Z" pointer-events="none"
+                                                        opacity="1" />
+                                                    <g>
+                                                        <g class="mark-symbol role-legend-symbol" pointer-events="none">
+                                                            <path transform="translate(6,6)"
+                                                                d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#B91E6A"
+                                                                stroke-width="1.5" opacity="1" />
+                                                        </g>
+                                                        <g class="mark-text role-legend-label" pointer-events="none">
+                                                            <text text-anchor="start" transform="translate(16,9)"
+                                                                font-family="sans-serif" font-size="10px" fill="#000"
+                                                                opacity="1">30-49 years</text></g>
+                                                    </g>
+                                                    <path class="foreground" aria-hidden="true" d=""
+                                                        pointer-events="none" display="none" />
+                                                </g>
+                                                <g transform="translate(0,39)">
+                                                    <path class="background" aria-hidden="true"
+                                                        d="M0,0h71.703125v11h-71.703125Z" pointer-events="none"
+                                                        opacity="1" />
+                                                    <g>
+                                                        <g class="mark-symbol role-legend-symbol" pointer-events="none">
+                                                            <path transform="translate(6,6)"
+                                                                d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#FDB813"
+                                                                stroke-width="1.5" opacity="1" />
+                                                        </g>
+                                                        <g class="mark-text role-legend-label" pointer-events="none">
+                                                            <text text-anchor="start" transform="translate(16,9)"
+                                                                font-family="sans-serif" font-size="10px" fill="#000"
+                                                                opacity="1">50-64 years</text></g>
+                                                    </g>
+                                                    <path class="foreground" aria-hidden="true" d=""
+                                                        pointer-events="none" display="none" />
+                                                </g>
+                                                <g transform="translate(0,52)">
+                                                    <path class="background" aria-hidden="true"
+                                                        d="M0,0h71.703125v11h-71.703125Z" pointer-events="none"
+                                                        opacity="1" />
+                                                    <g>
+                                                        <g class="mark-symbol role-legend-symbol" pointer-events="none">
+                                                            <path transform="translate(6,6)"
+                                                                d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#B72937"
+                                                                stroke-width="1.5" opacity="1" />
+                                                        </g>
+                                                        <g class="mark-text role-legend-label" pointer-events="none">
+                                                            <text text-anchor="start" transform="translate(16,9)"
+                                                                font-family="sans-serif" font-size="10px" fill="#000"
+                                                                opacity="1">65+years</text></g>
+                                                    </g>
+                                                    <path class="foreground" aria-hidden="true" d=""
+                                                        pointer-events="none" display="none" />
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <path class="foreground" aria-hidden="true" d="" pointer-events="none"
+                                            display="none" />
+                                    </g>
+                                </g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                    </g>
+                    <g class="mark-group role-title">
+                        <g transform="translate(0,-39)">
+                            <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none" />
+                            <g>
+                                <g class="mark-text role-title-text" role="graphics-symbol" aria-roledescription="title"
+                                    aria-label="Title text 'Use of Social Media Platforms by Age Group in the US'"
+                                    pointer-events="none"><text text-anchor="start" transform="translate(30,19)"
+                                        font-family="Helvetica Neue" font-size="24px" font-weight="bold" fill="#000"
+                                        opacity="1">Use of Social Media Platforms by Age Group in the US</text></g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                    </g>
+                </g>
+                <path class="foreground" aria-hidden="true" d="" display="none" />
+            </g>
+        </g>
+    </g>
+</svg>

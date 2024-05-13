@@ -1,0 +1,32 @@
+{
+  "d1": "The title of the pie chart is 'Woman in poverty: family composition of household'.",
+  "d2": "The pie chart shows the percentage of different types of women in terms of marital status and having dependent children, with each category represented by a different color.",
+  "insight1": {
+    "insightType": "Proportion",
+    "insightSentence": "Single women with no dependent children make up the majority of the data, accounting for 54% of the total.",
+    "subInsights": [
+      {
+        "type": "majority",
+        "data": ["0.54, Single women with no dependent children"],
+        "phrases": "Single women with no dependent children make up the majority"
+      }
+    ]
+  },
+  "insight3": {
+    "insightType": "Outlier",
+    "insightSentence": "",
+    "subInsights": [
+    ]
+  },
+  "insight2": {
+    "insightType": "Difference",
+    "insightSentence": "The proportion of married women with dependent children is slightly higher than that of married women with no dependent children.",
+    "subInsights": [
+      {
+        "type": "difference",
+        "data": ["0.08, Married women with no dependent children", "0.12, Married women with dependent children"],
+        "phrases": "The proportion of married women with dependent children is slightly higher than that of married women with no dependent children"
+      }
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+
+    {
+      projectId: 'pie-vega-coffee',
+      scenes: [
+        {
+          charts: [
+            {source: './pie-vega-coffee.svg'},
+          ],
+          animation: {
+            sequence: {
+              "sync": [
+                  {
+                      "use": "Float",
+                      "timing": {
+                          "duration": 0.63
+                      },
+                      "target": "#scene-0, #scene-1, #scene-2, #scene-3, #scene-4, #scene-5, #scene-6, #scene-7, #scene-8, #scene-9, #scene-10, #scene-11, #scene-12, #scene-13, #scene-14, #scene-15, #scene-16, #scene-17, #scene-18, #scene-19, #scene-20, #scene-21, #scene-22, #scene-23, #scene-24, #scene-25, #scene-26, #scene-27, #scene-28, #scene-29, #scene-30, #scene-31, #scene-32, #scene-33, #scene-34, #scene-35, #scene-36, #scene-37, #scene-38, #scene-39, #scene-40, #scene-41, #scene-42, #scene-43, #scene-44, #scene-45, #scene-46, #scene-47, #scene-48, #scene-49, #scene-50, #scene-51, #scene-52, #scene-53, #scene-54, #scene-55, #scene-56, #scene-57, #scene-58",
+                      "ani_type": "Enter",
+                      "settings": {}
+                  },
+                  {
+                      "use": "Fade-in",
+                      "timing": {
+                          "start": 0,
+                          "duration": 2.93,
+                          "offset": 0
+                      },
+                      "target": "#chart-0, #chart-1, #scene-59, #scene-60, #scene-61, #scene-62, #scene-63, #scene-64, #scene-65, #scene-66, #scene-67, #scene-68, #scene-69, #scene-70, #scene-71, #scene-72, #scene-73, #scene-74, #scene-75, #scene-76, #scene-77, #scene-78, #scene-79, #scene-80, #scene-81, #scene-82, #scene-83, #scene-84, #scene-85, #scene-86, #scene-87, #scene-88, #scene-89, #scene-90, #scene-91, #scene-92, #scene-93, #scene-94, #scene-95, #scene-96, #scene-97, #scene-98, #scene-99, #scene-100, #scene-101, #scene-102, #scene-103, #scene-104, #scene-105, #scene-106, #scene-107, #scene-108, #scene-109, #scene-110, #scene-111, #scene-112, #scene-113, #scene-114, #scene-115, #scene-116, #scene-117, #scene-118, #scene-119, #scene-120, #scene-121, #scene-122, #scene-123, #scene-124, #scene-125, #scene-126, #scene-127, #scene-128, #scene-129, #scene-130, #scene-131, #scene-132, #scene-133, #scene-134, #scene-135, #scene-136, #scene-137, #scene-138, #scene-139, #scene-140, #scene-141, #scene-142, #scene-143, #scene-144, #scene-145, #scene-146, #scene-147, #scene-148, #scene-149, #scene-150, #scene-151, #scene-152, #scene-153, #scene-154, #scene-155, #scene-156, #scene-157, #scene-158, #scene-159, #scene-160, #scene-161, #scene-162, #scene-163, #scene-164, #scene-165, #scene-166, #scene-167, #scene-168, #scene-169, #scene-170, #scene-171, #scene-172, #scene-173, #scene-174, #scene-175, #scene-176, #scene-177, #scene-178, #scene-179, #scene-180, #scene-181, #scene-182, #scene-183, #scene-184, #scene-185, #scene-186, #scene-187, #scene-188, #scene-189, #scene-190, #scene-191, #scene-192, #scene-193, #scene-194, #scene-195, #scene-196, #scene-197, #scene-198, #scene-199, #scene-200, #scene-201, #scene-202, #scene-203, #scene-204, #scene-205, #scene-206, #scene-207, #scene-208, #scene-209, #scene-210, #scene-211, #scene-212, #scene-213, #scene-214, #scene-215, #scene-216, #scene-217, #scene-218, #scene-219, #scene-220, #scene-221, #scene-222, #scene-223, #scene-224, #scene-225, #scene-226, #scene-227, #scene-228, #scene-229, #scene-230, #scene-231, #scene-232, #scene-233, #scene-234, #scene-235, #scene-236, #scene-237, #scene-238, #scene-239, #scene-240, #scene-241, #scene-242, #scene-243, #scene-244, #scene-245, #scene-246, #scene-247, #scene-248, #scene-249, #scene-250, #scene-251, #scene-252, #scene-253, #scene-254, #scene-255, #scene-256, #scene-257, #scene-258",
+                      "ani_type": "Enter",
+                      "settings": {}
+                  },
+                  {
+                      "use": "Hide",
+                      "timing": {
+                          "start": 18.887,
+                          "duration": 3.81
+                      },
+                      "target": "#chart-0",
+                      "ani_type": "Exit",
+                      "settings": {}
+                  },
+                  {
+                      "use": "Hide",
+                      "timing": {
+                          "start": 18.887,
+                          "duration": 15.7
+                      },
+                      "target": "#chart-1",
+                      "ani_type": "Exit",
+                      "settings": {}
+                  },
+                  {
+                      "use": "Hide",
+                      "timing": {
+                          "start": 22.587,
+                          "duration": 12
+                      },
+                      "target": "#scene-63, #scene-64, #scene-65, #scene-66, #scene-67, #scene-68, #scene-69, #scene-70, #scene-71, #scene-72, #scene-73, #scene-74, #scene-75, #scene-76, #scene-77, #scene-78, #scene-79, #scene-80, #scene-81, #scene-82, #scene-83, #scene-84, #scene-85, #scene-86, #scene-87, #scene-88, #scene-89, #scene-90, #scene-91, #scene-92, #scene-93, #scene-94, #scene-95, #scene-96, #scene-101, #scene-102, #scene-103, #scene-104, #scene-105, #scene-106, #scene-107, #scene-108, #scene-109, #scene-110, #scene-111, #scene-112, #scene-113, #scene-114, #scene-115, #scene-116, #scene-117, #scene-118, #scene-119, #scene-120, #scene-121, #scene-122, #scene-123, #scene-124, #scene-125, #scene-126, #scene-127, #scene-128, #scene-129, #scene-130, #scene-131, #scene-132, #scene-133, #scene-134, #scene-139, #scene-140, #scene-141, #scene-142, #scene-143, #scene-144, #scene-145, #scene-146, #scene-147, #scene-148, #scene-149, #scene-150, #scene-151, #scene-152, #scene-153, #scene-154, #scene-155, #scene-156, #scene-157, #scene-158, #scene-159, #scene-160, #scene-161, #scene-162, #scene-163, #scene-164, #scene-165, #scene-166, #scene-167, #scene-168, #scene-169, #scene-170, #scene-171, #scene-172, #scene-173, #scene-174, #scene-175, #scene-176, #scene-177, #scene-178, #scene-179, #scene-180, #scene-181, #scene-182, #scene-183, #scene-184, #scene-185, #scene-186, #scene-187, #scene-188, #scene-189, #scene-190, #scene-191, #scene-192, #scene-193, #scene-194, #scene-195, #scene-196, #scene-197, #scene-198, #scene-199, #scene-200, #scene-201, #scene-202, #scene-203, #scene-204, #scene-205, #scene-206, #scene-207, #scene-208, #scene-209, #scene-210, #scene-211, #scene-212, #scene-213, #scene-214, #scene-215, #scene-216, #scene-217, #scene-218, #scene-219, #scene-220, #scene-221, #scene-222, #scene-223, #scene-224, #scene-225, #scene-226, #scene-227, #scene-228, #scene-229, #scene-230, #scene-231, #scene-232, #scene-233, #scene-234, #scene-235, #scene-236, #scene-237, #scene-238, #scene-239, #scene-240, #scene-241, #scene-242, #scene-243, #scene-244, #scene-245, #scene-246, #scene-247, #scene-248, #scene-249, #scene-250, #scene-251, #scene-252, #scene-253, #scene-254, #scene-255, #scene-256, #scene-257, #scene-258",
+                      "ani_type": "Exit",
+                      "settings": {}
+                  },
+                  {
+                      "use": "Shine",
+                      "timing": {
+                          "start": 30.15,
+                          "duration": 1.66,
+                          "offset": 0
+                      },
+                      "target": "#scene-59, #scene-60, #scene-61, #scene-62, #scene-97, #scene-98, #scene-99, #scene-100",
+                      "ani_type": "Emphasis",
+                      "settings": {}
+                  },
+                  {
+                      "use": "Shine",
+                      "timing": {
+                          "start": 32.388,
+                          "duration": 1.64,
+                          "offset": 0
+                      },
+                      "target": "#scene-135, #scene-136, #scene-137, #scene-138",
+                      "ani_type": "Emphasis",
+                      "settings": {}
+                  },
+                  {
+                      "use": "Fade-out",
+                      "timing": {
+                          "start": 34.575,
+                          "duration": 0.63
+                      },
+                      "target": "#chart-0, #scene-59, #scene-60, #scene-61, #scene-62, #scene-97, #scene-98, #scene-99, #scene-100, #scene-135, #scene-136, #scene-137, #scene-138",
+                      "ani_type": "Exit",
+                      "settings": {}
+                  },
+                  {
+                      "use": "Shine",
+                      "timing": {
+                          "start": 41.15,
+                          "duration": 2,
+                          "offset": 0
+                      },
+                      "target": "#scene-63, #scene-64, #scene-65, #scene-66, #scene-67, #scene-68, #scene-69, #scene-70, #scene-71, #scene-72, #scene-73, #scene-74, #scene-75, #scene-76, #scene-77, #scene-78, #scene-101, #scene-102, #scene-103, #scene-104, #scene-105, #scene-106, #scene-107, #scene-108, #scene-109, #scene-110, #scene-111, #scene-112, #scene-113, #scene-114, #scene-115, #scene-116",
+                      "ani_type": "Emphasis",
+                      "settings": {}
+                  },
+                  {
+                      "use": "Shine",
+                      "timing": {
+                          "start": 43.7,
+                          "duration": 2.61
+                      },
+                      "target": "#scene-79, #scene-80, #scene-81, #scene-82, #scene-83, #scene-84, #scene-85, #scene-86, #scene-87, #scene-88, #scene-89, #scene-90, #scene-91, #scene-92, #scene-93, #scene-94, #scene-95, #scene-96, #scene-117, #scene-118, #scene-119, #scene-120, #scene-121, #scene-122, #scene-123, #scene-124, #scene-125, #scene-126, #scene-127, #scene-128, #scene-129, #scene-130, #scene-131, #scene-132, #scene-133, #scene-134, #scene-139, #scene-140, #scene-141, #scene-142, #scene-143, #scene-144, #scene-145, #scene-146, #scene-147, #scene-148, #scene-149, #scene-150, #scene-151, #scene-152, #scene-153, #scene-154, #scene-155, #scene-156, #scene-157, #scene-158, #scene-159, #scene-160, #scene-161, #scene-162, #scene-163, #scene-164, #scene-165, #scene-166, #scene-167, #scene-168, #scene-169, #scene-170, #scene-171, #scene-172, #scene-173, #scene-174, #scene-175, #scene-176, #scene-177, #scene-178, #scene-179, #scene-180, #scene-181, #scene-182, #scene-183, #scene-184, #scene-185, #scene-186, #scene-187, #scene-188, #scene-189, #scene-190, #scene-191, #scene-192, #scene-193, #scene-194, #scene-195, #scene-196, #scene-197, #scene-198, #scene-199, #scene-200, #scene-201, #scene-202, #scene-203, #scene-204, #scene-205, #scene-206, #scene-207, #scene-208, #scene-209, #scene-210, #scene-211, #scene-212, #scene-213, #scene-214, #scene-215, #scene-216, #scene-217, #scene-218, #scene-219, #scene-220, #scene-221, #scene-222, #scene-223, #scene-224, #scene-225, #scene-226, #scene-227, #scene-228, #scene-229, #scene-230, #scene-231, #scene-232, #scene-233, #scene-234, #scene-235, #scene-236, #scene-237, #scene-238, #scene-239, #scene-240, #scene-241, #scene-242, #scene-243, #scene-244, #scene-245, #scene-246, #scene-247, #scene-248, #scene-249, #scene-250, #scene-251, #scene-252, #scene-253, #scene-254, #scene-255, #scene-256, #scene-257, #scene-258",
+                      "ani_type": "Emphasis",
+                      "settings": {}
+                  }
+              ]
+          }
+          },
+        }
+      ]
+    }

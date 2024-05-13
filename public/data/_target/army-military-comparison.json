@@ -1,0 +1,345 @@
+{
+  "type": null,
+  "names": "scene",
+  "nodeId": 0,
+  "realNode": null,
+  "children": [
+    {
+      "type": null,
+      "names": "chart army-military-comparison",
+      "nodeId": 1,
+      "realNode": null,
+      "children": [
+        {
+          "type": null,
+          "names": "background",
+          "nodeId": 2,
+          "realNode": null,
+          "children": [],
+          "data": null,
+          "text": null
+        },
+        {
+          "type": null,
+          "names": "title",
+          "nodeId": 3,
+          "realNode": null,
+          "children": [],
+          "data": null,
+          "text": null
+        },
+        {
+          "type": null,
+          "names": "mark",
+          "nodeId": 4,
+          "realNode": null,
+          "children": [
+            {
+              "type": null,
+              "names": "bar",
+              "nodeId": 5,
+              "realNode": null,
+              "children": [
+                {
+                  "type": "bar",
+                  "names": "bar-0",
+                  "nodeId": 6,
+                  "realNode": {
+                    "id": "ArmyMilitaryComparison-bar-0",
+                    "tag": "rect",
+                    "class": "scene chart army-military-comparison mark bar-0 bar",
+                    "fill": "#eb2324"
+                  },
+                  "children": [],
+                  "data": {
+                    "name": "USA",
+                    "value": 18.5
+                  },
+                  "text": null
+                },
+                {
+                  "type": "bar",
+                  "names": "bar-1",
+                  "nodeId": 7,
+                  "realNode": {
+                    "id": "ArmyMilitaryComparison-bar-1",
+                    "tag": "rect",
+                    "class": "scene chart army-military-comparison mark bar-1 bar",
+                    "fill": "#2169e4"
+                  },
+                  "children": [],
+                  "data": {
+                    "name": "EU",
+                    "value": 15.40125
+                  },
+                  "text": null
+                },
+                {
+                  "type": "bar",
+                  "names": "bar-2",
+                  "nodeId": 8,
+                  "realNode": {
+                    "id": "ArmyMilitaryComparison-bar-2",
+                    "tag": "rect",
+                    "class": "scene chart army-military-comparison mark bar-2 bar",
+                    "fill": "#f7d24d"
+                  },
+                  "children": [],
+                  "data": {
+                    "name": "China",
+                    "value": 11.8
+                  },
+                  "text": null
+                },
+                {
+                  "type": "bar",
+                  "names": "bar-3",
+                  "nodeId": 9,
+                  "realNode": {
+                    "id": "ArmyMilitaryComparison-bar-3",
+                    "tag": "rect",
+                    "class": "scene chart army-military-comparison mark bar-3 bar",
+                    "fill": "#67bf27"
+                  },
+                  "children": [],
+                  "data": {
+                    "name": "Japan",
+                    "value": 4.8
+                  },
+                  "text": null
+                }
+              ],
+              "data": null,
+              "text": null
+            },
+            {
+              "type": null,
+              "names": "bar-label",
+              "nodeId": 10,
+              "realNode": null,
+              "children": [
+                {
+                  "type": "bar-label",
+                  "names": "bar-label-0",
+                  "nodeId": 11,
+                  "realNode": {
+                    "id": "ArmyMilitaryComparison-bar-label-0",
+                    "tag": "text",
+                    "class": "scene chart army-military-comparison mark bar-label-0 bar-label",
+                    "fill": null
+                  },
+                  "children": [],
+                  "data": {
+                    "name": "USA",
+                    "value": 18.5
+                  },
+                  "text": "$18.5 TRILLION"
+                },
+                {
+                  "type": "bar-label",
+                  "names": "bar-label-1",
+                  "nodeId": 12,
+                  "realNode": {
+                    "id": "ArmyMilitaryComparison-bar-label-1",
+                    "tag": "text",
+                    "class": "scene chart army-military-comparison mark bar-label-1 bar-label",
+                    "fill": null
+                  },
+                  "children": [],
+                  "data": {
+                    "name": "EU",
+                    "value": 15.40125
+                  },
+                  "text": "$15.4 TRILLION"
+                },
+                {
+                  "type": "bar-label",
+                  "names": "bar-label-2",
+                  "nodeId": 13,
+                  "realNode": {
+                    "id": "ArmyMilitaryComparison-bar-label-2",
+                    "tag": "text",
+                    "class": "scene chart army-military-comparison mark bar-label-2 bar-label",
+                    "fill": null
+                  },
+                  "children": [],
+                  "data": {
+                    "name": "China",
+                    "value": 11.8
+                  },
+                  "text": "$11.8 TRILLION"
+                },
+                {
+                  "type": "bar-label",
+                  "names": "bar-label-3",
+                  "nodeId": 14,
+                  "realNode": {
+                    "id": "ArmyMilitaryComparison-bar-label-3",
+                    "tag": "text",
+                    "class": "scene chart army-military-comparison mark bar-label-3 bar-label",
+                    "fill": null
+                  },
+                  "children": [],
+                  "data": {
+                    "name": "Japan",
+                    "value": 4.8
+                  },
+                  "text": "$4.8 TRILLION"
+                }
+              ],
+              "data": null,
+              "text": null
+            }
+          ],
+          "data": null,
+          "text": null
+        },
+        {
+          "type": null,
+          "names": "axis",
+          "nodeId": 15,
+          "realNode": null,
+          "children": [
+            {
+              "type": null,
+              "names": "x-axis",
+              "nodeId": 16,
+              "realNode": null,
+              "children": [
+                {
+                  "type": null,
+                  "names": "symbol",
+                  "nodeId": 17,
+                  "realNode": null,
+                  "children": [
+                    {
+                      "type": "x-symbol",
+                      "names": "symbol-0",
+                      "nodeId": 18,
+                      "realNode": {
+                        "id": "ArmyMilitaryComparison-x-axis-symbol-0",
+                        "tag": "g",
+                        "class": "scene chart army-military-comparison axis x-axis symbol symbol-0 x-symbol",
+                        "fill": null
+                      },
+                      "children": [],
+                      "data": {
+                        "name": "USA",
+                        "value": 18.5
+                      },
+                      "text": null
+                    },
+                    {
+                      "type": "x-symbol",
+                      "names": "symbol-1",
+                      "nodeId": 19,
+                      "realNode": {
+                        "id": "ArmyMilitaryComparison-x-axis-symbol-1",
+                        "tag": "g",
+                        "class": "scene chart army-military-comparison axis x-axis symbol symbol-1 x-symbol",
+                        "fill": null
+                      },
+                      "children": [],
+                      "data": {
+                        "name": "EU",
+                        "value": 15.40125
+                      },
+                      "text": null
+                    },
+                    {
+                      "type": "x-symbol",
+                      "names": "symbol-2",
+                      "nodeId": 20,
+                      "realNode": {
+                        "id": "ArmyMilitaryComparison-x-axis-symbol-2",
+                        "tag": "g",
+                        "class": "scene chart army-military-comparison axis x-axis symbol symbol-2 x-symbol",
+                        "fill": null
+                      },
+                      "children": [],
+                      "data": {
+                        "name": "China",
+                        "value": 11.8
+                      },
+                      "text": null
+                    },
+                    {
+                      "type": "x-symbol",
+                      "names": "symbol-3",
+                      "nodeId": 21,
+                      "realNode": {
+                        "id": "ArmyMilitaryComparison-x-axis-symbol-3",
+                        "tag": "g",
+                        "class": "scene chart army-military-comparison axis x-axis symbol symbol-3 x-symbol",
+                        "fill": null
+                      },
+                      "children": [],
+                      "data": {
+                        "name": "Japan",
+                        "value": 4.8
+                      },
+                      "text": null
+                    }
+                  ],
+                  "data": null,
+                  "text": null
+                }
+              ],
+              "data": null,
+              "text": null
+            },
+            {
+              "type": null,
+              "names": "y-axis",
+              "nodeId": 22,
+              "realNode": null,
+              "children": [
+                {
+                  "type": "y-title",
+                  "names": "title",
+                  "nodeId": 23,
+                  "realNode": {
+                    "id": "ArmyMilitaryComparison-y-axis-title",
+                    "tag": "text",
+                    "class": "scene chart army-military-comparison axis y-axis title y-title",
+                    "fill": "black"
+                  },
+                  "children": [],
+                  "data": null,
+                  "text": "GDP"
+                }
+              ],
+              "data": null,
+              "text": null
+            }
+          ],
+          "data": null,
+          "text": null
+        },
+        {
+          "type": null,
+          "names": "foreground",
+          "nodeId": 24,
+          "realNode": null,
+          "children": [
+            {
+              "type": null,
+              "names": "annotation",
+              "nodeId": 25,
+              "realNode": null,
+              "children": [],
+              "data": null,
+              "text": null
+            }
+          ],
+          "data": null,
+          "text": null
+        }
+      ],
+      "data": null,
+      "text": null
+    }
+  ],
+  "data": null,
+  "text": null
+}

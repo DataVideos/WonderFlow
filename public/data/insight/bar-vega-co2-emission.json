@@ -1,0 +1,37 @@
+{
+    "d1": "The title of the chart is 'Inequalities in CO2 Emissions by Income Group from Air Travel'",
+    "d2": "The x-axis is divided into four income groups: High, Upper-middle, Lower-middle, and Low. The y-axis represents CO2 emissions, and the colors indicate the population of each group.",
+    "insight1" : {
+        "insightType": "value",
+        "insightSentence" : "This chart reveals a stark inequality in CO2 emissions from air travel between different income groups. High income groups have the highest CO2 emissions, with 62% of the total, and low income groups have the lowest with just 1%.",
+        "subInsights": [
+            {
+                "type": "value",
+                "data": ["High,62,CO2 emissions by income group"],
+                "phrases": "High income groups have the highest CO2 emissions, with 62% of the total, "
+            },
+            {
+                "type": "value",
+                "data": ["Low,1,CO2 emissions by income group"],
+                "phrases": "and low income groups have the lowest with just 1%."
+            }
+        ]
+    },
+    "insight2": {
+        "insightType": "difference",
+        "insightSentence" : "Furthermore, the population of low income groups is lower than that of high income groups with just 9%.",
+        "subInsights": [
+            {
+                "type": "difference",
+                "data": ["High, 16, Population by income group", "Low, 9, Population by income group"],
+                "phrases": "with just 9%."
+            }
+        ]
+    },
+    "insight3": {
+        "insightType": "extreme",
+        "insightSentence" : "This highlights the need for greater action to reduce emissions from air travel across all income groups.",
+        "subInsights": [
+        ]
+    }
+}

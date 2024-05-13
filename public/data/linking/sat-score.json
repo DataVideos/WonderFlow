@@ -1,0 +1,30 @@
+{
+  "[15, 16, 17]": [
+    "sat-score-x-label-0"
+  ],
+  "[20]": [
+    "sat-score-bar-label-0",
+    "sat-score-bar-0",
+    "sat-score-annotation-1"
+  ],
+  "[24]": [
+    "sat-score-anno-0-label"
+  ],
+  "[30, 31, 32, 33, 34]": [
+    "sat-score-sub-title"
+  ],
+  "[46, 47, 45]": [
+    "sat-score-x-label-6"
+  ],
+  "[51]": [
+    "sat-score-anno-0-label"
+  ],
+  "[53]": [
+    "sat-score-annotation-2",
+    "sat-score-bar-label-6",
+    "sat-score-bar-6"
+  ],
+  "[5]": [
+    "sat-score-anno-0-label"
+  ]
+}

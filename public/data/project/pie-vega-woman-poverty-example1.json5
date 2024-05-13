@@ -1,0 +1,18 @@
+
+    {
+      projectId: 'pie-vega-woman-poverty-example1',
+      scenes: [
+        {
+          charts: [
+            {source: './pie-vega-woman-poverty.svg'},
+          ],
+          animation: {
+            sequence: {
+                "sync": [
+                ]
+            }
+          },
+        }
+      ]
+    }
+  

@@ -1,0 +1,29 @@
+{
+  "[13, 14]": [
+    "transportation_pie1-sector-line-0",
+    "commute-mode-annotation-2-label",
+    "transportation_pie1-sector-label-0",
+    "transportation_pie1-sector-0"
+  ],
+  "[34, 35]": [
+    "transportation_pie1-sector-line-1",
+    "transportation_pie1-sector-1",
+    "commute-mode-annotation-0-label",
+    "transportation_pie1-sector-label-1"
+  ],
+  "[4, 5]": [
+    "transportation_pie1-sub_title"
+  ],
+  "[41, 42]": [
+    "transportation_pie1-sector-line-0",
+    "commute-mode-annotation-2-label",
+    "transportation_pie1-sector-label-0",
+    "transportation_pie1-sector-0"
+  ],
+  "[65]": [
+    "transportation_pie1-sector-line-0",
+    "commute-mode-annotation-2-label",
+    "transportation_pie1-sector-label-0",
+    "transportation_pie1-sector-0"
+  ]
+}

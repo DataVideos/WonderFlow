@@ -1,0 +1,1147 @@
+{
+  "type": null,
+  "names": "scene",
+  "nodeId": 0,
+  "realNode": null,
+  "children": [
+    {
+      "type": null,
+      "names": "chart australia-fire",
+      "nodeId": 1,
+      "realNode": null,
+      "children": [
+        {
+          "type": null,
+          "names": "background",
+          "nodeId": 2,
+          "realNode": null,
+          "children": [
+            {
+              "type": "bg-rect",
+              "names": "rect",
+              "nodeId": 3,
+              "realNode": {
+                "id": "australia-fire-background-rect",
+                "tag": "rect",
+                "class": "scene chart australia-fire background rect bg-rect",
+                "fill": "#606972"
+              },
+              "children": [],
+              "data": null,
+              "text": null
+            }
+          ],
+          "data": null,
+          "text": null
+        },
+        {
+          "type": null,
+          "names": "title",
+          "nodeId": 4,
+          "realNode": null,
+          "children": [
+            {
+              "type": "main-title",
+              "names": "main-title",
+              "nodeId": 5,
+              "realNode": {
+                "id": "australia-fire-main-title",
+                "tag": "text",
+                "class": "scene chart australia-fire title main-title",
+                "fill": "#ffffff"
+              },
+              "children": [],
+              "data": null,
+              "text": "Annual Deforestation in Brazilian Amazon (Hectares)"
+            }
+          ],
+          "data": null,
+          "text": null
+        },
+        {
+          "type": null,
+          "names": "mark",
+          "nodeId": 6,
+          "realNode": null,
+          "children": [
+            {
+              "type": null,
+              "names": "bar",
+              "nodeId": 7,
+              "realNode": null,
+              "children": [
+                {
+                  "type": "bar",
+                  "names": "bar-0",
+                  "nodeId": 8,
+                  "realNode": {
+                    "id": "australia-fire-bar-0",
+                    "tag": "rect",
+                    "class": "scene chart australia-fire mark bar-0 bar",
+                    "fill": "rgba(249,255,176,0.43)"
+                  },
+                  "children": [],
+                  "data": {
+                    "name": 1988,
+                    "value": 2030769.230769231
+                  },
+                  "text": null
+                },
+                {
+                  "type": "bar",
+                  "names": "bar-1",
+                  "nodeId": 9,
+                  "realNode": {
+                    "id": "australia-fire-bar-1",
+                    "tag": "rect",
+                    "class": "scene chart australia-fire mark bar-1 bar",
+                    "fill": "rgba(249,255,176,0.43)"
+                  },
+                  "children": [],
+                  "data": {
+                    "name": 1989,
+                    "value": 1730769.2307692308
+                  },
+                  "text": null
+                },
+                {
+                  "type": "bar",
+                  "names": "bar-2",
+                  "nodeId": 10,
+                  "realNode": {
+                    "id": "australia-fire-bar-2",
+                    "tag": "rect",
+                    "class": "scene chart australia-fire mark bar-2 bar",
+                    "fill": "rgba(249,255,176,0.43)"
+                  },
+                  "children": [],
+                  "data": {
+                    "name": 1990,
+                    "value": 1280769.2307692308
+                  },
+                  "text": null
+                },
+                {
+                  "type": "bar",
+                  "names": "bar-3",
+                  "nodeId": 11,
+                  "realNode": {
+                    "id": "australia-fire-bar-3",
+                    "tag": "rect",
+                    "class": "scene chart australia-fire mark bar-3 bar",
+                    "fill": "rgba(249,255,176,0.43)"
+                  },
+                  "children": [],
+                  "data": {
+                    "name": 1991,
+                    "value": 1026923.076923077
+                  },
+                  "text": null
+                },
+                {
+                  "type": "bar",
+                  "names": "bar-4",
+                  "nodeId": 12,
+                  "realNode": {
+                    "id": "australia-fire-bar-4",
+                    "tag": "rect",
+                    "class": "scene chart australia-fire mark bar-4 bar",
+                    "fill": "rgba(249,255,176,0.43)"
+                  },
+                  "children": [],
+                  "data": {
+                    "name": 1992,
+                    "value": 1292307.6923076925
+                  },
+                  "text": null
+                },
+                {
+                  "type": "bar",
+                  "names": "bar-5",
+                  "nodeId": 13,
+                  "realNode": {
+                    "id": "australia-fire-bar-5",
+                    "tag": "rect",
+                    "class": "scene chart australia-fire mark bar-5 bar",
+                    "fill": "rgba(249,255,176,0.43)"
+                  },
+                  "children": [],
+                  "data": {
+                    "name": 1993,
+                    "value": 1396153.8461538462
+                  },
+                  "text": null
+                },
+                {
+                  "type": "bar",
+                  "names": "bar-6",
+                  "nodeId": 14,
+                  "realNode": {
+                    "id": "australia-fire-bar-6",
+                    "tag": "rect",
+                    "class": "scene chart australia-fire mark bar-6 bar",
+                    "fill": "rgba(249,255,176,0.43)"
+                  },
+                  "children": [],
+                  "data": {
+                    "name": 1994,
+                    "value": 1384615.3846153847
+                  },
+                  "text": null
+                },
+                {
+                  "type": "bar",
+                  "names": "bar-7",
+                  "nodeId": 15,
+                  "realNode": {
+                    "id": "australia-fire-bar-7",
+                    "tag": "rect",
+                    "class": "scene chart australia-fire mark bar-7 bar",
+                    "fill": "rgba(249,255,176,0.43)"
+                  },
+                  "children": [],
+                  "data": {
+                    "name": 1995,
+                    "value": 2700000
+                  },
+                  "text": null
+                },
+                {
+                  "type": "bar",
+                  "names": "bar-8",
+                  "nodeId": 16,
+                  "realNode": {
+                    "id": "australia-fire-bar-8",
+                    "tag": "rect",
+                    "class": "scene chart australia-fire mark bar-8 bar",
+                    "fill": "rgba(249,255,176,0.43)"
+                  },
+                  "children": [],
+                  "data": {
+                    "name": 1996,
+                    "value": 1742307.6923076925
+                  },
+                  "text": null
+                },
+                {
+                  "type": "bar",
+                  "names": "bar-9",
+                  "nodeId": 17,
+                  "realNode": {
+                    "id": "australia-fire-bar-9",
+                    "tag": "rect",
+                    "class": "scene chart australia-fire mark bar-9 bar",
+                    "fill": "rgba(249,255,176,0.43)"
+                  },
+                  "children": [],
+                  "data": {
+                    "name": 1997,
+                    "value": 1269230.7692307692
+                  },
+                  "text": null
+                },
+                {
+                  "type": "bar",
+                  "names": "bar-10",
+                  "nodeId": 18,
+                  "realNode": {
+                    "id": "australia-fire-bar-10",
+                    "tag": "rect",
+                    "class": "scene chart australia-fire mark bar-10 bar",
+                    "fill": "rgba(249,255,176,0.43)"
+                  },
+                  "children": [],
+                  "data": {
+                    "name": 1998,
+                    "value": 1662692.3076923077
+                  },
+                  "text": null
+                },
+                {
+                  "type": "bar",
+                  "names": "bar-11",
+                  "nodeId": 19,
+                  "realNode": {
+                    "id": "australia-fire-bar-11",
+                    "tag": "rect",
+                    "class": "scene chart australia-fire mark bar-11 bar",
+                    "fill": "rgba(249,255,176,0.43)"
+                  },
+                  "children": [],
+                  "data": {
+                    "name": 1999,
+                    "value": 1638461.5384615385
+                  },
+                  "text": null
+                },
+                {
+                  "type": "bar",
+                  "names": "bar-12",
+                  "nodeId": 20,
+                  "realNode": {
+                    "id": "australia-fire-bar-12",
+                    "tag": "rect",
+                    "class": "scene chart australia-fire mark bar-12 bar",
+                    "fill": "rgba(249,255,176,0.43)"
+                  },
+                  "children": [],
+                  "data": {
+                    "name": 2000,
+                    "value": 1742307.6923076925
+                  },
+                  "text": null
+                },
+                {
+                  "type": "bar",
+                  "names": "bar-13",
+                  "nodeId": 21,
+                  "realNode": {
+                    "id": "australia-fire-bar-13",
+                    "tag": "rect",
+                    "class": "scene chart australia-fire mark bar-13 bar",
+                    "fill": "rgba(249,255,176,0.43)"
+                  },
+                  "children": [],
+                  "data": {
+                    "name": 2001,
+                    "value": 1730769.2307692308
+                  },
+                  "text": null
+                },
+                {
+                  "type": "bar",
+                  "names": "bar-14",
+                  "nodeId": 22,
+                  "realNode": {
+                    "id": "australia-fire-bar-14",
+                    "tag": "rect",
+                    "class": "scene chart australia-fire mark bar-14 bar",
+                    "fill": "rgba(249,255,176,0.43)"
+                  },
+                  "children": [],
+                  "data": {
+                    "name": 2002,
+                    "value": 2042307.6923076925
+                  },
+                  "text": null
+                },
+                {
+                  "type": "bar",
+                  "names": "bar-15",
+                  "nodeId": 23,
+                  "realNode": {
+                    "id": "australia-fire-bar-15",
+                    "tag": "rect",
+                    "class": "scene chart australia-fire mark bar-15 bar",
+                    "fill": "rgba(249,255,176,0.43)"
+                  },
+                  "children": [],
+                  "data": {
+                    "name": 2003,
+                    "value": 2446153.8461538465
+                  },
+                  "text": null
+                },
+                {
+                  "type": "bar",
+                  "names": "bar-16",
+                  "nodeId": 24,
+                  "realNode": {
+                    "id": "australia-fire-bar-16",
+                    "tag": "rect",
+                    "class": "scene chart australia-fire mark bar-16 bar",
+                    "fill": "rgba(249,255,176,0.43)"
+                  },
+                  "children": [],
+                  "data": {
+                    "name": 2004,
+                    "value": 2676923.076923077
+                  },
+                  "text": null
+                },
+                {
+                  "type": "bar",
+                  "names": "bar-17",
+                  "nodeId": 25,
+                  "realNode": {
+                    "id": "australia-fire-bar-17",
+                    "tag": "rect",
+                    "class": "scene chart australia-fire mark bar-17 bar",
+                    "fill": "rgba(249,255,176,0.43)"
+                  },
+                  "children": [],
+                  "data": {
+                    "name": 2005,
+                    "value": 1788461.5384615385
+                  },
+                  "text": null
+                },
+                {
+                  "type": "bar",
+                  "names": "bar-18",
+                  "nodeId": 26,
+                  "realNode": {
+                    "id": "australia-fire-bar-18",
+                    "tag": "rect",
+                    "class": "scene chart australia-fire mark bar-18 bar",
+                    "fill": "rgba(249,255,176,0.43)"
+                  },
+                  "children": [],
+                  "data": {
+                    "name": 2006,
+                    "value": 1361538.4615384615
+                  },
+                  "text": null
+                },
+                {
+                  "type": "bar",
+                  "names": "bar-19",
+                  "nodeId": 27,
+                  "realNode": {
+                    "id": "australia-fire-bar-19",
+                    "tag": "rect",
+                    "class": "scene chart australia-fire mark bar-19 bar",
+                    "fill": "rgba(249,255,176,0.43)"
+                  },
+                  "children": [],
+                  "data": {
+                    "name": 2007,
+                    "value": 1096153.8461538462
+                  },
+                  "text": null
+                },
+                {
+                  "type": "bar",
+                  "names": "bar-20",
+                  "nodeId": 28,
+                  "realNode": {
+                    "id": "australia-fire-bar-20",
+                    "tag": "rect",
+                    "class": "scene chart australia-fire mark bar-20 bar",
+                    "fill": "rgba(249,255,176,0.43)"
+                  },
+                  "children": [],
+                  "data": {
+                    "name": 2008,
+                    "value": 1200000
+                  },
+                  "text": null
+                },
+                {
+                  "type": "bar",
+                  "names": "bar-21",
+                  "nodeId": 29,
+                  "realNode": {
+                    "id": "australia-fire-bar-21",
+                    "tag": "rect",
+                    "class": "scene chart australia-fire mark bar-21 bar",
+                    "fill": "rgba(249,255,176,0.43)"
+                  },
+                  "children": [],
+                  "data": {
+                    "name": 2009,
+                    "value": 1269230.7692307692
+                  },
+                  "text": null
+                },
+                {
+                  "type": "bar",
+                  "names": "bar-22",
+                  "nodeId": 30,
+                  "realNode": {
+                    "id": "australia-fire-bar-22",
+                    "tag": "rect",
+                    "class": "scene chart australia-fire mark bar-22 bar",
+                    "fill": "rgba(249,255,176,0.43)"
+                  },
+                  "children": [],
+                  "data": {
+                    "name": 2010,
+                    "value": 634615.3846153846
+                  },
+                  "text": null
+                },
+                {
+                  "type": "bar",
+                  "names": "bar-23",
+                  "nodeId": 31,
+                  "realNode": {
+                    "id": "australia-fire-bar-23",
+                    "tag": "rect",
+                    "class": "scene chart australia-fire mark bar-23 bar",
+                    "fill": "rgba(249,255,176,0.43)"
+                  },
+                  "children": [],
+                  "data": {
+                    "name": 2011,
+                    "value": 565384.6153846154
+                  },
+                  "text": null
+                },
+                {
+                  "type": "bar",
+                  "names": "bar-24",
+                  "nodeId": 32,
+                  "realNode": {
+                    "id": "australia-fire-bar-24",
+                    "tag": "rect",
+                    "class": "scene chart australia-fire mark bar-24 bar",
+                    "fill": "rgba(249,255,176,0.43)"
+                  },
+                  "children": [],
+                  "data": {
+                    "name": 2012,
+                    "value": 403846.1538461539
+                  },
+                  "text": null
+                },
+                {
+                  "type": "bar",
+                  "names": "bar-25",
+                  "nodeId": 33,
+                  "realNode": {
+                    "id": "australia-fire-bar-25",
+                    "tag": "rect",
+                    "class": "scene chart australia-fire mark bar-25 bar",
+                    "fill": "rgba(249,255,176,0.43)"
+                  },
+                  "children": [],
+                  "data": {
+                    "name": 2013,
+                    "value": 530769.2307692308
+                  },
+                  "text": null
+                },
+                {
+                  "type": "bar",
+                  "names": "bar-26",
+                  "nodeId": 34,
+                  "realNode": {
+                    "id": "australia-fire-bar-26",
+                    "tag": "rect",
+                    "class": "scene chart australia-fire mark bar-26 bar",
+                    "fill": "rgba(249,255,176,0.43)"
+                  },
+                  "children": [],
+                  "data": {
+                    "name": 2014,
+                    "value": 426923.07692307694
+                  },
+                  "text": null
+                },
+                {
+                  "type": "bar",
+                  "names": "bar-27",
+                  "nodeId": 35,
+                  "realNode": {
+                    "id": "australia-fire-bar-27",
+                    "tag": "rect",
+                    "class": "scene chart australia-fire mark bar-27 bar",
+                    "fill": "rgba(249,255,176,0.43)"
+                  },
+                  "children": [],
+                  "data": {
+                    "name": 2015,
+                    "value": 565384.6153846154
+                  },
+                  "text": null
+                },
+                {
+                  "type": "bar",
+                  "names": "bar-28",
+                  "nodeId": 36,
+                  "realNode": {
+                    "id": "australia-fire-bar-28",
+                    "tag": "rect",
+                    "class": "scene chart australia-fire mark bar-28 bar",
+                    "fill": "rgba(249,255,176,0.43)"
+                  },
+                  "children": [],
+                  "data": {
+                    "name": 2016,
+                    "value": 726923.076923077
+                  },
+                  "text": null
+                },
+                {
+                  "type": "bar",
+                  "names": "bar-29",
+                  "nodeId": 37,
+                  "realNode": {
+                    "id": "australia-fire-bar-29",
+                    "tag": "rect",
+                    "class": "scene chart australia-fire mark bar-29 bar",
+                    "fill": "rgba(249,255,176,0.43)"
+                  },
+                  "children": [],
+                  "data": {
+                    "name": 2017,
+                    "value": 623076.9230769231
+                  },
+                  "text": null
+                },
+                {
+                  "type": "bar",
+                  "names": "bar-30",
+                  "nodeId": 38,
+                  "realNode": {
+                    "id": "australia-fire-bar-30",
+                    "tag": "rect",
+                    "class": "scene chart australia-fire mark bar-30 bar",
+                    "fill": "rgba(249,255,176,0.43)"
+                  },
+                  "children": [],
+                  "data": {
+                    "name": 2018,
+                    "value": 750923.076923077
+                  },
+                  "text": null
+                },
+                {
+                  "type": "bar",
+                  "names": "bar-31",
+                  "nodeId": 39,
+                  "realNode": {
+                    "id": "australia-fire-bar-31",
+                    "tag": "rect",
+                    "class": "scene chart australia-fire mark bar-31 bar",
+                    "fill": "rgba(249,255,176,0.43)"
+                  },
+                  "children": [],
+                  "data": {
+                    "name": 2019,
+                    "value": 976200
+                  },
+                  "text": null
+                }
+              ],
+              "data": null,
+              "text": null
+            },
+            {
+              "type": null,
+              "names": "label bar-label",
+              "nodeId": 40,
+              "realNode": null,
+              "children": [
+                {
+                  "type": "bar-label",
+                  "names": "bar-label bar-label-0",
+                  "nodeId": 41,
+                  "realNode": {
+                    "id": "australia-fire-bar-label-0",
+                    "tag": "text",
+                    "class": "scene chart australia-fire mark label bar-label-0 bar-label",
+                    "fill": "#ffffff"
+                  },
+                  "children": [],
+                  "data": {
+                    "name": 2019,
+                    "value": 976200
+                  },
+                  "text": "976200"
+                }
+              ],
+              "data": null,
+              "text": null
+            }
+          ],
+          "data": null,
+          "text": null
+        },
+        {
+          "type": null,
+          "names": "axis",
+          "nodeId": 42,
+          "realNode": null,
+          "children": [
+            {
+              "type": null,
+              "names": "x-axis",
+              "nodeId": 43,
+              "realNode": null,
+              "children": [
+                {
+                  "type": "x-domain",
+                  "names": "domain",
+                  "nodeId": 44,
+                  "realNode": {
+                    "id": "australia-fire-x-domain",
+                    "tag": "path",
+                    "class": "domain scene chart australia-fire axis x-axis x-domain",
+                    "fill": null
+                  },
+                  "children": [],
+                  "data": null,
+                  "text": null
+                },
+                {
+                  "type": null,
+                  "names": "label",
+                  "nodeId": 45,
+                  "realNode": null,
+                  "children": [
+                    {
+                      "type": "x-label",
+                      "names": "label-0",
+                      "nodeId": 46,
+                      "realNode": {
+                        "id": "australia-fire-x-label-0",
+                        "tag": "text",
+                        "class": "scene chart australia-fire axis x-axis label x-label-0 x-label",
+                        "fill": "currentColor"
+                      },
+                      "children": [],
+                      "data": 1988,
+                      "text": "1988"
+                    },
+                    {
+                      "type": "x-label",
+                      "names": "label-1",
+                      "nodeId": 47,
+                      "realNode": {
+                        "id": "australia-fire-x-label-1",
+                        "tag": "text",
+                        "class": "scene chart australia-fire axis x-axis label x-label-1 x-label",
+                        "fill": "currentColor"
+                      },
+                      "children": [],
+                      "data": 1995,
+                      "text": "1995"
+                    },
+                    {
+                      "type": "x-label",
+                      "names": "label-2",
+                      "nodeId": 48,
+                      "realNode": {
+                        "id": "australia-fire-x-label-2",
+                        "tag": "text",
+                        "class": "scene chart australia-fire axis x-axis label x-label-2 x-label",
+                        "fill": "currentColor"
+                      },
+                      "children": [],
+                      "data": 2004,
+                      "text": "2004"
+                    },
+                    {
+                      "type": "x-label",
+                      "names": "label-3",
+                      "nodeId": 49,
+                      "realNode": {
+                        "id": "australia-fire-x-label-3",
+                        "tag": "text",
+                        "class": "scene chart australia-fire axis x-axis label x-label-3 x-label",
+                        "fill": "currentColor"
+                      },
+                      "children": [],
+                      "data": 2012,
+                      "text": "2012"
+                    },
+                    {
+                      "type": "x-label",
+                      "names": "label-4",
+                      "nodeId": 50,
+                      "realNode": {
+                        "id": "australia-fire-x-label-4",
+                        "tag": "text",
+                        "class": "scene chart australia-fire axis x-axis label x-label-4 x-label",
+                        "fill": "currentColor"
+                      },
+                      "children": [],
+                      "data": 2019,
+                      "text": "2019"
+                    }
+                  ],
+                  "data": null,
+                  "text": null
+                }
+              ],
+              "data": null,
+              "text": null
+            },
+            {
+              "type": null,
+              "names": "y-axis",
+              "nodeId": 51,
+              "realNode": null,
+              "children": [
+                {
+                  "type": "y-domain",
+                  "names": "domain",
+                  "nodeId": 52,
+                  "realNode": {
+                    "id": "australia-fire-y-domain",
+                    "tag": "path",
+                    "class": "domain scene chart australia-fire axis y-axis y-domain",
+                    "fill": null
+                  },
+                  "children": [],
+                  "data": null,
+                  "text": null
+                },
+                {
+                  "type": null,
+                  "names": "label",
+                  "nodeId": 53,
+                  "realNode": null,
+                  "children": [
+                    {
+                      "type": "y-label",
+                      "names": "label-0",
+                      "nodeId": 54,
+                      "realNode": {
+                        "id": "australia-fire-y-label-0",
+                        "tag": "text",
+                        "class": "scene chart australia-fire axis y-axis label y-label-0 y-label",
+                        "fill": "currentColor"
+                      },
+                      "children": [],
+                      "data": null,
+                      "text": "3,000,000"
+                    },
+                    {
+                      "type": "y-label",
+                      "names": "label-1",
+                      "nodeId": 55,
+                      "realNode": {
+                        "id": "australia-fire-y-label-1",
+                        "tag": "text",
+                        "class": "scene chart australia-fire axis y-axis label y-label-1 y-label",
+                        "fill": "currentColor"
+                      },
+                      "children": [],
+                      "data": null,
+                      "text": "2,000,000"
+                    },
+                    {
+                      "type": "y-label",
+                      "names": "label-2",
+                      "nodeId": 56,
+                      "realNode": {
+                        "id": "australia-fire-y-label-2",
+                        "tag": "text",
+                        "class": "scene chart australia-fire axis y-axis label y-label-2 y-label",
+                        "fill": "currentColor"
+                      },
+                      "children": [],
+                      "data": null,
+                      "text": "1,000,000"
+                    },
+                    {
+                      "type": "y-label",
+                      "names": "label-3",
+                      "nodeId": 57,
+                      "realNode": {
+                        "id": "australia-fire-y-label-3",
+                        "tag": "text",
+                        "class": "scene chart australia-fire axis y-axis label y-label-3 y-label",
+                        "fill": "currentColor"
+                      },
+                      "children": [],
+                      "data": null,
+                      "text": "0"
+                    }
+                  ],
+                  "data": null,
+                  "text": null
+                }
+              ],
+              "data": null,
+              "text": null
+            }
+          ],
+          "data": null,
+          "text": null
+        },
+        {
+          "type": null,
+          "names": "foreground",
+          "nodeId": 58,
+          "realNode": null,
+          "children": [
+            {
+              "type": null,
+              "names": "annotation",
+              "nodeId": 59,
+              "realNode": null,
+              "children": [
+                {
+                  "type": null,
+                  "names": "annotation-0",
+                  "nodeId": 60,
+                  "realNode": null,
+                  "children": [
+                    {
+                      "type": "anno-label",
+                      "names": "label",
+                      "nodeId": 61,
+                      "realNode": {
+                        "id": "australia-fire-annotation-0-label",
+                        "tag": "text",
+                        "class": "scene chart australia-fire foreground annotation annotation-0 label anno-label",
+                        "fill": null
+                      },
+                      "children": [],
+                      "data": [
+                        {
+                          "name": 1994,
+                          "value": 1384615.3846153847
+                        },
+                        {
+                          "name": 1995,
+                          "value": 2700000
+                        }
+                      ],
+                      "text": "95%"
+                    },
+                    {
+                      "type": "anno-path",
+                      "names": "path",
+                      "nodeId": 62,
+                      "realNode": {
+                        "id": "australia-fire-annotation-0-path",
+                        "tag": "path",
+                        "class": "scene chart australia-fire foreground annotation annotation-0 path anno-path",
+                        "fill": "none"
+                      },
+                      "children": [],
+                      "data": [
+                        {
+                          "name": 1994,
+                          "value": 1384615.3846153847
+                        },
+                        {
+                          "name": 1995,
+                          "value": 2700000
+                        }
+                      ],
+                      "text": null
+                    },
+                    {
+                      "type": "anno-rect",
+                      "names": "rect",
+                      "nodeId": 63,
+                      "realNode": {
+                        "id": "australia-fire-annotation-0-rect",
+                        "tag": "rect",
+                        "class": "scene chart australia-fire foreground annotation annotation-0 rect anno-rect",
+                        "fill": "#ebefa2"
+                      },
+                      "children": [],
+                      "data": [
+                        {
+                          "name": 1994,
+                          "value": 1384615.3846153847
+                        },
+                        {
+                          "name": 1995,
+                          "value": 2700000
+                        }
+                      ],
+                      "text": null
+                    }
+                  ],
+                  "data": [
+                    {
+                      "name": 1994,
+                      "value": 1384615.3846153847
+                    },
+                    {
+                      "name": 1995,
+                      "value": 2700000
+                    }
+                  ],
+                  "text": null
+                },
+                {
+                  "type": null,
+                  "names": "annotation-1",
+                  "nodeId": 64,
+                  "realNode": null,
+                  "children": [
+                    {
+                      "type": "anno-label",
+                      "names": "label",
+                      "nodeId": 65,
+                      "realNode": {
+                        "id": "australia-fire-annotation-1-label",
+                        "tag": "text",
+                        "class": "scene chart australia-fire foreground annotation annotation-1 label anno-label",
+                        "fill": null
+                      },
+                      "children": [],
+                      "data": [
+                        {
+                          "name": 1997,
+                          "value": 1269230.7692307692
+                        },
+                        {
+                          "name": 1998,
+                          "value": 1662692.3076923077
+                        }
+                      ],
+                      "text": "31%"
+                    },
+                    {
+                      "type": "anno-path",
+                      "names": "path",
+                      "nodeId": 66,
+                      "realNode": {
+                        "id": "australia-fire-annotation-1-path",
+                        "tag": "path",
+                        "class": "scene chart australia-fire foreground annotation annotation-1 path anno-path",
+                        "fill": "none"
+                      },
+                      "children": [],
+                      "data": [
+                        {
+                          "name": 1997,
+                          "value": 1269230.7692307692
+                        },
+                        {
+                          "name": 1998,
+                          "value": 1662692.3076923077
+                        }
+                      ],
+                      "text": null
+                    },
+                    {
+                      "type": "anno-rect",
+                      "names": "rect",
+                      "nodeId": 67,
+                      "realNode": {
+                        "id": "australia-fire-annotation-1-rect",
+                        "tag": "rect",
+                        "class": "scene chart australia-fire foreground annotation annotation-1 rect anno-rect",
+                        "fill": "#ebefa2"
+                      },
+                      "children": [],
+                      "data": [
+                        {
+                          "name": 1997,
+                          "value": 1269230.7692307692
+                        },
+                        {
+                          "name": 1998,
+                          "value": 1662692.3076923077
+                        }
+                      ],
+                      "text": null
+                    }
+                  ],
+                  "data": [
+                    {
+                      "name": 1997,
+                      "value": 1269230.7692307692
+                    },
+                    {
+                      "name": 1998,
+                      "value": 1662692.3076923077
+                    }
+                  ],
+                  "text": null
+                },
+                {
+                  "type": null,
+                  "names": "annotation-2",
+                  "nodeId": 68,
+                  "realNode": null,
+                  "children": [
+                    {
+                      "type": "anno-label",
+                      "names": "label",
+                      "nodeId": 69,
+                      "realNode": {
+                        "id": "australia-fire-annotation-2-label",
+                        "tag": "text",
+                        "class": "scene chart australia-fire foreground annotation annotation-2 label anno-label",
+                        "fill": null
+                      },
+                      "children": [],
+                      "data": [
+                        {
+                          "name": 2018,
+                          "value": 750923.076923077
+                        },
+                        {
+                          "name": 2019,
+                          "value": 976200
+                        }
+                      ],
+                      "text": "30%"
+                    },
+                    {
+                      "type": "anno-path",
+                      "names": "path",
+                      "nodeId": 70,
+                      "realNode": {
+                        "id": "australia-fire-annotation-2-path",
+                        "tag": "path",
+                        "class": "scene chart australia-fire foreground annotation annotation-2 path anno-path",
+                        "fill": "none"
+                      },
+                      "children": [],
+                      "data": [
+                        {
+                          "name": 2018,
+                          "value": 750923.076923077
+                        },
+                        {
+                          "name": 2019,
+                          "value": 976200
+                        }
+                      ],
+                      "text": null
+                    },
+                    {
+                      "type": "anno-rect",
+                      "names": "rect",
+                      "nodeId": 71,
+                      "realNode": {
+                        "id": "australia-fire-annotation-2-rect",
+                        "tag": "rect",
+                        "class": "scene chart australia-fire foreground annotation annotation-2 rect anno-rect",
+                        "fill": "#ebefa2"
+                      },
+                      "children": [],
+                      "data": [
+                        {
+                          "name": 2018,
+                          "value": 750923.076923077
+                        },
+                        {
+                          "name": 2019,
+                          "value": 976200
+                        }
+                      ],
+                      "text": null
+                    }
+                  ],
+                  "data": [
+                    {
+                      "name": 2018,
+                      "value": 750923.076923077
+                    },
+                    {
+                      "name": 2019,
+                      "value": 976200
+                    }
+                  ],
+                  "text": null
+                }
+              ],
+              "data": null,
+              "text": null
+            }
+          ],
+          "data": null,
+          "text": null
+        }
+      ],
+      "data": null,
+      "text": null
+    }
+  ],
+  "data": null,
+  "text": null
+}

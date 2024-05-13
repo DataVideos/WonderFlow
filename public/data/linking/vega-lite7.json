@@ -1,0 +1,52 @@
+{
+  "[8]": [
+    "bar-20",
+    "bar-13",
+    "bar-12",
+    "bar-14",
+    "bar-17",
+    "legend-label-1",
+    "bar-21",
+    "bar-16",
+    "bar-18",
+    "bar-23",
+    "bar-15",
+    "bar-22",
+    "legend-symbol-1",
+    "bar-19"
+  ],
+  "[11]": [
+    "x-label-10"
+  ],
+  "[19]": [
+    "legend-label-1",
+    "bar-22",
+    "legend-symbol-1"
+  ],
+  "[22]": [
+    "legend-label-0",
+    "bar-10",
+    "legend-symbol-0"
+  ],
+  "[32]": [
+    "legend-label-0",
+    "bar-0",
+    "legend-symbol-0"
+  ],
+  "[33, 34, 35]": [
+    "sub-title-0"
+  ],
+  "[36, 37, 38]": [
+    "x-label-0"
+  ],
+  "[45, 46]": [
+    "legend-label-0",
+    "bar-0",
+    "legend-symbol-0"
+  ],
+  "[51, 52]": [
+    "legend-label-1",
+    "bar-12",
+    "legend-symbol-1"
+  ]
+}

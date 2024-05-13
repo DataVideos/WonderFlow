@@ -1,0 +1,59 @@
+{
+    "d1": "The Pie Chart titled 'UMMC COVID-19 Patient Status'.",
+    "d2": "The angle of the chart represents the proportion and the colors correspond to their respective categories.",
+    "insight1": {
+        "insightType": "Proportion",
+        "insightSentence": "The pie chart shows that most of the UMMC COVID-19 patients (68.1%) are unvaccinated, followed by 13.8% of the patients who are fully vaccinated, 10.6% of the patients who have an unknown status, and 7.5% of the patients who are not eligible for vaccination.",
+        "subInsights": [
+            {
+                "type": "majority",
+                "data": [
+                    "0.681,Unvaccinated"
+                ],
+                "phrases": "most of the UMMC COVID-19 patients (68.1%) are unvaccinated"
+            },
+            {
+                "type": "minority1",
+                "data": [
+                    "0.138,Fully Vaccinated"
+                ],
+                "phrases": "13.8% of the patients who are fully vaccinated"
+            },
+            {
+                "type": "minority2",
+                "data": [
+                    "0.106,Unknown"
+                ],
+                "phrases": "10.6% of the patients who have an unknown status"
+            },
+            {
+                "type": "minority3",
+                "data": [
+                    "0.075,Not Eligible"
+                ],
+                "phrases": " 7.5% of the patients who are not eligible for vaccination"
+            }
+        ]
+    },
+    "insight2": {
+        "insightType": "Distribution",
+        "insightSentence": "This data reveals the distribution of UMMC COVID-19 patients based on their vaccination status.",
+        "subInsights": [
+            {
+                "type": "distribution",
+                "data": [
+                    "0.681,Unvaccinated",
+                    "0.138,Fully Vaccinated",
+                    "0.075,Not Eligible",
+                    "0.106,Unknown"
+                ],
+                "phrases": "the distribution of UMMC COVID-19 patients based on their vaccination status"
+            }
+        ]
+    },
+    "insight3": {
+        "insightType": "",
+        "insightSentence": "",
+        "subInsights": []
+    }
+}

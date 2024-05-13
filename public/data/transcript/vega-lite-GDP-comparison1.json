@@ -1,0 +1,296 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "Internationally, the EU faced a changing landscape characterized by China's rapid growth and the consistent economic strength of the United States. China has surpassed the EU in GDP in 2021, and its emergence as an economic superpower presented both competitive challenges and new trade opportunities for the EU.",
+          "confidence": 1.0,
+          "words": [
+            {
+              "startTime": "0.000s",
+              "endTime": "1.389s",
+              "word": "Internationally,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "1.389s",
+              "endTime": "1.579s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "1.579s",
+              "endTime": "2.099s",
+              "word": "EU",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "2.099s",
+              "endTime": "2.531s",
+              "word": "faced",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "2.531s",
+              "endTime": "2.621s",
+              "word": "a",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "2.621s",
+              "endTime": "3.202s",
+              "word": "changing",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "3.202s",
+              "endTime": "3.989s",
+              "word": "landscape",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "3.989s",
+              "endTime": "4.820s",
+              "word": "characterized",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "4.820s",
+              "endTime": "5.000s",
+              "word": "by",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "5.000s",
+              "endTime": "5.595s",
+              "word": "China's",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "5.595s",
+              "endTime": "6.087s",
+              "word": "rapid",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "6.087s",
+              "endTime": "6.606s",
+              "word": "growth",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "6.606s",
+              "endTime": "6.746s",
+              "word": "and",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "6.746s",
+              "endTime": "6.851s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "6.851s",
+              "endTime": "7.617s",
+              "word": "consistent",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "7.617s",
+              "endTime": "8.283s",
+              "word": "economic",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "8.283s",
+              "endTime": "8.803s",
+              "word": "strength",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "8.803s",
+              "endTime": "8.906s",
+              "word": "of",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "8.906s",
+              "endTime": "8.981s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "8.981s",
+              "endTime": "9.451s",
+              "word": "United",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "9.451s",
+              "endTime": "10.952s",
+              "word": "States.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "10.952s",
+              "endTime": "11.417s",
+              "word": "China",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "11.417s",
+              "endTime": "11.601s",
+              "word": "has",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "11.601s",
+              "endTime": "12.342s",
+              "word": "surpassed",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "12.342s",
+              "endTime": "12.527s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "12.527s",
+              "endTime": "13.052s",
+              "word": "EU",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "13.052s",
+              "endTime": "13.222s",
+              "word": "in",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "13.222s",
+              "endTime": "14.044s",
+              "word": "GDP",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "14.044s",
+              "endTime": "14.179s",
+              "word": "in",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "14.179s",
+              "endTime": "15.834s",
+              "word": "2021,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "15.834s",
+              "endTime": "15.989s",
+              "word": "and",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "15.989s",
+              "endTime": "16.179s",
+              "word": "its",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "16.179s",
+              "endTime": "16.879s",
+              "word": "emergence",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "16.879s",
+              "endTime": "17.037s",
+              "word": "as",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "17.037s",
+              "endTime": "17.137s",
+              "word": "an",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "17.137s",
+              "endTime": "17.807s",
+              "word": "economic",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "17.807s",
+              "endTime": "18.669s",
+              "word": "superpower",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "18.669s",
+              "endTime": "19.261s",
+              "word": "presented",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "19.261s",
+              "endTime": "19.549s",
+              "word": "both",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "19.549s",
+              "endTime": "20.299s",
+              "word": "competitive",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "20.299s",
+              "endTime": "21.149s",
+              "word": "challenges",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "21.149s",
+              "endTime": "21.284s",
+              "word": "and",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "21.284s",
+              "endTime": "21.514s",
+              "word": "new",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "21.514s",
+              "endTime": "21.920s",
+              "word": "trade",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "21.920s",
+              "endTime": "22.884s",
+              "word": "opportunities",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "22.884s",
+              "endTime": "23.029s",
+              "word": "for",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "23.029s",
+              "endTime": "23.174s",
+              "word": "the",
+              "speakerTag": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

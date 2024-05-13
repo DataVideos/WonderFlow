@@ -1,0 +1,18 @@
+
+    {
+      projectId: 'bar-vega-food-emission-example1',
+      scenes: [
+        {
+          charts: [
+            {source: './bar-vega-food-emission.svg'},
+          ],
+          animation: {
+            sequence: {
+                "sync": [
+                ]
+            }
+          },
+        }
+      ]
+    }
+  

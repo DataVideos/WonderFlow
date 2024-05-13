@@ -1,0 +1,56 @@
+{
+  "d1": "The title of the chart is Global Mine Production in 2021 of Leading Countries.",
+  "d2": "The theta axis measures the production share, with each country marked by a different color.",
+  "insight1": {
+      "insightType": "value",
+      "insightSentence" : "China holds the majority of the global mine production in 2021, with a proportion of 0.61. It is followed by the United States with 0.155 and Myanmar with 0.094. Australia and all other countries occupy the next two places respectively with proportions of 0.08 and 0.061.",
+      "subInsights": [
+            {
+                "type": "value1",
+                "data": ["0.61, China"],
+                "phrases": "China holds the majority"
+            },
+          {
+              "type": "value2",
+              "data": ["0.155, United States"],
+              "phrases": "the United States with 0.155"
+          },
+          {
+              "type": "value3",
+              "data": ["0.094, Myanmar"],
+              "phrases": "Myanmar with 0.094"
+          },
+          {
+              "type": "value4",
+              "data": ["0.08, Australia"],
+              "phrases": "Australia"
+          },
+          {
+              "type": "value5",
+              "data": ["0.061, Others"],
+              "phrases": "all other countries"
+          }
+      ]
+  },
+  "insight2": {
+      "insightType": "proportion",
+      "insightSentence" : "China is the undisputed leader in production among all countries. The lowest mine production is observed in 'Others' with a proportion of 0.061.",
+      "subInsights": [
+          {
+              "type": "majority",
+              "data": ["0.61, China"],
+              "phrases": "China is the undisputed leader"
+          },
+          {
+              "type": "minority",
+              "data": ["0.061, Others"],
+              "phrases": "The lowest mine production is observed in 'Others' with a proportion of 0.061"
+          }
+      ]
+  },
+  "insight3": {
+    "insightType": "",
+    "insightSentence": "",
+    "subInsights": []
+}
+}

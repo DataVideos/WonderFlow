@@ -1,0 +1,421 @@
+[
+
+  // Data Playwright
+  {
+    id: 'travel',
+    label: 'Travel',
+    group: 'Single chart',
+  },
+  {
+    id: 'parallel_coord',
+    label: 'parallel_coord',
+    group: 'Single chart',
+  },
+  {
+    id: 'living',
+    label: 'Living',
+    group: 'Single chart',
+  },
+  {
+    id: 'hunger',
+    label: 'Hunger',
+    group: 'Single chart',
+  },
+  {
+    id: 'radar',
+    label: 'Radar',
+    group: 'Single chart',
+  },
+  {
+    id: 'phone',
+    label: 'Phone',
+    group: 'Single chart',
+  },
+  {
+    id: 'radar2',
+    label: 'Radar2',
+    group: 'Single chart',
+  },
+  {
+    id: 'river',
+    label: 'River',
+    group: 'Single chart',
+  },
+  {
+    id: 'vega-lite-GDP-comparison',
+    label: 'GDP comparison',
+    group: 'Single chart',
+  },
+  {
+    id: 'vega-lite-GDP-comparison1',
+    label: 'GDP comparison1',
+    group: 'Single chart',
+  },
+
+    // WonderFlow 1.0
+  {
+    id: 'australia-fire-example1',
+    label: 'Australia Fire',
+    group: 'Single chart',
+  },
+  {
+    id: 'accounting-of-pirates-example1',
+    label: 'Accounting of Pirates',
+    group: 'Single chart',
+  },
+
+  {
+    id: 'commute-mode-example1',
+    label: 'Commute Mode',
+    group: 'Single chart',
+  },
+  {
+    id: 'house-prices-example1',
+    label: 'House Prices',
+    group: 'Single chart',
+  },
+  {
+    id: 'army-military-comparison-example1',
+    label: 'GDP Comparison',
+    group: 'Single chart',
+  },
+  {
+    id: 'sat-score-example1',
+    label: 'SAT Score',
+    group: 'Single chart',
+  },
+  {
+    id: 'scottish-independence-referendum-example1',
+    label: 'Scottish Independence Referendum',
+    group: 'Single chart',
+  },
+  {
+    id: 'share-of-profits-example1',
+    label: 'Share of Profits',
+    group: 'Single chart',
+  },
+  {
+    id: 'shortage-of-water-example1',
+    label: 'Shortage of Water',
+    group: 'Single chart',
+  },
+  {
+    id: 'transportation-mode-example1',
+    label: 'Transportation Mode',
+    group: 'Single chart',
+  },
+  {
+    id: 'wealth-inequality-example1',
+    label: 'Wealth Inequality',
+    group: 'Single chart',
+  },
+
+
+
+  // Data Player
+  {
+    id: 'tax-payment',
+    label: 'Tax-Payment',
+    group: 'WonderFlow2',
+  },
+  {
+    id: 'characteristics-of-mushrooms',
+    label: 'characteristics-of-mushrooms',
+    group: 'WonderFlow2',
+  },
+  {
+    id: 'chinese-tourists',
+    label: 'chinese-tourists',
+    group: 'WonderFlow2',
+  },
+  {
+    id: 'vega-lite-driving-shifts-into-reverse',
+    label: 'Driving Shifts Into Reverse',
+    group: 'Vega-Lite Chart',
+  },
+  {
+    id: 'vega-lite-PM25',
+    label: 'PM2.5',
+    group: 'Vega-Lite Chart',
+  },
+  {
+    id: 'vega-lite-5-point-Likert',
+    label: '5-point Likert',
+    group: 'Vega-Lite Chart',
+  },
+  {
+    id: 'vega-lite-body-mass-of-penguins',
+    label: 'body-mass-of-penguins',
+    group: 'Vega-Lite Chart',
+  },
+  {
+    id: 'vega-lite-monthly-profit-and-loss',
+    label: 'monthly-profit-and-loss',
+    group: 'Vega-Lite Chart',
+  },
+  {
+    id: 'vega-lite-movie-ratings',
+    label: 'vega-lite-movie-ratings',
+    group: 'Vega-Lite Chart',
+  },  {
+    id: 'vega-lite-stock-prices',
+    label: 'vega-lite-stock-prices',
+    group: 'Vega-Lite Chart',
+  },  {
+    id: 'vega-lite-stock-prices2',
+    label: 'vega-lite-stock-prices2',
+    group: 'Vega-Lite Chart',
+  },  {
+    id: 'vega-lite-weather',
+    label: 'vega-lite-weather',
+    group: 'Vega-Lite Chart',
+  },  {
+    id: 'vega-lite-london-tube-lines',
+    label: 'vega-lite-london-tube-lines',
+    group: 'Vega-Lite Chart',
+  },  {
+    id: 'vega-lite-unemployment',
+    label: 'vega-lite-unemployment',
+    group: 'Vega-Lite Chart',
+  },  {
+    id: 'vega-lite-parallel-coordinate',
+    label: 'vega-lite-parallel-coordinate',
+    group: 'Vega-Lite Chart',
+  },  {
+    id: 'vega-lite-cars',
+    label: 'vega-lite-cars',
+    group: 'Vega-Lite Chart',
+  },
+  {
+    id: 'vega-lite-CO2',
+    label: 'vega-lite-CO2',
+    group: 'Vega-Lite Chart',
+  },
+  {
+    id: 'vega-lite-tourism',
+    label: 'vega-lite-tourism',
+    group: 'Vega-Lite Chart',
+  },
+  {
+    id: 'vega-lite1',
+    label: 'Vega-lite Test1',
+    group: 'Vega-Lite Chart',
+  },
+  {
+    id: 'vega-lite2',
+    label: 'Vega-lite Test2',
+    group: 'Vega-Lite Chart',
+  },
+  {
+    id: 'vega-lite5',
+    label: 'Vega-lite Test5',
+    group: 'Vega-Lite Chart',
+  },
+  {
+    id: 'vega-lite7',
+    label: 'Vega-lite Test7',
+    group: 'Vega-Lite Chart',
+  },
+  {
+    id: 'vega-lite4',
+    label: 'Vega-lite Test4',
+    group: 'Vega-Lite Chart',
+  },
+  {
+    id: 'vega-lite6',
+    label: 'Vega-lite Test6',
+    group: 'Vega-Lite Chart',
+  },
+  {
+    id: 'vega-lite8',
+    label: 'Vega-lite Test8',
+    group: 'Vega-Lite Chart',
+  },
+  {
+    id: 'vega-lite3',
+    label: 'Vega-lite Test3 (Improper)',
+    group: 'Vega-Lite Chart',
+  },
+  {
+    id: 'vega-lite15',
+    label: 'Vega-lite Test15',
+    group: 'Vega-Lite Chart',
+  },
+  {
+    id: 'vega-lite9',
+    label: 'Vega-lite Test9',
+    group: 'Vega-Lite Chart',
+  },
+  {
+    id: 'vega-lite10',
+    label: 'Vega-lite Test10',
+    group: 'Vega-Lite Chart',
+  },
+    {
+    id: 'vega-lite11',
+    label: 'Vega-lite Test11',
+    group: 'Vega-Lite Chart',
+  },
+  {
+    id: 'vega-lite12',
+    label: 'Vega-lite Test12',
+    group: 'Vega-Lite Chart',
+  },
+  {
+    id: 'vega-lite14',
+    label: 'Vega-lite Test14 (Hard)',
+    group: 'Vega-Lite Chart',
+  },
+  {
+    id: 'vega-lite16',
+    label: 'Vega-lite Test16',
+    group: 'Vega-Lite Chart',
+  },
+  {
+    id: 'vega-lite17',
+    label: 'Vega-lite Test17',
+    group: 'Vega-Lite Chart',
+  },
+  {
+    id: 'vega-lite18',
+    label: 'Vega-lite Test18',
+    group: 'Vega-Lite Chart',
+  },
+  {
+    id: 'vega-lite19',
+    label: 'Vega-lite Test19',
+    group: 'Vega-Lite Chart',
+  },
+  {
+    id: 'vega-lite20',
+    label: 'Vega-lite Test20',
+    group: 'Vega-Lite Chart',
+  },
+  {
+    id: 'figma-test',
+    label: 'Figma Test',
+    group: 'WonderFlow2',
+  },
+  
+
+  // Live Chart
+  
+  // {
+  //   id: 'line-vega-earnings-example1',
+  //   label: 'line-vega-earnings',
+  //   group: 'Single chart',
+  // },
+  // {
+  //   id: 'line-vega-telephone-example1',
+  //   label: 'line-vega-telephone',
+  //   group: 'Single chart',
+  // },
+  // {
+  //   id: 'line-vega-qatar-example1',
+  //   label: 'line-vega-qatar',
+  //   group: 'Single chart',
+  // },
+  // {
+  //   id: 'line-vega-meta-example1',
+  //   label: 'line-vega-meta',
+  //   group: 'Single chart',
+  // },
+  // {
+  //   id: 'line-vega-airport-example1',
+  //   label: 'line-vega-airport',
+  //   group: 'Single chart',
+  // },
+  // {
+  //   id: 'bar-vega-nuclear-example1',
+  //   label: 'bar-vega-nuclear',
+  //   group: 'Single chart',
+  // },
+  // {
+  //   id: 'line-vega-death-example1',
+  //   label: 'line-vega-death',
+  //   group: 'Single chart',
+  // },
+  {
+    id: 'pie-vega-HIV-example1',
+    label: 'pie-vega-HIV',
+    group: 'Single chart',
+  },
+  {
+    id: 'bar-vega-plan-timeline-example1',
+    label: 'bar-vega-plan-timeline',
+    group: 'Single chart',
+  },
+  {
+    id: 'pie-vega-mine-production-example1',
+    label: 'pie-vega-mine-production',
+    group: 'Single chart',
+  },
+  {
+    id: 'pie-vega-gas-emission-example1',
+    label: 'pie-vega-gas-emission',
+    group: 'Single chart',
+  },
+  {
+    id: 'pie-vega-covid-19-patient-example1',
+    label: 'pie-vega-covid-19-patient',
+    group: 'Single chart',
+  },
+  {
+      id: 'pie-vega-coffee-example1',
+      label: 'pie-vega-coffee',
+      group: 'Single chart',
+  },
+  {
+    id: 'pie-vega-woman-poverty-example1',
+    label: 'pie-vega-woman-poverty',
+    group: 'Single chart',
+  },
+  {
+    id: 'bar-vega-crime-example1',
+    label: 'bar-vega-crime',
+    group: 'Single chart',
+  },
+  {
+    id: 'bar-vega-food-emission-example1',
+    label: 'bar-vega-food-emission',
+    group: 'Single chart',
+  },
+  {
+    id: 'bar-vega-social-media-platform-example1',
+    label: 'bar-vega-social-media-platform',
+    group: 'Single chart',
+  },
+  {
+    id: 'bar-vega-co2-emission-example1',
+    label: 'bar-vega-co2-emission',
+    group: 'Single chart',
+  },
+  // {
+  //   id: 'bar-vega-war-deaths-example1',
+  //   label: 'bar-vega-war-deaths',
+  //   group: 'Single chart',
+  // },
+// {
+  //   id: 'line-Total-Nonfarm-Employment-in-the-United-States-example1',
+  //   label: 'line-Total-Nonfarm-Employment-in-the-United-States',
+  //   group: 'Single chart',
+  // },
+  {
+    id: 'line-annual-box-office-earnings-example1',
+    label: 'line-annual-box-office-earnings',
+    group: 'Single chart',
+  },
+  {
+    id: 'line-3619-example1',
+    label: 'Line 3619',
+    group: 'Single chart',
+  },
+  {
+    id: 'vega-average-price-example1',
+    label: 'Average Price',
+    group: 'Single chart',
+  }
+]
+
+
+

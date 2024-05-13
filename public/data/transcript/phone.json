@@ -1,0 +1,548 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "The Survey offered intriguing insights into smartphone user preferences in the Netherlands. iPhone users valued smart functionality, brand, and cost of ownership, while features like a large screen and design quality were less important. Samsung users prioritized financial factors, such as contract cost and device price, along with practical features like battery life. Nokia users focused on cost-effectiveness, with device price being their top concern, followed by battery life and contract cost. Common concerns across all groups included cost-related factors and practical features, but each group had distinct priorities. .",
+          "confidence": 1.0,
+          "words": [
+            {
+              "startTime": "0.000s",
+              "endTime": "0.105s",
+              "word": "The",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "0.105s",
+              "endTime": "0.740s",
+              "word": "Survey",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "0.740s",
+              "endTime": "1.165s",
+              "word": "offered",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "1.165s",
+              "endTime": "1.907s",
+              "word": "intriguing",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "1.907s",
+              "endTime": "2.633s",
+              "word": "insights",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "2.633s",
+              "endTime": "2.848s",
+              "word": "into",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "2.848s",
+              "endTime": "3.615s",
+              "word": "smartphone",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "3.615s",
+              "endTime": "3.990s",
+              "word": "user",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "3.990s",
+              "endTime": "4.820s",
+              "word": "preferences",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "4.820s",
+              "endTime": "4.965s",
+              "word": "in",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "4.965s",
+              "endTime": "5.025s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "5.025s",
+              "endTime": "6.815s",
+              "word": "Netherlands.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "6.815s",
+              "endTime": "7.355s",
+              "word": "iPhone",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "7.355s",
+              "endTime": "7.900s",
+              "word": "users",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "7.900s",
+              "endTime": "8.382s",
+              "word": "valued",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "8.382s",
+              "endTime": "8.833s",
+              "word": "smart",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "8.833s",
+              "endTime": "10.050s",
+              "word": "functionality,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "10.050s",
+              "endTime": "10.699s",
+              "word": "brand,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "10.699s",
+              "endTime": "10.869s",
+              "word": "and",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "10.869s",
+              "endTime": "11.302s",
+              "word": "cost",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "11.302s",
+              "endTime": "11.417s",
+              "word": "of",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "11.417s",
+              "endTime": "12.493s",
+              "word": "ownership,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "12.493s",
+              "endTime": "12.658s",
+              "word": "while",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "12.658s",
+              "endTime": "13.192s",
+              "word": "features",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "13.192s",
+              "endTime": "13.403s",
+              "word": "like",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "13.403s",
+              "endTime": "13.423s",
+              "word": "a",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "13.423s",
+              "endTime": "13.934s",
+              "word": "large",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "13.934s",
+              "endTime": "14.369s",
+              "word": "screen",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "14.369s",
+              "endTime": "14.537s",
+              "word": "and",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "14.537s",
+              "endTime": "15.042s",
+              "word": "design",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "15.042s",
+              "endTime": "15.611s",
+              "word": "quality",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "15.611s",
+              "endTime": "15.783s",
+              "word": "were",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "15.783s",
+              "endTime": "16.113s",
+              "word": "less",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "16.113s",
+              "endTime": "17.638s",
+              "word": "important.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "17.638s",
+              "endTime": "18.366s",
+              "word": "Samsung",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "18.366s",
+              "endTime": "18.868s",
+              "word": "users",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "18.868s",
+              "endTime": "19.925s",
+              "word": "prioritized",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "19.925s",
+              "endTime": "20.605s",
+              "word": "financial",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "20.605s",
+              "endTime": "21.541s",
+              "word": "factors,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "21.541s",
+              "endTime": "21.820s",
+              "word": "such",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "21.820s",
+              "endTime": "21.985s",
+              "word": "as",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "21.985s",
+              "endTime": "22.714s",
+              "word": "contract",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "22.714s",
+              "endTime": "23.169s",
+              "word": "cost",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "23.169s",
+              "endTime": "23.309s",
+              "word": "and",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "23.309s",
+              "endTime": "23.778s",
+              "word": "device",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "23.778s",
+              "endTime": "24.479s",
+              "word": "price,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "24.479s",
+              "endTime": "24.794s",
+              "word": "along",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "24.794s",
+              "endTime": "24.929s",
+              "word": "with",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "24.929s",
+              "endTime": "25.615s",
+              "word": "practical",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "25.615s",
+              "endTime": "26.210s",
+              "word": "features",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "26.210s",
+              "endTime": "26.400s",
+              "word": "like",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "26.400s",
+              "endTime": "26.911s",
+              "word": "battery",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "26.911s",
+              "endTime": "28.263s",
+              "word": "life.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "28.263s",
+              "endTime": "28.803s",
+              "word": "Nokia",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "28.803s",
+              "endTime": "29.378s",
+              "word": "users",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "29.378s",
+              "endTime": "29.927s",
+              "word": "focused",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "29.927s",
+              "endTime": "30.123s",
+              "word": "on",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "30.123s",
+              "endTime": "31.771s",
+              "word": "cost-effectiveness,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "31.771s",
+              "endTime": "31.918s",
+              "word": "with",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "31.918s",
+              "endTime": "32.438s",
+              "word": "device",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "32.438s",
+              "endTime": "32.861s",
+              "word": "price",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "32.861s",
+              "endTime": "33.143s",
+              "word": "being",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "33.143s",
+              "endTime": "33.258s",
+              "word": "their",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "33.258s",
+              "endTime": "33.662s",
+              "word": "top",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "33.662s",
+              "endTime": "34.625s",
+              "word": "concern,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "34.625s",
+              "endTime": "35.062s",
+              "word": "followed",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "35.062s",
+              "endTime": "35.252s",
+              "word": "by",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "35.252s",
+              "endTime": "35.803s",
+              "word": "battery",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "35.803s",
+              "endTime": "36.163s",
+              "word": "life",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "36.163s",
+              "endTime": "36.348s",
+              "word": "and",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "36.348s",
+              "endTime": "36.998s",
+              "word": "contract",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "36.998s",
+              "endTime": "38.420s",
+              "word": "cost.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "38.420s",
+              "endTime": "38.880s",
+              "word": "Common",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "38.880s",
+              "endTime": "39.535s",
+              "word": "concerns",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "39.535s",
+              "endTime": "40.014s",
+              "word": "across",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "40.014s",
+              "endTime": "40.294s",
+              "word": "all",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "40.294s",
+              "endTime": "40.789s",
+              "word": "groups",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "40.789s",
+              "endTime": "41.340s",
+              "word": "included",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "41.340s",
+              "endTime": "42.334s",
+              "word": "cost-related",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "42.334s",
+              "endTime": "43.020s",
+              "word": "factors",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "43.020s",
+              "endTime": "43.165s",
+              "word": "and",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "43.165s",
+              "endTime": "43.820s",
+              "word": "practical",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "43.820s",
+              "endTime": "44.777s",
+              "word": "features,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "44.777s",
+              "endTime": "44.947s",
+              "word": "but",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "44.947s",
+              "endTime": "45.223s",
+              "word": "each",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "45.223s",
+              "endTime": "45.579s",
+              "word": "group",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "45.579s",
+              "endTime": "45.749s",
+              "word": "had",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "45.749s",
+              "endTime": "46.285s",
+              "word": "distinct",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "46.285s",
+              "endTime": "47.269s",
+              "word": "priorities.",
+              "speakerTag": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

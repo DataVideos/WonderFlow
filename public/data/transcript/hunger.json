@@ -1,0 +1,368 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "Over the past 25 years, the UN\u2019s goal of ending hunger has shown encouraging progress: some of the world\u2019s most vulnerable people are now being fed. Malnutrition is falling worldwide. Even badly-affected regions such as South Asia and sub-Saharan Africa have seen improvements. It\u2019s down to more political commitment to food security, investment in agriculture and new nutrition programmes. .",
+          "confidence": 1.0,
+          "words": [
+            {
+              "startTime": "0.000s",
+              "endTime": "0.290s",
+              "word": "Over",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "0.290s",
+              "endTime": "0.430s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "0.430s",
+              "endTime": "0.878s",
+              "word": "past",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "0.878s",
+              "endTime": "1.593s",
+              "word": "25",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "1.593s",
+              "endTime": "2.441s",
+              "word": "years,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "2.441s",
+              "endTime": "2.536s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "2.536s",
+              "endTime": "3.030s",
+              "word": "UN\u2019s",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "3.030s",
+              "endTime": "3.415s",
+              "word": "goal",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "3.415s",
+              "endTime": "3.525s",
+              "word": "of",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "3.525s",
+              "endTime": "3.895s",
+              "word": "ending",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "3.895s",
+              "endTime": "4.430s",
+              "word": "hunger",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "4.430s",
+              "endTime": "4.615s",
+              "word": "has",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "4.615s",
+              "endTime": "4.934s",
+              "word": "shown",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "4.934s",
+              "endTime": "5.634s",
+              "word": "encouraging",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "5.634s",
+              "endTime": "6.961s",
+              "word": "progress:",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "6.961s",
+              "endTime": "7.173s",
+              "word": "some",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "7.173s",
+              "endTime": "7.288s",
+              "word": "of",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "7.288s",
+              "endTime": "7.373s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "7.373s",
+              "endTime": "7.791s",
+              "word": "world\u2019s",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "7.791s",
+              "endTime": "8.076s",
+              "word": "most",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "8.076s",
+              "endTime": "8.800s",
+              "word": "vulnerable",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "8.800s",
+              "endTime": "9.339s",
+              "word": "people",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "9.339s",
+              "endTime": "9.434s",
+              "word": "are",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "9.434s",
+              "endTime": "9.698s",
+              "word": "now",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "9.698s",
+              "endTime": "9.993s",
+              "word": "being",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "9.993s",
+              "endTime": "11.378s",
+              "word": "fed.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "11.378s",
+              "endTime": "12.440s",
+              "word": "Malnutrition",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "12.440s",
+              "endTime": "12.622s",
+              "word": "is",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "12.622s",
+              "endTime": "13.087s",
+              "word": "falling",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "13.087s",
+              "endTime": "14.163s",
+              "word": "worldwide.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "14.163s",
+              "endTime": "14.508s",
+              "word": "Even",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "14.508s",
+              "endTime": "15.684s",
+              "word": "badly-affected",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "15.684s",
+              "endTime": "16.212s",
+              "word": "regions",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "16.212s",
+              "endTime": "16.527s",
+              "word": "such",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "16.527s",
+              "endTime": "16.639s",
+              "word": "as",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "16.639s",
+              "endTime": "17.064s",
+              "word": "South",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "17.064s",
+              "endTime": "17.514s",
+              "word": "Asia",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "17.514s",
+              "endTime": "17.669s",
+              "word": "and",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "17.669s",
+              "endTime": "18.574s",
+              "word": "sub-Saharan",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "18.574s",
+              "endTime": "19.195s",
+              "word": "Africa",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "19.195s",
+              "endTime": "19.355s",
+              "word": "have",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "19.355s",
+              "endTime": "19.647s",
+              "word": "seen",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "19.647s",
+              "endTime": "21.481s",
+              "word": "improvements.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "21.481s",
+              "endTime": "21.701s",
+              "word": "It\u2019s",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "21.701s",
+              "endTime": "22.001s",
+              "word": "down",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "22.001s",
+              "endTime": "22.093s",
+              "word": "to",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "22.093s",
+              "endTime": "22.398s",
+              "word": "more",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "22.398s",
+              "endTime": "23.057s",
+              "word": "political",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "23.057s",
+              "endTime": "23.715s",
+              "word": "commitment",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "23.715s",
+              "endTime": "23.815s",
+              "word": "to",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "23.815s",
+              "endTime": "24.175s",
+              "word": "food",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "24.175s",
+              "endTime": "25.228s",
+              "word": "security,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "25.228s",
+              "endTime": "25.938s",
+              "word": "investment",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "25.938s",
+              "endTime": "26.073s",
+              "word": "in",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "26.073s",
+              "endTime": "27.045s",
+              "word": "agriculture",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "27.045s",
+              "endTime": "27.150s",
+              "word": "and",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "27.150s",
+              "endTime": "27.335s",
+              "word": "new",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "27.335s",
+              "endTime": "28.014s",
+              "word": "nutrition",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "28.014s",
+              "endTime": "28.850s",
+              "word": "programmes.",
+              "speakerTag": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  projectId: 'line-Total-Nonfarm-Employment-in-the-United-States-example1',
+  scenes: [
+    {
+      charts: [
+        {source: './line-Total-Nonfarm-Employment-in-the-United-States.svg'},
+      ],
+      animation: {
+        sequence: {
+            "sync": [
+            ]
+        }
+      },
+    }
+  ]
+}

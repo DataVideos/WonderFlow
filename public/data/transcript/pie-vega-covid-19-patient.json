@@ -1,0 +1,404 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "As we examine this data, it's heartening that 68.1% of UMMC's COVID-19 patients made the responsible choice to get fully vaccinated. However, our thoughts also turn to the 13.8% who remained unvaccinated, they may have faced personal barriers or concerns that deserve our compassion and understanding. The 10.6% with unknown status and the 7.5% deemed ineligible also deserve our empathy as they navigate this challenging situation. ",
+          "confidence": 1.0,
+          "words": [
+            {
+              "startTime": "0.000s",
+              "endTime": "0.205s",
+              "word": "As",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "0.205s",
+              "endTime": "0.405s",
+              "word": "we",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "0.405s",
+              "endTime": "0.998s",
+              "word": "examine",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "0.998s",
+              "endTime": "1.228s",
+              "word": "this",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "1.228s",
+              "endTime": "1.952s",
+              "word": "data,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "1.952s",
+              "endTime": "2.127s",
+              "word": "it's",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "2.127s",
+              "endTime": "2.695s",
+              "word": "heartening",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "2.695s",
+              "endTime": "2.875s",
+              "word": "that",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "2.875s",
+              "endTime": "4.856s",
+              "word": "68.1%",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "4.856s",
+              "endTime": "4.991s",
+              "word": "of",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "4.991s",
+              "endTime": "5.966s",
+              "word": "UMMC's",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "5.966s",
+              "endTime": "7.061s",
+              "word": "COVID-19",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "7.061s",
+              "endTime": "7.752s",
+              "word": "patients",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "7.752s",
+              "endTime": "7.982s",
+              "word": "made",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "7.982s",
+              "endTime": "8.042s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "8.042s",
+              "endTime": "8.949s",
+              "word": "responsible",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "8.949s",
+              "endTime": "9.489s",
+              "word": "choice",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "9.489s",
+              "endTime": "9.641s",
+              "word": "to",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "9.641s",
+              "endTime": "9.806s",
+              "word": "get",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "9.806s",
+              "endTime": "10.217s",
+              "word": "fully",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "10.217s",
+              "endTime": "12.009s",
+              "word": "vaccinated.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "12.009s",
+              "endTime": "12.817s",
+              "word": "However,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "12.817s",
+              "endTime": "12.922s",
+              "word": "our",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "12.922s",
+              "endTime": "13.410s",
+              "word": "thoughts",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "13.410s",
+              "endTime": "13.862s",
+              "word": "also",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "13.862s",
+              "endTime": "14.207s",
+              "word": "turn",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "14.207s",
+              "endTime": "14.352s",
+              "word": "to",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "14.352s",
+              "endTime": "14.480s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "14.480s",
+              "endTime": "16.237s",
+              "word": "13.8%",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "16.237s",
+              "endTime": "16.367s",
+              "word": "who",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "16.367s",
+              "endTime": "16.820s",
+              "word": "remained",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "16.820s",
+              "endTime": "18.334s",
+              "word": "unvaccinated,",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "18.334s",
+              "endTime": "18.439s",
+              "word": "they",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "18.439s",
+              "endTime": "18.635s",
+              "word": "may",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "18.635s",
+              "endTime": "18.775s",
+              "word": "have",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "18.775s",
+              "endTime": "19.171s",
+              "word": "faced",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "19.171s",
+              "endTime": "19.775s",
+              "word": "personal",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "19.775s",
+              "endTime": "20.461s",
+              "word": "barriers",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "20.461s",
+              "endTime": "20.581s",
+              "word": "or",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "20.581s",
+              "endTime": "21.322s",
+              "word": "concerns",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "21.322s",
+              "endTime": "21.502s",
+              "word": "that",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "21.502s",
+              "endTime": "21.935s",
+              "word": "deserve",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "21.935s",
+              "endTime": "22.070s",
+              "word": "our",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "22.070s",
+              "endTime": "22.873s",
+              "word": "compassion",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "22.873s",
+              "endTime": "23.048s",
+              "word": "and",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "23.048s",
+              "endTime": "24.868s",
+              "word": "understanding.",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "24.868s",
+              "endTime": "25.028s",
+              "word": "The",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "25.028s",
+              "endTime": "26.647s",
+              "word": "10.6%",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "26.647s",
+              "endTime": "26.826s",
+              "word": "with",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "26.826s",
+              "endTime": "27.288s",
+              "word": "unknown",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "27.288s",
+              "endTime": "27.963s",
+              "word": "status",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "27.963s",
+              "endTime": "28.088s",
+              "word": "and",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "28.088s",
+              "endTime": "28.153s",
+              "word": "the",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "28.153s",
+              "endTime": "29.971s",
+              "word": "7.5%",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "29.971s",
+              "endTime": "30.225s",
+              "word": "deemed",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "30.225s",
+              "endTime": "31.114s",
+              "word": "ineligible",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "31.114s",
+              "endTime": "31.558s",
+              "word": "also",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "31.558s",
+              "endTime": "32.032s",
+              "word": "deserve",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "32.032s",
+              "endTime": "32.237s",
+              "word": "our",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "32.237s",
+              "endTime": "32.837s",
+              "word": "empathy",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "32.837s",
+              "endTime": "32.982s",
+              "word": "as",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "32.982s",
+              "endTime": "33.102s",
+              "word": "they",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "33.102s",
+              "endTime": "33.826s",
+              "word": "navigate",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "33.826s",
+              "endTime": "33.981s",
+              "word": "this",
+              "speakerTag": 0
+            },
+            {
+              "startTime": "33.981s",
+              "endTime": "34.602s",
+              "word": "challenging",
+              "speakerTag": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

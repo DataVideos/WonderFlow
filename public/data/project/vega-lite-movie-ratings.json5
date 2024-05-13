@@ -1,0 +1,26 @@
+{
+  projectId: 'vega-lite-movie-ratings',
+  scenes: [
+    {
+      charts: [
+        {source: './vega-lite-movie-ratings.svg'},
+      ],
+      animation: {
+          target: '.vega-lite-movie-ratings',
+          sequence: {
+              sync: [
+                {
+                  use: 'Bar chart',
+                  settings: {
+                    barDirection: 'left',
+                  },
+                  timing: {
+                    duration: 5.5,
+                  },
+                },
+              ]
+          }
+      }
+    },
+  ]
+}

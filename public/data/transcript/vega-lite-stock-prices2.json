@@ -1,0 +1,1266 @@
+{
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "transcript": "This line chart shows the stock prices of four major technology companies, Amazon, Microsoft, Apple, and Google, for each year from 2017 to 2023. We can see that the stock prices of all four companies have increased over time, but at different rates and patterns. Amazon has the highest and fastest-growing stock price among the four, reaching $4500 in 2023, more than double the second-highest company, Google. Google has the second-highest stock price among the four, surpassing Microsoft and Apple in 2019 and 2020 respectively, and reaching $2200 in 2023. Microsoft has the third-highest stock price among the four, growing steadily from $62 in 2017 to $350 in 2023, with no significant fluctuations. Apple has the lowest and most volatile stock price among the four, dropping from $293 in 2020 to $182 in 2021, and then rebounding to $200 in 2022, before falling again to $150 in 2023. This chart reveals the different performance and trends of the four technology giants in the stock market over the past seven years.",
+                    "words": [
+                        {
+                            "startTime": "0s",
+                            "endTime": "0.05s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "This"
+                        },
+                        {
+                            "startTime": "0.05s",
+                            "endTime": "0.313s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "line"
+                        },
+                        {
+                            "startTime": "0.313s",
+                            "endTime": "0.575s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "chart"
+                        },
+                        {
+                            "startTime": "0.575s",
+                            "endTime": "0.95s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "shows"
+                        },
+                        {
+                            "startTime": "0.95s",
+                            "endTime": "1.225s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "the"
+                        },
+                        {
+                            "startTime": "1.225s",
+                            "endTime": "1.337s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "stock"
+                        },
+                        {
+                            "startTime": "1.337s",
+                            "endTime": "1.663s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "prices"
+                        },
+                        {
+                            "startTime": "1.663s",
+                            "endTime": "2.087s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "of"
+                        },
+                        {
+                            "startTime": "2.087s",
+                            "endTime": "2.188s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "four"
+                        },
+                        {
+                            "startTime": "2.188s",
+                            "endTime": "2.462s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "major"
+                        },
+                        {
+                            "startTime": "2.462s",
+                            "endTime": "2.788s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "technology"
+                        },
+                        {
+                            "startTime": "2.788s",
+                            "endTime": "3.462s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "companies"
+                        },
+                        {
+                            "startTime": "3.462s",
+                            "endTime": "4.2s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": ","
+                        },
+                        {
+                            "startTime": "4.2s",
+                            "endTime": "4.313s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "Amazon"
+                        },
+                        {
+                            "startTime": "4.313s",
+                            "endTime": "4.987s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": ","
+                        },
+                        {
+                            "startTime": "4.987s",
+                            "endTime": "5.075s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "Microsoft"
+                        },
+                        {
+                            "startTime": "5.075s",
+                            "endTime": "5.85s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": ","
+                        },
+                        {
+                            "startTime": "5.85s",
+                            "endTime": "5.912s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "Apple"
+                        },
+                        {
+                            "startTime": "5.912s",
+                            "endTime": "6.45s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": ","
+                        },
+                        {
+                            "startTime": "6.45s",
+                            "endTime": "6.563s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "and"
+                        },
+                        {
+                            "startTime": "6.563s",
+                            "endTime": "6.688s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "Google"
+                        },
+                        {
+                            "startTime": "6.688s",
+                            "endTime": "7.275s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": ","
+                        },
+                        {
+                            "startTime": "7.275s",
+                            "endTime": "7.35s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "for"
+                        },
+                        {
+                            "startTime": "7.35s",
+                            "endTime": "7.525s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "each"
+                        },
+                        {
+                            "startTime": "7.525s",
+                            "endTime": "7.787s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "year"
+                        },
+                        {
+                            "startTime": "7.787s",
+                            "endTime": "8.25s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "from 2017 to 2023"
+                        },
+                        {
+                            "startTime": "8.25s",
+                            "endTime": "11.088s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "."
+                        },
+                        {
+                            "startTime": "11.088s",
+                            "endTime": "11.938s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "We"
+                        },
+                        {
+                            "startTime": "11.938s",
+                            "endTime": "12.113s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "can"
+                        },
+                        {
+                            "startTime": "12.113s",
+                            "endTime": "12.287s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "see"
+                        },
+                        {
+                            "startTime": "12.287s",
+                            "endTime": "12.488s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "that"
+                        },
+                        {
+                            "startTime": "12.488s",
+                            "endTime": "12.637s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "the"
+                        },
+                        {
+                            "startTime": "12.637s",
+                            "endTime": "12.75s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "stock"
+                        },
+                        {
+                            "startTime": "12.75s",
+                            "endTime": "13.088s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "prices"
+                        },
+                        {
+                            "startTime": "13.088s",
+                            "endTime": "13.512s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "of"
+                        },
+                        {
+                            "startTime": "13.512s",
+                            "endTime": "13.613s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "all"
+                        },
+                        {
+                            "startTime": "13.613s",
+                            "endTime": "13.8s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "four"
+                        },
+                        {
+                            "startTime": "13.8s",
+                            "endTime": "14.063s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "companies"
+                        },
+                        {
+                            "startTime": "14.063s",
+                            "endTime": "14.738s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "have"
+                        },
+                        {
+                            "startTime": "14.738s",
+                            "endTime": "14.9s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "increased"
+                        },
+                        {
+                            "startTime": "14.9s",
+                            "endTime": "15.387s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "over"
+                        },
+                        {
+                            "startTime": "15.387s",
+                            "endTime": "15.588s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "time"
+                        },
+                        {
+                            "startTime": "15.588s",
+                            "endTime": "16.137s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": ","
+                        },
+                        {
+                            "startTime": "16.137s",
+                            "endTime": "16.225s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "but"
+                        },
+                        {
+                            "startTime": "16.225s",
+                            "endTime": "16.387s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "at"
+                        },
+                        {
+                            "startTime": "16.387s",
+                            "endTime": "16.512s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "different"
+                        },
+                        {
+                            "startTime": "16.512s",
+                            "endTime": "16.863s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "rates"
+                        },
+                        {
+                            "startTime": "16.863s",
+                            "endTime": "17.15s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "and"
+                        },
+                        {
+                            "startTime": "17.15s",
+                            "endTime": "17.262s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "patterns"
+                        },
+                        {
+                            "startTime": "17.262s",
+                            "endTime": "18s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "."
+                        },
+                        {
+                            "startTime": "18s",
+                            "endTime": "18.85s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "Amazon"
+                        },
+                        {
+                            "startTime": "18.85s",
+                            "endTime": "19.575s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "has"
+                        },
+                        {
+                            "startTime": "19.575s",
+                            "endTime": "19.75s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "the"
+                        },
+                        {
+                            "startTime": "19.75s",
+                            "endTime": "19.85s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "highest"
+                        },
+                        {
+                            "startTime": "19.85s",
+                            "endTime": "20.387s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "and"
+                        },
+                        {
+                            "startTime": "20.387s",
+                            "endTime": "20.525s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "fastest-growing"
+                        },
+                        {
+                            "startTime": "20.525s",
+                            "endTime": "21.4s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "stock"
+                        },
+                        {
+                            "startTime": "21.4s",
+                            "endTime": "21.75s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "price"
+                        },
+                        {
+                            "startTime": "21.75s",
+                            "endTime": "22.087s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "among"
+                        },
+                        {
+                            "startTime": "22.087s",
+                            "endTime": "22.337s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "the"
+                        },
+                        {
+                            "startTime": "22.337s",
+                            "endTime": "22.45s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "four"
+                        },
+                        {
+                            "startTime": "22.45s",
+                            "endTime": "23.038s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": ","
+                        },
+                        {
+                            "startTime": "23.038s",
+                            "endTime": "23.212s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "reaching"
+                        },
+                        {
+                            "startTime": "23.212s",
+                            "endTime": "23.538s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "$4500"
+                        },
+                        {
+                            "startTime": "23.538s",
+                            "endTime": "25.387s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "in 2023"
+                        },
+                        {
+                            "startTime": "25.387s",
+                            "endTime": "26.688s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": ","
+                        },
+                        {
+                            "startTime": "26.688s",
+                            "endTime": "26.875s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "more"
+                        },
+                        {
+                            "startTime": "26.875s",
+                            "endTime": "27.05s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "than"
+                        },
+                        {
+                            "startTime": "27.05s",
+                            "endTime": "27.212s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "double"
+                        },
+                        {
+                            "startTime": "27.212s",
+                            "endTime": "27.488s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "the"
+                        },
+                        {
+                            "startTime": "27.488s",
+                            "endTime": "27.6s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "second-highest"
+                        },
+                        {
+                            "startTime": "27.6s",
+                            "endTime": "28.337s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "company"
+                        },
+                        {
+                            "startTime": "28.337s",
+                            "endTime": "28.938s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": ","
+                        },
+                        {
+                            "startTime": "28.938s",
+                            "endTime": "29s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "Google"
+                        },
+                        {
+                            "startTime": "29s",
+                            "endTime": "29.512s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "."
+                        },
+                        {
+                            "startTime": "29.512s",
+                            "endTime": "30.363s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "Google"
+                        },
+                        {
+                            "startTime": "30.363s",
+                            "endTime": "30.775s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "has"
+                        },
+                        {
+                            "startTime": "30.775s",
+                            "endTime": "30.95s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "the"
+                        },
+                        {
+                            "startTime": "30.95s",
+                            "endTime": "31.063s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "second-highest"
+                        },
+                        {
+                            "startTime": "31.063s",
+                            "endTime": "31.813s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "stock"
+                        },
+                        {
+                            "startTime": "31.813s",
+                            "endTime": "32.125s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "price"
+                        },
+                        {
+                            "startTime": "32.125s",
+                            "endTime": "32.462s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "among"
+                        },
+                        {
+                            "startTime": "32.462s",
+                            "endTime": "32.712s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "the"
+                        },
+                        {
+                            "startTime": "32.712s",
+                            "endTime": "32.825s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "four"
+                        },
+                        {
+                            "startTime": "32.825s",
+                            "endTime": "33.413s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": ","
+                        },
+                        {
+                            "startTime": "33.413s",
+                            "endTime": "33.587s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "surpassing"
+                        },
+                        {
+                            "startTime": "33.587s",
+                            "endTime": "34.175s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "Microsoft"
+                        },
+                        {
+                            "startTime": "34.175s",
+                            "endTime": "34.925s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "and"
+                        },
+                        {
+                            "startTime": "34.925s",
+                            "endTime": "35.1s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "Apple"
+                        },
+                        {
+                            "startTime": "35.1s",
+                            "endTime": "35.563s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "in 2019 and 2020"
+                        },
+                        {
+                            "startTime": "35.563s",
+                            "endTime": "37.55s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "respectively"
+                        },
+                        {
+                            "startTime": "37.55s",
+                            "endTime": "38.425s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": ","
+                        },
+                        {
+                            "startTime": "38.425s",
+                            "endTime": "38.587s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "and"
+                        },
+                        {
+                            "startTime": "38.587s",
+                            "endTime": "38.737s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "reaching"
+                        },
+                        {
+                            "startTime": "38.737s",
+                            "endTime": "39.1s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "$2200"
+                        },
+                        {
+                            "startTime": "39.1s",
+                            "endTime": "40.712s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "in 2023"
+                        },
+                        {
+                            "startTime": "40.712s",
+                            "endTime": "41.95s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "."
+                        },
+                        {
+                            "startTime": "41.95s",
+                            "endTime": "42.8s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "Microsoft"
+                        },
+                        {
+                            "startTime": "42.8s",
+                            "endTime": "43.487s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "has"
+                        },
+                        {
+                            "startTime": "43.487s",
+                            "endTime": "43.663s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "the"
+                        },
+                        {
+                            "startTime": "43.663s",
+                            "endTime": "43.775s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "third-highest"
+                        },
+                        {
+                            "startTime": "43.775s",
+                            "endTime": "44.438s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "stock"
+                        },
+                        {
+                            "startTime": "44.438s",
+                            "endTime": "44.775s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "price"
+                        },
+                        {
+                            "startTime": "44.775s",
+                            "endTime": "45.125s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "among"
+                        },
+                        {
+                            "startTime": "45.125s",
+                            "endTime": "45.375s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "the"
+                        },
+                        {
+                            "startTime": "45.375s",
+                            "endTime": "45.487s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "four"
+                        },
+                        {
+                            "startTime": "45.487s",
+                            "endTime": "46.087s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": ","
+                        },
+                        {
+                            "startTime": "46.087s",
+                            "endTime": "46.212s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "growing"
+                        },
+                        {
+                            "startTime": "46.212s",
+                            "endTime": "46.563s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "steadily"
+                        },
+                        {
+                            "startTime": "46.563s",
+                            "endTime": "47.063s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "from"
+                        },
+                        {
+                            "startTime": "47.063s",
+                            "endTime": "47.275s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "$62"
+                        },
+                        {
+                            "startTime": "47.275s",
+                            "endTime": "48.388s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "in 2017"
+                        },
+                        {
+                            "startTime": "48.388s",
+                            "endTime": "49.925s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "to"
+                        },
+                        {
+                            "startTime": "49.925s",
+                            "endTime": "50.063s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "$350"
+                        },
+                        {
+                            "startTime": "50.063s",
+                            "endTime": "51.538s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "in 2023"
+                        },
+                        {
+                            "startTime": "51.538s",
+                            "endTime": "52.8s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": ","
+                        },
+                        {
+                            "startTime": "52.8s",
+                            "endTime": "52.975s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "with"
+                        },
+                        {
+                            "startTime": "52.975s",
+                            "endTime": "53.138s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "no"
+                        },
+                        {
+                            "startTime": "53.138s",
+                            "endTime": "53.325s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "significant"
+                        },
+                        {
+                            "startTime": "53.325s",
+                            "endTime": "53.975s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "fluctuations"
+                        },
+                        {
+                            "startTime": "53.975s",
+                            "endTime": "55.063s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "."
+                        },
+                        {
+                            "startTime": "55.063s",
+                            "endTime": "55.913s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "Apple"
+                        },
+                        {
+                            "startTime": "55.913s",
+                            "endTime": "56.425s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "has"
+                        },
+                        {
+                            "startTime": "56.425s",
+                            "endTime": "56.6s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "the"
+                        },
+                        {
+                            "startTime": "56.6s",
+                            "endTime": "56.725s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "lowest"
+                        },
+                        {
+                            "startTime": "56.725s",
+                            "endTime": "57.288s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "and"
+                        },
+                        {
+                            "startTime": "57.288s",
+                            "endTime": "57.438s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "most"
+                        },
+                        {
+                            "startTime": "57.438s",
+                            "endTime": "57.75s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "volatile"
+                        },
+                        {
+                            "startTime": "57.75s",
+                            "endTime": "58.163s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "stock"
+                        },
+                        {
+                            "startTime": "58.163s",
+                            "endTime": "58.487s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "price"
+                        },
+                        {
+                            "startTime": "58.487s",
+                            "endTime": "58.837s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "among"
+                        },
+                        {
+                            "startTime": "58.837s",
+                            "endTime": "59.087s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "the"
+                        },
+                        {
+                            "startTime": "59.087s",
+                            "endTime": "59.2s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "four"
+                        },
+                        {
+                            "startTime": "59.2s",
+                            "endTime": "59.8s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": ","
+                        },
+                        {
+                            "startTime": "59.8s",
+                            "endTime": "59.938s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "dropping"
+                        },
+                        {
+                            "startTime": "59.938s",
+                            "endTime": "60.337s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "from"
+                        },
+                        {
+                            "startTime": "60.337s",
+                            "endTime": "60.55s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "$293"
+                        },
+                        {
+                            "startTime": "60.55s",
+                            "endTime": "62.2s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "in 2020"
+                        },
+                        {
+                            "startTime": "62.2s",
+                            "endTime": "63.212s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "to"
+                        },
+                        {
+                            "startTime": "63.212s",
+                            "endTime": "63.337s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "$182"
+                        },
+                        {
+                            "startTime": "63.337s",
+                            "endTime": "64.888s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "in 2021"
+                        },
+                        {
+                            "startTime": "64.888s",
+                            "endTime": "66.125s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": ","
+                        },
+                        {
+                            "startTime": "66.125s",
+                            "endTime": "66.263s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "and"
+                        },
+                        {
+                            "startTime": "66.263s",
+                            "endTime": "66.4s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "then"
+                        },
+                        {
+                            "startTime": "66.4s",
+                            "endTime": "66.625s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "rebounding"
+                        },
+                        {
+                            "startTime": "66.625s",
+                            "endTime": "67.112s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "to"
+                        },
+                        {
+                            "startTime": "67.112s",
+                            "endTime": "67.225s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "$200"
+                        },
+                        {
+                            "startTime": "67.225s",
+                            "endTime": "68.25s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "in 2022"
+                        },
+                        {
+                            "startTime": "68.25s",
+                            "endTime": "69.438s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": ","
+                        },
+                        {
+                            "startTime": "69.438s",
+                            "endTime": "69.612s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "before"
+                        },
+                        {
+                            "startTime": "69.612s",
+                            "endTime": "69.987s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "falling"
+                        },
+                        {
+                            "startTime": "69.987s",
+                            "endTime": "70.375s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "again"
+                        },
+                        {
+                            "startTime": "70.375s",
+                            "endTime": "70.862s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "to"
+                        },
+                        {
+                            "startTime": "70.862s",
+                            "endTime": "70.987s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "$150"
+                        },
+                        {
+                            "startTime": "70.987s",
+                            "endTime": "72.375s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "in 2023"
+                        },
+                        {
+                            "startTime": "72.375s",
+                            "endTime": "73.588s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "."
+                        },
+                        {
+                            "startTime": "73.588s",
+                            "endTime": "74.438s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "This"
+                        },
+                        {
+                            "startTime": "74.438s",
+                            "endTime": "74.713s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "chart"
+                        },
+                        {
+                            "startTime": "74.713s",
+                            "endTime": "75.025s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "reveals"
+                        },
+                        {
+                            "startTime": "75.025s",
+                            "endTime": "75.463s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "the"
+                        },
+                        {
+                            "startTime": "75.463s",
+                            "endTime": "75.588s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "different"
+                        },
+                        {
+                            "startTime": "75.588s",
+                            "endTime": "75.925s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "performance"
+                        },
+                        {
+                            "startTime": "75.925s",
+                            "endTime": "76.675s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "and"
+                        },
+                        {
+                            "startTime": "76.675s",
+                            "endTime": "76.825s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "trends"
+                        },
+                        {
+                            "startTime": "76.825s",
+                            "endTime": "77.2s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "of"
+                        },
+                        {
+                            "startTime": "77.2s",
+                            "endTime": "77.275s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "the"
+                        },
+                        {
+                            "startTime": "77.275s",
+                            "endTime": "77.375s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "four"
+                        },
+                        {
+                            "startTime": "77.375s",
+                            "endTime": "77.662s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "technology"
+                        },
+                        {
+                            "startTime": "77.662s",
+                            "endTime": "78.362s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "giants"
+                        },
+                        {
+                            "startTime": "78.362s",
+                            "endTime": "78.987s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "in"
+                        },
+                        {
+                            "startTime": "78.987s",
+                            "endTime": "79.112s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "the"
+                        },
+                        {
+                            "startTime": "79.112s",
+                            "endTime": "79.2s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "stock"
+                        },
+                        {
+                            "startTime": "79.2s",
+                            "endTime": "79.563s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "market"
+                        },
+                        {
+                            "startTime": "79.563s",
+                            "endTime": "80.1s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "over"
+                        },
+                        {
+                            "startTime": "80.1s",
+                            "endTime": "80.287s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "the"
+                        },
+                        {
+                            "startTime": "80.287s",
+                            "endTime": "80.4s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "past"
+                        },
+                        {
+                            "startTime": "80.4s",
+                            "endTime": "80.775s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "seven"
+                        },
+                        {
+                            "startTime": "80.775s",
+                            "endTime": "81.088s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "years"
+                        },
+                        {
+                            "startTime": "81.088s",
+                            "endTime": "81.625s",
+                            "selected": false,
+                            "speakerTag": 0,
+                            "word": "."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

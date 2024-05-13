@@ -1,0 +1,26 @@
+{
+  projectId: 'vega-lite-body-mass-of-penguins',
+  scenes: [
+    {
+      charts: [
+        {source: './vega-lite-body-mass-of-penguins.svg'},
+      ],
+      animation: {
+          target: '.vega-lite-body-mass-of-penguins',
+          sequence: {
+              sync: [
+                {
+                  use: 'Bar chart',
+                  settings: {
+                    barDirection: 'left',
+                  },
+                  timing: {
+                    duration: 5.5,
+                  },
+                },
+              ]
+          }
+      }
+    },
+  ]
+}

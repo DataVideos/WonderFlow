@@ -1,0 +1,26 @@
+{
+  projectId: 'vega-lite-unemployment',
+  scenes: [
+    {
+      charts: [
+        {source: './vega-lite-unemployment.svg'},
+      ],
+      animation: {
+          target: '.vega-lite-unemployment',
+          sequence: {
+              sync: [
+                {
+                  use: 'Bar chart',
+                  settings: {
+                    barDirection: 'left',
+                  },
+                  timing: {
+                    duration: 5.5,
+                  },
+                },
+              ]
+          }
+      }
+    },
+  ]
+}

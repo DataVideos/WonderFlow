@@ -1,0 +1,91 @@
+{
+  "d1": "The title of the chart is Estimated Nuclear Warhead Stockpiles.",
+  "d2": "The x-axis shows the years while the y-axis shows the estimated number of nuclear warheads, indicated by two colors – red for Russia and blue for the United States.",
+  "insight1": {
+    "insightType": "distribution",
+    "insightSentence": "The bar chart shows a normal distribution of nuclear warhead stockpiles for both Russia and the United States.",
+    "subInsights": [
+      {
+        "type": "normal",
+        "data": [
+            "1950,5,Russia", "1955,200,Russia", "1960,1627,Russia", "1965,6144,Russia", "1970,11736,Russia", "1975,19235,Russia", "1980,30665,Russia", "1985,38582,Russia", "1990,32980,Russia", "1995,18179,Russia", "2000,12188,Russia", "2005,7000,Russia", "2010,5215,Russia", "2015,4500,Russia", "2020,4310,Russia",
+            "1950,299,United States", "1955,2422,United States", "1960,18638,United States", "1965,31139,United States", "1970,26008,United States", "1975,27519,United States", "1980,24104,United States", "1985,23368,United States", "1990,21392,United States", "1995,10904,United States", "2000,10577,United States", "2005,8360,United States", "2010,5066,United States", "2015,4571,United States", "2020,3750,United States"
+        ],
+        "phrases":
+          "The bar chart shows a normal distribution of nuclear warhead stockpiles for both Russia and the United States."
+      }
+    ]
+  },
+  "insight2": {
+    "insightType": "trend",
+    "insightSentence": "There is an overall trend of increasing stockpiles for Russia and decreasing stockpiles for the United States.",
+    "subInsights": [
+      {
+        "type": "increase",
+        "data": [
+          "1950,5,Russia",
+          "1955,200,Russia",
+          "1960,1627,Russia",
+          "1965,6144,Russia",
+          "1970,11736,Russia",
+          "1975,19235,Russia",
+          "1980,30665,Russia",
+          "1985,38582,Russia",
+          "1990,32980,Russia",
+          "1995,18179,Russia",
+          "2000,12188,Russia",
+          "2005,7000,Russia",
+          "2010,5215,Russia",
+          "2015,4500,Russia",
+          "2020,4310,Russia"
+        ],
+        "phrases":
+          "There is an overall trend of increasing stockpiles for Russia"
+      },
+      {
+        "type": "decrease",
+        "data": [
+          "1950,299,United States",
+          "1955,2422,United States",
+          "1960,18638,United States",
+          "1965,31139,United States",
+          "1970,26008,United States",
+          "1975,27519,United States",
+          "1980,24104,United States",
+          "1985,23368,United States",
+          "1990,21392,United States",
+          "1995,10904,United States",
+          "2000,10577,United States",
+          "2005,8360,United States",
+          "2010,5066,United States",
+          "2015,4571,United States",
+          "2020,3750,United States"
+        ],
+        "phrases":
+          "and decreasing stockpiles for the United States."
+      }
+    ]
+  },
+  "insight3": {
+    "insightType": "rank",
+    "insightSentence": "The highest stockpiles in 1985 were in Russia with 38582 warheads, while the highest stockpiles in the US were in 1965 with 31139 warheads.",
+    "subInsights": [
+      {
+        "type": "rank_0_0",
+        "data": [
+          "1985,38582,Russia"
+        ],
+        "phrases":
+          "The highest stockpiles in 1985 were in Russia with 38582 warheads,"
+      },
+      {
+        "type": "rank_1_0",
+        "data": [
+          "1965,31139,United States"
+        ],
+        "phrases":
+          "while the highest stockpiles in the US were in 1965 with 31139 warheads."
+      }
+    ]
+  }
+}

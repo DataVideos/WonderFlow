@@ -1,0 +1,18 @@
+
+      {
+        projectId: 'line-vega-airport-example1',
+        scenes: [
+          {
+            charts: [
+              {source: './line-vega-airport.svg'},
+            ],
+            animation: {
+              sequence: {
+                  "sync": [
+                  ]
+              }
+            },
+          }
+        ]
+      }
+    

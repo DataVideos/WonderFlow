@@ -1,0 +1,61 @@
+{
+  projectId: 'vega-lite-GDP-comparison1',
+  scenes: [
+    {
+      charts: [
+        {source: './vega-lite-GDP-comparison1.svg'},
+      ],
+      animation: {
+          target: '.vega-lite-GDP-comparison1',
+          sequence: {
+            "sync": [
+                {
+                    "use": "Lines by legend",
+                    "timing": {
+                        "start": 4.347,
+                        "duration": 1.57,
+                        "offset": 0
+                    },
+                    "target": "#line-1, #point-10, #point-11, #point-12, #point-13, #point-14, #point-15, #point-16, #point-17, #point-18, #point-19, #legend-symbol-2, #legend-label-2",
+                    "ani_type": "Enter",
+                    "settings": {}
+                },
+                {
+                    "use": "Lines by legend",
+                    "timing": {
+                        "start": 6.057,
+                        "duration": 4.06,
+                        "offset": 0
+                    },
+                    "target": "#line-0, #point-0, #point-1, #point-2, #point-3, #point-4, #point-5, #point-6, #point-7, #point-8, #point-9, #legend-symbol-0, #legend-label-0",
+                    "ani_type": "Enter",
+                    "settings": {}
+                },
+                {
+                    "use": "Fade-in",
+                    "timing": {
+                        "start": 10.118,
+                        "duration": 0.41,
+                        "offset": 0
+                    },
+                    "target": "#chart-1",
+                    "ani_type": "Enter",
+                    "settings": {}
+                },
+                {
+                    "use": "Highlight",
+                    "timing": {
+                        "start": 10.118,
+                        "duration": 4.81,
+                        "offset": 0
+                    },
+                    "target": "#line-1, #line-2",
+                    "ani_type": "Emphasis",
+                    "settings": {}
+                }
+            ]
+        }
+      }
+    },
+  ]
+}

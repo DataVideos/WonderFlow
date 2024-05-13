@@ -1,0 +1,18 @@
+
+      {
+        projectId: 'pie-vega-HIV-example1',
+        scenes: [
+          {
+            charts: [
+              {source: './pie-vega-HIV.svg'},
+            ],
+            animation: {
+              sequence: {
+                  "sync": [
+                  ]
+              }
+            },
+          }
+        ]
+      }
+    

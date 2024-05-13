@@ -1,0 +1,1161 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "This chart shows the inequalities in CO2 emissions by income group from air travel. \nWe can see that the high-income group emits the most CO2 from air travel, accounting for 62% of the total emissions, while only representing 16% of the population.\nThe upper-middle income group emits the second most CO2 from air travel, accounting for 28% of the total emissions, while representing 35% of the population. \nThe lower-middle and low-income groups emit much less CO2 from air travel, accounting for 9% and 1% of the total emissions, respectively, while representing 40% and 90% of the population, respectively. \nThere is a strong positive correlation between income group and CO2 emissions from air travel, indicating that higher income groups tend to fly more and emit more CO2. This chart reveals the huge gap between the rich and the poor in terms of their contribution to climate change through air travel.",
+          "words": [
+              {
+                  "startTime": "0s",
+                  "endTime": "0.05s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "This"
+              },
+              {
+                  "startTime": "0.05s",
+                  "endTime": "0.313s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "chart"
+              },
+              {
+                  "startTime": "0.313s",
+                  "endTime": "0.637s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "shows"
+              },
+              {
+                  "startTime": "0.637s",
+                  "endTime": "0.887s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "the"
+              },
+              {
+                  "startTime": "0.887s",
+                  "endTime": "1s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "inequalities"
+              },
+              {
+                  "startTime": "1s",
+                  "endTime": "1.762s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "in"
+              },
+              {
+                  "startTime": "1.762s",
+                  "endTime": "1.95s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "CO2"
+              },
+              {
+                  "startTime": "1.95s",
+                  "endTime": "2.563s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "emissions"
+              },
+              {
+                  "startTime": "2.563s",
+                  "endTime": "3.1s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "by"
+              },
+              {
+                  "startTime": "3.1s",
+                  "endTime": "3.263s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "income"
+              },
+              {
+                  "startTime": "3.263s",
+                  "endTime": "3.638s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "group"
+              },
+              {
+                  "startTime": "3.638s",
+                  "endTime": "4.025s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "from"
+              },
+              {
+                  "startTime": "4.025s",
+                  "endTime": "4.213s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "air"
+              },
+              {
+                  "startTime": "4.213s",
+                  "endTime": "4.375s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "travel"
+              },
+              {
+                  "startTime": "4.375s",
+                  "endTime": "4.95s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "."
+              },
+              {
+                  "startTime": "4.95s",
+                  "endTime": "5.8s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "We"
+              },
+              {
+                  "startTime": "5.8s",
+                  "endTime": "5.975s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "can"
+              },
+              {
+                  "startTime": "5.975s",
+                  "endTime": "6.15s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "see"
+              },
+              {
+                  "startTime": "6.15s",
+                  "endTime": "6.338s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "that"
+              },
+              {
+                  "startTime": "6.338s",
+                  "endTime": "6.487s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "the"
+              },
+              {
+                  "startTime": "6.487s",
+                  "endTime": "6.575s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "high-income"
+              },
+              {
+                  "startTime": "6.575s",
+                  "endTime": "7.15s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "group"
+              },
+              {
+                  "startTime": "7.15s",
+                  "endTime": "7.463s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "emits"
+              },
+              {
+                  "startTime": "7.463s",
+                  "endTime": "7.813s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "the"
+              },
+              {
+                  "startTime": "7.813s",
+                  "endTime": "7.912s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "most"
+              },
+              {
+                  "startTime": "7.912s",
+                  "endTime": "8.338s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "CO2"
+              },
+              {
+                  "startTime": "8.338s",
+                  "endTime": "9.088s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "from"
+              },
+              {
+                  "startTime": "9.088s",
+                  "endTime": "9.275s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "air"
+              },
+              {
+                  "startTime": "9.275s",
+                  "endTime": "9.463s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "travel"
+              },
+              {
+                  "startTime": "9.463s",
+                  "endTime": "10.075s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": ","
+              },
+              {
+                  "startTime": "10.075s",
+                  "endTime": "10.238s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "accounting"
+              },
+              {
+                  "startTime": "10.238s",
+                  "endTime": "10.7s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "for"
+              },
+              {
+                  "startTime": "10.7s",
+                  "endTime": "10.863s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "62%"
+              },
+              {
+                  "startTime": "10.863s",
+                  "endTime": "11.875s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "of"
+              },
+              {
+                  "startTime": "11.875s",
+                  "endTime": "11.95s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "the"
+              },
+              {
+                  "startTime": "11.95s",
+                  "endTime": "12.05s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "total"
+              },
+              {
+                  "startTime": "12.05s",
+                  "endTime": "12.375s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "emissions"
+              },
+              {
+                  "startTime": "12.375s",
+                  "endTime": "13.137s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": ","
+              },
+              {
+                  "startTime": "13.137s",
+                  "endTime": "13.262s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "while"
+              },
+              {
+                  "startTime": "13.262s",
+                  "endTime": "13.5s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "only"
+              },
+              {
+                  "startTime": "13.5s",
+                  "endTime": "13.762s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "representing"
+              },
+              {
+                  "startTime": "13.762s",
+                  "endTime": "14.425s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "16%"
+              },
+              {
+                  "startTime": "14.425s",
+                  "endTime": "15.463s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "of"
+              },
+              {
+                  "startTime": "15.463s",
+                  "endTime": "15.563s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "the"
+              },
+              {
+                  "startTime": "15.563s",
+                  "endTime": "15.65s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "population"
+              },
+              {
+                  "startTime": "15.65s",
+                  "endTime": "16.525s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "."
+              },
+              {
+                  "startTime": "16.525s",
+                  "endTime": "17.375s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "The"
+              },
+              {
+                  "startTime": "17.375s",
+                  "endTime": "17.563s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "upper-middle"
+              },
+              {
+                  "startTime": "17.563s",
+                  "endTime": "18.075s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "income"
+              },
+              {
+                  "startTime": "18.075s",
+                  "endTime": "18.475s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "group"
+              },
+              {
+                  "startTime": "18.475s",
+                  "endTime": "18.8s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "emits"
+              },
+              {
+                  "startTime": "18.8s",
+                  "endTime": "19.15s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "the"
+              },
+              {
+                  "startTime": "19.15s",
+                  "endTime": "19.262s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "second"
+              },
+              {
+                  "startTime": "19.262s",
+                  "endTime": "19.663s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "most"
+              },
+              {
+                  "startTime": "19.663s",
+                  "endTime": "20.087s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "CO2"
+              },
+              {
+                  "startTime": "20.087s",
+                  "endTime": "20.837s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "from"
+              },
+              {
+                  "startTime": "20.837s",
+                  "endTime": "21.025s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "air"
+              },
+              {
+                  "startTime": "21.025s",
+                  "endTime": "21.212s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "travel"
+              },
+              {
+                  "startTime": "21.212s",
+                  "endTime": "21.825s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": ","
+              },
+              {
+                  "startTime": "21.825s",
+                  "endTime": "21.975s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "accounting"
+              },
+              {
+                  "startTime": "21.975s",
+                  "endTime": "22.438s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "for"
+              },
+              {
+                  "startTime": "22.438s",
+                  "endTime": "22.6s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "28%"
+              },
+              {
+                  "startTime": "22.6s",
+                  "endTime": "23.512s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "of"
+              },
+              {
+                  "startTime": "23.512s",
+                  "endTime": "23.587s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "the"
+              },
+              {
+                  "startTime": "23.587s",
+                  "endTime": "23.7s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "total"
+              },
+              {
+                  "startTime": "23.7s",
+                  "endTime": "24.025s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "emissions"
+              },
+              {
+                  "startTime": "24.025s",
+                  "endTime": "24.788s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": ","
+              },
+              {
+                  "startTime": "24.788s",
+                  "endTime": "24.913s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "while"
+              },
+              {
+                  "startTime": "24.913s",
+                  "endTime": "25.087s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "representing"
+              },
+              {
+                  "startTime": "25.087s",
+                  "endTime": "25.738s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "35%"
+              },
+              {
+                  "startTime": "25.738s",
+                  "endTime": "26.863s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "of"
+              },
+              {
+                  "startTime": "26.863s",
+                  "endTime": "26.962s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "the"
+              },
+              {
+                  "startTime": "26.962s",
+                  "endTime": "27.05s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "population"
+              },
+              {
+                  "startTime": "27.05s",
+                  "endTime": "27.938s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "."
+              },
+              {
+                  "startTime": "27.938s",
+                  "endTime": "28.788s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "The"
+              },
+              {
+                  "startTime": "28.788s",
+                  "endTime": "28.938s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "lower-middle"
+              },
+              {
+                  "startTime": "28.938s",
+                  "endTime": "29.738s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "and"
+              },
+              {
+                  "startTime": "29.738s",
+                  "endTime": "29.875s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "low-income"
+              },
+              {
+                  "startTime": "29.875s",
+                  "endTime": "30.413s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "groups"
+              },
+              {
+                  "startTime": "30.413s",
+                  "endTime": "30.8s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "emit"
+              },
+              {
+                  "startTime": "30.8s",
+                  "endTime": "31.1s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "much"
+              },
+              {
+                  "startTime": "31.1s",
+                  "endTime": "31.413s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "less"
+              },
+              {
+                  "startTime": "31.413s",
+                  "endTime": "31.65s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "CO2"
+              },
+              {
+                  "startTime": "31.65s",
+                  "endTime": "32.337s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "from"
+              },
+              {
+                  "startTime": "32.337s",
+                  "endTime": "32.525s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "air"
+              },
+              {
+                  "startTime": "32.525s",
+                  "endTime": "32.712s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "travel"
+              },
+              {
+                  "startTime": "32.712s",
+                  "endTime": "33.325s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": ","
+              },
+              {
+                  "startTime": "33.325s",
+                  "endTime": "33.45s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "accounting"
+              },
+              {
+                  "startTime": "33.45s",
+                  "endTime": "33.913s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "for"
+              },
+              {
+                  "startTime": "33.913s",
+                  "endTime": "34.075s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "9%"
+              },
+              {
+                  "startTime": "34.075s",
+                  "endTime": "34.938s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "and"
+              },
+              {
+                  "startTime": "34.938s",
+                  "endTime": "35.075s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "1%"
+              },
+              {
+                  "startTime": "35.075s",
+                  "endTime": "35.688s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "of"
+              },
+              {
+                  "startTime": "35.688s",
+                  "endTime": "35.763s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "the"
+              },
+              {
+                  "startTime": "35.763s",
+                  "endTime": "35.875s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "total"
+              },
+              {
+                  "startTime": "35.875s",
+                  "endTime": "36.2s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "emissions"
+              },
+              {
+                  "startTime": "36.2s",
+                  "endTime": "36.938s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": ","
+              },
+              {
+                  "startTime": "36.938s",
+                  "endTime": "37.038s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "respectively"
+              },
+              {
+                  "startTime": "37.038s",
+                  "endTime": "37.888s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": ","
+              },
+              {
+                  "startTime": "37.888s",
+                  "endTime": "38.013s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "while"
+              },
+              {
+                  "startTime": "38.013s",
+                  "endTime": "38.188s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "representing"
+              },
+              {
+                  "startTime": "38.188s",
+                  "endTime": "38.837s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "40%"
+              },
+              {
+                  "startTime": "38.837s",
+                  "endTime": "39.763s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "and"
+              },
+              {
+                  "startTime": "39.763s",
+                  "endTime": "39.913s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "90%"
+              },
+              {
+                  "startTime": "39.913s",
+                  "endTime": "40.712s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "of"
+              },
+              {
+                  "startTime": "40.712s",
+                  "endTime": "40.813s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "the"
+              },
+              {
+                  "startTime": "40.813s",
+                  "endTime": "40.9s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "population"
+              },
+              {
+                  "startTime": "40.9s",
+                  "endTime": "41.813s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": ","
+              },
+              {
+                  "startTime": "41.813s",
+                  "endTime": "41.888s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "respectively"
+              },
+              {
+                  "startTime": "41.888s",
+                  "endTime": "42.725s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "."
+              },
+              {
+                  "startTime": "42.725s",
+                  "endTime": "43.575s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "There"
+              },
+              {
+                  "startTime": "43.575s",
+                  "endTime": "43.763s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "is"
+              },
+              {
+                  "startTime": "43.763s",
+                  "endTime": "43.875s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "a"
+              },
+              {
+                  "startTime": "43.875s",
+                  "endTime": "43.95s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "strong"
+              },
+              {
+                  "startTime": "43.95s",
+                  "endTime": "44.3s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "positive"
+              },
+              {
+                  "startTime": "44.3s",
+                  "endTime": "44.788s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "correlation"
+              },
+              {
+                  "startTime": "44.788s",
+                  "endTime": "45.587s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "between"
+              },
+              {
+                  "startTime": "45.587s",
+                  "endTime": "45.95s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "income"
+              },
+              {
+                  "startTime": "45.95s",
+                  "endTime": "46.362s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "group"
+              },
+              {
+                  "startTime": "46.362s",
+                  "endTime": "46.75s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "and"
+              },
+              {
+                  "startTime": "46.75s",
+                  "endTime": "46.9s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "CO2"
+              },
+              {
+                  "startTime": "46.9s",
+                  "endTime": "47.538s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "emissions"
+              },
+              {
+                  "startTime": "47.538s",
+                  "endTime": "48.05s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "from"
+              },
+              {
+                  "startTime": "48.05s",
+                  "endTime": "48.212s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "air"
+              },
+              {
+                  "startTime": "48.212s",
+                  "endTime": "48.4s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "travel"
+              },
+              {
+                  "startTime": "48.4s",
+                  "endTime": "49s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": ","
+              },
+              {
+                  "startTime": "49s",
+                  "endTime": "49.15s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "indicating"
+              },
+              {
+                  "startTime": "49.15s",
+                  "endTime": "49.688s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "that"
+              },
+              {
+                  "startTime": "49.688s",
+                  "endTime": "49.862s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "higher"
+              },
+              {
+                  "startTime": "49.862s",
+                  "endTime": "50.212s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "income"
+              },
+              {
+                  "startTime": "50.212s",
+                  "endTime": "50.625s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "groups"
+              },
+              {
+                  "startTime": "50.625s",
+                  "endTime": "51.175s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "tend"
+              },
+              {
+                  "startTime": "51.175s",
+                  "endTime": "51.413s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "to"
+              },
+              {
+                  "startTime": "51.413s",
+                  "endTime": "51.5s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "fly"
+              },
+              {
+                  "startTime": "51.5s",
+                  "endTime": "51.775s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "more"
+              },
+              {
+                  "startTime": "51.775s",
+                  "endTime": "52.3s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "and"
+              },
+              {
+                  "startTime": "52.3s",
+                  "endTime": "52.413s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "emit"
+              },
+              {
+                  "startTime": "52.413s",
+                  "endTime": "52.7s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "more"
+              },
+              {
+                  "startTime": "52.7s",
+                  "endTime": "52.925s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "CO2"
+              },
+              {
+                  "startTime": "52.925s",
+                  "endTime": "53.8s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "."
+              },
+              {
+                  "startTime": "53.8s",
+                  "endTime": "54.65s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "This"
+              },
+              {
+                  "startTime": "54.65s",
+                  "endTime": "54.925s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "chart"
+              },
+              {
+                  "startTime": "54.925s",
+                  "endTime": "55.225s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "reveals"
+              },
+              {
+                  "startTime": "55.225s",
+                  "endTime": "55.638s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "the"
+              },
+              {
+                  "startTime": "55.638s",
+                  "endTime": "55.737s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "huge"
+              },
+              {
+                  "startTime": "55.737s",
+                  "endTime": "56.15s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "gap"
+              },
+              {
+                  "startTime": "56.15s",
+                  "endTime": "56.587s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "between"
+              },
+              {
+                  "startTime": "56.587s",
+                  "endTime": "56.938s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "the"
+              },
+              {
+                  "startTime": "56.938s",
+                  "endTime": "57.038s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "rich"
+              },
+              {
+                  "startTime": "57.038s",
+                  "endTime": "57.487s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "and"
+              },
+              {
+                  "startTime": "57.487s",
+                  "endTime": "57.6s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "the"
+              },
+              {
+                  "startTime": "57.6s",
+                  "endTime": "57.7s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "poor"
+              },
+              {
+                  "startTime": "57.7s",
+                  "endTime": "58.237s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "in"
+              },
+              {
+                  "startTime": "58.237s",
+                  "endTime": "58.388s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "terms"
+              },
+              {
+                  "startTime": "58.388s",
+                  "endTime": "58.712s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "of"
+              },
+              {
+                  "startTime": "58.712s",
+                  "endTime": "58.788s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "their"
+              },
+              {
+                  "startTime": "58.788s",
+                  "endTime": "58.938s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "contribution"
+              },
+              {
+                  "startTime": "58.938s",
+                  "endTime": "59.888s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "to"
+              },
+              {
+                  "startTime": "59.888s",
+                  "endTime": "60.013s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "climate"
+              },
+              {
+                  "startTime": "60.013s",
+                  "endTime": "60.413s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "change"
+              },
+              {
+                  "startTime": "60.413s",
+                  "endTime": "60.962s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "through"
+              },
+              {
+                  "startTime": "60.962s",
+                  "endTime": "61.175s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "air"
+              },
+              {
+                  "startTime": "61.175s",
+                  "endTime": "61.388s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "travel"
+              },
+              {
+                  "startTime": "61.388s",
+                  "endTime": "61.962s",
+                  "selected": false,
+                  "speakerTag": 0,
+                  "word": "."
+              }
+          ]
+      }
+      ]
+    }
+  ]
+}

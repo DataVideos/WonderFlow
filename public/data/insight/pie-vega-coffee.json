@@ -1,0 +1,56 @@
+{
+    "d1": "The title of the chart is 'Share of US Coffee Drinkers by Frequency of Coffee Consumption'.",
+    "d2": "The chart is composed of a pie chart with each color representing the frequency of coffee consumption, and the theta indicating the percentage of the US coffee drinkers.",
+    "insight3": {
+        "insightType": "value",
+        "insightSentence": "",
+        "subInsights": [
+        ]
+    },
+    "insight2": {
+        "insightType": "aggregation",
+        "insightSentence": "On average, 20% of US coffee drinkers consume coffee.",
+        "subInsights": [
+            {
+                "type": "average",
+                "value": 20.0,
+                "data": [],
+                "phrases": "On average, 20% of US coffee drinkers consume coffee."
+            }
+        ]
+    },
+    "insight1": {
+        "insightType": "proportion",
+        "insightSentence": "The majority of US coffee drinkers consume coffee several times per week (24%) or less often (25%), while the minority consume it never (13%) or daily (20%).",
+        "subInsights": [
+            {
+                "type": "majority",
+                "data": [
+                    "0.24, Several times per week"
+                ],
+                "phrases": "The majority of US coffee drinkers consume coffee several times per week (24%)"
+            },
+            {
+                "type": "majority",
+                "data": [
+                    "0.25, Less often"
+                ],
+                "phrases": "or less often (25%)"
+            },
+            {
+                "type": "minority",
+                "data": [
+                    "0.13, Never"
+                ],
+                "phrases": "while the minority consume it never (13%)"
+            },
+            {
+                "type": "minority",
+                "data": [
+                    "0.2, Daily"
+                ],
+                "phrases": "or daily (20%)"
+            }
+        ]
+    }
+}

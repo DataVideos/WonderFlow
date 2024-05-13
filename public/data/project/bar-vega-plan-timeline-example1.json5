@@ -1,0 +1,17 @@
+
+  {
+    projectId: 'bar-vega-plan-timeline-example1',
+    scenes: [
+      {
+        charts: [
+          {source: './bar-vega-plan-timeline.svg'},
+        ],
+        animation: {
+          sequence: {
+              "sync": [
+              ]
+          }
+        },
+      }
+    ]
+  }
