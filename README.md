@@ -15,16 +15,5 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-## Deployment
-
-Before building a distribution:
-
-For all video elements with class `local-video`, attribute `src` should be changed from absolute path to relative path by add a dot `.`. Otherwise, the video won't be loaded correctly.
+Then the static website files will be generated in the `dist` folder.
+Push the files in the `dist` folder to the `main` branch to deploy the website.
