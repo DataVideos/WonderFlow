@@ -5,10 +5,10 @@
     </el-header>
 
     <el-main>
-      <el-col :span="12" :offset="6">
+      <div style="width: 1000px; margin-left: auto; margin-right: auto;">
         <el-row>
           <div style="width: 100%; display: flex;">
-            <span class="page-text">{{ project.label }}</span>
+            <h1 class="page-text">{{ project.label }}</h1>
             <el-button class="back-button" type="text"
                        @click.native="clickBack">&lt; Back to gallery</el-button>
           </div>
@@ -25,18 +25,18 @@
         </el-row>
 
         <el-row style="margin-top: 10px;">
-          <div class="title-text">Link to Original Video</div>
+          <h2 class="title-text">Link to Original Video</h2>
           <a class="content-text"
              :href="galleryInfo.link">{{ galleryInfo.videoName }}</a>
         </el-row>
 
         <el-row style="margin-top: 10px;">
-          <div class="title-text">Narration</div>
+          <h2 class="title-text">Narration</h2>
           <div class="content-text">{{ galleryInfo.transcript }}</div>
         </el-row>
 
         <el-row>
-          <div class="title-text">Creation Process</div>
+          <h2 class="title-text">Creation Process</h2>
           <video
               class="local-video"
               :src="`./data/video/V${projectIndex + 1}_1.mp4`"
@@ -46,7 +46,7 @@
         </el-row>
 
         <el-row>
-          <div class="title-text">Final Version</div>
+          <h2 class="title-text">Final Version</h2>
           <video
               class="local-video"
               :src="`./data/video/V${projectIndex + 1}_2.mp4`"
@@ -54,7 +54,7 @@
               width="100%"
               height="100%"></video>
         </el-row>
-      </el-col>
+      </div>
     </el-main>
 
     <el-footer>
@@ -155,7 +155,7 @@ footer {
 }
 
 .page-text {
-  font-size: 1.7em;
+  /*font-size: 1.7em;*/
   font-weight: bold;
 }
 .page-text-small {
@@ -173,7 +173,7 @@ footer {
 }
 
 .title-text {
-  font-size: 1.5rem;
+  /*font-size: 1.5rem;*/
   margin: 20px 0 10px 0;
 }
 .content-text {

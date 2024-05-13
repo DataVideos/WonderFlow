@@ -1,14 +1,12 @@
 <template>
   <div class="page-footer">
-    <el-row :gutter="5" style="height: 100%;" type="flex" align="middle">
-      <el-col :span="3" :offset="6">
-        <span class="footer-text" style="user-select: none">WonderFlow</span>
-      </el-col>
-
-      <el-col :span="12" :offset="3">
+    <div style="width: 1000px; height: 100%; margin-left: auto; margin-right: auto;
+                display: flex; justify-content: center; align-items: center;">
+      <div class="footer-text" style="user-select: none">WonderFlow</div>
+      <div style="display: block; margin-left: auto;">
         Make it easy to create narration-enriched data videos
-      </el-col>
-    </el-row>
+      </div>
+    </div>
   </div>
 </template>
 
