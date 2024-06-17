@@ -50,7 +50,7 @@
         </el-row>
         <el-row>
           <h2>Resources:</h2>
-          <a href="./data/video/WonderFlow_video.mp4" target="_blank">Paper</a> | <a href="./data/video/WonderFlow_video.mp4" target="_blank">Supp</a>
+          <a href="./data/paper.pdf" target="_blank">Paper</a> | <a href="./data/supp.zip" target="_blank">Supp</a>
         </el-row>
       </div>
     </el-main>
