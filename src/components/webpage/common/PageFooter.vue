@@ -4,7 +4,7 @@
                 display: flex; justify-content: center; align-items: center;">
       <div class="footer-text" style="user-select: none">WonderFlow</div>
       <div style="display: block; margin-left: auto;">
-        Make it easy to create narration-enriched data videos
+        Narration-Centric Design of Animated Data Videos
       </div>
     </div>
   </div>
