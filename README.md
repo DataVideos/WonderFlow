@@ -16,4 +16,11 @@ npm run build
 ```
 
 Then the static website files will be generated in the `dist` folder.
-Push the files in the `dist` folder to the `main` branch to deploy the website.
+
+## Project build
+
+Following steps are used to deploy the webpage on the `main` branch:
+
+1. Clone this repository in a new folder, `my_folder`, and switch to the `main` branch.
+2. Run `./build.sh <my_folder>` to build and create the static website files in the given folder.
+3. Go to `my_folder` and push it to the remote repository.
