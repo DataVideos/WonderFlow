@@ -8,7 +8,7 @@ fi
 
 abs_path=$(realpath "$target_path")
 
-echo "Are you sure to build to $abs_path? (y/n)"
+echo "Are you sure to build the project and save to $abs_path? (y/n)"
 read -r confirm
 if [ "$confirm" != "y" ]; then
   echo "Cancelled"
@@ -18,7 +18,7 @@ fi
 npm run build
 
 # rm other files except .git in target path
-rm -rf $(ls "$abs_path" | grep -v .git)
+rm -rf "${abs_path:?}"/* "$abs_path"/.git
 
 cp -r dist/* "$abs_path"
 
