@@ -18,9 +18,15 @@ fi
 npm run build
 
 # rm other files except .git in target path
-rm -rf "${abs_path:?}"/* "$abs_path"/.git
+find "$abs_path" -mindepth 1 -maxdepth 1 ! -name ".git" -exec rm -rf {} \;
 
-cp -r dist/* "$abs_path"
+# cp all files in dist to target path, except data
+find dist -mindepth 1 -maxdepth 1 ! -name "data" -exec cp -r {} "$abs_path" \;
+# cp all files in dist/data to target path/data, except video and supp.zip
+mkdir -p "$abs_path/data"
+find dist/data -mindepth 1 -maxdepth 1 ! -name "video" ! -name "supp.zip" -exec cp -r {} "$abs_path/data" \;
+
+#cp -r dist/* "$abs_path"
 
 # create a .gitignore file with a given content
 ignore=".DS_Store\n.idea"

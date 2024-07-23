@@ -36,13 +36,18 @@
           </h4>
         </el-row>
         <el-row>
-          <video
+<!--          <video-->
+<!--              class="local-video"-->
+<!--              style="box-shadow: 0 0 5px #d7d7d7;"-->
+<!--              :src="'./data/video/WonderFlow_video.mp4'"-->
+<!--              controls-->
+<!--              width="100%"-->
+<!--              height="100%"></video>-->
+            <iframe
               class="local-video"
-              style="box-shadow: 0 0 5px #d7d7d7;"
-              :src="'./data/video/WonderFlow_video.mp4'"
-              controls
+              :src="getGoogleDriveVideoPreviewUrl('WonderFlow_video.mp4')"
               width="100%"
-              height="100%"></video>
+              height="600px"></iframe>
         </el-row>
         <el-row>
           <h2>Abstract:</h2>
@@ -50,7 +55,8 @@
         </el-row>
         <el-row>
           <h2>Resources:</h2>
-          <a href="./data/paper.pdf" target="_blank">Paper</a> | <a href="./data/supp.zip" target="_blank">Supp</a>
+<!--           <a href="./data/paper.pdf" target="_blank">Paper</a> | <a href="./data/supp.zip" target="_blank">Supp</a>-->
+          <a href="./data/paper.pdf" target="_blank">Paper</a> | <a :href="getFileDownloadUrl('supp.zip')" target="_blank">Supp</a>
         </el-row>
       </div>
     </el-main>
@@ -65,6 +71,7 @@
 
 import PageHeader from "@/components/webpage/common/PageHeader";
 import PageFooter from "@/components/webpage/common/PageFooter";
+import {getFileDownloadUrl, getGoogleDriveVideoPreviewUrl} from "@/utils/GoogleFileUtils";
 
 export default {
   name: 'HomepageView',
@@ -72,7 +79,7 @@ export default {
   data() {
     return {}
   },
-  methods: {},
+  methods: {getFileDownloadUrl, getGoogleDriveVideoPreviewUrl},
   mounted() {
   },
   computed: {}

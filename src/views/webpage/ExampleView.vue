@@ -37,22 +37,32 @@
 
         <el-row>
           <h2 class="title-text">Creation process</h2>
-          <video
+<!--          <video-->
+<!--              class="local-video"-->
+<!--              :src="`./data/video/V${projectIndex + 1}_1.mp4`"-->
+<!--              controls-->
+<!--              width="100%"-->
+<!--              height="100%"></video>-->
+          <iframe
               class="local-video"
-              :src="`./data/video/V${projectIndex + 1}_1.mp4`"
-              controls
+              :src="getGoogleDriveVideoPreviewUrl(`V${projectIndex + 1}_1.mp4`)"
               width="100%"
-              height="100%"></video>
+              height="600px"></iframe>
         </el-row>
 
         <el-row>
           <h2 class="title-text">Final version</h2>
-          <video
+<!--          <video-->
+<!--              class="local-video"-->
+<!--              :src="`./data/video/V${projectIndex + 1}_2.mp4`"-->
+<!--              controls-->
+<!--              width="100%"-->
+<!--              height="100%"></video>-->
+          <iframe
               class="local-video"
-              :src="`./data/video/V${projectIndex + 1}_2.mp4`"
-              controls
+              :src="getGoogleDriveVideoPreviewUrl(`V${projectIndex + 1}_2.mp4`)"
               width="100%"
-              height="100%"></video>
+              height="600px"></iframe>
         </el-row>
       </div>
     </el-main>
@@ -69,6 +79,7 @@ import PageHeader from "@/components/webpage/common/PageHeader";
 import PageFooter from "@/components/webpage/common/PageFooter";
 import {mapState} from "vuex";
 import SvgPreviewer from "@/components/editor/ProjSelPanel/SvgPreviewer";
+import {getGoogleDriveVideoPreviewUrl} from "@/utils/GoogleFileUtils";
 
 export default {
   name: 'ExampleView',
@@ -98,6 +109,7 @@ export default {
         })
   },
   methods: {
+    getGoogleDriveVideoPreviewUrl,
     clickBack() {
       this.$router.push('gallery')
     },
